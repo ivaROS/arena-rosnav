@@ -1,29 +1,29 @@
 #!/bin/bash -i
 
-branch=${1:-master}
+TARGET_DIR=${1:-~/arena_ws}
+branch=${2:-master}
 
 set -e
  
 # Store the current working directory
 current_dir="$(pwd)"
- 
-# Check if Folder Empty
-if [[ -d ~/arena_ws/src/arena ]]; then
-  echo "Install Folder ~/arena_ws/src/arena/arena-rosnav already exists."
-  echo "This indicates Arena Rosnav is already installed."
-  echo "If you wish to reinstall, please delete ~/arena_ws"
-  exit 1
-fi
- 
+
 sudo echo ""
  
 # Project Setup
 echo "Preparing Project...:"
-mkdir -p ~/arena_ws
-cd ~/arena_ws
+mkdir -p ${TARGET_DIR}
+cd ${TARGET_DIR}
 
 # clone arena-rosnav
-git clone --branch ${branch} https://github.com/Arena-Rosnav/arena-rosnav.git src/arena/arena-rosnav
+if [[ -d ${TARGET_DIR}/src/arena/arena-rosnav ]]; then
+  cd ${TARGET_DIR}/src/arena/arena-rosnav
+  git pull https://github.com/Arena-Rosnav/arena-rosnav.git ${branch}
+  cd ${TARGET_DIR}
+else
+  git clone --branch ${branch} https://github.com/Arena-Rosnav/arena-rosnav.git src/arena/arena-rosnav
+fi
+
 until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update, retrying..." ; done
 #
  
@@ -33,13 +33,13 @@ export PYTHON_KEYRING_BACKEND=keyring.backends.fail.Keyring # resolve faster
 poetry run poetry install --no-root
 poetry env use python3.8
 . "$(poetry env info -p)/bin/activate"
-cd ~/arena_ws
+cd ${TARGET_DIR}
 #
  
 # Missing Deps
 echo "Installing Missing Deps...:"
 
-sudo apt update && sudo apt install -y libopencv-dev liblua5.2-dev libarmadillo-dev ros-noetic-nlopt liblcm-dev
+sudo apt update && sudo apt install -y libopencv-dev liblua5.2-dev libarmadillo-dev liblcm-dev
 rosdep update && rosdep install --from-paths src --ignore-src -r -y
  
 # Project Install
@@ -63,7 +63,7 @@ do
       echo "$MARKER" >> "$SHELL"
       echo 'export PATH="$HOME/.local/bin:$PATH"' >> "$SHELL"
 #      echo '. "$(cd src/arena/arena-rosnav && poetry env info -p)/bin/activate"' >> "$SHELL"
-      echo 'source $HOME/arena_ws/devel/setup.bash' >> "$SHELL"
+      echo 'source ${TARGET_DIR}/devel/setup.bash' >> "$SHELL"
       echo '' >> "$SHELL"
     fi
   fi

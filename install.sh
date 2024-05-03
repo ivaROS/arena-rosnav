@@ -5,9 +5,13 @@ set -e
 # Store the current working directory
 current_dir="$(pwd)"
 
-# Check if the system is not running Ubuntu 20.04
-if [[ $(lsb_release -rs) != "20.04" ]]; then
-  echo "Arena Rosnav is intended to be run on Ubuntu 20.04, but you are running:"
+TARGET_DIR=${1:-~/arena_ws}
+
+echo $TARGET_DIR
+
+# Check if the system is not running Ubuntu 22.04
+if [[ $(lsb_release -rs) != "22.04" ]]; then
+  echo "Arena Rosnav is intended to be run on Ubuntu 22.04, but you are running:"
   echo $(lsb_release -a)
   echo "This may result in the installation failing."
 
@@ -22,8 +26,8 @@ if [[ $(lsb_release -rs) != "20.04" ]]; then
   fi
 fi
 # Check if Folder Empty
-if [[ -d ~/arena_ws ]]; then
-  echo "Install Folder ~/arena_ws already exists."
+if [[ -d ${TARGET_DIR} ]]; then
+  echo "Install Folder ${TARGET_DIR} already exists."
   echo "This indicates Arena Rosnav is already installed."
   echo "If you wish to reinstall, please delete it."
   exit 1
@@ -31,21 +35,24 @@ fi
 
 sudo add-apt-repository universe
 sudo apt update
+sudo apt install -y curl
 
 # ROS
-echo "Installing ROS...:"
-sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+echo "Installing ROS2 Humble...:"
+
+sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+
 sudo apt update
-sudo apt install -y ros-noetic-desktop-full
-if ! grep -q "source /opt/ros/noetic/setup.bash" ~/.bashrc; then
-  echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+sudo apt install -y ros-humble-desktop
+if ! grep -q "source /opt/ros/humble/setup.bash" ~/.bashrc; then
+  echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 fi
 source ~/.bashrc
 
 # Getting Packages
 echo "Installing Deps...:"
-sudo apt install -y python3 python-is-python3 git python3-rosdep python3-pip python3-rosinstall-generator python3-vcstool build-essential python3-catkin-tools
+sudo apt install -y python3 python-is-python3 git python3-rosdep python3-pip python3-rosinstall-generator python3-vcstool build-essential python3-colcon-common-extensions
 
 # Poetry
 echo "Installing Poetry...:"
@@ -53,6 +60,13 @@ curl -sSL https://install.python-poetry.org | python3 -
 if ! grep -q 'export PATH="$HOME/.local/bin"' ~/.bashrc; then
   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 fi
+
+# TEMPORARY
+# add python3.8
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.8
+#
 
 
 # Check if the default ROS sources.list file already exists
