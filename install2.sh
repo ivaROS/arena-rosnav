@@ -44,6 +44,10 @@ rosdep update && rosdep install --from-paths src --ignore-src -r -y
  
 # Project Install
 echo "Installing Project...:"
+
+exit 1
+#TODO
+
 catkin build
 
 export ROS_MASTER_URI=http://127.0.0.1:11311/

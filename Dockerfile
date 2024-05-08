@@ -1,86 +1,65 @@
-# Main Dockerfile
+FROM ubuntu:22.04
 
-FROM osrf/ros:noetic-desktop-full
+ENV ARENA_DIR=/arena_ws
+ENV BRANCH=ros2
 
-SHELL ["/bin/bash", "-c"]
+ARG DEBIAN_FRONTEND=noninteractive
 
-RUN apt-get -y update \
-    && apt-get install -y \
-    apt-utils \
-    software-properties-common \
-    git \
-    wget \
-    ros-noetic-tf2 \
-    ros-noetic-tf \
-    ros-noetic-tf2-geometry-msgs \
-    ffmpeg \
-    python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential \
-    libsm6 \
-    libxext6  \
-    && add-apt-repository ppa:deadsnakes/ppa \
-    && apt-get -y update \
-    && apt-get -y install \
-    libopencv-dev \
-    liblua5.2-dev \
-    screen \
-    python3 \
-    python3-dev \
-    libpython3-dev \
-    python3-catkin-pkg-modules \
-    python3-rospkg-modules \
-    python3-empy \
-    python3-setuptools \
-    ros-noetic-navigation \
-    ros-noetic-teb-local-planner \
-    ros-noetic-mpc-local-planner \
-    libarmadillo-dev \
-    ros-noetic-nlopt \
-    python3 \
-    python3-pip \
-    tk \
-    ros-noetic-turtlebot3-description \
-    ros-noetic-turtlebot3-navigation \
-    python-tk \
-    python3-tk \
-    tk-dev \
-    ros-noetic-lms1xx \
-    ros-noetic-velodyne-description \ 
-    ros-noetic-hector-gazebo \
-    ros-noetic-ira-laser-tools
+SHELL [ "/usr/bin/bash", "-c" ]
 
-#   Install Poetry
-RUN pip3 install poetry \
-    && pip3 install --upgrade pip
+RUN apt update
+RUN apt install -y sudo
+RUN apt install -y tzdata && dpkg-reconfigure --frontend noninteractive tzdata
+RUN apt install -y software-properties-common curl
 
-#   Install PyEnv
-WORKDIR /root/
-RUN git clone --depth=1 https://github.com/pyenv/pyenv.git .pyenv
-ENV PYENV_ROOT="/root/.pyenv"
-ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}"
+#install
+    # apt
+        # add apt repos
+            RUN add-apt-repository universe
+            RUN curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg && \
+                echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | tee /etc/apt/sources.list.d/ros2.list > /dev/null
+            RUN add-apt-repository ppa:deadsnakes/ppa
 
-RUN echo 'eval "$(pyenv init -)"' >> /root/.bashrc
-RUN sed -Ei -e '/^([^#]|$)/ {a export PYENV_ROOT="$HOME/.pyenv" \nexport PATH="$PYENV_ROOT/bin:$PATH"' -e ':a' -e '$!{n;ba};}' /root/.profile
-RUN echo 'eval "$(pyenv init --path)"' >> /root/.profile
+        # update
+            RUN apt update
 
-RUN mkdir -p /root/src/
-WORKDIR /root/src/
-COPY . /root/src/arena-rosnav
+        # install
+            RUN apt install -y git
+            RUN apt install -y ros-humble-desktop
+            RUN apt install -y python3 python-is-python3 python3-rosdep python3-pip python3-rosinstall-generator python3-vcstool build-essential python3-colcon-common-extensions
+            
+            # TEMP
+                RUN apt install -y python3.8 python3.8-distutils
+                # RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/1
 
-RUN echo -e "source /opt/ros/noetic/setup.sh" >> /root/.bashrc
-RUN echo -e "source /root/devel/setup.sh" >> /root/.bashrc
+    RUN rosdep init && rosdep update
 
-RUN pip install scipy PyQt5 empy defusedxml 
-RUN pip install wandb
+    # poetry
+        RUN curl -sSL https://install.python-poetry.org | python3 - && echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 
-WORKDIR /root/src/arena-rosnav
-RUN rosws update
+#install2
+    WORKDIR ${ARENA_DIR}
 
-WORKDIR /root/
-RUN source /root/.bashrc \
-    && source /opt/ros/noetic/setup.sh \
-    && catkin_make
+    # sources
+        RUN git clone --depth=1 --branch ${BRANCH} https://github.com/Arena-Rosnav/arena-rosnav.git src/arena/arena-rosnav
+        RUN until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update, retrying..." ; done
 
-# WORKDIR /root/src/utils/stable-baselines3
-# RUN pip install -e .
+    # deps
+        # apt
+            RUN apt install -y libopencv-dev liblua5.2-dev libarmadillo-dev liblcm-dev
 
-WORKDIR /root/
+        # poetry
+            ENV PYTHON_KEYRING_BACKEND=keyring.backends.fail.Keyring
+            RUN cd src/arena/arena-rosnav && \
+                $HOME/.local/bin/poetry install --no-root && \
+                $HOME/.local/bin/poetry env use python3.8
+
+        # rosdep
+#            RUN rosdep update && rosdep install --from-paths src --ignore-src -r -y
+
+    # build and export
+#        RUN source "$(cd src/arena/arena-rosnav && poetry env info -p)/bin/activate" && \
+#            source /opt/ros/humble/setup.bash && \
+#            colcon build --symlink-install --cmake-args " -DPython3_ROOT_DIR=$(cd src/arena/arena-rosnav && poetry env info -p)"
+#
+#        RUN echo "source $(pwd)/devel/setup.bash" >> ~/.bashrc

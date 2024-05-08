@@ -52,6 +52,15 @@ source ~/.bashrc
 
 # Getting Packages
 echo "Installing Deps...:"
+
+# TEMPORARY
+# add python3.8
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install -y python3.8
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 1
+#
+
 sudo apt install -y python3 python-is-python3 git python3-rosdep python3-pip python3-rosinstall-generator python3-vcstool build-essential python3-colcon-common-extensions
 
 # Poetry
@@ -60,13 +69,6 @@ curl -sSL https://install.python-poetry.org | python3 -
 if ! grep -q 'export PATH="$HOME/.local/bin"' ~/.bashrc; then
   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 fi
-
-# TEMPORARY
-# add python3.8
-sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt update
-sudo apt install -y python3.8
-#
 
 
 # Check if the default ROS sources.list file already exists
