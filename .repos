@@ -5,16 +5,12 @@ repositories:
     version: 1ec926c52f3288468d110e1365ce69a175cbc4f2
   arena/simulation-setup:
     type: git
-    url: https://github.com/Arena-Rosnav/arena-simulation-setup.git
-    version: 969417c
+    url: https://github.com/max-assel/arena-simulation-setup.git
+    version: f093a8ef
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
     version: 8b60c1169626568bf734a07c3b0f13b06d3e2871
-  arena/utils/crowdsim:
-    type: git
-    url: https://github.com/Arena-Rosnav/crowdsim
-    version: 85fb9f82
   arena/utils/flatland:
     type: git
     url: https://github.com/Arena-Rosnav/flatland.git
@@ -22,19 +18,19 @@ repositories:
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
-    version: 7bd11528
+    version: c3613d87e3e7c65d85225feb3f90350023c1361a
   arena/utils/navigation:
     type: git
     url: https://github.com/arena-rosnav/navigation.git
-    version: 6172aaf0
+    version: 17ba8f0dd36de563be0cfe1d02173eb45ae7daa0
   arena/utils/pedsim_ros:
     type: git
     url: https://github.com/arena-rosnav/pedsim_ros.git
-    version: 233165b
+    version: 91bdce9d
   arena/utils/stable-baselines3:
     type: git
-    url: https://github.com/Arena-Rosnav/stable-baselines3.git
-    version: c8255a59428af173c2c853880dffdadd120f1aa3
+    url: https://github.com/tuananhroman/stable-baselines3.git
+    version: 03cd2dfe9a3b56a3fea76443b6bb04fd8af7d295
   arena/utils/unitree_ros:
     type: git
     url: https://github.com/voshch/unitree_ros
@@ -51,10 +47,6 @@ repositories:
     type: git
     url: https://github.com/jackal/jackal.git
     version: 85e16bd7b3ea72a4b5a2d3ca8224e056d7ab1c70
-  extern/ros_tcp_endpoint:
-    type: git
-    url: https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
-    version: 993d366b8900bf9f3d2da444fde64c0379b4dc7c
   planners/all_in_one:
     type: git
     url: https://github.com/Arena-Rosnav/all_in_one
@@ -98,7 +90,7 @@ repositories:
   planners/rosnav:
     type: git
     url: https://github.com/Arena-Rosnav/rosnav-rl.git
-    version: 6832dcc3e5fa9c6d5170dd92c05a2995866770d1
+    version: 330ffa5fcaa6b122383be6590fbbed5c7eff5afa
   planners/sarl-star:
     type: git
     url: https://github.com/Arena-Rosnav/sarl-star.git
