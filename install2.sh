@@ -26,9 +26,10 @@ cd ~/arena_ws
 git clone --branch ${branch} https://github.com/max-assel/arena-rosnav.git src/arena/arena-rosnav
 until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update, retrying..." ; done
 #
- 
+
 #python env init
 cd src/arena/arena-rosnav
+git checkout 9993b05 # puts us on specific commit that works
 export PYTHON_KEYRING_BACKEND=keyring.backends.fail.Keyring # resolve faster
 poetry run poetry install --no-root
 poetry env use python3.8
