@@ -13,11 +13,11 @@
 
   <!-- ___________ ARGS ___________ -->
   <!-- You can launch a single robot and his local_planner with arguments -->
-  <arg name="model" default="burger" doc="robot model type [burger, jackal, ridgeback, agvota, rto, ...]" />
+  <arg name="model" default="rto" doc="robot model type [burger, jackal, ridgeback, agvota, rto, ...]" />
   <arg name="inter_planner" default="bypass" doc="inter planner type [bypass, shortsighted, polite, aggressive, sideways]" />
-  <arg name="local_planner" default="teb" doc="local planner type [teb, dwa, mpc, rlca, arena, rosnav, cohan]" />
+  <arg name="local_planner" default="dgap" doc="local planner type [teb, dwa, mpc, rlca, arena, rosnav, cohan]" />
   <arg name="simulator" default="flatland" doc="[flatland, gazebo]" />
-  <arg name="headless" default="0" doc="0 = show all, 1 = show only rviz, 2 = show nothing" />
+  <arg name="headless" default="2" doc="0 = show all, 1 = show only rviz, 2 = show nothing" />
   <env name="SIMULATOR" value="$(arg simulator)" />
   <param name="headless" value="$(arg headless)" /> 
 
@@ -156,8 +156,10 @@
     </include>
   </group>
 
-  <node type="create_config_file.py" pkg="rviz_utils" name="rviz_config_file_creator" />
+  <!-- <node type="create_config_file.py" pkg="rviz_utils" name="rviz_config_file_creator" /> -->
   
+  <node type="rviz" name="rviz" pkg="rviz" args="-d $(find dynamic_gap)/rviz/arena.rviz" />
+
   <node type="visualize_robot_model.py" pkg="rviz_utils" name="visualize_robot_model" output="screen" />
 
 </launch>
