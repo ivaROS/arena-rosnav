@@ -175,17 +175,20 @@ class YAMLUtil:
     PLUGIN_PROPS_TO_CHANGE = {
         "DiffDrive": {"odom_frame_id": lambda ns, robot_name: f"odom"},
         "Holo": {"odom_frame_id": lambda ns, robot_name: f"odom"},
+        "HoloSecondOrder": {"odom_frame_id": lambda ns, robot_name: f"odom"},
     }
 
     PLUGIN_PROPS_TO_EXTEND: Dict[str, List[str]] = {
         "DiffDrive": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],
         "Holo": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],        
+        "HoloSecondOrder": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],        
         "Laser": ["topic"],
     }
 
     PLUGIN_PROPS_DEFAULT_VAL = {
         "DiffDrive": {"ground_truth_pub": "odometry/ground_truth"},
-        "Holo": {"ground_truth_pub": "odometry/ground_truth"}
+        "Holo": {"ground_truth_pub": "odometry/ground_truth"},
+        "HoloSecondOrder": {"ground_truth_pub": "odometry/ground_truth"}
     }
 
     @staticmethod
