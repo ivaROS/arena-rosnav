@@ -13,8 +13,8 @@ repositories:
     version: 8b60c1169626568bf734a07c3b0f13b06d3e2871
   arena/utils/flatland:
     type: git
-    url: https://github.com/Arena-Rosnav/flatland.git
-    version: 862fb2d5
+    url: https://github.com/max-assel/flatland
+    version: 862fb2d
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
