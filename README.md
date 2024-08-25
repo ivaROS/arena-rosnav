@@ -6,9 +6,9 @@ The easiest way to install Arena-Rosnav is to use the [automatic installation](h
 The Arena Rosnav authors are still in the process of rewriting and releasing an updated version of arena-evaluation. Here's how to benchmark followed by plotting the data: 
 replace arena_evaluation from arena_ws/src/arena/evaluation with this: 
 
-https://github.com/voshch/arena-evaluation/tree/restructure
+https://github.com/voshch/arena-evaluation/tree/51b5efb7fdd7972c9444ba0116db305658a85cc7
 
-make sure you use the restructure branch. 
+make sure you use the "hotfix ragged pedsim" branch (commit 51b5efb) 
 
  quick overview of the current internal benchmarking process:
 
