@@ -10,6 +10,8 @@ https://github.com/voshch/arena-evaluation/tree/51b5efb7fdd7972c9444ba0116db3056
 
 make sure you use the "hotfix ragged pedsim" branch (commit 51b5efb) 
 
+** Please note: if you would like to run experiments without pedestrians please reachout to me (Abdel), you will need to make a small modification to the evaluation directory - 08/25
+
  quick overview of the current internal benchmarking process:
 
 go to arena_ws/arena_bringup/arena_bringup/configs/benchmark,
