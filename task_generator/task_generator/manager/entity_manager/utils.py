@@ -181,7 +181,7 @@ class YAMLUtil:
     PLUGIN_PROPS_TO_EXTEND: Dict[str, List[str]] = {
         "DiffDrive": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],
         "Holo": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],        
-        "HoloSecondOrder": ["odom_frame_id", "odom_pub", "twist_sub", "ground_truth_pub"],        
+        "HoloSecondOrder": ["odom_frame_id", "odom_pub", "twist_sub", "acc_pub", "ground_truth_pub"],        
         "Laser": ["topic"],
     }
 
