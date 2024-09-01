@@ -6,15 +6,15 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: dd738b0
+    version: 7d6f1a0
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
     version: 8b60c1169626568bf734a07c3b0f13b06d3e2871
   arena/utils/flatland:
     type: git
-    url: https://github.com/max-assel/flatland
-    version: eda81b8
+    url: https://github.com/ivaROS/flatland.git
+    version: 6b2be3b
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
