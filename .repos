@@ -99,3 +99,11 @@ repositories:
     type: git
     url: https://github.com/Arena-Rosnav/trail
     version: 5b38367d185c407152847da9a9d3a7b3c114e4c8
+  planners/potential_gap:
+    type: git
+    url: https://github.com/max-assel/PotentialGap.git
+    version: affcabcbd13b25e83feab5b8fa5267beeb3e52f5
+  planners:dynamic_gap:
+    type: git
+    url: https://github.com/max-assel/dynamic_gap.git
+    version: 6208cb20b444ca1bcac2c40245c6e9c7e2ed2112
