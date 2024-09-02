@@ -95,7 +95,7 @@ class TaskConfig_General:
 @dataclasses.dataclass
 class TaskConfig_Robot:
     GOAL_TOLERANCE_RADIUS: float = 1.0
-    GOAL_TOLERANCE_ANGLE: float = 30 * math.pi/180
+    GOAL_TOLERANCE_ANGLE: float = 2 * math.pi # 30 * math.pi/180
     SPAWN_ROBOT_SAFE_DIST: float = 0.25
     TIMEOUT: float = float("inf")
 

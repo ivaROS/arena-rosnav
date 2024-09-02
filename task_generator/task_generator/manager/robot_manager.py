@@ -204,6 +204,9 @@ class RobotManager:
         # https://gamedev.stackexchange.com/a/4472
         angle_to_goal: float = np.pi - np.abs(np.abs(goal[2] - start[2]) - np.pi)
 
+        # print("self._goal_tolerance_distance: ", self._goal_tolerance_distance)
+        # print("self._goal_tolerance_angle: ", self._goal_tolerance_angle)
+
         return (
             distance_to_goal < self._goal_tolerance_distance
             and angle_to_goal < self._goal_tolerance_angle
