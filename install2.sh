@@ -31,7 +31,7 @@ until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update
 cd src/arena/arena-rosnav
 # git checkout patch # puts us on specific branch that works
 export PYTHON_KEYRING_BACKEND=keyring.backends.fail.Keyring # resolve faster
-poetry run poetry install --no-root
+poetry run poetry install --no-root || (poetry run poetry lock --no-update && poetry run poetry install --no-root)
 poetry env use python3.8
 . "$(poetry env info -p)/bin/activate"
 cd ~/arena_ws
