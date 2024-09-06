@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: 55687542647c17254cc28beef2dc04b8609a0b26
+    version: 93e67f94dbe1da6177e38af9906d32d765593b71
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
