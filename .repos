@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: 93e67f94dbe1da6177e38af9906d32d765593b71
+    version: 34aa156d36d2d941a16c62f6624efca0514d633f
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -85,12 +85,12 @@ repositories:
     version: 5b4e465fec718245484e8668e6dd45539ca37983
   planners/rlca-ros:
     type: git
-    url: https://github.com/Arena-Rosnav/rlca-ros.git
-    version: d83e9bf33b29e2076716c8a66ce0fb6fd4ef7302
+    url: https://github.com/max-assel/rlca-ros.git
+    version: e8b3937c2a4f605bd159cad903f242f99cd5891d
   planners/rosnav:
     type: git
-    url: https://github.com/Arena-Rosnav/rosnav-rl.git
-    version: 330ffa5fcaa6b122383be6590fbbed5c7eff5afa
+    url: https://github.com/max-assel/rosnav-rl.git
+    version: 056b66bd4742755f7f20ec742894f3519fd72069
   planners/sarl-star:
     type: git
     url: https://github.com/Arena-Rosnav/sarl-star.git
@@ -102,7 +102,7 @@ repositories:
   planners/potential_gap:
     type: git
     url: https://github.com/max-assel/PotentialGap.git
-    version: 5a14dcfbf2af9b7c354b574bcd96f67bb4e2ba66
+    version: 6ab49532060c8c4d8d7a7c9bfd71b4c6a7fcd298
   planners/dynamic_gap:
     type: git
     url: https://github.com/max-assel/dynamic_gap.git
