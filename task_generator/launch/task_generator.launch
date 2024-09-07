@@ -6,4 +6,8 @@
     <node pkg="task_generator" name="task_generator_server" type="server.py" output="screen"/>
     <node pkg="task_generator" name="task_generator_filewatcher" type="filewatcher.py" output="screen"/>
 
+    <group ns="rto">
+        <node pkg="task_generator" name="task_generator_server" type="server.py" output="screen"/>
+    </group>
+
 </launch>
