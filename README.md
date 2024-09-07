@@ -2,6 +2,7 @@
 
 The easiest way to install Arena-Rosnav is to use the [automatic installation](https://docs.arena-rosnav.org/en/latest/user_guides/installation/).
 
+
 **The Arena Rosnav authors are still in the process of rewriting and releasing an updated version of arena-evaluation. Here's how to benchmark followed by plotting the data: 
 **
 ##Benchmarking 
@@ -20,7 +21,7 @@ for example `rosrun arena_evaluation process_data /home/az/arena_ws/src/arena/ev
 This will compute all the metrics and output many possible plots in the plots directory.
 
 ## Plotting 
-**note: the following steps will involve deleting a directory which contains the data you collected from benchmarking! If you do not want to lose your data create a copy of this directory on your PC arena_ws/src/arena/evaluation/arena-evaluation/arena_evaluation/data** 
+**note: the following steps will involve deleting a directory which contains the data you collected from benchmarking! If you do not want to lose your data create a copy of this directory on your PC: arena_ws/src/arena/evaluation/arena-evaluation/arena_evaluation/data** 
 
 navigate to arena_ws/src/arena/evaluation and delete arena_evaluation and arena_messages 
 
