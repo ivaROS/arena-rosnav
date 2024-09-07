@@ -4,11 +4,15 @@ The easiest way to install Arena-Rosnav is to use the [automatic installation](h
 
 ## Benchmarking and plotting 
 The Arena Rosnav authors are still in the process of rewriting and releasing an updated version of arena-evaluation. Here's how to benchmark followed by plotting the data: 
-replace arena_evaluation from arena_ws/src/arena/evaluation with this: 
+navigate to arena_ws/src/arena/evaluation and delete arena_evaluation and arena_messages 
+
+replace it with this: 
 
 https://github.com/voshch/arena-evaluation/tree/51b5efb7fdd7972c9444ba0116db305658a85cc7
 
 make sure you use the "hotfix ragged pedsim" branch (commit 51b5efb) 
+
+after doing catkin build you should have a new directory be created in the evaluation folder called arena_messages
 
 ** Please note: if you would like to run experiments without pedestrians please reachout to me (Abdel), you will need to make a small modification to the evaluation directory - 08/25
 
