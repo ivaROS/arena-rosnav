@@ -1,12 +1,12 @@
 repositories:
   arena/evaluation:
     type: git
-    url: https://github.com/voshch/arena-evaluation.git
-    version: 51b5efb7fdd7972c9444ba0116db305658a85cc7
+    url: https://github.com/max-assel/arena-evaluation.git
+    version: c8370c31f2045092f4b1526b71733ab4a9e5d01a
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: 7c45a2fcf9bce170d359da9c513ea0ff48cfc674
+    version: 38226306a7b86dc828575330491733edf9087d2b
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
