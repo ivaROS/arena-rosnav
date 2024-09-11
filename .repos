@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: 38226306a7b86dc828575330491733edf9087d2b
+    version: caa602f782f43c7766596e26a688c8bbb8a56db2
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -90,7 +90,7 @@ repositories:
   planners/rosnav:
     type: git
     url: https://github.com/max-assel/rosnav-rl.git
-    version: bd0ae7143d72ff27d0e03f769bb55165d01f1f51
+    version: c5bfddd96c4ecb6fd20227efc38075bee597575b
   planners/sarl-star:
     type: git
     url: https://github.com/Arena-Rosnav/sarl-star.git

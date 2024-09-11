@@ -59,6 +59,8 @@ class RosnavActionNode:
         action_msg.linear.y = action[1]
         action_msg.angular.z = action[2]
 
+        print("action_msg: ", action_msg)
+
         self._action_pub.publish(action_msg)
 
 
