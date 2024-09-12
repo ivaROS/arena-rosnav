@@ -106,4 +106,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/max-assel/dynamic_gap.git
-    version: 565c7dcc5561e9b7eff1e6c63bee5bf9c128d056
+    version: 23cd7cc6096b9513ed1014fbe0be780cea96db0d
