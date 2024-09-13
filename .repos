@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/max-assel/arena-simulation-setup.git
-    version: 2d9fb8c23b4a14a3daa87faf039ba8e8a5ce5b36
+    version: c0f699bcdc76bff29910842493d21063825746ef
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -106,4 +106,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/max-assel/dynamic_gap.git
-    version: 843f0f5ca6d1e148eb1e35fca1936763eedcfa3c
+    version: 4bb2cd870c5732c4a59a4a8f3769214f38af94e5

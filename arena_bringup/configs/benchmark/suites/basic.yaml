@@ -1,23 +1,33 @@
 stages:
-  - name: scenario_random
-    episodes: 3
+  - name: empty_scenario
+    episodes: 1
     robot: rto
     map: map_empty
-    tm_robots: random
-    tm_obstacles: random
+    tm_robots: scenario
+    tm_obstacles: scenario
     config:
       SCENARIO:
-        file: default.json
-      RANDOM:
-        static:
-          min: 0
-          max: 0
-          models: ["shelf"]
-        interactive:
-          min: 0
-          max: 0
-          models: ["shelf"]
-        dynamic:
-          min: 15
-          max: 15
-          models: ["actor1"]
+        file: 1.json
+  
+  # - name: scenario_random
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: random
+  #   tm_obstacles: random
+  #   config:
+  #     SCENARIO:
+  #       file: default.json
+  #     RANDOM:
+  #       static:
+  #         min: 0
+  #         max: 0
+  #         models: ["shelf"]
+  #       interactive:
+  #         min: 0
+  #         max: 0
+  #         models: ["shelf"]
+  #       dynamic:
+  #         min: 15
+  #         max: 15
+  #         models: ["actor1"]
