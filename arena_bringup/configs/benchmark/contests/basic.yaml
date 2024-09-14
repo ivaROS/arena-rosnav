@@ -1,24 +1,24 @@
 contestants:
-  # - name: pgap # what you want it to be called in logs
-  #   local_planner: pgap # needs to match file naming
+  - name: pgap # what you want it to be called in logs
+    local_planner: pgap # needs to match file naming
 
   - name: dgap
     local_planner: dgap
 
-  # - name: mpc
-  #   local_planner: mpc
+  - name: mpc
+    local_planner: mpc
 
-  # - name: teb
-  #   local_planner: teb
+  - name: teb
+    local_planner: teb
   
-  # - name: dwa
-  #   local_planner: dwa
+  - name: dwa
+    local_planner: dwa
 
-  # - name: rosnav
-  #   local_planner: rosnav
+  - name: rosnav
+    local_planner: rosnav
 
-  # - name: rlca
-  #   local_planner: rlca
+  - name: rlca
+    local_planner: rlca
 
-  # - name: trail
-  #   local_planner: trail
+  - name: trail
+    local_planner: trail
