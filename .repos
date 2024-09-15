@@ -21,8 +21,8 @@ repositories:
     version: c3613d87e3e7c65d85225feb3f90350023c1361a
   arena/utils/navigation:
     type: git
-    url: https://github.com/arena-rosnav/navigation.git
-    version: 17ba8f0dd36de563be0cfe1d02173eb45ae7daa0
+    url: https://github.com/max-assel/navigation.git
+    version: ef5ae0332a6565b38eda83c9907540fc976e6c5e
   arena/utils/pedsim_ros:
     type: git
     url: https://github.com/max-assel/pedsim_ros.git
@@ -98,7 +98,7 @@ repositories:
   planners/trail:
     type: git
     url: https://github.com/max-assel/trail.git
-    version: 4c32b35d258dddcda8d2d30f09adb595ebbff5be
+    version: 344546bd32f0bf835b1fcb96b5241db19d1df1f2
   planners/potential_gap:
     type: git
     url: https://github.com/max-assel/PotentialGap.git

@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 252789548
+  seed: 1031641563
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: 8.json
+  file: 0.json
 STAGED:
   curriculum: default.yaml
   index: 0

@@ -7,7 +7,7 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 7.json
+        file: 0.json
 
   - name: scenario2
     episodes: 1
@@ -17,7 +17,7 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 8.json
+        file: 1.json
 
   - name: scenario1
     episodes: 1
@@ -27,7 +27,7 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 9.json
+        file: 2.json
 
   - name: scenario2
     episodes: 1
@@ -37,4 +37,4 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 10.json
+        file: 3.json
