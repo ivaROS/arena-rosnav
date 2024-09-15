@@ -5,11 +5,11 @@ contestants:
   # - name: rosnav
   #   local_planner: rosnav
 
-  # - name: rlca
-  #   local_planner: rlca
+  - name: rlca
+    local_planner: rlca
 
-  - name: trail
-    local_planner: trail
+  # - name: trail
+  #   local_planner: trail
 
   # - name: mpc
   #   local_planner: mpc
