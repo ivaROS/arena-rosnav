@@ -1,0 +1,3 @@
+contestants:
+  - name: rlca
+    local_planner: rlca

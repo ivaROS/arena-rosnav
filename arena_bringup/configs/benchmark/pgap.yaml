@@ -3,7 +3,7 @@ suite:
   # scale_episodes: 1
 
 contest:
-  config: basic.yaml
+  config: pgap.yaml
 
 general:
   simulator: flatland

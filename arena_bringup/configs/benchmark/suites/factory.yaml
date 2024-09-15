@@ -8,23 +8,3 @@ stages:
     config:
       SCENARIO:
         file: 0.json
-
-  - name: factory_scenario_1
-    episodes: 1
-    robot: rto
-    map: factory
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 1.json
-
-  - name: factory_scenario_2
-    episodes: 1
-    robot: rto
-    map: factory
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 2.json

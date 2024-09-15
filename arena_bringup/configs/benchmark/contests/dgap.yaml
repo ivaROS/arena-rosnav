@@ -1,0 +1,3 @@
+contestants:
+  - name: dgap
+    local_planner: dgap

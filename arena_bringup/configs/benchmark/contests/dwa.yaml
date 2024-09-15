@@ -1,0 +1,3 @@
+contestants:
+  - name: dwa
+    local_planner: dwa

@@ -1,9 +1,9 @@
 suite:
-  config: comprehensive.yaml
+  config: roscomprehensivenav.yaml
   # scale_episodes: 1
 
 contest:
-  config: basic.yaml
+  config: rosnav.yaml
 
 general:
   simulator: flatland

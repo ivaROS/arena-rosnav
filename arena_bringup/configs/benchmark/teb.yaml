@@ -1,9 +1,9 @@
 suite:
-  config: comprehensive.yaml
+  config: factory.yaml
   # scale_episodes: 1
 
 contest:
-  config: basic.yaml
+  config: teb.yaml
 
 general:
   simulator: flatland

@@ -31,6 +31,7 @@ class RosnavActionNode:
         self.ns = Namespace(ns)
 
         self._action_pub = rospy.Publisher(f"{self.ns}/cmd_vel", Twist, queue_size=1)
+        self._tmp_action_pub = rospy.Publisher(f"{self.ns}/learned_cmd_vel", Twist, queue_size=1)
         rospy.wait_for_service(f"{self.ns}/rosnav/get_action")
         self._get_action_srv = rospy.ServiceProxy(
             f"{self.ns}/rosnav/get_action", GetAction
@@ -62,6 +63,7 @@ class RosnavActionNode:
         print("action_msg: ", action_msg)
 
         self._action_pub.publish(action_msg)
+        self._tmp_action_pub.publish(action_msg)
 
 
 def parse_args():
