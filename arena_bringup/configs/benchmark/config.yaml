@@ -1,5 +1,5 @@
 suite:
-  config: comprehensive.yaml
+  config: arena_hospital_large.yaml
   # scale_episodes: 1
 
 contest:

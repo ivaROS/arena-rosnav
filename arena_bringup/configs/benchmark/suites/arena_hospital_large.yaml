@@ -1,5 +1,5 @@
 stages:
-  - name: arena_hospital_large_scenario_3
+  - name: scenario1
     episodes: 1
     robot: rto
     map: arena_hospital_large
@@ -7,4 +7,34 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 4.json
+        file: 7.json
+
+  - name: scenario2
+    episodes: 1
+    robot: rto
+    map: arena_hospital_large
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 8.json
+
+  - name: scenario1
+    episodes: 1
+    robot: rto
+    map: arena_hospital_large
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 9.json
+
+  - name: scenario2
+    episodes: 1
+    robot: rto
+    map: arena_hospital_large
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 10.json
