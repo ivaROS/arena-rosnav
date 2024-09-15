@@ -1,6 +1,6 @@
 stages:
   - name: factory_scenario_0
-    episodes: 2
+    episodes: 1
     robot: rto
     map: factory
     tm_robots: scenario
@@ -250,7 +250,7 @@ stages:
         file: 24.json            
 
   - name: arena_hospital_large_scenario_0
-    episodes: 2
+    episodes: 1
     robot: rto
     map: arena_hospital_large
     tm_robots: scenario
@@ -500,7 +500,7 @@ stages:
         file: 24.json            
 
   - name: empty_scenario_0
-    episodes: 2
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
