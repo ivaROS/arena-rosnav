@@ -1,11 +1,11 @@
 repositories:
   arena/evaluation:
     type: git
-    url: https://github.com/max-assel/arena-evaluation.git
-    version: c8370c31f2045092f4b1526b71733ab4a9e5d01a
+    url: https://github.com/ivaROS/arena-evaluation.git
+    version: a0bf196af6d3ca856aee59e3d0f6e2df1ea2d8ae
   arena/simulation-setup:
     type: git
-    url: https://github.com/max-assel/arena-simulation-setup.git
+    url: https://github.com/ivaROS/arena-simulation-setup.git
     version: ce2fe93a7d45333700754d12d95538353315dd61
   arena/utils/3rd-party-robot-packages:
     type: git
@@ -14,19 +14,19 @@ repositories:
   arena/utils/flatland:
     type: git
     url: https://github.com/ivaROS/flatland.git
-    version: b5d3b6776aa2f94ed5de0c63311a8ce2b5a67c9d
+    version: 88ef913b931c5492eb8e7bb5f87796760394a1a5
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
     version: c3613d87e3e7c65d85225feb3f90350023c1361a
   arena/utils/navigation:
     type: git
-    url: https://github.com/max-assel/navigation.git
+    url: https://github.com/ivaROS/navigation.git
     version: ef5ae0332a6565b38eda83c9907540fc976e6c5e
   arena/utils/pedsim_ros:
     type: git
-    url: https://github.com/max-assel/pedsim_ros.git
-    version: 9c71e25
+    url: https://github.com/ivaROS/pedsim_ros.git
+    version: 9c71e2544dd00ffd44f5f4c69c5dbca692d40123
   arena/utils/stable-baselines3:
     type: git
     url: https://github.com/tuananhroman/stable-baselines3.git
@@ -85,11 +85,11 @@ repositories:
     version: 5b4e465fec718245484e8668e6dd45539ca37983
   planners/rlca-ros:
     type: git
-    url: https://github.com/max-assel/rlca-ros.git
+    url: https://github.com/ivaROS/rlca-ros.git
     version: 69d228fe4261c93d28fbb76a4db90bf60a2d0978
   planners/rosnav:
     type: git
-    url: https://github.com/max-assel/rosnav-rl.git
+    url: https://github.com/ivaROS/rosnav-rl.git
     version: 6125a927c8e9c5bae6f59f0a841d073a2c15f5d2
   planners/sarl-star:
     type: git
@@ -97,12 +97,12 @@ repositories:
     version: ae084b40aec6b0195564437134b2d84a3e67e720
   planners/trail:
     type: git
-    url: https://github.com/max-assel/trail.git
+    url: https://github.com/ivaROS/trail.git
     version: 344546bd32f0bf835b1fcb96b5241db19d1df1f2
   planners/potential_gap:
     type: git
-    url: https://github.com/max-assel/PotentialGap.git
-    version: 16764245f81e37a6aec560938c767fb1b3bea3c0
+    url: https://github.com/ivaROS/PotentialGap.git
+    version: 189978c86add394ef82d29d75e8ff55cf7444e36
   planners/dynamic_gap:
     type: git
     url: https://github.com/max-assel/dynamic_gap.git
