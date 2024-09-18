@@ -15,7 +15,7 @@
   <!-- You can launch a single robot and his local_planner with arguments -->
   <arg name="model" default="rto" doc="robot model type [burger, jackal, ridgeback, agvota, rto, ...]" />
   <arg name="inter_planner" default="bypass" doc="inter planner type [bypass, shortsighted, polite, aggressive, sideways]" />
-  <arg name="local_planner" default="dwa" doc="local planner type [teb, dwa, mpc, pga, dgap, rlca, arena, rosnav, cohan, trail]" />
+  <arg name="local_planner" default="pgap" doc="local planner type [teb, dwa, mpc, pgap, dgap, rlca, arena, rosnav, cohan, trail]" />
   <arg name="simulator" default="flatland" doc="[flatland, gazebo]" />
   <arg name="headless" default="2" doc="0 = show all, 1 = show only rviz, 2 = show nothing" />
   <env name="SIMULATOR" value="$(arg simulator)" />
@@ -44,9 +44,7 @@
   <param name="local_planner" value="$(arg local_planner)"/>
   <param name="agent_name" value="$(arg agent_name)" unless="$(eval arg('local_planner') != 'rosnav')"/>
   
-
   <param name="complexity" value="$(arg complexity)" />
-  
 
   <arg name="tm_robots" default="random"/>
   <arg name="tm_obstacles" default="random"/>

@@ -7,34 +7,34 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 0.json
+        file: no_agents.json
 
-  - name: scenario2
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 1.json
+  # - name: scenario2
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 1.json
 
-  - name: scenario1
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 2.json
+  # - name: scenario1
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 2.json
 
-  - name: scenario2
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 3.json
+  # - name: scenario2
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 3.json
