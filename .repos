@@ -102,7 +102,7 @@ repositories:
   planners/potential_gap:
     type: git
     url: https://github.com/ivaROS/PotentialGap.git
-    version: 189978c86add394ef82d29d75e8ff55cf7444e36
+    version: c1ea4f5de453f99f1b4faea18f4493aab39cf066
   planners/dynamic_gap:
     type: git
     url: https://github.com/max-assel/dynamic_gap.git

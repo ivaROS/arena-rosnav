@@ -23,7 +23,7 @@ mkdir -p ~/arena_ws
 cd ~/arena_ws
 
 # clone arena-rosnav
-git clone --branch ${branch} https://github.com/max-assel/arena-rosnav.git src/arena/arena-rosnav
+git clone --branch ${branch} https://github.com/ivaROS/arena-rosnav.git src/arena/arena-rosnav
 until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update, retrying..." ; done
 #
 
@@ -79,4 +79,6 @@ echo "You can confirm that it works, by running the following command in a NEW t
 echo ""
 echo "roslaunch arena_bringup start_arena.launch"
 echo ""
-echo "If you need to train or use rosnav/aio planners, download and run install3_training.sh."
+echo "If you need to train or use rosnav/aio planners, run the following command"
+echo ""
+echo "curl https://raw.githubusercontent.com/ivaROS/arena-rosnav/patch/install3_training.sh | bash"
