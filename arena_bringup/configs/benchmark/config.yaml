@@ -1,5 +1,5 @@
 suite:
-  config: map_empty.yaml
+  config: factory.yaml
   # scale_episodes: 1
 
 contest:

@@ -2,11 +2,11 @@ repositories:
   arena/evaluation:
     type: git
     url: https://github.com/ivaROS/arena-evaluation.git
-    version: a0bf196af6d3ca856aee59e3d0f6e2df1ea2d8ae
+    version: a0bf196af6d3ca856aee59e3d0f6e2df1ea2d8ae ### branch: restructure
   arena/simulation-setup:
     type: git
-    url: https://github.com/ivaROS/arena-simulation-setup.git
-    version: ce2fe93a7d45333700754d12d95538353315dd61
+    url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
+    version: 3cac08fb96c01df484059e85d3e71d2b99cab46c
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -14,7 +14,7 @@ repositories:
   arena/utils/flatland:
     type: git
     url: https://github.com/ivaROS/flatland.git
-    version: 88ef913b931c5492eb8e7bb5f87796760394a1a5
+    version: 88ef913b931c5492eb8e7bb5f87796760394a1a5 ### branch: dev/second_order
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
@@ -22,11 +22,11 @@ repositories:
   arena/utils/navigation:
     type: git
     url: https://github.com/ivaROS/navigation.git
-    version: ef5ae0332a6565b38eda83c9907540fc976e6c5e
+    version: ef5ae0332a6565b38eda83c9907540fc976e6c5e ### branch: patch
   arena/utils/pedsim_ros:
     type: git
     url: https://github.com/ivaROS/pedsim_ros.git
-    version: 9c71e2544dd00ffd44f5f4c69c5dbca692d40123
+    version: 9c71e2544dd00ffd44f5f4c69c5dbca692d40123 ### branch: patch
   arena/utils/stable-baselines3:
     type: git
     url: https://github.com/tuananhroman/stable-baselines3.git
@@ -86,11 +86,11 @@ repositories:
   planners/rlca-ros:
     type: git
     url: https://github.com/ivaROS/rlca-ros.git
-    version: 69d228fe4261c93d28fbb76a4db90bf60a2d0978
+    version: 69d228fe4261c93d28fbb76a4db90bf60a2d0978 ### branch: patch
   planners/rosnav:
     type: git
     url: https://github.com/ivaROS/rosnav-rl.git
-    version: 6125a927c8e9c5bae6f59f0a841d073a2c15f5d2
+    version: 6125a927c8e9c5bae6f59f0a841d073a2c15f5d2 ### branch: patch
   planners/sarl-star:
     type: git
     url: https://github.com/Arena-Rosnav/sarl-star.git
@@ -98,12 +98,12 @@ repositories:
   planners/trail:
     type: git
     url: https://github.com/ivaROS/trail.git
-    version: 344546bd32f0bf835b1fcb96b5241db19d1df1f2
+    version: 344546bd32f0bf835b1fcb96b5241db19d1df1f2 ### branch: mbf
   planners/potential_gap:
     type: git
     url: https://github.com/ivaROS/PotentialGap.git
-    version: c1ea4f5de453f99f1b4faea18f4493aab39cf066
+    version: c1ea4f5de453f99f1b4faea18f4493aab39cf066 ### branch: dev/arena-rosnav
   planners/dynamic_gap:
     type: git
-    url: https://github.com/max-assel/dynamic_gap.git
-    version: e2e96240797d8c18192f70cd5e118d69f8903985
+    url: https://github.com/max-assel/DynamicGap.git
+    version: da332140bfa7b5bf985920822c5f896f261da92f ### branch: main
