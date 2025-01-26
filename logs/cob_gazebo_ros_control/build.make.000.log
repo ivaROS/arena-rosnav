@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target hwi_switch_robot_hw_sim[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/hwi_switch_robot_hw_sim.dir/src/hwi_switch_robot_hw_sim.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_gazebo_ros_control/lib/libhwi_switch_robot_hw_sim.so[0m
+[ 50%] Built target hwi_switch_robot_hw_sim
+[35m[1mScanning dependencies of target hwi_switch_gazebo_ros_control[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/hwi_switch_gazebo_ros_control.dir/src/hwi_switch_gazebo_ros_control_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_gazebo_ros_control/lib/libhwi_switch_gazebo_ros_control.so[0m
+[100%] Built target hwi_switch_gazebo_ros_control

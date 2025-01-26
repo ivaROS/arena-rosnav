@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="sideways_inter" pkg="sideways_inter" type="sideways_inter">
+  <param name="caution_detection_range" type="double" value="5.0" />
+  <param name="cautious_speed" type="double" value="0.4" />
+  <param name="ped_minimum_distance" type="double" value="2.0" />
+  <param name="temp_goal_distance" type="double" value="2.0" />
+  <param name="temp_goal_tolerance" type="double" value="0.25" />
+  <param name="danger_threshold" type="double" value="0.6" />
+  <param name="fov" type="double" value="3.141592653589793" />
+</node>
+\endverbatim
+

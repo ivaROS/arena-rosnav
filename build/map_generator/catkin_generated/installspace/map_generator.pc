@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: map_generator
+Description: Description of map_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime nav_msgs

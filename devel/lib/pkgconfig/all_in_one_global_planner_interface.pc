@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/all_in_one_global_planner_interface/lib/pkgconfig/all_in_one_global_planner_interface.pc

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/pmb2_description
+
+Name: pmb2_description
+Description: Description of pmb2_description
+Version: 3.0.23
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

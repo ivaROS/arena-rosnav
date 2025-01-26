@@ -1,0 +1,8 @@
+[  0%] Built target _rosnav_generate_messages_check_deps_ResetStackedObs
+[  0%] Built target _rosnav_generate_messages_check_deps_GetAction
+[ 23%] Built target rosnav_generate_messages_eus
+[ 38%] Built target rosnav_generate_messages_nodejs
+[ 69%] Built target rosnav_generate_messages_py
+[ 84%] Built target rosnav_generate_messages_cpp
+[100%] Built target rosnav_generate_messages_lisp
+[100%] Built target rosnav_generate_messages

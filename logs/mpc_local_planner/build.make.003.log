@@ -1,0 +1,20 @@
+[ 20%] Built target mpc_local_planner_utils
+[ 60%] Built target mpc_local_planner_optimal_control
+[ 65%] [34m[1mGenerating dynamic reconfigure files from cfg/mpc_collision.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py[0m
+Generating reconfiguration files for CollisionReconfigure in mpc_local_planner
+Wrote header file in /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/CollisionReconfigureConfig.h
+[ 70%] [34m[1mGenerating dynamic reconfigure files from cfg/mpc_controller.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py[0m
+Generating reconfiguration files for ControllerReconfigure in mpc_local_planner
+Wrote header file in /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/ControllerReconfigureConfig.h
+[ 75%] [34m[1mGenerating dynamic reconfigure files from cfg/mpc_footprint.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py[0m
+Generating reconfiguration files for FootprintReconfigure in mpc_local_planner
+Wrote header file in /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/FootprintReconfigureConfig.h
+[ 75%] Built target mpc_local_planner_gencfg
+[35m[1mScanning dependencies of target mpc_local_planner[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/mpc_local_planner.dir/src/mpc_local_planner_ros.cpp.o[0m
+[ 85%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner.so[0m
+[ 90%] Built target mpc_local_planner
+[35m[1mScanning dependencies of target test_mpc_optim_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node[0m
+[100%] Built target test_mpc_optim_node

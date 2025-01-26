@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/map_generator/lib/python3/dist-packages/map_generator/__init__.py

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: polite_inter
+Description: Description of polite_inter
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpolite_inter
+Requires: mbf_costmap_core inter_util

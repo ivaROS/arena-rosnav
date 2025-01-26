@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_control_msgs/share/cob_control_msgs/cmake/cob_control_msgs-msg-extras.cmake

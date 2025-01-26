@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/applr/share/applr/cmake/applrConfig.cmake

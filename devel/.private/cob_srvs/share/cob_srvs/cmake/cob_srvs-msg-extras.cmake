@@ -1,0 +1,2 @@
+set(cob_srvs_MESSAGE_FILES "")
+set(cob_srvs_SERVICE_FILES "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv")

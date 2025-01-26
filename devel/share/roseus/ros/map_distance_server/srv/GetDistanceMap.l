@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/map_distance_server/share/roseus/ros/map_distance_server/srv/GetDistanceMap.l

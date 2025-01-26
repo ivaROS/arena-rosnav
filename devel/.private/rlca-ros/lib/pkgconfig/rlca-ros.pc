@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/rlca-ros
+
+Name: rlca-ros
+Description: Description of rlca-ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

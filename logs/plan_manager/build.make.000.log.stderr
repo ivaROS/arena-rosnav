@@ -1,0 +1,4 @@
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:[m[K In member function ‘[01m[Kbool PlanCollector::generate_subgoal(RobotStatePtr, RobotStatePtr, nav_msgs::Path, double, double)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:59:18:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<geometry_msgs::PoseStamped_<std::allocator<void> >, std::allocator<geometry_msgs::PoseStamped_<std::allocator<void> > > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+   59 |     for(int i=0;[01;35m[Ki<global_path.poses.size()[m[K;i++){
+      |                 [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: plan_msgs
+Description: Description of plan_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

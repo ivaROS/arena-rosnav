@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/libridgeback_ros_force_based_move.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/ridgeback_gazebo_plugins.pc

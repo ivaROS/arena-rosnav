@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/plan_msgs/share/plan_msgs/cmake/plan_msgsConfig.cmake

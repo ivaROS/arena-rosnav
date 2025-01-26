@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/observations/share/gennodejs/ros/observations/msg/_index.js

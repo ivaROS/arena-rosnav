@@ -1,0 +1,169 @@
+[35m[1mScanning dependencies of target flatland_Box2D[0m
+[  1%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2DistanceJoint.cpp.o[0m
+[  2%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2FrictionJoint.cpp.o[0m
+[  4%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2GearJoint.cpp.o[0m
+[  5%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2Joint.cpp.o[0m
+[  7%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2MotorJoint.cpp.o[0m
+[  8%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2MouseJoint.cpp.o[0m
+[  9%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2PrismaticJoint.cpp.o[0m
+[ 11%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2PulleyJoint.cpp.o[0m
+[ 12%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2RevoluteJoint.cpp.o[0m
+[ 14%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2RopeJoint.cpp.o[0m
+[ 15%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2WeldJoint.cpp.o[0m
+[ 16%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Joints/b2WheelJoint.cpp.o[0m
+[ 18%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2CircleContact.cpp.o[0m
+[ 19%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2Contact.cpp.o[0m
+[ 21%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2ContactSolver.cpp.o[0m
+[ 22%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2PolygonAndCircleContact.cpp.o[0m
+[ 23%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2EdgeAndCircleContact.cpp.o[0m
+[ 25%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp.o[0m
+[ 26%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2ChainAndCircleContact.cpp.o[0m
+[ 28%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2ChainAndPolygonContact.cpp.o[0m
+[ 29%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/Contacts/b2PolygonContact.cpp.o[0m
+[ 30%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2Body.cpp.o[0m
+[ 32%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2ContactManager.cpp.o[0m
+[ 33%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2Fixture.cpp.o[0m
+[ 35%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2Island.cpp.o[0m
+[ 36%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2World.cpp.o[0m
+[ 38%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Dynamics/b2WorldCallbacks.cpp.o[0m
+[ 39%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2BlockAllocator.cpp.o[0m
+[ 40%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2Draw.cpp.o[0m
+[ 42%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2Math.cpp.o[0m
+[ 43%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2Settings.cpp.o[0m
+[ 45%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2StackAllocator.cpp.o[0m
+[ 46%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Common/b2Timer.cpp.o[0m
+[ 47%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2CircleShape.cpp.o[0m
+[ 49%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2EdgeShape.cpp.o[0m
+[ 50%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2ChainShape.cpp.o[0m
+[ 52%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2PolygonShape.cpp.o[0m
+[ 53%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2BroadPhase.cpp.o[0m
+[ 54%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2CollideCircle.cpp.o[0m
+[ 56%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2CollideEdge.cpp.o[0m
+[ 57%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2CollidePolygon.cpp.o[0m
+[ 59%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2Collision.cpp.o[0m
+[ 60%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2Distance.cpp.o[0m
+[ 61%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2DynamicTree.cpp.o[0m
+[ 63%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Collision/b2TimeOfImpact.cpp.o[0m
+[ 64%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/flatland_Box2D.dir/Rope/b2Rope.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so[0m
+[ 66%] Built target flatland_Box2D
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 66%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 66%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 66%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 66%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 66%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 66%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 66%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 66%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 66%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 66%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 66%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_lisp[0m
+[ 66%] Built target flatland_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 66%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[ 66%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 66%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 66%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_nodejs[0m
+[ 66%] Built target flatland_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 66%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 66%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 66%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 66%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 66%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 66%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 66%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 66%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 66%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[ 66%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 66%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 66%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 66%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 66%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 66%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 66%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 66%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[ 66%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 66%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 66%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 66%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 66%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[ 66%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[ 66%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_cpp[0m
+[ 66%] Built target flatland_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_eus[0m
+[ 66%] Built target flatland_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[ 66%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_py[0m
+[ 66%] Built target flatland_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 66%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_lib[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/simulation_manager.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/world.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/layer.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/model.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/entity.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/debug_visualization.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/geometry.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/body.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/joint.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/model_body.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/collision_filter_registry.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/model_plugin.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/world_plugin.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/plugin_manager.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/interactive_marker_manager.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/timekeeper.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/service_manager.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/yaml_reader.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/dummy_model_plugin.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/dummy_world_plugin.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/flatland_lib.dir/src/yaml_preprocessor.cpp.o[0m
+[ 97%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_lib.so[0m
+[ 97%] Built target flatland_lib
+[35m[1mScanning dependencies of target flatland_server[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/flatland_server.dir/src/flatland_server_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/flatland_server/lib/flatland_server/flatland_server[0m
+[100%] Built target flatland_server

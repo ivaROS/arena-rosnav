@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/brics_actuator/share/brics_actuator/cmake/brics_actuatorConfig-version.cmake

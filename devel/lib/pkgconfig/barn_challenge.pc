@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/barn_challenge/lib/pkgconfig/barn_challenge.pc

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/applr
+
+Name: applr
+Description: Description of applr
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

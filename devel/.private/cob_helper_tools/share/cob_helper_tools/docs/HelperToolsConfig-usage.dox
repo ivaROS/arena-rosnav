@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="cob_helper_tools" pkg="cob_helper_tools" type="cob_helper_tools">
+  <param name="text_size" type="double" value="0.5" />
+</node>
+\endverbatim
+

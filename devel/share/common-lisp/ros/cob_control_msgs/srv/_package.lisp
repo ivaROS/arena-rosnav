@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/srv/_package.lisp

@@ -1,0 +1,2 @@
+set(all_in_one_local_planner_interface_MESSAGE_FILES "")
+set(all_in_one_local_planner_interface_SERVICE_FILES "/home/az/arena_ws/src/planners/all_in_one/all_in_one_local_planner_interface/srv/GetVelCmd.srv;/home/az/arena_ws/src/planners/all_in_one/all_in_one_local_planner_interface/srv/GetVelCmdWithGlobalPlan.srv;/home/az/arena_ws/src/planners/all_in_one/all_in_one_local_planner_interface/srv/SetGlobalPlan.srv;/home/az/arena_ws/src/planners/all_in_one/all_in_one_local_planner_interface/srv/ResetCostmap.srv")

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/omni_base_description/lib/pkgconfig/omni_base_description.pc

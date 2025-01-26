@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/barn_msgs/share/barn_msgs/cmake/barn_msgs-msg-paths.cmake

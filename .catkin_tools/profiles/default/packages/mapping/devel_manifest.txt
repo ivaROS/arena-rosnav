@@ -1,0 +1,6 @@
+arena/arena-rosnav/utils/misc/mapping
+/home/az/arena_ws/devel/.private/mapping/cmake.lock /home/az/arena_ws/devel/./cmake.lock
+/home/az/arena_ws/devel/.private/mapping/share/mapping/cmake/mappingConfig-version.cmake /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig-version.cmake
+/home/az/arena_ws/devel/.private/mapping/share/mapping/cmake/mappingConfig.cmake /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig.cmake
+/home/az/arena_ws/devel/.private/mapping/lib/libmapping.so /home/az/arena_ws/devel/lib/libmapping.so
+/home/az/arena_ws/devel/.private/mapping/lib/pkgconfig/mapping.pc /home/az/arena_ws/devel/lib/pkgconfig/mapping.pc

@@ -1,0 +1,7 @@
+set(arena_evaluation_SETUP_PY_SETUP_MODULE "distutils.core")
+set(arena_evaluation_SETUP_PY_VERSION "1.0.0")
+set(arena_evaluation_SETUP_PY_SCRIPTS "")
+set(arena_evaluation_SETUP_PY_PACKAGES "arena_evaluation")
+set(arena_evaluation_SETUP_PY_PACKAGE_DIRS "arena_evaluation")
+set(arena_evaluation_SETUP_PY_MODULES "")
+set(arena_evaluation_SETUP_PY_MODULE_DIRS "")

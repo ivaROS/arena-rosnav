@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/arena_evaluation_msgs/lib/python3/dist-packages/arena_evaluation_msgs/srv/__init__.py

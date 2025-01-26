@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target cob_helper_tools_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/HelperTools.cfg: /home/az/arena_ws/devel/.private/cob_helper_tools/include/cob_helper_tools/HelperToolsConfig.h /home/az/arena_ws/devel/.private/cob_helper_tools/lib/python3/dist-packages/cob_helper_tools/cfg/HelperToolsConfig.py[0m
+Generating reconfiguration files for HelperTools in cob_helper_tools
+Wrote header file in /home/az/arena_ws/devel/.private/cob_helper_tools/include/cob_helper_tools/HelperToolsConfig.h
+[100%] Built target cob_helper_tools_gencfg

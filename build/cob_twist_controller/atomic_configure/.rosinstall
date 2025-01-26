@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/az/arena_ws/devel/.private/cob_twist_controller/setup.sh

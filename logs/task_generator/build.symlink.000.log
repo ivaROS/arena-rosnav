@@ -1,0 +1,16 @@
+Symlinking /home/az/arena_ws/devel/share/task_generator/docs/TaskGeneratorConfig-usage.dox
+Symlinking /home/az/arena_ws/devel/share/task_generator/docs/TaskGeneratorConfig.wikidoc
+Symlinking /home/az/arena_ws/devel/share/task_generator/docs/TaskGeneratorConfig.dox
+Symlinking /home/az/arena_ws/devel/share/task_generator/cmake/task_generatorConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/task_generator/cmake/task_generatorConfig.cmake
+Symlinking /home/az/arena_ws/devel/include/task_generator/TaskGeneratorConfig.h
+Symlinking /home/az/arena_ws/devel/lib/task_generator/cmake.lock
+Symlinking /home/az/arena_ws/devel/lib/task_generator/delay_restart.py
+Symlinking /home/az/arena_ws/devel/lib/task_generator/scenario_helper.py
+Symlinking /home/az/arena_ws/devel/lib/task_generator/main.py
+Symlinking /home/az/arena_ws/devel/lib/task_generator/server.py
+Symlinking /home/az/arena_ws/devel/lib/task_generator/filewatcher.py
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/task_generator.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/task_generator/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/task_generator/cfg/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/task_generator/cfg/TaskGeneratorConfig.py

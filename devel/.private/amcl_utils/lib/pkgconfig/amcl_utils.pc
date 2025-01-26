@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/amcl_utils
+
+Name: amcl_utils
+Description: Description of amcl_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/training/share/gennodejs/ros/training/srv/_index.js

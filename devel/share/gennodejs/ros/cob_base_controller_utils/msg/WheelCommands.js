@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_base_controller_utils/share/gennodejs/ros/cob_base_controller_utils/msg/WheelCommands.js

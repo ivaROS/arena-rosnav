@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="aggressive_inter" pkg="aggressive_inter" type="aggressive_inter">
+  <param name="slowdown_distance" type="double" value="5.0" />
+  <param name="danger_threshold" type="double" value="0.6" />
+</node>
+\endverbatim
+

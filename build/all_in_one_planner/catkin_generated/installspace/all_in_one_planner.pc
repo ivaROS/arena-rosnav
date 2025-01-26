@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: all_in_one_planner
+Description: Description of all_in_one_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

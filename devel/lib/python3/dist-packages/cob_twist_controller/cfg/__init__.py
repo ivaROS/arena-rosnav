@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/__init__.py

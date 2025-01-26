@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/rl_utils
+
+Name: rl_utils
+Description: Description of rl_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

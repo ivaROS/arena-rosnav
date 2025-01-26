@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/testing
+
+Name: testing
+Description: Description of testing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

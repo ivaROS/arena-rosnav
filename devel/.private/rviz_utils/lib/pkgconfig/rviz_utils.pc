@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/rviz_utils
+
+Name: rviz_utils
+Description: Description of rviz_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

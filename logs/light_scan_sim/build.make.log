@@ -1,0 +1,17 @@
+[ 63%] Built target Box2D_shared
+[ 63%] Built target std_msgs_generate_messages_py
+[ 63%] Built target _light_scan_sim_generate_messages_check_deps_Material
+[ 63%] Built target _light_scan_sim_generate_messages_check_deps_MaterialList
+[ 63%] Built target _light_scan_sim_generate_messages_check_deps_Segment
+[ 63%] Built target std_msgs_generate_messages_nodejs
+[ 63%] Built target std_msgs_generate_messages_lisp
+[ 63%] Built target std_msgs_generate_messages_eus
+[ 63%] Built target std_msgs_generate_messages_cpp
+[ 63%] Built target _light_scan_sim_generate_messages_check_deps_SegmentList
+[ 70%] Built target light_scan_sim_generate_messages_py
+[ 75%] Built target light_scan_sim_generate_messages_nodejs
+[ 81%] Built target light_scan_sim_generate_messages_lisp
+[ 86%] Built target light_scan_sim_generate_messages_cpp
+[ 93%] Built target light_scan_sim_generate_messages_eus
+[ 93%] Built target light_scan_sim_generate_messages
+[100%] Built target light_scan_sim_node

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: flatland_plugins
+Description: Description of flatland_plugins
+Version: 1.1.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lflatland_plugins_lib
+Requires: pluginlib roscpp flatland_server std_msgs

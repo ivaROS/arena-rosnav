@@ -1,0 +1,11 @@
+[ 12%] [34m[1mGenerating src/moc_task_tool.cpp[0m
+/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.h:55: Note: No relevant classes found. No output generated.
+[ 25%] [34m[1mGenerating src/moc_goal_tool.cpp[0m
+[35m[1mScanning dependencies of target rviz_plugins[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/rviz_plugins.dir/src/pose_tool.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rviz_plugins.dir/src/goal_tool.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rviz_plugins.dir/src/task_tool.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rviz_plugins.dir/src/moc_goal_tool.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/rviz_plugins.dir/src/moc_task_tool.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/rviz_plugins/lib/librviz_plugins.so[0m
+[100%] Built target rviz_plugins

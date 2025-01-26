@@ -1,0 +1,7 @@
+set(all_in_one_planner_SETUP_PY_SETUP_MODULE "distutils.core")
+set(all_in_one_planner_SETUP_PY_VERSION "0.0.0")
+set(all_in_one_planner_SETUP_PY_SCRIPTS "")
+set(all_in_one_planner_SETUP_PY_PACKAGES "scripts;AIO_local_planners")
+set(all_in_one_planner_SETUP_PY_PACKAGE_DIRS "scripts;AIO_local_planners")
+set(all_in_one_planner_SETUP_PY_MODULES "")
+set(all_in_one_planner_SETUP_PY_MODULE_DIRS "")

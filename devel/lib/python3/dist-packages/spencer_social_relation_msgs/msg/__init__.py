@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/lib/python3/dist-packages/spencer_social_relation_msgs/msg/__init__.py

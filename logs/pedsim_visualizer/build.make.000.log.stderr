@@ -1,0 +1,4 @@
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_visualizer/src/sim_visualizer_node.cpp:31[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_visualizer/include/pedsim_visualizer/sim_visualizer.h:84:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* pedsim::WallLayerString(pedsim::WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   84 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,11 @@
+Symlinking /home/az/arena_ws/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig.wikidoc
+Symlinking /home/az/arena_ws/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig-usage.dox
+Symlinking /home/az/arena_ws/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig.dox
+Symlinking /home/az/arena_ws/devel/share/pedsim_visualizer/cmake/pedsim_visualizerConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/pedsim_visualizer/cmake/pedsim_visualizerConfig.cmake
+Symlinking /home/az/arena_ws/devel/include/pedsim_visualizer/PedsimVisualizerConfig.h
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/pedsim_visualizer.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/pedsim_visualizer/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/pedsim_visualizer/cfg/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/pedsim_visualizer/cfg/PedsimVisualizerConfig.py
+Symlinking /home/az/arena_ws/devel/lib/pedsim_visualizer/pedsim_visualizer_node

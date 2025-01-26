@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="steer_control_configure" pkg="cob_omni_drive_controller" type="steer_control_configure">
+  <param name="spring" type="double" value="15.0" />
+  <param name="damp" type="double" value="2.75" />
+  <param name="virt_mass" type="double" value="0.1" />
+  <param name="d_phi_max" type="double" value="10.0" />
+  <param name="dd_phi_max" type="double" value="40.0" />
+</node>
+\endverbatim
+

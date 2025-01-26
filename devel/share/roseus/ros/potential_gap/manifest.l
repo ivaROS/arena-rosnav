@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/potential_gap/share/roseus/ros/potential_gap/manifest.l

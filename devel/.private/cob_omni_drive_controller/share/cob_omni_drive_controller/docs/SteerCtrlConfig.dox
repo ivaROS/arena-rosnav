@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~spring" : \b [double] Spring-constant (elasticity) min: 0.0, default: 15.0, max: 50.0
+- \b "~damp" : \b [double] Damping coefficient (also prop. for Velocity Feedforward) min: 0.0, default: 2.75, max: 50.0
+- \b "~virt_mass" : \b [double] Virtual Mass of Spring-Damper System min: 0.0, default: 0.1, max: 200.0
+- \b "~d_phi_max" : \b [double] maximum angular velocity (cut-off) min: 0.0, default: 10.0, max: 50.0
+- \b "~dd_phi_max" : \b [double] maximum angular acceleration (cut-off) min: 0.0, default: 40.0, max: 100.0
+

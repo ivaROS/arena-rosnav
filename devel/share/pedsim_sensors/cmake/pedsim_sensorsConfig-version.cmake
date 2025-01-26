@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/pedsim_sensors/share/pedsim_sensors/cmake/pedsim_sensorsConfig-version.cmake

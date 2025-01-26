@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/mapping
+
+Name: mapping
+Description: Description of mapping
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include
+Libs: -L${prefix}/lib -lmapping
+Requires: roscpp rospy sensor_msgs std_msgs

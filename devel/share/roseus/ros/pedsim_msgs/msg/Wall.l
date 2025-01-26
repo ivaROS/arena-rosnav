@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/pedsim_msgs/share/roseus/ros/pedsim_msgs/msg/Wall.l

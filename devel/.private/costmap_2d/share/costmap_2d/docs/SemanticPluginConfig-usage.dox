@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="costmap_2d" pkg="costmap_2d" type="costmap_2d">
+  <param name="enabled" type="bool" value="True" />
+  <param name="combination_method" type="int" value="1" />
+</node>
+\endverbatim
+

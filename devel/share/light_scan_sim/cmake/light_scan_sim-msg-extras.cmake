@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/light_scan_sim/share/light_scan_sim/cmake/light_scan_sim-msg-extras.cmake

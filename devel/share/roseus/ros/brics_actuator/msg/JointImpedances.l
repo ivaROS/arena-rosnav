@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/brics_actuator/share/roseus/ros/brics_actuator/msg/JointImpedances.l

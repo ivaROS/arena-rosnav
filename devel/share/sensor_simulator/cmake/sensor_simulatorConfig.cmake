@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/sensor_simulator/share/sensor_simulator/cmake/sensor_simulatorConfig.cmake

@@ -1,0 +1,5 @@
+arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_worlds
+/home/az/arena_ws/devel/.private/youbot_gazebo_worlds/cmake.lock /home/az/arena_ws/devel/./cmake.lock
+/home/az/arena_ws/devel/.private/youbot_gazebo_worlds/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig.cmake /home/az/arena_ws/devel/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig.cmake
+/home/az/arena_ws/devel/.private/youbot_gazebo_worlds/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig-version.cmake /home/az/arena_ws/devel/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig-version.cmake
+/home/az/arena_ws/devel/.private/youbot_gazebo_worlds/lib/pkgconfig/youbot_gazebo_worlds.pc /home/az/arena_ws/devel/lib/pkgconfig/youbot_gazebo_worlds.pc

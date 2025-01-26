@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: shortsighted_inter
+Description: Description of shortsighted_inter
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lshortsighted_inter
+Requires: mbf_costmap_core

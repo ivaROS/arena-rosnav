@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: cob_gazebo_ros_control
+Description: Description of cob_gazebo_ros_control
+Version: 0.7.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhwi_switch_gazebo_ros_control -lhwi_switch_robot_hw_sim
+Requires: controller_manager gazebo_ros gazebo_ros_control hardware_interface joint_limits_interface pluginlib roscpp transmission_interface urdf

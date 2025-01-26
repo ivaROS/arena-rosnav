@@ -1,0 +1,3 @@
+Symlinking /home/az/arena_ws/devel/share/cadrl-ros/cmake/cadrl-rosConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/cadrl-ros/cmake/cadrl-rosConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/cadrl-ros.pc

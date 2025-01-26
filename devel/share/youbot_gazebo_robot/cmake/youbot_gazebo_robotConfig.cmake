@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/youbot_gazebo_robot/share/youbot_gazebo_robot/cmake/youbot_gazebo_robotConfig.cmake

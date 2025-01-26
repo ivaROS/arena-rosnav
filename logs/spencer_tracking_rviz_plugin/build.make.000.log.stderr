@@ -1,0 +1,28 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/tf2_ros/transform_listener.h:37[m[K,
+                 from [01m[K/opt/ros/noetic/include/rviz/visualization_manager.h:37[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:33[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:[m[K In member function ‘[01m[Kvirtual void spencer_tracking_rviz_plugin::TrackedPersonsDisplay::processMessage(const ConstPtr&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:30:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kconst _track_id_type[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+  425 |                     ROS_WARN([01;35m[K"Track %lu has suspicious velocity (%.1f m/s), not showing velocity vector!"[m[K, trackedPersonIt->track_id, velocityVector.length());
+      |                              [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  162 | #define ROS_WARN(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:21:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+  425 |                     [01;36m[KROS_WARN[m[K("Track %lu has suspicious velocity (%.1f m/s), not showing velocity vector!", trackedPersonIt->track_id, velocityVector.length());
+      |                     [01;36m[K^~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:39:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  425 |                     ROS_WARN("Track [01;36m[K%lu[m[K has suspicious velocity (%.1f m/s), not showing velocity vector!", trackedPersonIt->track_id, velocityVector.length());
+      |                                     [01;36m[K~~^[m[K
+      |                                       [01;36m[K|[m[K
+      |                                       [01;36m[Klong unsigned int[m[K

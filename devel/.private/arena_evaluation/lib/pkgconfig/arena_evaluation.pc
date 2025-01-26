@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/arena_evaluation
+
+Name: arena_evaluation
+Description: Description of arena_evaluation
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

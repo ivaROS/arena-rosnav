@@ -1,0 +1,6 @@
+arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins
+/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins/cmake.lock /home/az/arena_ws/devel/./cmake.lock
+/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig-version.cmake /home/az/arena_ws/devel/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig-version.cmake
+/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig.cmake /home/az/arena_ws/devel/share/ridgeback_gazebo_plugins/cmake/ridgeback_gazebo_pluginsConfig.cmake
+/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins/lib/libridgeback_ros_force_based_move.so /home/az/arena_ws/devel/lib/libridgeback_ros_force_based_move.so
+/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins/lib/pkgconfig/ridgeback_gazebo_plugins.pc /home/az/arena_ws/devel/lib/pkgconfig/ridgeback_gazebo_plugins.pc

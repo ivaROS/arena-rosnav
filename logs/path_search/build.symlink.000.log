@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/path_search/cmake/path_searchConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/path_search/cmake/path_searchConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/libpath_search.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/path_search.pc

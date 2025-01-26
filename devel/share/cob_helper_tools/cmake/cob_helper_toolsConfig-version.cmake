@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_helper_tools/share/cob_helper_tools/cmake/cob_helper_toolsConfig-version.cmake

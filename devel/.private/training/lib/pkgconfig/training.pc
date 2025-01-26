@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/training
+
+Name: training
+Description: Description of training
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/training/include
+Libs: -L${prefix}/lib 
+Requires: 

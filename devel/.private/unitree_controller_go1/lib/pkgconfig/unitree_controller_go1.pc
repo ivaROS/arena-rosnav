@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/unitree_controller_go1
+
+Name: unitree_controller_go1
+Description: Description of unitree_controller_go1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: unitree_legged_msgs

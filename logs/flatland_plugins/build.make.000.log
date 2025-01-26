@@ -1,0 +1,128 @@
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_eus[0m
+[  0%] Built target flatland_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_nodejs[0m
+[  0%] Built target flatland_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_lisp[0m
+[  0%] Built target flatland_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_py[0m
+[  0%] Built target flatland_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  0%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_cpp[0m
+[  0%] Built target flatland_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target flatland_plugins_lib[0m
+[  7%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/laser.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/tricycle_drive.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/diff_drive.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/holo.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/holo_second_order.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/model_tf_publisher.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/update_timer.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/bumper.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/tween.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/bool_sensor.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/world_modifier.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/world_random_wall.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/flatland_plugins_lib.dir/src/gps.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/flatland_plugins/lib/libflatland_plugins_lib.so[0m
+[100%] Built target flatland_plugins_lib

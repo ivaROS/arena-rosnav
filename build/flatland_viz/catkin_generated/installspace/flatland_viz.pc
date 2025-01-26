@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: flatland_viz
+Description: Description of flatland_viz
+Version: 1.1.3
+Cflags: -I${prefix}/include -I/usr/include/OGRE/Overlay -I/usr/include/OGRE
+Libs: -L${prefix}/lib 
+Requires: roscpp rviz flatland_server

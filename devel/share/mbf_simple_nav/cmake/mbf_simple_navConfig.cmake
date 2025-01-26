@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/mbf_simple_nav/share/mbf_simple_nav/cmake/mbf_simple_navConfig.cmake

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/plan_visualization/lib/pkgconfig/plan_visualization.pc

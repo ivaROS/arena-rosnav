@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/sarl_star_ros/share/sarl_star_ros/cmake/sarl_star_rosConfig.cmake

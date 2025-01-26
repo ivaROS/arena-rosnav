@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/pedsim_srvs/share/roseus/ros/pedsim_srvs/srv/SpawnPed.l

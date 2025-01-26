@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/rviz_path_array/share/rviz_path_array/cmake/rviz_path_arrayConfig.cmake

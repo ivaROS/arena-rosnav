@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/pedsim_visualizer/lib/python3/dist-packages/pedsim_visualizer/cfg/__init__.py

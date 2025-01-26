@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/pkgconfig/unitree_controller_go1.pc

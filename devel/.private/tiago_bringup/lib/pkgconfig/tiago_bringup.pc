@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/tiago_bringup
+
+Name: tiago_bringup
+Description: Description of tiago_bringup
+Version: 2.3.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

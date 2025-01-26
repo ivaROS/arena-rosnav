@@ -1,0 +1,2 @@
+set(agent_path_prediction_MESSAGE_FILES "/home/az/arena_ws/src/planners/cohan/agent_path_prediction/msg/PredictedPoses.msg;/home/az/arena_ws/src/planners/cohan/agent_path_prediction/msg/PredictedGoal.msg;/home/az/arena_ws/src/planners/cohan/agent_path_prediction/msg/AgentPose.msg")
+set(agent_path_prediction_SERVICE_FILES "/home/az/arena_ws/src/planners/cohan/agent_path_prediction/srv/AgentPosePredict.srv;/home/az/arena_ws/src/planners/cohan/agent_path_prediction/srv/AgentGoal.srv")

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: training
+Description: Description of training
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

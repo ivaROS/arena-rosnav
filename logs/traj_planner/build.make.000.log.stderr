@@ -1,0 +1,72 @@
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_esdf.cpp:[m[K In member function ‘[01m[Kvoid BsplineOptimizerESDF::optimize()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_esdf.cpp:158:19:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kresult[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  158 |     nlopt::result [01;35m[Kresult[m[K = opt.optimize(q, final_cost);
+      |                   [01;35m[K^~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_astar.h:4[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_astar.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:[m[K In member function ‘[01m[Kbool AStar::Coord2Index(const Vector2d&, Eigen::Vector2i&) const[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:13:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects a matching ‘[01m[Kint[m[K’ argument [[01;35m[K-Wformat=[m[K]
+  109 |   ROS_ERROR([01;35m[K"Ran out of pool, index=%d %d %d"[m[K, idx(0), idx(1));
+      |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                        [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+  109 |   [01;36m[KROS_ERROR[m[K("Ran out of pool, index=%d %d %d", idx(0), idx(1));
+      |   [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_astar.h:6[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_astar.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  109 |   ROS_ERROR("Ran out of pool, index=%d %d [01;36m[K%d[m[K", idx(0), idx(1));
+      |                                           [01;36m[K~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kint[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_astar.cpp:[m[K In member function ‘[01m[Kstd::vector<std::vector<Eigen::Matrix<double, 2, 1> > > BsplineOptimizerAstar::initControlPoints(Eigen::MatrixXd&, bool)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_astar.cpp:50:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kout_id[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+   50 |     int in_id, [01;35m[Kout_id[m[K;
+      |                [01;35m[K^~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/bspline_optimizer_astar.cpp:50:9:[m[K [01;35m[Kwarning: [m[K‘[01m[Kin_id[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+   50 |     int [01;35m[Kin_id[m[K, out_id;
+      |         [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/src/polynomial_traj.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kvoid PolynomialTraj::init()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:49:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+   49 |     for (int i = 0; [01;35m[Ki < times.size()[m[K; ++i)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kdouble PolynomialTraj::getLength()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:185:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<Eigen::Matrix<double, 2, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  185 |     for (int i = 1; [01;35m[Ki < traj_vec2d.size()[m[K; ++i)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kdouble PolynomialTraj::getMeanVel()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:196:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kmean_vel[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  196 |     double [01;35m[Kmean_vel[m[K = length / time_sum;
+      |            [01;35m[K^~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:197:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  197 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kdouble PolynomialTraj::getAccCost()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:204:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  204 |     for (int s = 0; [01;35m[Ks < times.size()[m[K; ++s)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kdouble PolynomialTraj::getJerk()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:219:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  219 |     for (int s = 0; [01;35m[Ks < times.size()[m[K; ++s)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kvoid PolynomialTraj::getMeanAndMaxVel(double&, double&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:251:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  251 |     for (int s = 0; [01;35m[Ks < times.size()[m[K; ++s)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:[m[K In member function ‘[01m[Kvoid PolynomialTraj::getMeanAndMaxAcc(double&, double&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h:290:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  290 |     for (int s = 0; [01;35m[Ks < times.size()[m[K; ++s)
+      |                     [01;35m[K~~^~~~~~~~~~~~~~[m[K

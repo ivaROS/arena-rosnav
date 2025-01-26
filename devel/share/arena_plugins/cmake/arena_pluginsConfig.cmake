@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/arena_plugins/share/arena_plugins/cmake/arena_pluginsConfig.cmake

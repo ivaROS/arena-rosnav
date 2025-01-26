@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/gazebo_utils
+
+Name: gazebo_utils
+Description: Description of gazebo_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_ros roscpp geometry_msgs pedsim_msgs

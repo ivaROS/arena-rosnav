@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/pedsim_agents
+
+Name: pedsim_agents
+Description: Description of pedsim_agents
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

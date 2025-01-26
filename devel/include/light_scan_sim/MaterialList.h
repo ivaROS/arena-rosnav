@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/light_scan_sim/include/light_scan_sim/MaterialList.h

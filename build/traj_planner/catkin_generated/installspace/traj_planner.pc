@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: traj_planner
+Description: Description of traj_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltraj_planner
+Requires: geometry_msgs nav_msgs roscpp rospy std_msgs mapping path_search

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/plan_msgs/lib/python3/dist-packages/plan_msgs/msg/_RobotStateStamped.py

@@ -1,0 +1,12 @@
+Symlinking /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.dox
+Symlinking /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig-usage.dox
+Symlinking /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.wikidoc
+Symlinking /home/az/arena_ws/devel/share/global_planner/cmake/global_plannerConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/global_planner/cmake/global_plannerConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/include/global_planner/GlobalPlannerConfig.h
+Symlinking /home/az/arena_ws/devel/lib/libglobal_planner.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/global_planner.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/GlobalPlannerConfig.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/global_planner/planner

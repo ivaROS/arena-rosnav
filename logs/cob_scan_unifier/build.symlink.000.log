@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/cob_scan_unifier/cmake/cob_scan_unifierConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/cob_scan_unifier/cmake/cob_scan_unifierConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/lib/cob_scan_unifier/scan_unifier_node
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/cob_scan_unifier.pc

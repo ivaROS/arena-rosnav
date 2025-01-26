@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig-version.cmake

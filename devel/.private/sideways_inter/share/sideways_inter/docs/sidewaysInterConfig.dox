@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~caution_detection_range" : \b [double] range for detecting pedestrians to slow robot down min: 0.0, default: 5.0, max: 50.0
+- \b "~cautious_speed" : \b [double] speed multiplicator when detecting pedestrians in robot range min: 0.01, default: 0.4, max: 1.0
+- \b "~ped_minimum_distance" : \b [double] minimum distance to pedestrians min: 0.0, default: 2.0, max: 10.0
+- \b "~temp_goal_distance" : \b [double] distance for temporary goal behind robot to evade pedestrian min: 0.0, default: 2.0, max: 10.0
+- \b "~temp_goal_tolerance" : \b [double] tolerance how many metres the robot can be away from the temp goal until normal planning starts again min: 0.0, default: 0.25, max: 2.0
+- \b "~danger_threshold" : \b [double] threshold at which warning signal is being published min: 0.0, default: 0.6, max: 1.0
+- \b "~fov" : \b [double]  min: 0.0, default: 3.141592653589793, max: 6.283185307179586
+

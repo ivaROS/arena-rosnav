@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_srvs/share/common-lisp/ros/cob_srvs/srv/cob_srvs-srv.asd

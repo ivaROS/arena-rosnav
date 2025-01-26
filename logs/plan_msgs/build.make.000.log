@@ -1,0 +1,87 @@
+[35m[1mScanning dependencies of target _plan_msgs_generate_messages_check_deps_RobotStateStamped[0m
+[  0%] Built target _plan_msgs_generate_messages_check_deps_RobotStateStamped
+[35m[1mScanning dependencies of target _plan_msgs_generate_messages_check_deps_RobotState[0m
+[  0%] Built target _plan_msgs_generate_messages_check_deps_RobotState
+[35m[1mScanning dependencies of target _plan_msgs_generate_messages_check_deps_MakeGlobalPlan[0m
+[  0%] Built target _plan_msgs_generate_messages_check_deps_MakeGlobalPlan
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _plan_msgs_generate_messages_check_deps_Subgoal[0m
+[  0%] Built target _plan_msgs_generate_messages_check_deps_Subgoal
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_cpp[0m
+[  4%] [34m[1mGenerating C++ code from plan_msgs/RobotState.msg[0m
+[  8%] [34m[1mGenerating C++ code from plan_msgs/RobotStateStamped.msg[0m
+[ 13%] [34m[1mGenerating C++ code from plan_msgs/Subgoal.srv[0m
+[ 17%] [34m[1mGenerating C++ code from plan_msgs/MakeGlobalPlan.srv[0m
+[ 17%] Built target plan_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_lisp[0m
+[ 21%] [34m[1mGenerating Lisp code from plan_msgs/RobotState.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from plan_msgs/RobotStateStamped.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from plan_msgs/Subgoal.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from plan_msgs/MakeGlobalPlan.srv[0m
+[ 34%] Built target plan_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_eus[0m
+[ 39%] [34m[1mGenerating EusLisp code from plan_msgs/RobotState.msg[0m
+[ 43%] [34m[1mGenerating EusLisp code from plan_msgs/RobotStateStamped.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from plan_msgs/Subgoal.srv[0m
+[ 52%] [34m[1mGenerating EusLisp code from plan_msgs/MakeGlobalPlan.srv[0m
+[ 56%] [34m[1mGenerating EusLisp manifest code for plan_msgs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 56%] Built target plan_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_nodejs[0m
+[ 60%] [34m[1mGenerating Javascript code from plan_msgs/RobotState.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from plan_msgs/RobotStateStamped.msg[0m
+[ 69%] [34m[1mGenerating Javascript code from plan_msgs/Subgoal.srv[0m
+[ 73%] [34m[1mGenerating Javascript code from plan_msgs/MakeGlobalPlan.srv[0m
+[ 73%] Built target plan_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_py[0m
+[ 78%] [34m[1mGenerating Python from MSG plan_msgs/RobotState[0m
+[ 82%] [34m[1mGenerating Python from MSG plan_msgs/RobotStateStamped[0m
+[ 86%] [34m[1mGenerating Python code from SRV plan_msgs/Subgoal[0m
+[ 91%] [34m[1mGenerating Python code from SRV plan_msgs/MakeGlobalPlan[0m
+[ 95%] [34m[1mGenerating Python msg __init__.py for plan_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for plan_msgs[0m
+[100%] Built target plan_msgs_generate_messages_py
+[35m[1mScanning dependencies of target plan_msgs_generate_messages[0m
+[100%] Built target plan_msgs_generate_messages

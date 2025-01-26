@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/spacial_horizon/lib/pkgconfig/spacial_horizon.pc

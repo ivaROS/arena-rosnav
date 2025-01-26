@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/mbf_abstract_nav/lib/python3/dist-packages/mbf_abstract_nav/cfg/MoveBaseFlexConfig.py

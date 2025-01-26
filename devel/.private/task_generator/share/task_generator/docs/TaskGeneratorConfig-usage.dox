@@ -1,0 +1,24 @@
+\subsubsection usage Usage
+\verbatim
+<node name="configuration" pkg="task_generator" type="configuration">
+  <param name="timeout" type="double" value="60.0" />
+  <param name="episodes" type="int" value="-1" />
+  <param name="goal_radius" type="double" value="1.0" />
+  <param name="goal_tolerance_angle" type="double" value="6.283185307179586" />
+  <param name="SCENARIO_file" type="str" value="default.json" />
+  <param name="PARAMETRIZED_file" type="str" value="default.xml" />
+  <param name="STAGED_curriculum" type="str" value="default.yaml" />
+  <param name="STAGED_index" type="int" value="0" />
+  <param name="RANDOM_static_min" type="int" value="0" />
+  <param name="RANDOM_static_max" type="int" value="0" />
+  <param name="RANDOM_static_models" type="str" value="" />
+  <param name="RANDOM_interactive_min" type="int" value="0" />
+  <param name="RANDOM_interactive_max" type="int" value="0" />
+  <param name="RANDOM_interactive_models" type="str" value="" />
+  <param name="RANDOM_dynamic_min" type="int" value="0" />
+  <param name="RANDOM_dynamic_max" type="int" value="0" />
+  <param name="RANDOM_dynamic_models" type="str" value="" />
+  <param name="RANDOM_seed" type="int" value="-1" />
+</node>
+\endverbatim
+

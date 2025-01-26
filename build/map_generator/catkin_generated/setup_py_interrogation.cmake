@@ -1,0 +1,7 @@
+set(map_generator_SETUP_PY_SETUP_MODULE "distutils.core")
+set(map_generator_SETUP_PY_VERSION "0.0.0")
+set(map_generator_SETUP_PY_SCRIPTS "")
+set(map_generator_SETUP_PY_PACKAGES "map_generator")
+set(map_generator_SETUP_PY_PACKAGE_DIRS "map_generator")
+set(map_generator_SETUP_PY_MODULES "")
+set(map_generator_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/intermediate_planner
+
+Name: intermediate_planner
+Description: Description of intermediate_planner
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include
+Libs: -L${prefix}/lib -lintermediate_planner
+Requires: roscpp rospy std_msgs nav_msgs geometry_msgs visualization_msgs plan_visualization mapping path_search traj_planner plan_msgs laser_geometry

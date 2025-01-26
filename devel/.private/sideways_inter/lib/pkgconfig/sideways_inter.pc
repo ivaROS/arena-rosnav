@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/sideways_inter
+
+Name: sideways_inter
+Description: Description of sideways_inter
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/sideways_inter/include -I/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/sideways_inter/include
+Libs: -L${prefix}/lib -lsideways_inter
+Requires: mbf_costmap_core inter_util

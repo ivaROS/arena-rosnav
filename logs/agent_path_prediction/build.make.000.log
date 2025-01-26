@@ -1,0 +1,362 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target agent_path_prediction_gencfg[0m
+[  3%] [34m[1mGenerating dynamic reconfigure files from cfg/AgentPathPrediction.cfg: /home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPathPredictionConfig.h /home/az/arena_ws/devel/.private/agent_path_prediction/lib/python3/dist-packages/agent_path_prediction/cfg/AgentPathPredictionConfig.py[0m
+Generating reconfiguration files for AgentPathPrediction in agent_path_prediction
+Wrote header file in /home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPathPredictionConfig.h
+[  3%] Built target agent_path_prediction_gencfg
+[35m[1mScanning dependencies of target _agent_path_prediction_generate_messages_check_deps_AgentPosePredict[0m
+[  3%] Built target _agent_path_prediction_generate_messages_check_deps_AgentPosePredict
+[35m[1mScanning dependencies of target _agent_path_prediction_generate_messages_check_deps_AgentGoal[0m
+[  3%] Built target _agent_path_prediction_generate_messages_check_deps_AgentGoal
+[35m[1mScanning dependencies of target _agent_path_prediction_generate_messages_check_deps_PredictedGoal[0m
+[  3%] Built target _agent_path_prediction_generate_messages_check_deps_PredictedGoal
+[35m[1mScanning dependencies of target _agent_path_prediction_generate_messages_check_deps_PredictedPoses[0m
+[  3%] Built target _agent_path_prediction_generate_messages_check_deps_PredictedPoses
+[35m[1mScanning dependencies of target _agent_path_prediction_generate_messages_check_deps_AgentPose[0m
+[  3%] Built target _agent_path_prediction_generate_messages_check_deps_AgentPose
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_py[0m
+[  3%] Built target cohan_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  3%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  3%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  3%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  3%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  3%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  3%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  3%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_cpp[0m
+[  3%] Built target cohan_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  3%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_eus[0m
+[  3%] Built target cohan_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  3%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_lisp[0m
+[  3%] Built target cohan_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  3%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  3%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_nodejs[0m
+[  3%] Built target cohan_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  3%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  3%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  3%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  3%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  3%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  3%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  3%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  3%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  3%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_lisp[0m
+[  6%] [34m[1mGenerating Lisp code from agent_path_prediction/PredictedPoses.msg[0m
+[  9%] [34m[1mGenerating Lisp code from agent_path_prediction/PredictedGoal.msg[0m
+[ 12%] [34m[1mGenerating Lisp code from agent_path_prediction/AgentPose.msg[0m
+[ 16%] [34m[1mGenerating Lisp code from agent_path_prediction/AgentPosePredict.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from agent_path_prediction/AgentGoal.srv[0m
+[ 19%] Built target agent_path_prediction_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[ 19%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 19%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 19%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[ 19%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 19%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 19%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 19%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[ 19%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 19%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 19%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 19%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[ 19%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 19%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 19%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 19%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[ 19%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[ 19%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 19%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 19%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[ 19%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 19%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 19%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 19%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 19%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 19%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 19%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[ 19%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 19%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_py[0m
+[ 22%] [34m[1mGenerating Python from MSG agent_path_prediction/PredictedPoses[0m
+[ 25%] [34m[1mGenerating Python from MSG agent_path_prediction/PredictedGoal[0m
+[ 29%] [34m[1mGenerating Python from MSG agent_path_prediction/AgentPose[0m
+[ 32%] [34m[1mGenerating Python code from SRV agent_path_prediction/AgentPosePredict[0m
+[ 35%] [34m[1mGenerating Python code from SRV agent_path_prediction/AgentGoal[0m
+[ 38%] [34m[1mGenerating Python msg __init__.py for agent_path_prediction[0m
+[ 41%] [34m[1mGenerating Python srv __init__.py for agent_path_prediction[0m
+[ 41%] Built target agent_path_prediction_generate_messages_py
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_cpp[0m
+[ 45%] [34m[1mGenerating C++ code from agent_path_prediction/PredictedPoses.msg[0m
+[ 48%] [34m[1mGenerating C++ code from agent_path_prediction/PredictedGoal.msg[0m
+[ 51%] [34m[1mGenerating C++ code from agent_path_prediction/AgentPose.msg[0m
+[ 54%] [34m[1mGenerating C++ code from agent_path_prediction/AgentPosePredict.srv[0m
+[ 58%] [34m[1mGenerating C++ code from agent_path_prediction/AgentGoal.srv[0m
+[ 58%] Built target agent_path_prediction_generate_messages_cpp
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_eus[0m
+[ 61%] [34m[1mGenerating EusLisp code from agent_path_prediction/PredictedPoses.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from agent_path_prediction/PredictedGoal.msg[0m
+[ 67%] [34m[1mGenerating EusLisp code from agent_path_prediction/AgentPose.msg[0m
+[ 70%] [34m[1mGenerating EusLisp code from agent_path_prediction/AgentPosePredict.srv[0m
+[ 74%] [34m[1mGenerating EusLisp code from agent_path_prediction/AgentGoal.srv[0m
+[ 77%] [34m[1mGenerating EusLisp manifest code for agent_path_prediction[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 77%] Built target agent_path_prediction_generate_messages_eus
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_nodejs[0m
+[ 80%] [34m[1mGenerating Javascript code from agent_path_prediction/PredictedPoses.msg[0m
+[ 83%] [34m[1mGenerating Javascript code from agent_path_prediction/PredictedGoal.msg[0m
+[ 87%] [34m[1mGenerating Javascript code from agent_path_prediction/AgentPose.msg[0m
+[ 90%] [34m[1mGenerating Javascript code from agent_path_prediction/AgentPosePredict.srv[0m
+[ 93%] [34m[1mGenerating Javascript code from agent_path_prediction/AgentGoal.srv[0m
+[ 93%] Built target agent_path_prediction_generate_messages_nodejs
+[35m[1mScanning dependencies of target agent_path_prediction[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/agent_path_prediction.dir/src/agent_path_prediction.cpp.o[0m
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h:41[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:64[m[K:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:[m[K In member function ‘[01m[Kbool agent_path_prediction::AgentPathPrediction::predictAgentsExternal(agent_path_prediction::AgentPosePredict::Request&, agent_path_prediction::AgentPosePredict::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:807:59:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’ [[01;35m[K-Wformat=[m[K]
+  807 |                                 ROS_WARN_NAMED(NODE_NAME, [01;35m[K"Failed to call %s service"[m[K,
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+  808 |                                                [32m[Kros::this_node::getNamespace() + get_plan_srv_name_.c_str()[m[K);
+      |                                                [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                               [32m[K|[m[K
+      |                                                                               [32m[Kstd::__cxx11::basic_string<char>[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:164:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  164 | #define ROS_WARN_NAMED(name, ...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, std::string(ROSCONSOLE_NAME_PREFIX) + "." + name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:807:33:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_NAMED[m[K’
+  807 |                                 [01;36m[KROS_WARN_NAMED[m[K(NODE_NAME, "Failed to call %s service",
+      |                                 [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:807:76:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  807 |                                 ROS_WARN_NAMED(NODE_NAME, "Failed to call [01;36m[K%s[m[K service",
+      |                                                                           [01;36m[K~^[m[K
+      |                                                                            [01;36m[K|[m[K
+      |                                                                            [01;36m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h:41[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:64[m[K:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:814:44:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’ [[01;35m[K-Wformat=[m[K]
+  814 |                                            [01;35m[K"%s service does not exist, re-trying to subscribe"[m[K,
+      |                                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+  815 |                                            [32m[Kros::this_node::getNamespace() + get_plan_srv_name_.c_str()[m[K);
+      |                                            [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                           [32m[K|[m[K
+      |                                                                           [32m[Kstd::__cxx11::basic_string<char>[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:164:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  164 | #define ROS_WARN_NAMED(name, ...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, std::string(ROSCONSOLE_NAME_PREFIX) + "." + name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:813:29:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_NAMED[m[K’
+  813 |                             [01;36m[KROS_WARN_NAMED[m[K(NODE_NAME,
+      |                             [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:814:46:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  814 |                                            "[01;36m[K%s[m[K service does not exist, re-trying to subscribe",
+      |                                             [01;36m[K~^[m[K
+      |                                              [01;36m[K|[m[K
+      |                                              [01;36m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h:41[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:64[m[K:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:[m[K In member function ‘[01m[Kbool agent_path_prediction::AgentPathPrediction::predictAgentsBehind(agent_path_prediction::AgentPosePredict::Request&, agent_path_prediction::AgentPosePredict::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1005:55:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’ [[01;35m[K-Wformat=[m[K]
+ 1005 |                             ROS_WARN_NAMED(NODE_NAME, [01;35m[K"Failed to call %s service"[m[K,
+      |                                                       [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ 1006 |                                            [32m[Kros::this_node::getNamespace() + get_plan_srv_name_.c_str()[m[K);
+      |                                            [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                           [32m[K|[m[K
+      |                                                                           [32m[Kstd::__cxx11::basic_string<char>[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:164:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  164 | #define ROS_WARN_NAMED(name, ...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, std::string(ROSCONSOLE_NAME_PREFIX) + "." + name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1005:29:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_NAMED[m[K’
+ 1005 |                             [01;36m[KROS_WARN_NAMED[m[K(NODE_NAME, "Failed to call %s service",
+      |                             [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1005:72:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 1005 |                             ROS_WARN_NAMED(NODE_NAME, "Failed to call [01;36m[K%s[m[K service",
+      |                                                                       [01;36m[K~^[m[K
+      |                                                                        [01;36m[K|[m[K
+      |                                                                        [01;36m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h:41[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:64[m[K:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1012:40:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’ [[01;35m[K-Wformat=[m[K]
+ 1012 |                                        [01;35m[K"%s service does not exist, re-trying to subscribe"[m[K,
+      |                                        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ 1013 |                                        [32m[Kros::this_node::getNamespace() + get_plan_srv_name_.c_str()[m[K);
+      |                                        [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                       [32m[K|[m[K
+      |                                                                       [32m[Kstd::__cxx11::basic_string<char>[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:164:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  164 | #define ROS_WARN_NAMED(name, ...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, std::string(ROSCONSOLE_NAME_PREFIX) + "." + name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1011:25:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_NAMED[m[K’
+ 1011 |                         [01;36m[KROS_WARN_NAMED[m[K(NODE_NAME,
+      |                         [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1012:42:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 1012 |                                        "[01;36m[K%s[m[K service does not exist, re-trying to subscribe",
+      |                                         [01;36m[K~^[m[K
+      |                                          [01;36m[K|[m[K
+      |                                          [01;36m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h:41[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:64[m[K:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:[m[K In member function ‘[01m[Kbool agent_path_prediction::AgentPathPrediction::predictAgentsGoal(agent_path_prediction::AgentPosePredict::Request&, agent_path_prediction::AgentPosePredict::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1188:55:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’ [[01;35m[K-Wformat=[m[K]
+ 1188 |                             ROS_WARN_NAMED(NODE_NAME, [01;35m[K"Failed to call %s service"[m[K,
+      |                                                       [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ 1189 |                                            [32m[Kros::this_node::getNamespace() + get_plan_srv_name_.c_str()[m[K);
+      |                                            [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                           [32m[K|[m[K
+      |                                                                           [32m[Kstd::__cxx11::basic_string<char>[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:164:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  164 | #define ROS_WARN_NAMED(name, ...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, std::string(ROSCONSOLE_NAME_PREFIX) + "." + name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1188:29:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_NAMED[m[K’
+ 1188 |                             [01;36m[KROS_WARN_NAMED[m[K(NODE_NAME, "Failed to call %s service",
+      |                             [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1188:72:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 1188 |                             ROS_WARN_NAMED(NODE_NAME, "Failed to call [01;36m[K%s[m[K service",
+      |                                                                       [01;36m[K~^[m[K
+      |                                                                        [01;36m[K|[m[K
+      |                                                                        [01;36m[Kchar*[m[K
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:[m[K In member function ‘[01m[Kbool agent_path_prediction::AgentPathPrediction::setExternalGoal(agent_path_prediction::AgentGoal::Request&, agent_path_prediction::AgentGoal::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/cohan/agent_path_prediction/src/agent_path_prediction.cpp:1385:5:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+ 1385 |     [01;35m[K}[m[K
+      |     [01;35m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/agent_path_prediction/lib/agent_path_prediction/agent_path_prediction[0m
+[100%] Built target agent_path_prediction
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages[0m
+[100%] Built target agent_path_prediction_generate_messages

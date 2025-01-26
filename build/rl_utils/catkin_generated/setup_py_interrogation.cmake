@@ -1,0 +1,7 @@
+set(rl_utils_SETUP_PY_SETUP_MODULE "distutils.core")
+set(rl_utils_SETUP_PY_VERSION "0.0.0")
+set(rl_utils_SETUP_PY_SCRIPTS "")
+set(rl_utils_SETUP_PY_PACKAGES "rl_utils")
+set(rl_utils_SETUP_PY_PACKAGE_DIRS "rl_utils")
+set(rl_utils_SETUP_PY_MODULES "")
+set(rl_utils_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,7 @@
+arena/arena-rosnav/utils/ros/rosnodes/map_clock_simulator
+/home/az/arena_ws/devel/.private/map_clock_simulator/cmake.lock /home/az/arena_ws/devel/./cmake.lock
+/home/az/arena_ws/devel/.private/map_clock_simulator/share/map_clock_simulator/cmake/map_clock_simulatorConfig.cmake /home/az/arena_ws/devel/share/map_clock_simulator/cmake/map_clock_simulatorConfig.cmake
+/home/az/arena_ws/devel/.private/map_clock_simulator/share/map_clock_simulator/cmake/map_clock_simulatorConfig-version.cmake /home/az/arena_ws/devel/share/map_clock_simulator/cmake/map_clock_simulatorConfig-version.cmake
+/home/az/arena_ws/devel/.private/map_clock_simulator/lib/pkgconfig/map_clock_simulator.pc /home/az/arena_ws/devel/lib/pkgconfig/map_clock_simulator.pc
+/home/az/arena_ws/devel/.private/map_clock_simulator/lib/map_clock_simulator/node.py /home/az/arena_ws/devel/lib/map_clock_simulator/node.py
+/home/az/arena_ws/devel/.private/map_clock_simulator/lib/map_clock_simulator/cmake.lock /home/az/arena_ws/devel/lib/map_clock_simulator/cmake.lock

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_base_controller_utils/share/roseus/ros/cob_base_controller_utils/manifest.l

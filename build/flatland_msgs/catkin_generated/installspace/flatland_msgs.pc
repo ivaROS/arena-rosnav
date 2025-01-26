@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: flatland_msgs
+Description: Description of flatland_msgs
+Version: 1.1.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs message_runtime

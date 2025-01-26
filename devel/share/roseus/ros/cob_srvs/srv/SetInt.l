@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_srvs/share/roseus/ros/cob_srvs/srv/SetInt.l

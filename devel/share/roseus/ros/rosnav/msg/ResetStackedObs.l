@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/rosnav/share/roseus/ros/rosnav/msg/ResetStackedObs.l

@@ -1,0 +1,5 @@
+Symlinking /home/az/arena_ws/devel/share/flatland_viz/cmake/flatland_vizConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/flatland_viz/cmake/flatland_vizConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/libflatland_viz_plugins.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/flatland_viz.pc
+Symlinking /home/az/arena_ws/devel/lib/flatland_viz/flatland_viz

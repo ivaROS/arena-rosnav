@@ -1,0 +1,47 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~numerical_filtering" : \b [bool] Numerical Filtering yes/no min: False, default: False, max: True
+- \b "~damping_method" : \b [int] The damping method to use. min: -2147483648, default: 4, max: 2147483647
+- \b "~damping_factor" : \b [double] The constant damping_factor (used in CONSTANT) min: 0.0, default: 0.01, max: 1.0
+- \b "~lambda_max" : \b [double] Value for maximum damping_factor (used in MANIPULABILITY/LSV/SIGMOID) min: 0.0, default: 0.001, max: 10.0
+- \b "~w_threshold" : \b [double] Value for manipulability threshold (used in MANIPULABILITY/SIGMOID) min: 0.0, default: 0.001, max: 0.1
+- \b "~beta" : \b [double] Beta for Low Isotropic Damping min: 0.0, default: 0.005, max: 1.0
+- \b "~slope_damping" : \b [double] Value for the activation gradient (used in SIGMOID) min: 0.001, default: 0.05, max: 0.1
+- \b "~eps_damping" : \b [double] Value for least singular value damping min: 0.0, default: 0.003, max: 1.0
+- \b "~eps_truncation" : \b [double] Value for singular value threshold (used for truncation: sing. value < eps) min: 0.0, default: 0.001, max: 1.0
+- \b "~solver" : \b [int] The solver to use (edited via an enum) min: -2147483648, default: 1, max: 2147483647
+- \b "~priority" : \b [int] Priority for the main end-effector task (important for task processing; 0 = highest prio) min: 0, default: 500, max: 1000
+- \b "~k_H" : \b [double] Self-motion factor for GPM (for both JLA and CA; multiplies the homogeneous solution).  min: -1000.0, default: 1.0, max: 1000.0
+- \b "~constraint_jla" : \b [int] The JLA constraint to use (edited via an enum) min: -2147483648, default: 1, max: 2147483647
+- \b "~priority_jla" : \b [int] Priority for the joint limit avoidance constraint (important for task processing; 0 = highest prio) min: 0, default: 50, max: 1000
+- \b "~k_H_jla" : \b [double] Self-motion factor for GPM. Special weighting for JLA constraint min: -1000.0, default: -1.0, max: 1000.0
+- \b "~activation_threshold_jla" : \b [double] In [%]. Tolerance from min and max joint positition limit. min: 0.0, default: 10.0, max: 100.0
+- \b "~activation_buffer_jla" : \b [double] In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing) min: 0.0, default: 300.0, max: 500.0
+- \b "~critical_threshold_jla" : \b [double] In [%]. Tolerance when critical region becomes active. JLA becomes task. Should be less than activation threshold (best experienced: 1/2 of activation threshold). min: 0.0, default: 5.0, max: 100.0
+- \b "~damping_jla" : \b [double] Const. damping factor for the inv. of the JLA task jacobian min: 0.0, default: 1e-06, max: 1.0
+- \b "~constraint_ca" : \b [int] The CA constraint to use (edited via an enum) min: -2147483648, default: 0, max: 2147483647
+- \b "~priority_ca" : \b [int] Priority for the collision avoidance constraint (important for task processing; 0 = highest prio). min: 0, default: 100, max: 1000
+- \b "~k_H_ca" : \b [double] Self-motion factor for GPM. Special weighting for CA constraint min: -1000.0, default: -20.0, max: 1000.0
+- \b "~activation_threshold_ca" : \b [double] The distance the constraint shall get active in [m]. min: 0.0, default: 0.1, max: 1.0
+- \b "~activation_buffer_ca" : \b [double] In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing) min: 0.0, default: 50.0, max: 100.0
+- \b "~critical_threshold_ca" : \b [double] Tolerance when critical region becomes active. CA becomes task. Should be less than activation threshold (best experienced: 1/4 of activation threshold). min: 0.0, default: 0.025, max: 1.0
+- \b "~damping_ca" : \b [double] Const. damping factor for the inv. of the CA task jacobian min: 0.0, default: 1e-06, max: 1.0
+- \b "~sigma" : \b [double] Sigma min: 0.01, default: 0.01, max: 1.0
+- \b "~sigma_speed" : \b [double] Sigma Speed min: 0.01, default: 5.0, max: 10.0
+- \b "~delta_pos" : \b [double] Delta Pos min: 0.001, default: 0.5, max: 1.0
+- \b "~delta_speed" : \b [double] Delta Speed min: 0.001, default: 1.0, max: 10.0
+- \b "~keep_direction" : \b [bool] With keep_direction the whole joint positions and velocities vector is affected by a scaling factor. Else only individual components of the vectors are affected -> direction will be changed. min: False, default: True, max: True
+- \b "~enforce_input_limits" : \b [bool] If 'True', enforce Cartesian velocity limits on input twist min: False, default: True, max: True
+- \b "~enforce_pos_limits" : \b [bool] If 'True', enforce joint position limits in TwistController, else let RobotHW handle the limits min: False, default: True, max: True
+- \b "~enforce_vel_limits" : \b [bool] If 'True', enforce joint velocity limits in TwistController, else let RobotHW handle the limits min: False, default: True, max: True
+- \b "~enforce_acc_limits" : \b [bool] If 'True', enforce joint acceleration limits in TwistController, else let RobotHW handle the limits min: False, default: False, max: True
+- \b "~limits_tolerance" : \b [double] Tolerance around joint position limits where velocities are normalized [degrees]. Must not be zero else DIV/0! min: 0.0, default: 30.0, max: 90.0
+- \b "~max_lin_twist" : \b [double] Maximum input linear velocity, twist command for the inverse kinematics solver in [m/s]. min: 0.0, default: 0.5, max: 5.0
+- \b "~max_rot_twist" : \b [double] Maximum input rotational velocity, twist command for the inverse kinematics solver in [rad/s]. min: 0.0, default: 0.5, max: 5.0
+- \b "~max_vel_lin_base" : \b [double] Maximum linear velocity to be commanded to the base in [m/s]. min: 0.0, default: 0.5, max: 1.5
+- \b "~max_vel_rot_base" : \b [double] Maximum rotational velocity to be commanded to the base in [rad/s]. min: 0.0, default: 0.5, max: 1.5
+- \b "~kinematic_extension" : \b [int] Consider additional DoF min: -2147483648, default: 0, max: 2147483647
+- \b "~extension_ratio" : \b [double] Value for ratio between chain and extension min: 0.0, default: 0.01, max: 1.0
+

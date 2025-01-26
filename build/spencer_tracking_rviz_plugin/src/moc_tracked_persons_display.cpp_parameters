@@ -1,0 +1,16 @@
+-I/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include
+-I/home/az/arena_ws/devel/.private/spencer_human_attribute_msgs/include
+-I/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/include
+-I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include/eigen3
+-I/usr/include/OGRE/Overlay
+-I/usr/include/OGRE
+-I/usr/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="spencer_tracking_rviz_plugin"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_tracked_persons_display.cpp
+/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h

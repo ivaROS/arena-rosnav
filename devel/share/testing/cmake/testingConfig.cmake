@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/testing/share/testing/cmake/testingConfig.cmake

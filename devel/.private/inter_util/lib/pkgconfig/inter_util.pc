@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/inter_util
+
+Name: inter_util
+Description: Description of inter_util
+Version: 1.0.0
+Cflags: -I/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/include
+Libs: -L${prefix}/lib -linter_util
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: plan_visualization
+Description: Description of plan_visualization
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lplan_visualization
+Requires: sensor_msgs geometry_msgs nav_msgs std_msgs roscpp

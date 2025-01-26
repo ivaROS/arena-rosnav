@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/drl_vo_barn_nav
+
+Name: drl_vo_barn_nav
+Description: Description of drl_vo_barn_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

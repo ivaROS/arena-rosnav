@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: plan_manager
+Description: Description of plan_manager
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lplan_manager
+Requires: geometry_msgs nav_msgs roscpp rospy sensor_msgs std_msgs plan_msgs plan_visualization

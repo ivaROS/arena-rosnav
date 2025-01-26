@@ -1,0 +1,9 @@
+Symlinking /home/az/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/arena_evaluation.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/arena_evaluation/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/arena_evaluation/cmake.lock
+Symlinking /home/az/arena_ws/devel/lib/arena_evaluation/create_plots
+Symlinking /home/az/arena_ws/devel/lib/arena_evaluation/process_data
+Symlinking /home/az/arena_ws/devel/lib/arena_evaluation/data_recorder_node
+Symlinking /home/az/arena_ws/devel/lib/arena_evaluation/get_metrics

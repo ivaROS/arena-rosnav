@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/rosnav/share/rosnav/cmake/rosnav-msg-paths.cmake

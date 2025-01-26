@@ -1,0 +1,11 @@
+[35m[1mScanning dependencies of target pedsim[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_agent.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_angle.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_obstacle.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_scene.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_tree.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_vector.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/ped_waypoint.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/pedsim.dir/src/types.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/pedsim/lib/libpedsim.so[0m
+[100%] Built target pedsim

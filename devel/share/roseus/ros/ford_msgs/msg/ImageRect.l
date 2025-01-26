@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/ford_msgs/share/roseus/ros/ford_msgs/msg/ImageRect.l

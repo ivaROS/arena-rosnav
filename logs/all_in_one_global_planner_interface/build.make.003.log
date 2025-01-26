@@ -1,0 +1,19 @@
+[  0%] Built target _all_in_one_global_planner_interface_generate_messages_check_deps_MakeNewPlan
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  9%] Built target all_in_one_global_planner_interface_generate_messages_cpp
+[ 27%] Built target all_in_one_global_planner_interface_generate_messages_py
+[ 36%] Built target all_in_one_global_planner_interface_generate_messages_nodejs
+[ 45%] Built target all_in_one_global_planner_interface_generate_messages_lisp
+[ 63%] Built target all_in_one_global_planner_interface_generate_messages_eus
+[ 63%] Built target all_in_one_global_planner_interface_generate_messages
+[ 81%] Built target all_in_one_global_planner_interface
+[100%] Built target GlobalPlannerInterface

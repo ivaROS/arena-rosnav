@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: arena_plugins
+Description: Description of arena_plugins
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -larena_plugins_lib
+Requires: pluginlib roscpp flatland_server std_msgs

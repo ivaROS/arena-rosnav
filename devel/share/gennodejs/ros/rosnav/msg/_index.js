@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/msg/_index.js

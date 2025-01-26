@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_control_msgs/lib/python3/dist-packages/cob_control_msgs/srv/_GetObstacleDistance.py

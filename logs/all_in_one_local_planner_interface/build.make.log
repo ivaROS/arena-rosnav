@@ -1,0 +1,22 @@
+[  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmdWithGlobalPlan
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmd
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_SetGlobalPlan
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_ResetCostmap
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[ 15%] Built target all_in_one_local_planner_interface_generate_messages_cpp
+[ 34%] Built target all_in_one_local_planner_interface_generate_messages_py
+[ 50%] Built target all_in_one_local_planner_interface_generate_messages_lisp
+[ 65%] Built target all_in_one_local_planner_interface_generate_messages_nodejs
+[ 84%] Built target all_in_one_local_planner_interface_generate_messages_eus
+[ 84%] Built target all_in_one_local_planner_interface_generate_messages
+[ 92%] Built target all_in_one_local_planner_interface
+[100%] Built target all_in_one_local_planner_node

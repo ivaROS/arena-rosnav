@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/barn_msgs/share/gennodejs/ros/barn_msgs/_index.js

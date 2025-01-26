@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/plan_msgs
+
+Name: plan_msgs
+Description: Description of plan_msgs
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/plan_msgs/include
+Libs: -L${prefix}/lib 
+Requires: 

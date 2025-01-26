@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/plan_visualization/cmake/plan_visualizationConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/plan_visualization/cmake/plan_visualizationConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/libplan_visualization.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/plan_visualization.pc

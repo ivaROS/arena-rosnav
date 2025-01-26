@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/MaterialList.lisp

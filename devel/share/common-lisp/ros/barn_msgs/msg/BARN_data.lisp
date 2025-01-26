@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/barn_msgs/share/common-lisp/ros/barn_msgs/msg/BARN_data.lisp

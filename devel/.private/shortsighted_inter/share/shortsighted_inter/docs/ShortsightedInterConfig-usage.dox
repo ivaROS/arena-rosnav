@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="shortsighted_inter" pkg="shortsighted_inter" type="shortsighted_inter">
+  <param name="vision_limit" type="double" value="0.2" />
+  <param name="min_poses" type="int" value="20" />
+</node>
+\endverbatim
+

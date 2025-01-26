@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/barn_msgs/lib/pkgconfig/barn_msgs.pc

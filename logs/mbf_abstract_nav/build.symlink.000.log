@@ -1,0 +1,11 @@
+Symlinking /home/az/arena_ws/devel/share/mbf_abstract_nav/docs/MoveBaseFlexConfig-usage.dox
+Symlinking /home/az/arena_ws/devel/share/mbf_abstract_nav/docs/MoveBaseFlexConfig.wikidoc
+Symlinking /home/az/arena_ws/devel/share/mbf_abstract_nav/docs/MoveBaseFlexConfig.dox
+Symlinking /home/az/arena_ws/devel/share/mbf_abstract_nav/cmake/mbf_abstract_navConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/mbf_abstract_nav/cmake/mbf_abstract_navConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/include/mbf_abstract_nav/MoveBaseFlexConfig.h
+Symlinking /home/az/arena_ws/devel/lib/libmbf_abstract_server.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/mbf_abstract_nav.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/mbf_abstract_nav/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/mbf_abstract_nav/cfg/MoveBaseFlexConfig.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/mbf_abstract_nav/cfg/__init__.py

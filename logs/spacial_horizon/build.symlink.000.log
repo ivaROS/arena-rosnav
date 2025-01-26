@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/spacial_horizon.pc
+Symlinking /home/az/arena_ws/devel/lib/spacial_horizon/spacial_horizon_node

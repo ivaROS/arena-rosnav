@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/aggressive_inter
+
+Name: aggressive_inter
+Description: Description of aggressive_inter
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/aggressive_inter/include -I/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/aggressive_inter/include
+Libs: -L${prefix}/lib -laggressive_inter
+Requires: mbf_costmap_core inter_util

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/LfH/share/common-lisp/ros/LfH/msg/LfH-msg.asd

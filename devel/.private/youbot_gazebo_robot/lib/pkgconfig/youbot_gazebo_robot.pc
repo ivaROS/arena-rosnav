@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/youbot_gazebo_robot
+
+Name: youbot_gazebo_robot
+Description: Description of youbot_gazebo_robot
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_ros robot_state_publisher youbot_gazebo_control youbot_gazebo_worlds

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/invisible_humans_detection/lib/pkgconfig/invisible_humans_detection.pc

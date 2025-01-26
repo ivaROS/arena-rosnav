@@ -1,0 +1,7 @@
+set(generic_throttle_SETUP_PY_SETUP_MODULE "setuptools")
+set(generic_throttle_SETUP_PY_VERSION "0.6.27")
+set(generic_throttle_SETUP_PY_SCRIPTS "")
+set(generic_throttle_SETUP_PY_PACKAGES "generic_throttle")
+set(generic_throttle_SETUP_PY_PACKAGE_DIRS "src/generic_throttle")
+set(generic_throttle_SETUP_PY_MODULES "")
+set(generic_throttle_SETUP_PY_MODULE_DIRS "")

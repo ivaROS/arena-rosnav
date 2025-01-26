@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/libmapping.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/mapping.pc

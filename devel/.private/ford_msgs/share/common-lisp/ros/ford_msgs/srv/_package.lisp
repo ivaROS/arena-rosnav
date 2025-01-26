@@ -1,0 +1,10 @@
+(cl:defpackage ford_msgs-srv
+  (:use )
+  (:export
+   "GETSAFEACTIONS"
+   "<GETSAFEACTIONS-REQUEST>"
+   "GETSAFEACTIONS-REQUEST"
+   "<GETSAFEACTIONS-RESPONSE>"
+   "GETSAFEACTIONS-RESPONSE"
+  ))
+

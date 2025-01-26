@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_careobot_st_jla_ca_selfcollision_arm_left_internal_motion.py

@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/polite_inter/lib/python3/dist-packages/polite_inter/cfg/PoliteInterConfig.py

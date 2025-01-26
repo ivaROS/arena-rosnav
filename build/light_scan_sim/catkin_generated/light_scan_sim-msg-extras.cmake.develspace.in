@@ -1,0 +1,2 @@
+set(light_scan_sim_MESSAGE_FILES "/home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/msg/Segment.msg;/home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/msg/SegmentList.msg;/home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/msg/Material.msg;/home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/msg/MaterialList.msg")
+set(light_scan_sim_SERVICE_FILES "")

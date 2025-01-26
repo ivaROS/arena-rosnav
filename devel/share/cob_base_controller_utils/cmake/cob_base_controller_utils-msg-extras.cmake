@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_base_controller_utils/share/cob_base_controller_utils/cmake/cob_base_controller_utils-msg-extras.cmake

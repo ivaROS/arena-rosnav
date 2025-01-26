@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/eval
+
+Name: eval
+Description: Description of eval
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

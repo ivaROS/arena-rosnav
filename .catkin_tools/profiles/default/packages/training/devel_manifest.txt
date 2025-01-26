@@ -1,0 +1,25 @@
+arena/arena-rosnav/training
+/home/az/arena_ws/devel/.private/training/cmake.lock /home/az/arena_ws/devel/./cmake.lock
+/home/az/arena_ws/devel/.private/training/share/roseus/ros/training/manifest.l /home/az/arena_ws/devel/share/roseus/ros/training/manifest.l
+/home/az/arena_ws/devel/.private/training/share/roseus/ros/training/srv/String.l /home/az/arena_ws/devel/share/roseus/ros/training/srv/String.l
+/home/az/arena_ws/devel/.private/training/share/common-lisp/ros/training/srv/_package_String.lisp /home/az/arena_ws/devel/share/common-lisp/ros/training/srv/_package_String.lisp
+/home/az/arena_ws/devel/.private/training/share/common-lisp/ros/training/srv/_package.lisp /home/az/arena_ws/devel/share/common-lisp/ros/training/srv/_package.lisp
+/home/az/arena_ws/devel/.private/training/share/common-lisp/ros/training/srv/training-srv.asd /home/az/arena_ws/devel/share/common-lisp/ros/training/srv/training-srv.asd
+/home/az/arena_ws/devel/.private/training/share/common-lisp/ros/training/srv/String.lisp /home/az/arena_ws/devel/share/common-lisp/ros/training/srv/String.lisp
+/home/az/arena_ws/devel/.private/training/share/gennodejs/ros/training/_index.js /home/az/arena_ws/devel/share/gennodejs/ros/training/_index.js
+/home/az/arena_ws/devel/.private/training/share/gennodejs/ros/training/srv/_index.js /home/az/arena_ws/devel/share/gennodejs/ros/training/srv/_index.js
+/home/az/arena_ws/devel/.private/training/share/gennodejs/ros/training/srv/String.js /home/az/arena_ws/devel/share/gennodejs/ros/training/srv/String.js
+/home/az/arena_ws/devel/.private/training/share/training/cmake/trainingConfig-version.cmake /home/az/arena_ws/devel/share/training/cmake/trainingConfig-version.cmake
+/home/az/arena_ws/devel/.private/training/share/training/cmake/training-msg-extras.cmake /home/az/arena_ws/devel/share/training/cmake/training-msg-extras.cmake
+/home/az/arena_ws/devel/.private/training/share/training/cmake/training-msg-paths.cmake /home/az/arena_ws/devel/share/training/cmake/training-msg-paths.cmake
+/home/az/arena_ws/devel/.private/training/share/training/cmake/trainingConfig.cmake /home/az/arena_ws/devel/share/training/cmake/trainingConfig.cmake
+/home/az/arena_ws/devel/.private/training/include/training/StringRequest.h /home/az/arena_ws/devel/include/training/StringRequest.h
+/home/az/arena_ws/devel/.private/training/include/training/StringResponse.h /home/az/arena_ws/devel/include/training/StringResponse.h
+/home/az/arena_ws/devel/.private/training/include/training/String.h /home/az/arena_ws/devel/include/training/String.h
+/home/az/arena_ws/devel/.private/training/lib/pkgconfig/training.pc /home/az/arena_ws/devel/lib/pkgconfig/training.pc
+/home/az/arena_ws/devel/.private/training/lib/python3/dist-packages/training/__init__.py /home/az/arena_ws/devel/lib/python3/dist-packages/training/__init__.py
+/home/az/arena_ws/devel/.private/training/lib/python3/dist-packages/training/srv/__init__.py /home/az/arena_ws/devel/lib/python3/dist-packages/training/srv/__init__.py
+/home/az/arena_ws/devel/.private/training/lib/python3/dist-packages/training/srv/_String.py /home/az/arena_ws/devel/lib/python3/dist-packages/training/srv/_String.py
+/home/az/arena_ws/devel/.private/training/lib/python3/dist-packages/tools/__init__.py /home/az/arena_ws/devel/lib/python3/dist-packages/tools/__init__.py
+/home/az/arena_ws/devel/.private/training/lib/training/cmake.lock /home/az/arena_ws/devel/lib/training/cmake.lock
+/home/az/arena_ws/devel/.private/training/lib/training/train_agent.py /home/az/arena_ws/devel/lib/training/train_agent.py

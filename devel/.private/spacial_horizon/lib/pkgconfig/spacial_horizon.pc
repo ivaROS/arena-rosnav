@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/spacial_horizon
+
+Name: spacial_horizon
+Description: Description of spacial_horizon
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include
+Libs: -L${prefix}/lib 
+Requires: visualization_msgs geometry_msgs nav_msgs roscpp rospy std_msgs tf actionlib

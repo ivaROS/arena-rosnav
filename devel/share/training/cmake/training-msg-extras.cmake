@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/training/share/training/cmake/training-msg-extras.cmake

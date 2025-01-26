@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/ridgeback_gazebo_plugins
+
+Name: ridgeback_gazebo_plugins
+Description: Description of ridgeback_gazebo_plugins
+Version: 0.2.0
+Cflags: -I/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs tf message_runtime

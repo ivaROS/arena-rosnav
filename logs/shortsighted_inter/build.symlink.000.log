@@ -1,0 +1,11 @@
+Symlinking /home/az/arena_ws/devel/share/shortsighted_inter/docs/ShortsightedInterConfig.dox
+Symlinking /home/az/arena_ws/devel/share/shortsighted_inter/docs/ShortsightedInterConfig-usage.dox
+Symlinking /home/az/arena_ws/devel/share/shortsighted_inter/docs/ShortsightedInterConfig.wikidoc
+Symlinking /home/az/arena_ws/devel/share/shortsighted_inter/cmake/shortsighted_interConfig.cmake
+Symlinking /home/az/arena_ws/devel/share/shortsighted_inter/cmake/shortsighted_interConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/include/shortsighted_inter/ShortsightedInterConfig.h
+Symlinking /home/az/arena_ws/devel/lib/libshortsighted_inter.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/shortsighted_inter.pc
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/shortsighted_inter/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/shortsighted_inter/cfg/__init__.py
+Symlinking /home/az/arena_ws/devel/lib/python3/dist-packages/shortsighted_inter/cfg/ShortsightedInterConfig.py

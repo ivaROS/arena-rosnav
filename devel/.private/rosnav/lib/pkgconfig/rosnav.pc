@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/rosnav
+
+Name: rosnav
+Description: Description of rosnav
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/rosnav/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

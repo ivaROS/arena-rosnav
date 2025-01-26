@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~enabled" : \b [bool] Whether to apply this plugin or not min: False, default: True, max: True
+- \b "~combination_method" : \b [int] Method for combining two layers min: -2147483648, default: 1, max: 2147483647
+

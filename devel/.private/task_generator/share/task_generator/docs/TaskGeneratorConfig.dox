@@ -1,0 +1,23 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~timeout" : \b [double] episode timeout in seconds min: -std::numeric_limits<double>::infinity(), default: 60.0, max: std::numeric_limits<double>::infinity()
+- \b "~episodes" : \b [int] desired episodes min: -2147483648, default: -1, max: 2147483647
+- \b "~goal_radius" : \b [double] default maximum distance from goal min: -std::numeric_limits<double>::infinity(), default: 1.0, max: std::numeric_limits<double>::infinity()
+- \b "~goal_tolerance_angle" : \b [double] default maximum angle deviation from goal min: -std::numeric_limits<double>::infinity(), default: 6.283185307179586, max: std::numeric_limits<double>::infinity()
+- \b "~SCENARIO_file" : \b [str] scenario file name min: , default: default.json, max: 
+- \b "~PARAMETRIZED_file" : \b [str] parametrized XML name min: , default: default.xml, max: 
+- \b "~STAGED_curriculum" : \b [str] curriculum file name min: , default: default.yaml, max: 
+- \b "~STAGED_index" : \b [int] starting stage min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_static_min" : \b [int] static min min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_static_max" : \b [int] static max min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_static_models" : \b [str] static models min: , default: , max: 
+- \b "~RANDOM_interactive_min" : \b [int] interactive min min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_interactive_max" : \b [int] interactive max min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_interactive_models" : \b [str] interactive models min: , default: , max: 
+- \b "~RANDOM_dynamic_min" : \b [int] dynamic min min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_dynamic_max" : \b [int] dynamic max min: 0, default: 0, max: 2147483647
+- \b "~RANDOM_dynamic_models" : \b [str] dynamic models min: , default: , max: 
+- \b "~RANDOM_seed" : \b [int] random seed min: -2147483648, default: -1, max: 2147483647
+

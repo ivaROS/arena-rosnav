@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/map_distance_server
+
+Name: map_distance_server
+Description: Description of map_distance_server
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/map_distance_server/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime nav_msgs

@@ -1,0 +1,469 @@
+[35m[1mScanning dependencies of target pedsim_simulator_gencfg[0m
+[  1%] [34m[1mGenerating dynamic reconfigure files from config/PedsimSimulator.cfg: /home/az/arena_ws/devel/.private/pedsim_simulator/include/pedsim_simulator/PedsimSimulatorConfig.h /home/az/arena_ws/devel/.private/pedsim_simulator/lib/python3/dist-packages/pedsim_simulator/cfg/PedsimSimulatorConfig.py[0m
+Generating reconfiguration files for PedsimSimulator in pedsim_simulator
+Wrote header file in /home/az/arena_ws/devel/.private/pedsim_simulator/include/pedsim_simulator/PedsimSimulatorConfig.h
+[  1%] Built target pedsim_simulator_gencfg
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  1%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_py[0m
+[  1%] Built target flatland_msgs_generate_messages_py
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_nodejs[0m
+[  1%] Built target flatland_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_lisp[0m
+[  1%] Built target flatland_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_cpp[0m
+[  1%] Built target flatland_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  1%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  1%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  1%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  1%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  1%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  1%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  1%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  1%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  1%] Built target std_msgs_generate_messages_nodejs
+[  1%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  1%] Built target pedsim_msgs_generate_messages_eus
+[  1%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_cpp[0m
+[  1%] Built target pedsim_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_nodejs[0m
+[  1%] Built target pedsim_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  1%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  1%] Built target std_msgs_generate_messages_cpp
+[  1%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  1%] Built target pedsim_msgs_generate_messages_lisp
+[  1%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  1%] Built target actionlib_msgs_generate_messages_py
+[  1%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  1%] Built target roscpp_generate_messages_lisp
+[  1%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_nodejs[0m
+[  1%] Built target pedsim_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  1%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  1%] Built target std_srvs_generate_messages_nodejs
+[  1%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  1%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  1%] Built target dynamic_reconfigure_generate_messages_py
+[  1%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  1%] Built target rosgraph_msgs_generate_messages_py
+[  1%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  1%] Built target roscpp_generate_messages_cpp
+[  1%] Built target sensor_msgs_generate_messages_lisp
+[  1%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  1%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  1%] Built target dynamic_reconfigure_generate_messages_eus
+[  1%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  1%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  1%] Built target pedsim_srvs_generate_messages_lisp
+[  1%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  1%] Built target tf_generate_messages_cpp
+[  1%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  1%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  1%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  1%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  1%] Built target rosgraph_msgs_generate_messages_eus
+[  1%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_py[0m
+[  1%] Built target tf2_msgs_generate_messages_eus
+[  1%] Built target geometry_msgs_generate_messages_py
+[  1%] Built target pedsim_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  1%] Built target sensor_msgs_generate_messages_py
+[  1%] Built target nav_msgs_generate_messages_nodejs
+[  1%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  1%] Built target sensor_msgs_generate_messages_nodejs
+[  1%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  1%] Built target actionlib_msgs_generate_messages_cpp
+[  1%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  1%] Built target std_msgs_generate_messages_eus
+[  1%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  1%] Built target actionlib_msgs_generate_messages_nodejs
+[  1%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  1%] Built target tf2_msgs_generate_messages_cpp
+[  1%] Built target pedsim_srvs_generate_messages_py
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_eus[0m
+[  1%] Built target flatland_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  1%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_cpp[0m
+[  1%] Built target pedsim_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_eus[0m
+[  1%] Built target pedsim_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  1%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  1%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  1%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target simulate_diff_drive_robot_autogen[0m
+[  2%] [34m[1mAutomatic MOC and UIC for target simulate_diff_drive_robot[0m
+[  2%] Built target simulate_diff_drive_robot_autogen
+[35m[1mScanning dependencies of target pedsim_simulator_autogen[0m
+[  3%] [34m[1mAutomatic MOC and UIC for target pedsim_simulator[0m
+[  3%] Built target pedsim_simulator_autogen
+[35m[1mScanning dependencies of target simulate_diff_drive_robot[0m
+[  4%] [32mBuilding CXX object CMakeFiles/simulate_diff_drive_robot.dir/simulate_diff_drive_robot_autogen/mocs_compilation.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/simulate_diff_drive_robot.dir/src/simulate_diff_drive_robot.cpp.o[0m
+[  6%] [34m[1mGenerating include/pedsim_simulator/waypointplanner/moc_queueingplanner.cpp[0m
+[  7%] [34m[1mGenerating include/pedsim_simulator/moc_config.cpp[0m
+[  8%] [34m[1mGenerating include/pedsim_simulator/moc_scene.cpp[0m
+[  9%] [34m[1mGenerating include/pedsim_simulator/moc_agentstatemachine.cpp[0m
+[ 10%] [34m[1mGenerating include/pedsim_simulator/moc_scene_services.cpp[0m
+[ 11%] [34m[1mGenerating include/pedsim_simulator/moc_agent_pose_stamped.cpp[0m
+/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene_services.h:0: Note: No relevant classes found. No output generated.
+[ 12%] [34m[1mGenerating include/pedsim_simulator/element/moc_scenarioelement.cpp[0m
+[ 13%] [34m[1mGenerating include/pedsim_simulator/element/moc_robot.cpp[0m
+/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agent_pose_stamped.h:0: Note: No relevant classes found. No output generated.
+[ 15%] [34m[1mGenerating include/pedsim_simulator/element/moc_agent.cpp[0m
+[ 16%] [34m[1mGenerating include/pedsim_simulator/element/moc_agentcluster.cpp[0m
+[ 17%] [34m[1mGenerating include/pedsim_simulator/element/moc_agentgroup.cpp[0m
+[ 18%] [34m[1mGenerating include/pedsim_simulator/element/moc_attractionarea.cpp[0m
+[ 19%] [34m[1mGenerating include/pedsim_simulator/element/moc_obstacle.cpp[0m
+[ 20%] [34m[1mGenerating include/pedsim_simulator/element/moc_wall.cpp[0m
+[ 21%] [34m[1mGenerating include/pedsim_simulator/element/moc_waypoint.cpp[0m
+[ 22%] [34m[1mGenerating include/pedsim_simulator/element/moc_areawaypoint.cpp[0m
+[ 23%] [34m[1mGenerating include/pedsim_simulator/element/moc_waitingqueue.cpp[0m
+[ 24%] [34m[1mGenerating include/pedsim_simulator/element/moc_queueingwaypoint.cpp[0m
+[ 25%] [34m[1mGenerating include/pedsim_simulator/force/moc_force.cpp[0m
+[ 26%] [34m[1mGenerating include/pedsim_simulator/force/moc_randomforce.cpp[0m
+[ 27%] [34m[1mGenerating include/pedsim_simulator/force/moc_groupgazeforce.cpp[0m
+[ 29%] [34m[1mGenerating include/pedsim_simulator/force/moc_groupcoherenceforce.cpp[0m
+/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:10: Note: No relevant classes found. No output generated.
+[ 30%] [34m[1mGenerating include/pedsim_simulator/force/moc_grouprepulsionforce.cpp[0m
+[ 31%] [34m[1mGenerating include/pedsim_simulator/force/moc_alongwallforce.cpp[0m
+[ 32%] [34m[1mGenerating include/pedsim_simulator/waypointplanner/moc_waypointplanner.cpp[0m
+[ 33%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/pedsim_simulator/lib/pedsim_simulator/simulate_diff_drive_robot[0m
+[ 34%] [34m[1mGenerating include/pedsim_simulator/waypointplanner/moc_individualwaypointplanner.cpp[0m
+[ 35%] [34m[1mGenerating include/pedsim_simulator/waypointplanner/moc_groupwaypointplanner.cpp[0m
+[ 36%] [34m[1mGenerating include/pedsim_simulator/waypointplanner/moc_shoppingplanner.cpp[0m
+[ 36%] Built target simulate_diff_drive_robot
+[35m[1mScanning dependencies of target pedsim_simulator[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/pedsim_simulator_autogen/mocs_compilation.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/simulator_node.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/simulator.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/simulator.h:70[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator_node.cpp:61[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 40%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/scene.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::initializeSimulation()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:163:8:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kenv_is_flatland[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  163 |   bool [01;35m[Kenv_is_flatland[m[K = true;
+      |        [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::reconfigureCB(pedsim_simulator::PedsimSimulatorConfig&, uint32_t)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:216:40:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klevel[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  216 |                               [01;35m[Kuint32_t level[m[K)
+      |                               [01;35m[K~~~~~~~~~^~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onPauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:242:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  242 | bool Simulator::onPauseSimulation([01;35m[Kstd_srvs::Empty::Request &request[m[K,
+      |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:243:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  243 |                                   [01;35m[Kstd_srvs::Empty::Response &response[m[K)
+      |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onUnpauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:249:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  249 | bool Simulator::onUnpauseSimulation([01;35m[Kstd_srvs::Empty::Request &request[m[K,
+      |                                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:250:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  250 |                                     [01;35m[Kstd_srvs::Empty::Response &response[m[K)
+      |                                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::spawnCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:256:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  256 | void Simulator::spawnCallback([01;35m[Kconst ros::TimerEvent &event[m[K)
+      |                               [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In constructor ‘[01m[KScene::Scene(QObject*)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:55:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   55 | Scene::Scene([01;35m[KQObject* parent[m[K) {
+      |              [01;35m[K~~~~~~~~~^~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In member function ‘[01m[Kvirtual bool Scene::removeAllObstacles()[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:692:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  692 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[ 41%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/config.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:37[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 43%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/agentstatemachine.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:33[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:[m[K In constructor ‘[01m[KConfig::Config(QObject*)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:37:25:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   37 | Config::Config([01;35m[KQObject* parent[m[K) {
+      |                [01;35m[K~~~~~~~~~^~~~~~[m[K
+[ 44%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/scenarioreader.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/rng.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/scene_services.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/agent_pose_stamped.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/agent.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agentstatemachine.cpp:39[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 49%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/agentgroup.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scenarioreader.cpp:36[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 50%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/agentcluster.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/areawaypoint.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllPeds(std_srvs::SetBool::Request&, std_srvs::SetBool::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:116:66:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  116 | bool SceneServices::cb_removeAllPeds([01;35m[Kstd_srvs::SetBool::Request &request[m[K,
+      |                                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllObstacles(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:325:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  325 | bool SceneServices::cb_removeAllObstacles([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
+      |                                           [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_resetPeds(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:343:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  343 | bool SceneServices::cb_resetPeds([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
+      |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_clearWalls(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:540:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  540 | bool SceneServices::cb_clearWalls([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
+      |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[ 52%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/attractionarea.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:15[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:[m[K In member function ‘[01m[Kvoid AgentGroup::onPositionChanged(double, double)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  100 | void AgentGroup::onPositionChanged([01;35m[Kdouble x[m[K, double y) {
+      |                                    [01;35m[K~~~~~~~^[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:53:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ky[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  100 | void AgentGroup::onPositionChanged(double x, [01;35m[Kdouble y[m[K) {
+      |                                              [01;35m[K~~~~~~~^[m[K
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agent.cpp:38[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 52%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/queueingwaypoint.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentcluster.cpp:35[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 53%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/waitingqueue.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/waypoint.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/wall.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/scenarioelement.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/element/robot.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector QueueingWaypoint::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:82:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KposIn[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   82 | Ped::Tvector QueueingWaypoint::closestPoint([01;35m[Kconst Ped::Tvector& posIn[m[K,
+      |                                             [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:83:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   83 |                                             [01;35m[Kbool* withinWaypoint[m[K) const {
+      |                                             [01;35m[K~~~~~~^~~~~~~~~~~~~~[m[K
+[ 59%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/alongwallforce.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/force.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/groupcoherenceforce.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/wall.cpp:32[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 62%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/groupgazeforce.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector WaitingQueue::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:234:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kp[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  234 | Ped::Tvector WaitingQueue::closestPoint([01;35m[Kconst Ped::Tvector& p[m[K,
+      |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~^[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:235:47:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  235 |                                         [01;35m[Kbool* withinWaypoint[m[K) const {
+      |                                         [01;35m[K~~~~~~^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:36[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 63%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/grouprepulsionforce.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupCoherenceForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   56 | Ped::Tvector GroupCoherenceForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
+      |                                            [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+[ 64%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/force/randomforce.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/alongwallforce.cpp:34[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 65%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/waypointplanner/individualwaypointplanner.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/waypointplanner/queueingplanner.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/waypointplanner/shoppingplanner.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/src/waypointplanner/groupwaypointplanner.cpp.o[0m
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupRepulsionForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   56 | Ped::Tvector GroupRepulsionForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
+      |                                            [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector RandomForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:77:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   77 | Ped::Tvector RandomForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
+      |                                    [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+[ 69%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/moc_config.cpp.o[0m
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agentstatemachine.h:36[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agent.h:39[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:32[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:[m[K In member function ‘[01m[Kvoid QueueingWaypointPlanner::setDestination(Waypoint*)[m[K’:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:152:9:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kconst id[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+  152 |         [01;35m[K"Waypoint provided to QueueingWaypointPlanner isn't a waiting queue! "[m[K
+      |         [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+  153 | [01;35m[K        "(%s)"[m[K,
+      |         [01;35m[K~~~~~~[m[K
+  154 |         [32m[K(waypointIn == nullptr) ? pedsim::id_null[m[K
+      |         [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                 [32m[K|[m[K
+      |                                 [32m[Kconst id {aka const std::__cxx11::basic_string<char>}[m[K
+  155 | [32m[K                                : waypointIn->toString().toStdString().c_str()[m[K);
+      |                                 [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                        [01;36m[K^~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:151:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+  151 |     [01;36m[KROS_ERROR[m[K(
+      |     [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:153:12:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  153 |         "([01;36m[K%s[m[K)",
+      |           [01;36m[K~^[m[K
+      |            [01;36m[K|[m[K
+      |            [01;36m[Kchar*[m[K
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:35[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 70%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/moc_scene.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/moc_agentstatemachine.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/shoppingplanner.cpp:33[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 73%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/moc_scene_services.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/moc_agent_pose_stamped.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_scenarioelement.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_robot.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_agent.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_agentcluster.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_agentgroup.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_attractionarea.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_obstacle.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_wall.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/moc_scene.cpp:9[m[K:
+[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 83%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_waypoint.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_areawaypoint.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_waitingqueue.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/element/moc_queueingwaypoint.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_force.cpp.o[0m
+In file included from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/moc_wall.cpp:9[m[K:
+[01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/../../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 89%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_randomforce.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_groupgazeforce.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_groupcoherenceforce.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_grouprepulsionforce.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/force/moc_alongwallforce.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/waypointplanner/moc_waypointplanner.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/waypointplanner/moc_individualwaypointplanner.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/waypointplanner/moc_groupwaypointplanner.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/waypointplanner/moc_shoppingplanner.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/pedsim_simulator.dir/include/pedsim_simulator/waypointplanner/moc_queueingplanner.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/pedsim_simulator/lib/pedsim_simulator/pedsim_simulator[0m
+[100%] Built target pedsim_simulator

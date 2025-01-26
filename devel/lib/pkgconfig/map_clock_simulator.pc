@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/map_clock_simulator/lib/pkgconfig/map_clock_simulator.pc

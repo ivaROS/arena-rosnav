@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/plan_msgs/share/common-lisp/ros/plan_msgs/msg/RobotStateStamped.lisp

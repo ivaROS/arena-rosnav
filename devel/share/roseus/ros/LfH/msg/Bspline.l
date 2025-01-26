@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/LfH/share/roseus/ros/LfH/msg/Bspline.l

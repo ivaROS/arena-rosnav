@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/youbot_description/share/youbot_description/cmake/youbot_descriptionConfig.cmake

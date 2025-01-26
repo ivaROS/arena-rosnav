@@ -1,0 +1,2 @@
+set(plan_msgs_MESSAGE_FILES "/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg;/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotStateStamped.msg")
+set(plan_msgs_SERVICE_FILES "/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/Subgoal.srv;/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/MakeGlobalPlan.srv")

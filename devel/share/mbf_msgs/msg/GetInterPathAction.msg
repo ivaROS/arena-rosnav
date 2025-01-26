@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/mbf_msgs/share/mbf_msgs/msg/GetInterPathAction.msg

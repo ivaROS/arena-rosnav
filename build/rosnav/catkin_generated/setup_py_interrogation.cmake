@@ -1,0 +1,7 @@
+set(rosnav_SETUP_PY_SETUP_MODULE "distutils.core")
+set(rosnav_SETUP_PY_VERSION "0.0.0")
+set(rosnav_SETUP_PY_SCRIPTS "")
+set(rosnav_SETUP_PY_PACKAGES "rosnav")
+set(rosnav_SETUP_PY_PACKAGE_DIRS "rosnav")
+set(rosnav_SETUP_PY_MODULES "")
+set(rosnav_SETUP_PY_MODULE_DIRS "")

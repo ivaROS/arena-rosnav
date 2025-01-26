@@ -1,0 +1,4 @@
+Symlinking /home/az/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake
+Symlinking /home/az/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+Symlinking /home/az/arena_ws/devel/lib/librviz_plugins.so
+Symlinking /home/az/arena_ws/devel/lib/pkgconfig/rviz_plugins.pc

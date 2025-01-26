@@ -1,0 +1,7 @@
+set(pedsim_agents_SETUP_PY_SETUP_MODULE "distutils.core")
+set(pedsim_agents_SETUP_PY_VERSION "0.0.0")
+set(pedsim_agents_SETUP_PY_SCRIPTS "")
+set(pedsim_agents_SETUP_PY_PACKAGES "pedsim_agents")
+set(pedsim_agents_SETUP_PY_PACKAGE_DIRS "src/pedsim_agents")
+set(pedsim_agents_SETUP_PY_MODULES "")
+set(pedsim_agents_SETUP_PY_MODULE_DIRS "")

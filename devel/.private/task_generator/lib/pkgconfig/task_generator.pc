@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/task_generator
+
+Name: task_generator
+Description: Description of task_generator
+Version: 0.0.0
+Cflags: -I/home/az/arena_ws/devel/.private/task_generator/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: barn_challenge
+Description: Description of barn_challenge
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lfarm_planner_lib
+Requires: 

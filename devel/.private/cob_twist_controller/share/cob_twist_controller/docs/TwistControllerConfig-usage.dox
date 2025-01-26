@@ -1,0 +1,48 @@
+\subsubsection usage Usage
+\verbatim
+<node name="cob_twist_controller" pkg="cob_twist_controller" type="cob_twist_controller">
+  <param name="numerical_filtering" type="bool" value="False" />
+  <param name="damping_method" type="int" value="4" />
+  <param name="damping_factor" type="double" value="0.01" />
+  <param name="lambda_max" type="double" value="0.001" />
+  <param name="w_threshold" type="double" value="0.001" />
+  <param name="beta" type="double" value="0.005" />
+  <param name="slope_damping" type="double" value="0.05" />
+  <param name="eps_damping" type="double" value="0.003" />
+  <param name="eps_truncation" type="double" value="0.001" />
+  <param name="solver" type="int" value="1" />
+  <param name="priority" type="int" value="500" />
+  <param name="k_H" type="double" value="1.0" />
+  <param name="constraint_jla" type="int" value="1" />
+  <param name="priority_jla" type="int" value="50" />
+  <param name="k_H_jla" type="double" value="-1.0" />
+  <param name="activation_threshold_jla" type="double" value="10.0" />
+  <param name="activation_buffer_jla" type="double" value="300.0" />
+  <param name="critical_threshold_jla" type="double" value="5.0" />
+  <param name="damping_jla" type="double" value="1e-06" />
+  <param name="constraint_ca" type="int" value="0" />
+  <param name="priority_ca" type="int" value="100" />
+  <param name="k_H_ca" type="double" value="-20.0" />
+  <param name="activation_threshold_ca" type="double" value="0.1" />
+  <param name="activation_buffer_ca" type="double" value="50.0" />
+  <param name="critical_threshold_ca" type="double" value="0.025" />
+  <param name="damping_ca" type="double" value="1e-06" />
+  <param name="sigma" type="double" value="0.01" />
+  <param name="sigma_speed" type="double" value="5.0" />
+  <param name="delta_pos" type="double" value="0.5" />
+  <param name="delta_speed" type="double" value="1.0" />
+  <param name="keep_direction" type="bool" value="True" />
+  <param name="enforce_input_limits" type="bool" value="True" />
+  <param name="enforce_pos_limits" type="bool" value="True" />
+  <param name="enforce_vel_limits" type="bool" value="True" />
+  <param name="enforce_acc_limits" type="bool" value="False" />
+  <param name="limits_tolerance" type="double" value="30.0" />
+  <param name="max_lin_twist" type="double" value="0.5" />
+  <param name="max_rot_twist" type="double" value="0.5" />
+  <param name="max_vel_lin_base" type="double" value="0.5" />
+  <param name="max_vel_rot_base" type="double" value="0.5" />
+  <param name="kinematic_extension" type="int" value="0" />
+  <param name="extension_ratio" type="double" value="0.01" />
+</node>
+\endverbatim
+

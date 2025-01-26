@@ -1,0 +1,17 @@
+[  0%] Built target _map_distance_server_generate_messages_check_deps_GetDistanceMap
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 14%] Built target map_distance_server_generate_messages_cpp
+[ 42%] Built target map_distance_server_generate_messages_py
+[ 71%] Built target map_distance_server_generate_messages_eus
+[ 85%] Built target map_distance_server_generate_messages_lisp
+[100%] Built target map_distance_server_generate_messages_nodejs
+[100%] Built target map_distance_server_generate_messages

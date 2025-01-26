@@ -1,0 +1,1 @@
+/home/az/arena_ws/devel/.private/cob_base_controller_utils/lib/python3/dist-packages/cob_base_controller_utils/__init__.py

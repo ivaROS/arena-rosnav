@@ -1,0 +1,66 @@
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/gap_estimation/GapAssociator.h:10[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp:12[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/gap_detection/GapDetector.h:6[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/gap_feasibility/GapFeasibilityChecker.h:13[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp:2[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/scan_processing/DynamicScanPropagator.h:6[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/trajectory_generation/GapManipulator.h:13[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:89: CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:76: CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o] Error 1
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/trajectory_evaluation/TrajectoryEvaluator.h:5[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/global_plan_management/GlobalPlanManager.h:19[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:128: CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o] Error 1
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:154: CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o] Error 1
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:141: CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o] Error 1
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:193: CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o] Error 1
+In file included from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/trajectory_generation/GapTrajectoryGenerator.h:8[m[K,
+                 from [01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp:1[m[K:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:[m[K In constructor ‘[01m[Kdynamic_gap::Gap::Gap(const string&, const int&, const float&, const bool&, const float&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/include/dynamic_gap/utils/Gap.h:29:17:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kdynamic_gap::Gap[m[K’ does not have any field named ‘[01m[KisStatic[m[K’
+   29 |                 [01;31m[KisStatic[m[K(false)
+      |                 [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:180: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o] Error 1
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp:[m[K In member function ‘[01m[Kdynamic_gap::Trajectory dynamic_gap::GapTrajectoryGenerator::generateTrajectory(dynamic_gap::Gap*, const PoseStamped&, const TwistStamped&, const PoseStamped&, const bool&)[m[K’:
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp:44:76:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(geometry_msgs::Point_<std::allocator<void> >::_x_type)globalGoalRobotFrame.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_x_type[m[K’ {aka ‘[01m[Kdouble[m[K’} to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+   44 |                                         [01;35m[KglobalGoalRobotFrame.pose.position.x[m[K, globalGoalRobotFrame.pose.position.y};
+      |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^[m[K
+[01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp:44:114:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(geometry_msgs::Point_<std::allocator<void> >::_y_type)globalGoalRobotFrame.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_y_type[m[K’ {aka ‘[01m[Kdouble[m[K’} to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+   44 |                                         globalGoalRobotFrame.pose.position.x, [01;35m[KglobalGoalRobotFrame.pose.position.y[m[K};
+      |                                                                               [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^[m[K
+make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:167: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1628: CMakeFiles/dynamic_gap.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

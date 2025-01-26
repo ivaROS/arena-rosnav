@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/install
+
+Name: bypass_inter
+Description: Description of bypass_inter
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lbypass_inter
+Requires: mbf_costmap_core

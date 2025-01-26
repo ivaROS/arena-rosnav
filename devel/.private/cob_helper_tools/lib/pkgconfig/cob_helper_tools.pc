@@ -1,0 +1,8 @@
+prefix=/home/az/arena_ws/devel/.private/cob_helper_tools
+
+Name: cob_helper_tools
+Description: Description of cob_helper_tools
+Version: 0.6.30
+Cflags: -I/home/az/arena_ws/devel/.private/cob_helper_tools/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure
