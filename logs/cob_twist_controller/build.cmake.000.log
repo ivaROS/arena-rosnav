@@ -13,41 +13,41 @@ Not searching for unused variables given on the command line.
 [36m--[0m Detecting CXX compiler ABI info - done
 [36m--[0m Detecting CXX compile features
 [36m--[0m Detecting CXX compile features - done
-[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/az/arena_ws/devel/.private/cob_twist_controller
-[36m--[0m Using CMAKE_PREFIX_PATH: /home/az/arena_ws/devel;/opt/ros/noetic
-[36m--[0m This workspace overlays: /home/az/arena_ws/devel;/opt/ros/noetic
-[36m--[0m Found PythonInterp: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 (found suitable version "3.8.10", minimum required is "3")
-[36m--[0m Using PYTHON_EXECUTABLE: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel;/opt/ros/noetic
+[36m--[0m This workspace overlays: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel;/opt/ros/noetic
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python3
 [36m--[0m Using Debian Python package layout
-[36m--[0m Found PY_em: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/lib/python3.8/site-packages/em.py
-[36m--[0m Using empy: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/lib/python3.8/site-packages/em.py
+[36m--[0m Found PY_em: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using empy: /usr/lib/python3/dist-packages/em.py
 [36m--[0m Using CATKIN_ENABLE_TESTING: ON
 [36m--[0m Call enable_testing()
-[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/az/arena_ws/build/cob_twist_controller/test_results
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/test_results
 [36m--[0m Forcing gtest/gmock from source, though one was otherwise available.
 [36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
 [36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
-[36m--[0m Found PythonInterp: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 (found version "3.8.10")
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found version "3.8.10")
 [36m--[0m Found Threads: TRUE
 [36m--[0m Using Python nosetests: /usr/bin/nosetests3
 [36m--[0m catkin 0.8.10
 [36m--[0m BUILD_SHARED_LIBS is on
 [36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
 [36m--[0m Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: thread
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_float_sine_noise.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_sine.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_stamped.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_series.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_vel.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/collect_twist_control_eval_data.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/evaluate_dbg_jnt_velocity_tests.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_base.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_GPM_jla_ca_torus.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_selfcollision_arm_left_direct_head.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_selfcollision_arm_left_internal_motion.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_sphere.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
-[36m--[0m Installing devel-space wrapper /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_torus.py to /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_float_sine_noise.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_sine.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_stamped.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_twist_series.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test_publisher_vel.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/collect_twist_control_eval_data.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/evaluate_dbg_jnt_velocity_tests.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_base.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_GPM_jla_ca_torus.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_selfcollision_arm_left_direct_head.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_selfcollision_arm_left_internal_motion.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_sphere.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
+[36m--[0m Installing devel-space wrapper /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/scripts/test/test_careobot_st_jla_ca_torus.py to /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller
 [36m--[0m Configuring done
 [36m--[0m Generating done
-[36m--[0m Build files have been written to: /home/az/arena_ws/build/cob_twist_controller
+[36m--[0m Build files have been written to: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller

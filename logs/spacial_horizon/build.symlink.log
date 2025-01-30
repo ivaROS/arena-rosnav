@@ -1,4 +1,4 @@
-Linked: (/home/az/arena_ws/devel/.private/spacial_horizon/share/spacial_horizon/cmake/spacial_horizonConfig.cmake, /home/az/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/spacial_horizon/share/spacial_horizon/cmake/spacial_horizonConfig-version.cmake, /home/az/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/spacial_horizon/lib/pkgconfig/spacial_horizon.pc, /home/az/arena_ws/devel/lib/pkgconfig/spacial_horizon.pc)
-Linked: (/home/az/arena_ws/devel/.private/spacial_horizon/lib/spacial_horizon/spacial_horizon_node, /home/az/arena_ws/devel/lib/spacial_horizon/spacial_horizon_node)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/spacial_horizon/cmake/spacial_horizonConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/spacial_horizon.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/spacial_horizon/spacial_horizon_node

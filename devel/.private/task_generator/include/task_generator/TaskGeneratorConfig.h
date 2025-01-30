@@ -426,33 +426,33 @@ int RANDOM_seed;
       double goal_radius;
 //#line 291 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       double goal_tolerance_angle;
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string SCENARIO_file;
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string PARAMETRIZED_file;
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string STAGED_curriculum;
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int STAGED_index;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_static_min;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_static_max;
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string RANDOM_static_models;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_interactive_min;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_interactive_max;
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string RANDOM_interactive_models;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_dynamic_min;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_dynamic_max;
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       std::string RANDOM_dynamic_models;
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       int RANDOM_seed;
 //#line 231 "/opt/ros/noetic/share/dynamic_reconfigure/cmake/../templates/ConfigType.h.template"
 
@@ -633,15 +633,15 @@ TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT, TaskGenerato
 //#line 291 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<double>("goal_tolerance_angle", "double", 1, "default maximum angle deviation from goal", "", &TaskGeneratorConfig::goal_tolerance_angle)));
 TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::SCENARIO, TaskGeneratorConfig::DEFAULT> SCENARIO("SCENARIO", "", 0, 1, true, &TaskGeneratorConfig::DEFAULT::scenario);
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.SCENARIO_file = "";
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.SCENARIO_file = "";
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.SCENARIO_file = "default.json";
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       SCENARIO.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("SCENARIO_file", "str", 2, "scenario file name", "", &TaskGeneratorConfig::SCENARIO_file)));
-//#line 31 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 31 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("SCENARIO_file", "str", 2, "scenario file name", "", &TaskGeneratorConfig::SCENARIO_file)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       SCENARIO.convertParams();
@@ -650,15 +650,15 @@ TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::SCENARIO, Ta
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TaskGeneratorConfig::AbstractGroupDescriptionConstPtr(new TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::SCENARIO, TaskGeneratorConfig::DEFAULT>(SCENARIO)));
 TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::PARAMETRIZED, TaskGeneratorConfig::DEFAULT> PARAMETRIZED("PARAMETRIZED", "", 0, 2, true, &TaskGeneratorConfig::DEFAULT::parametrized);
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.PARAMETRIZED_file = "";
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.PARAMETRIZED_file = "";
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.PARAMETRIZED_file = "default.xml";
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       PARAMETRIZED.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("PARAMETRIZED_file", "str", 4, "parametrized XML name", "", &TaskGeneratorConfig::PARAMETRIZED_file)));
-//#line 34 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 34 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("PARAMETRIZED_file", "str", 4, "parametrized XML name", "", &TaskGeneratorConfig::PARAMETRIZED_file)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       PARAMETRIZED.convertParams();
@@ -667,25 +667,25 @@ TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::PARAMETRIZED
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TaskGeneratorConfig::AbstractGroupDescriptionConstPtr(new TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::PARAMETRIZED, TaskGeneratorConfig::DEFAULT>(PARAMETRIZED)));
 TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::STAGED, TaskGeneratorConfig::DEFAULT> STAGED("STAGED", "", 0, 3, true, &TaskGeneratorConfig::DEFAULT::staged);
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.STAGED_curriculum = "";
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.STAGED_curriculum = "";
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.STAGED_curriculum = "default.yaml";
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       STAGED.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("STAGED_curriculum", "str", 8, "curriculum file name", "", &TaskGeneratorConfig::STAGED_curriculum)));
-//#line 37 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 37 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("STAGED_curriculum", "str", 8, "curriculum file name", "", &TaskGeneratorConfig::STAGED_curriculum)));
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.STAGED_index = 0;
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.STAGED_index = 2147483647;
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.STAGED_index = 0;
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       STAGED.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("STAGED_index", "int", 8, "starting stage", "", &TaskGeneratorConfig::STAGED_index)));
-//#line 38 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 38 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("STAGED_index", "int", 8, "starting stage", "", &TaskGeneratorConfig::STAGED_index)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       STAGED.convertParams();
@@ -701,105 +701,105 @@ TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::DYNAMICMAP, 
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TaskGeneratorConfig::AbstractGroupDescriptionConstPtr(new TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::DYNAMICMAP, TaskGeneratorConfig::DEFAULT>(DYNAMICMAP)));
 TaskGeneratorConfig::GroupDescription<TaskGeneratorConfig::DEFAULT::RANDOM, TaskGeneratorConfig::DEFAULT> RANDOM("RANDOM", "", 0, 5, true, &TaskGeneratorConfig::DEFAULT::random);
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_static_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_static_min = 2147483647;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_static_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_static_min", "int", 32, "static min", "", &TaskGeneratorConfig::RANDOM_static_min)));
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_static_min", "int", 32, "static min", "", &TaskGeneratorConfig::RANDOM_static_min)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_static_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_static_max = 2147483647;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_static_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_static_max", "int", 32, "static max", "", &TaskGeneratorConfig::RANDOM_static_max)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_static_max", "int", 32, "static max", "", &TaskGeneratorConfig::RANDOM_static_max)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_static_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_static_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_static_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_static_models", "str", 32, "static models", "", &TaskGeneratorConfig::RANDOM_static_models)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_static_models", "str", 32, "static models", "", &TaskGeneratorConfig::RANDOM_static_models)));
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_interactive_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_interactive_min = 2147483647;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_interactive_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_interactive_min", "int", 32, "interactive min", "", &TaskGeneratorConfig::RANDOM_interactive_min)));
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_interactive_min", "int", 32, "interactive min", "", &TaskGeneratorConfig::RANDOM_interactive_min)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_interactive_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_interactive_max = 2147483647;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_interactive_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_interactive_max", "int", 32, "interactive max", "", &TaskGeneratorConfig::RANDOM_interactive_max)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_interactive_max", "int", 32, "interactive max", "", &TaskGeneratorConfig::RANDOM_interactive_max)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_interactive_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_interactive_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_interactive_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_interactive_models", "str", 32, "interactive models", "", &TaskGeneratorConfig::RANDOM_interactive_models)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_interactive_models", "str", 32, "interactive models", "", &TaskGeneratorConfig::RANDOM_interactive_models)));
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_dynamic_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_dynamic_min = 2147483647;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_dynamic_min = 0;
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_dynamic_min", "int", 32, "dynamic min", "", &TaskGeneratorConfig::RANDOM_dynamic_min)));
-//#line 44 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_dynamic_min", "int", 32, "dynamic min", "", &TaskGeneratorConfig::RANDOM_dynamic_min)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_dynamic_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_dynamic_max = 2147483647;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_dynamic_max = 0;
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_dynamic_max", "int", 32, "dynamic max", "", &TaskGeneratorConfig::RANDOM_dynamic_max)));
-//#line 45 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_dynamic_max", "int", 32, "dynamic max", "", &TaskGeneratorConfig::RANDOM_dynamic_max)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_dynamic_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_dynamic_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_dynamic_models = "";
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_dynamic_models", "str", 32, "dynamic models", "", &TaskGeneratorConfig::RANDOM_dynamic_models)));
-//#line 46 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 46 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<std::string>("RANDOM_dynamic_models", "str", 32, "dynamic models", "", &TaskGeneratorConfig::RANDOM_dynamic_models)));
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __min__.RANDOM_seed = -2147483648;
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __max__.RANDOM_seed = 2147483647;
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __default__.RANDOM_seed = -1;
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       RANDOM.abstract_parameters.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_seed", "int", 32, "random seed", "", &TaskGeneratorConfig::RANDOM_seed)));
-//#line 47 "/home/az/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
+//#line 47 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/task_generator/cfg/TaskGenerator.cfg"
       __param_descriptions__.push_back(TaskGeneratorConfig::AbstractParamDescriptionConstPtr(new TaskGeneratorConfig::ParamDescription<int>("RANDOM_seed", "int", 32, "random seed", "", &TaskGeneratorConfig::RANDOM_seed)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       RANDOM.convertParams();

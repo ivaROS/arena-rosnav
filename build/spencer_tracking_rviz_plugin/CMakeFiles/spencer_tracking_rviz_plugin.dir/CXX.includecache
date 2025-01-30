@@ -6,71 +6,71 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_additional_topic_subscriber.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_additional_topic_subscriber.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_detected_persons_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_detected_persons_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_human_attributes_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_human_attributes_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_person_display_common.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_person_display_common.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_social_activities_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_social_activities_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_social_relations_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_social_relations_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_tracked_groups_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_tracked_groups_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_tracked_persons_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_rviz_plugin/src/moc_tracked_persons_display.cpp
 ../../../src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/CategoricalAttribute.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/CategoricalAttribute.h
 string
 -
 vector
@@ -86,7 +86,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/HumanAttributes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/HumanAttributes.h
 string
 -
 vector
@@ -108,7 +108,7 @@ spencer_human_attribute_msgs/CategoricalAttribute.h
 spencer_human_attribute_msgs/ScalarAttribute.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/ScalarAttribute.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/ScalarAttribute.h
 string
 -
 vector
@@ -124,7 +124,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivities.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivities.h
 string
 -
 vector
@@ -144,7 +144,7 @@ std_msgs/Header.h
 spencer_social_relation_msgs/SocialActivity.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivity.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivity.h
 string
 -
 vector
@@ -160,7 +160,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialRelation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialRelation.h
 string
 -
 vector
@@ -176,7 +176,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialRelations.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialRelations.h
 string
 -
 vector
@@ -196,7 +196,7 @@ std_msgs/Header.h
 spencer_social_relation_msgs/SocialRelation.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/DetectedPerson.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/DetectedPerson.h
 string
 -
 vector
@@ -214,7 +214,7 @@ ros/message_operations.h
 geometry_msgs/PoseWithCovariance.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/DetectedPersons.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/DetectedPersons.h
 string
 -
 vector
@@ -234,7 +234,7 @@ std_msgs/Header.h
 spencer_tracking_msgs/DetectedPerson.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedGroup.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedGroup.h
 string
 -
 vector
@@ -252,7 +252,7 @@ ros/message_operations.h
 geometry_msgs/PoseWithCovariance.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedGroups.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedGroups.h
 string
 -
 vector
@@ -272,7 +272,7 @@ std_msgs/Header.h
 spencer_tracking_msgs/TrackedGroup.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedPerson.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedPerson.h
 string
 -
 vector
@@ -292,7 +292,7 @@ geometry_msgs/PoseWithCovariance.h
 geometry_msgs/TwistWithCovariance.h
 -
 
-/home/az/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedPersons.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_msgs/include/spencer_tracking_msgs/TrackedPersons.h
 string
 -
 vector
@@ -312,7 +312,7 @@ std_msgs/Header.h
 spencer_tracking_msgs/TrackedPerson.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
 message_filters/subscriber.h
 -
 tf2_ros/message_filter.h
@@ -338,21 +338,21 @@ rviz/frame_manager.h
 rviz/properties/ros_topic_property.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.cpp
 rviz/visualization_manager.h
 -
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
 detected_persons_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
 boost/foreach.hpp
 -
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/detected_persons_display.h
 map
 -
 boost/circular_buffer.hpp
@@ -360,15 +360,15 @@ boost/circular_buffer.hpp
 spencer_tracking_msgs/DetectedPersons.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.cpp
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
 -
 human_attributes_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
 boost/lexical_cast.hpp
 -
 boost/tokenizer.hpp
@@ -380,7 +380,7 @@ boost/range/adaptor/map.hpp
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/human_attributes_display.h
 map
 -
 boost/circular_buffer.hpp
@@ -388,15 +388,15 @@ boost/circular_buffer.hpp
 spencer_human_attribute_msgs/HumanAttributes.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 tracked_persons_cache.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 visuals/mesh_node.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/mesh_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/mesh_node.h
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.cpp
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 boost/lexical_cast.hpp
 -
 boost/tokenizer.hpp
@@ -404,7 +404,7 @@ boost/tokenizer.hpp
 boost/foreach.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 map
 -
 set
@@ -424,11 +424,11 @@ OGRE/OgreSceneNode.h
 OGRE/OgreSceneManager.h
 -
 visuals/person_visual.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
 visuals/text_node.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/text_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/text_node.h
 visuals/covariance_visual.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/covariance_visual.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/covariance_visual.h
 rviz/ogre_helpers/shape.h
 -
 rviz/properties/bool_property.h
@@ -450,15 +450,15 @@ rviz/ogre_helpers/movable_text.h
 pedsim/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.cpp
 rviz/visualization_manager.h
 -
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
 social_activities_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
 boost/lexical_cast.hpp
 -
 boost/tokenizer.hpp
@@ -472,7 +472,7 @@ boost/foreach.hpp
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_activities_display.h
 map
 -
 vector
@@ -482,43 +482,43 @@ boost/circular_buffer.hpp
 spencer_social_relation_msgs/SocialActivities.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 tracked_persons_cache.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 pedsim/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.cpp
 rviz/visualization_manager.h
 -
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
 social_relations_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
 boost/foreach.hpp
 -
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/social_relations_display.h
 spencer_social_relation_msgs/SocialRelations.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 tracked_persons_cache.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.cpp
 rviz/visualization_manager.h
 -
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
 tracked_groups_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
 boost/lexical_cast.hpp
 -
 boost/tokenizer.hpp
@@ -528,7 +528,7 @@ boost/foreach.hpp
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_groups_display.h
 map
 -
 boost/circular_buffer.hpp
@@ -536,21 +536,21 @@ boost/circular_buffer.hpp
 spencer_tracking_msgs/TrackedGroups.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 tracked_persons_cache.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 pedsim/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.cpp
 tracked_persons_cache.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 sstream
 -
 boost/foreach.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_cache.h
 map
 -
 geometry_msgs/PoseWithCovariance.h
@@ -560,19 +560,19 @@ geometry_msgs/TwistWithCovariance.h
 spencer_tracking_msgs/TrackedPersons.h
 -
 additional_topic_subscriber.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/additional_topic_subscriber.h
 pedsim/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp
 rviz/visualization_manager.h
 -
 rviz/frame_manager.h
 -
 rviz/selection/selection_manager.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/rviz/selection/selection_manager.h
 tracked_persons_display.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
 boost/lexical_cast.hpp
 -
 boost/tokenizer.hpp
@@ -582,7 +582,7 @@ boost/foreach.hpp
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.h
 map
 -
 boost/circular_buffer.hpp
@@ -590,11 +590,11 @@ boost/circular_buffer.hpp
 spencer_tracking_msgs/TrackedPersons.h
 -
 person_display_common.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/person_display_common.h
 pedsim/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/covariance_visual.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/covariance_visual.h
 rviz/ogre_helpers/shape.h
 -
 rviz/ogre_helpers/billboard_line.h
@@ -602,7 +602,7 @@ rviz/ogre_helpers/billboard_line.h
 cmath
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/mesh_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/mesh_node.h
 rviz/mesh_loader.h
 -
 resource_retriever/retriever.h
@@ -626,7 +626,7 @@ OgreRoot.h
 OgreFrameListener.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.cpp
 rviz/mesh_loader.h
 -
 ros/console.h
@@ -652,9 +652,9 @@ OgreTechnique.h
 OgreAnimation.h
 -
 person_visual.h
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/person_visual.h
 pedsim/types.h
 -
 rviz/ogre_helpers/shape.h
@@ -670,13 +670,13 @@ OgreSharedPtr.h
 OgreEntity.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/text_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/visuals/text_node.h
 rviz/ogre_helpers/shape.h
 -
 rviz/ogre_helpers/movable_text.h
 -
 
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include/pedsim/types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include/pedsim/types.h
 string
 -
 

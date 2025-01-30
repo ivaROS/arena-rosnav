@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/include/common.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/include/common.h
 Eigen/Dense
 -
 gazebo/gazebo.hh
 -
 
-/home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/include/gazebo_2Dmap_plugin.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/include/gazebo_2Dmap_plugin.h
 iostream
 -
 math.h
@@ -38,9 +38,9 @@ costmap_2d/costmap_2d_ros.h
 std_srvs/Empty.h
 -
 
-/home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
 gazebo_2Dmap_plugin.h
-/home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.h
 gazebo/common/Time.hh
 -
 gazebo/common/CommonTypes.hh

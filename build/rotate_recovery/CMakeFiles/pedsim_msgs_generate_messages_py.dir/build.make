@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/rotate_recovery
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rotate_recovery
 
 # Utility rule file for pedsim_msgs_generate_messages_py.
 
@@ -67,6 +67,6 @@ CMakeFiles/pedsim_msgs_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_py.dir/clean
 
 CMakeFiles/pedsim_msgs_generate_messages_py.dir/depend:
-	cd /home/az/arena_ws/build/rotate_recovery && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery /home/az/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery /home/az/arena_ws/build/rotate_recovery /home/az/arena_ws/build/rotate_recovery /home/az/arena_ws/build/rotate_recovery/CMakeFiles/pedsim_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rotate_recovery && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rotate_recovery /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rotate_recovery /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rotate_recovery/CMakeFiles/pedsim_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_py.dir/depend
 

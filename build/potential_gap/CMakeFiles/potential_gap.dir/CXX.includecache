@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
 ros/service_traits.h
 -
 costmap_2d/GetDumpRequest.h
@@ -32,7 +32,7 @@ costmap_2d/GetDumpRequest.h
 costmap_2d/GetDumpResponse.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
 string
 -
 vector
@@ -48,7 +48,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
 string
 -
 vector
@@ -72,7 +72,7 @@ costmap_2d/ObstacleDump.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
 string
 -
 vector
@@ -90,7 +90,7 @@ ros/message_operations.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -108,7 +108,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
 string
 -
 vector
@@ -126,7 +126,7 @@ ros/message_operations.h
 pedsim_msgs/SemanticData.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -144,7 +144,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
 string
 -
 vector
@@ -164,7 +164,7 @@ std_msgs/Header.h
 pedsim_msgs/SemanticDatum.h
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
 string
 -
 vector
@@ -182,7 +182,7 @@ ros/message_operations.h
 geometry_msgs/Point.h
 -
 
-/home/az/arena_ws/devel/.private/potential_gap/include/potential_gap/TrajPlan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/include/potential_gap/TrajPlan.h
 string
 -
 vector
@@ -204,9 +204,9 @@ geometry_msgs/Pose.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
 vector
 -
 queue
@@ -216,7 +216,7 @@ geometry_msgs/Point.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
 ros/ros.h
 -
 costmap_2d/layered_costmap.h
@@ -228,11 +228,11 @@ map_msgs/OccupancyGridUpdate.h
 costmap_2d/GetDump.h
 -
 costmap_2d/obstacle_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
 costmap_2d/semantic_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
 costmap_2d/layered_costmap.h
 -
 costmap_2d/layer.h
@@ -256,7 +256,7 @@ pluginlib/class_loader.hpp
 tf2/LinearMath/Transform.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -264,7 +264,7 @@ costmap_2d/layer.h
 costmap_2d/layered_costmap.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
 ros/ros.h
 -
 geometry_msgs/Polygon.h
@@ -276,7 +276,7 @@ geometry_msgs/Point.h
 geometry_msgs/Point32.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
 costmap_2d/costmap_2d.h
 -
 costmap_2d/layered_costmap.h
@@ -288,7 +288,7 @@ tf2_ros/buffer.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
 costmap_2d/cost_values.h
 -
 costmap_2d/layer.h
@@ -300,13 +300,13 @@ vector
 string
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
 geometry_msgs/Point.h
 -
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
 vector
 -
 list
@@ -324,7 +324,7 @@ sensor_msgs/PointCloud2.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -358,7 +358,7 @@ costmap_2d/footprint.h
 costmap_2d/ObstacleDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -378,13 +378,13 @@ costmap_2d/SemanticPluginConfig.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_global_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_global_planner.h
 geometry_msgs/PoseStamped.h
 -
 costmap_2d/costmap_2d_ros.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
 geometry_msgs/PoseStamped.h
 -
 geometry_msgs/Twist.h
@@ -394,7 +394,7 @@ costmap_2d/costmap_2d_ros.h
 tf2_ros/buffer.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/gap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/gap.h
 ros/ros.h
 -
 math.h
@@ -412,7 +412,7 @@ Eigen/Core
 Eigen/Geometry
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/gap_manip.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/gap_manip.h
 ros/ros.h
 -
 math.h
@@ -434,7 +434,7 @@ sensor_msgs/LaserScan.h
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/gap_trajectory_generator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/gap_trajectory_generator.h
 ros/ros.h
 -
 boost/numeric/odeint.hpp
@@ -460,7 +460,7 @@ Eigen/Core
 Eigen/Geometry
 -
 tf/transform_datatypes.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
 tf/LinearMath/Matrix3x3.h
 -
 tf2_geometry_msgs/tf2_geometry_msgs.h
@@ -478,7 +478,7 @@ sensor_msgs/LaserScan.h
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/gap_utils.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/gap_utils.h
 ros/ros.h
 -
 vector
@@ -492,7 +492,7 @@ boost/shared_ptr.hpp
 potential_gap/potentialgap_config.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/goal_selector.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/goal_selector.h
 ros/ros.h
 -
 math.h
@@ -510,7 +510,7 @@ Eigen/Core
 Eigen/Geometry
 -
 tf/transform_datatypes.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
 tf/LinearMath/Matrix3x3.h
 -
 tf2_geometry_msgs/tf2_geometry_msgs.h
@@ -528,7 +528,7 @@ sensor_msgs/LaserScan.h
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/helper.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/helper.h
 ros/ros.h
 -
 boost/array.hpp
@@ -538,17 +538,17 @@ boost/numeric/odeint.hpp
 vector
 -
 geometry_msgs/PoseArray.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
 geometry_msgs/PoseStamped.h
 -
 geometry_msgs/Twist.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
 Eigen/Core
 -
 Eigen/Geometry
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/planner.h
 ros/ros.h
 -
 potential_gap/gap.h
@@ -578,9 +578,9 @@ sensor_msgs/LaserScan.h
 std_msgs/Header.h
 -
 nav_msgs/Odometry.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
 potential_gap/TrajPlan.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap/TrajPlan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap/TrajPlan.h
 potential_gap/helper.h
 -
 potential_gap/gap.h
@@ -616,7 +616,7 @@ boost/thread/mutex.hpp
 boost/circular_buffer.hpp
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap.h
 ros/ros.h
 -
 nav_core/base_local_planner.h
@@ -650,7 +650,7 @@ boost/numeric/odeint.hpp
 potential_gap/planner.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/potentialgap_config.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/potentialgap_config.h
 ros/console.h
 -
 ros/ros.h
@@ -664,7 +664,7 @@ sensor_msgs/LaserScan.h
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_controller.h
 ros/ros.h
 -
 potential_gap/potentialgap_config.h
@@ -676,15 +676,15 @@ Eigen/Geometry
 ros/ros.h
 -
 geometry_msgs/Twist.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
 geometry_msgs/Pose.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Pose.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Pose.h
 geometry_msgs/PoseArray.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
 geometry_msgs/TransformStamped.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/TransformStamped.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/TransformStamped.h
 nav_msgs/Odometry.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
 sensor_msgs/LaserScan.h
 -
 tf/tf.h
@@ -692,7 +692,7 @@ tf/tf.h
 potential_gap/gap.h
 -
 potential_gap/TrajPlan.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap/TrajPlan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/potential_gap/TrajPlan.h
 potential_gap/gap_trajectory_generator.h
 -
 visualization_msgs/Marker.h
@@ -704,7 +704,7 @@ tf2_geometry_msgs/tf2_geometry_msgs.h
 tf2/LinearMath/Quaternion.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_follower.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_follower.h
 Eigen/Core
 -
 Eigen/Geometry
@@ -712,15 +712,15 @@ Eigen/Geometry
 ros/ros.h
 -
 geometry_msgs/Twist.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Twist.h
 geometry_msgs/Pose.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Pose.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/Pose.h
 geometry_msgs/PoseArray.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/PoseArray.h
 geometry_msgs/TransformStamped.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/TransformStamped.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/geometry_msgs/TransformStamped.h
 nav_msgs/Odometry.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/nav_msgs/Odometry.h
 sensor_msgs/LaserScan.h
 -
 tf/tf.h
@@ -728,7 +728,7 @@ tf/tf.h
 potential_gap/gap.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_scoring.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/trajectory_scoring.h
 ros/ros.h
 -
 math.h
@@ -764,7 +764,7 @@ omp.h
 boost/thread/mutex.hpp
 -
 tf/transform_datatypes.h
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/tf/transform_datatypes.h
 tf2_ros/transform_listener.h
 -
 tf2_ros/transform_broadcaster.h
@@ -772,7 +772,7 @@ tf2_ros/transform_broadcaster.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/include/potential_gap/visualization.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/include/potential_gap/visualization.h
 ros/ros.h
 -
 math.h
@@ -800,27 +800,27 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseArray.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
 potential_gap/gap_manip.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
 potential_gap/gap_trajectory_generator.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
 potential_gap/gap_utils.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
 potential_gap/goal_selector.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/planner.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/planner.cpp
 potential_gap/planner.h
 -
 tf/transform_datatypes.h
-/home/az/arena_ws/src/planners/potential_gap/src/tf/transform_datatypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/tf/transform_datatypes.h
 tf/LinearMath/Matrix3x3.h
 -
 tf2_geometry_msgs/tf2_geometry_msgs.h
@@ -832,7 +832,7 @@ Eigen/Core
 Eigen/Geometry
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
 ros/ros.h
 -
 potential_gap/potential_gap.h
@@ -858,15 +858,15 @@ mbf_msgs/ExePathResult.h
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
 potential_gap/potentialgap_config.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
 potential_gap/trajectory_controller.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
 ros/ros.h
 -
 potential_gap/trajectory_follower.h
@@ -876,11 +876,11 @@ math.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
 potential_gap/trajectory_scoring.h
 -
 
-/home/az/arena_ws/src/planners/potential_gap/src/visualization.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/visualization.cpp
 potential_gap/visualization.h
 -
 

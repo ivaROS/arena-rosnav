@@ -1,1 +1,1 @@
-/home/az/arena_ws/devel/.private/cob_base_controller_utils/share/common-lisp/ros/cob_base_controller_utils/msg/cob_base_controller_utils-msg.asd
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_base_controller_utils/share/common-lisp/ros/cob_base_controller_utils/msg/cob_base_controller_utils-msg.asd

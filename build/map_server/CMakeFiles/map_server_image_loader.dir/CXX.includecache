@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/image_loader.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/image_loader.h
 nav_msgs/GetMap.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/nav_msgs/GetMap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/nav_msgs/GetMap.h
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/image_loader.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/image_loader.cpp
 cstring
 -
 stdexcept
@@ -24,7 +24,7 @@ SDL/SDL_image.h
 LinearMath/btQuaternion.h
 -
 map_server/image_loader.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/map_server/image_loader.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/map_server/image_loader.h
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

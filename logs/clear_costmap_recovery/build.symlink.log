@@ -1,4 +1,4 @@
-Linked: (/home/az/arena_ws/devel/.private/clear_costmap_recovery/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake, /home/az/arena_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/clear_costmap_recovery/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake, /home/az/arena_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/clear_costmap_recovery/lib/libclear_costmap_recovery.so, /home/az/arena_ws/devel/lib/libclear_costmap_recovery.so)
-Linked: (/home/az/arena_ws/devel/.private/clear_costmap_recovery/lib/pkgconfig/clear_costmap_recovery.pc, /home/az/arena_ws/devel/lib/pkgconfig/clear_costmap_recovery.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libclear_costmap_recovery.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/clear_costmap_recovery.pc

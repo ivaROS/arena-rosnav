@@ -43,60 +43,60 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cob_srvs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs
 
 # Utility rule file for cob_srvs_generate_messages_py.
 
 # Include the progress variables for this target.
 include CMakeFiles/cob_srvs_generate_messages_py.dir/progress.make
 
-CMakeFiles/cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
-CMakeFiles/cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
-CMakeFiles/cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
-CMakeFiles/cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
-CMakeFiles/cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py
+CMakeFiles/cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
+CMakeFiles/cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
+CMakeFiles/cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
+CMakeFiles/cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
+CMakeFiles/cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py
 
 
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Python code from SRV cob_srvs/Dock"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Python code from SRV cob_srvs/Dock"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
 
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Python code from SRV cob_srvs/SetFloat"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Python code from SRV cob_srvs/SetFloat"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
 
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Python code from SRV cob_srvs/SetInt"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Python code from SRV cob_srvs/SetInt"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
 
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating Python code from SRV cob_srvs/SetString"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py: /opt/ros/noetic/lib/genpy/gensrv_py.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating Python code from SRV cob_srvs/SetString"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/gensrv_py.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_srvs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv
 
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
-/home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating Python srv __init__.py for cob_srvs"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py -o /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv --initpy
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating Python srv __init__.py for cob_srvs"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv --initpy
 
 cob_srvs_generate_messages_py: CMakeFiles/cob_srvs_generate_messages_py
-cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
-cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
-cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
-cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
-cob_srvs_generate_messages_py: /home/az/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py
+cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_Dock.py
+cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetFloat.py
+cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetInt.py
+cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/_SetString.py
+cob_srvs_generate_messages_py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/lib/python3/dist-packages/cob_srvs/srv/__init__.py
 cob_srvs_generate_messages_py: CMakeFiles/cob_srvs_generate_messages_py.dir/build.make
 
 .PHONY : cob_srvs_generate_messages_py
@@ -111,6 +111,6 @@ CMakeFiles/cob_srvs_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/cob_srvs_generate_messages_py.dir/clean
 
 CMakeFiles/cob_srvs_generate_messages_py.dir/depend:
-	cd /home/az/arena_ws/build/cob_srvs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/arena_ws/build/cob_srvs /home/az/arena_ws/build/cob_srvs /home/az/arena_ws/build/cob_srvs/CMakeFiles/cob_srvs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles/cob_srvs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cob_srvs_generate_messages_py.dir/depend
 

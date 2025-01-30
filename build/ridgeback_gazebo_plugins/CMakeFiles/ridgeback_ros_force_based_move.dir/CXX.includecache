@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins/include/ridgeback_gazebo_plugins/ridgeback_ros_force_based_move.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins/include/ridgeback_gazebo_plugins/ridgeback_ros_force_based_move.h
 boost/bind.hpp
 -
 boost/thread.hpp
@@ -36,7 +36,7 @@ tf/transform_broadcaster.h
 tf/transform_listener.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins/src/ridgeback_ros_force_based_move.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_gazebo_plugins/src/ridgeback_ros_force_based_move.cpp
 ridgeback_gazebo_plugins/ridgeback_ros_force_based_move.h
 -
 

@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/az/arena_ws/devel/.private/youbot_simulation:$CMAKE_PREFIX_PATH"
-export PWD='/home/az/arena_ws/build/youbot_simulation'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/az/arena_ws/devel/.private/youbot_simulation/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_simulation:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/youbot_simulation:$CMAKE_PREFIX_PATH"
+export PWD='/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_simulation'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/youbot_simulation/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_simulation:$ROS_PACKAGE_PATH"

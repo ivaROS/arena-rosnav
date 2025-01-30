@@ -1,32 +1,32 @@
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/rosnav/cmake/rosnav-msg-extras.cmake, /home/az/arena_ws/devel/share/rosnav/cmake/rosnav-msg-extras.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/rosnav/cmake/rosnav-msg-paths.cmake, /home/az/arena_ws/devel/share/rosnav/cmake/rosnav-msg-paths.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/rosnav/cmake/rosnavConfig-version.cmake, /home/az/arena_ws/devel/share/rosnav/cmake/rosnavConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/rosnav/cmake/rosnavConfig.cmake, /home/az/arena_ws/devel/share/rosnav/cmake/rosnavConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/roseus/ros/rosnav/manifest.l, /home/az/arena_ws/devel/share/roseus/ros/rosnav/manifest.l)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/roseus/ros/rosnav/msg/ResetStackedObs.l, /home/az/arena_ws/devel/share/roseus/ros/rosnav/msg/ResetStackedObs.l)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/roseus/ros/rosnav/srv/GetAction.l, /home/az/arena_ws/devel/share/roseus/ros/rosnav/srv/GetAction.l)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/msg/_package.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/msg/_package.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/msg/ResetStackedObs.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/msg/ResetStackedObs.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/msg/rosnav-msg.asd, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/msg/rosnav-msg.asd)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/msg/_package_ResetStackedObs.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/msg/_package_ResetStackedObs.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/srv/rosnav-srv.asd, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/srv/rosnav-srv.asd)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/srv/_package.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/srv/_package.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/srv/_package_GetAction.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/srv/_package_GetAction.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/common-lisp/ros/rosnav/srv/GetAction.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/rosnav/srv/GetAction.lisp)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/_index.js, /home/az/arena_ws/devel/share/gennodejs/ros/rosnav/_index.js)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/msg/_index.js, /home/az/arena_ws/devel/share/gennodejs/ros/rosnav/msg/_index.js)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/msg/ResetStackedObs.js, /home/az/arena_ws/devel/share/gennodejs/ros/rosnav/msg/ResetStackedObs.js)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/srv/_index.js, /home/az/arena_ws/devel/share/gennodejs/ros/rosnav/srv/_index.js)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/share/gennodejs/ros/rosnav/srv/GetAction.js, /home/az/arena_ws/devel/share/gennodejs/ros/rosnav/srv/GetAction.js)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/include/rosnav/GetActionResponse.h, /home/az/arena_ws/devel/include/rosnav/GetActionResponse.h)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/include/rosnav/GetAction.h, /home/az/arena_ws/devel/include/rosnav/GetAction.h)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/include/rosnav/GetActionRequest.h, /home/az/arena_ws/devel/include/rosnav/GetActionRequest.h)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/include/rosnav/ResetStackedObs.h, /home/az/arena_ws/devel/include/rosnav/ResetStackedObs.h)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/pkgconfig/rosnav.pc, /home/az/arena_ws/devel/lib/pkgconfig/rosnav.pc)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/rosnav/cmake.lock, /home/az/arena_ws/devel/lib/rosnav/cmake.lock)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/rosnav/rosnav_node.py, /home/az/arena_ws/devel/lib/rosnav/rosnav_node.py)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/python3/dist-packages/rosnav/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rosnav/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/python3/dist-packages/rosnav/msg/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rosnav/msg/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/python3/dist-packages/rosnav/msg/_ResetStackedObs.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rosnav/msg/_ResetStackedObs.py)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/python3/dist-packages/rosnav/srv/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rosnav/srv/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/rosnav/lib/python3/dist-packages/rosnav/srv/_GetAction.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rosnav/srv/_GetAction.py)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rosnav/cmake/rosnav-msg-extras.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rosnav/cmake/rosnav-msg-paths.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rosnav/cmake/rosnavConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rosnav/cmake/rosnavConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/rosnav/manifest.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/rosnav/msg/ResetStackedObs.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/rosnav/srv/GetAction.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/msg/_package.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/msg/ResetStackedObs.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/msg/rosnav-msg.asd
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/msg/_package_ResetStackedObs.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/srv/rosnav-srv.asd
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/srv/_package.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/srv/_package_GetAction.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/rosnav/srv/GetAction.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/rosnav/_index.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/rosnav/msg/_index.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/rosnav/msg/ResetStackedObs.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/rosnav/srv/_index.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/rosnav/srv/GetAction.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/rosnav/GetActionResponse.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/rosnav/GetAction.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/rosnav/GetActionRequest.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/rosnav/ResetStackedObs.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/rosnav.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/rosnav/cmake.lock
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/rosnav/rosnav_node.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rosnav/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rosnav/msg/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rosnav/msg/_ResetStackedObs.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rosnav/srv/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rosnav/srv/_GetAction.py

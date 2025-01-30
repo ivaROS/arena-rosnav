@@ -1,3 +1,3 @@
-Linked: (/home/az/arena_ws/devel/.private/drl_vo_barn_nav/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig-version.cmake, /home/az/arena_ws/devel/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/drl_vo_barn_nav/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig.cmake, /home/az/arena_ws/devel/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/drl_vo_barn_nav/lib/pkgconfig/drl_vo_barn_nav.pc, /home/az/arena_ws/devel/lib/pkgconfig/drl_vo_barn_nav.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/drl_vo_barn_nav/cmake/drl_vo_barn_navConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/drl_vo_barn_nav.pc

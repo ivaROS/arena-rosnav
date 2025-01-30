@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/moving_average.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/moving_average.h
 stdint.h
 -
 ros/ros.h
@@ -14,7 +14,7 @@ ros/ros.h
 deque
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/simpson_integrator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/simpson_integrator.h
 vector
 -
 ros/ros.h
@@ -24,9 +24,9 @@ kdl/jntarray.hpp
 std_msgs/Float64MultiArray.h
 -
 cob_twist_controller/utils/moving_average.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/cob_twist_controller/utils/moving_average.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/cob_twist_controller/utils/moving_average.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/test_simpson_integrator_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/test_simpson_integrator_node.cpp
 vector
 -
 ros/ros.h

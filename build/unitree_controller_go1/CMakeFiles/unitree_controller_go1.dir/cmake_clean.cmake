@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1"
-  "/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1.pdb"
   "CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o"
   "CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o"
   "CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o"

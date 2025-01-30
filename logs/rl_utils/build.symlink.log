@@ -1,4 +1,4 @@
-Linked: (/home/az/arena_ws/devel/.private/rl_utils/share/rl_utils/cmake/rl_utilsConfig-version.cmake, /home/az/arena_ws/devel/share/rl_utils/cmake/rl_utilsConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rl_utils/share/rl_utils/cmake/rl_utilsConfig.cmake, /home/az/arena_ws/devel/share/rl_utils/cmake/rl_utilsConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rl_utils/lib/pkgconfig/rl_utils.pc, /home/az/arena_ws/devel/lib/pkgconfig/rl_utils.pc)
-Linked: (/home/az/arena_ws/devel/.private/rl_utils/lib/python3/dist-packages/rl_utils/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rl_utils/__init__.py)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rl_utils/cmake/rl_utilsConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rl_utils/cmake/rl_utilsConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/rl_utils.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rl_utils/__init__.py

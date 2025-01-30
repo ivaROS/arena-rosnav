@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/polite_inter
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/polite_inter
 
 Name: polite_inter
 Description: Description of polite_inter
 Version: 1.0.0
-Cflags: -I/home/az/arena_ws/devel/.private/polite_inter/include -I/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/polite_inter/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/polite_inter/include -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/planners/inter/polite_inter/include
 Libs: -L${prefix}/lib -lpolite_inter
 Requires: mbf_costmap_core inter_util

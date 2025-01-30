@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"agent_path_prediction\"
 
-CXX_INCLUDES = -I/home/az/arena_ws/devel/.private/agent_path_prediction/include -I/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include -I/home/az/arena_ws/devel/.private/cohan_msgs/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/agent_path_prediction/include -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

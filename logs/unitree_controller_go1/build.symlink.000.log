@@ -1,4 +1,4 @@
-Symlinking /home/az/arena_ws/devel/share/unitree_controller_go1/cmake/unitree_controller_go1Config.cmake
-Symlinking /home/az/arena_ws/devel/share/unitree_controller_go1/cmake/unitree_controller_go1Config-version.cmake
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/unitree_controller_go1.pc
-Symlinking /home/az/arena_ws/devel/lib/unitree_controller_go1/unitree_controller_go1
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/unitree_controller_go1/cmake/unitree_controller_go1Config.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/unitree_controller_go1/cmake/unitree_controller_go1Config-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/unitree_controller_go1.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/unitree_controller_go1/unitree_controller_go1

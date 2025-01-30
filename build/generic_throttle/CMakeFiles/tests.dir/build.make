@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/generic_throttle
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/generic_throttle
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/az/arena_ws/build/generic_throttle && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle /home/az/arena_ws/build/generic_throttle /home/az/arena_ws/build/generic_throttle /home/az/arena_ws/build/generic_throttle/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/generic_throttle && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/generic_throttle /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/generic_throttle /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/generic_throttle /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/generic_throttle/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

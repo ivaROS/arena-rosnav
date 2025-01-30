@@ -1,14 +1,14 @@
 {
-	"BUILD_DIR" : "/home/az/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen",
-	"CMAKE_BINARY_DIR" : "/home/az/arena_ws/build/pedsim_simulator",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/arena_ws/build/pedsim_simulator",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator",
+	"BUILD_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
-	"CMAKE_SOURCE_DIR" : "/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator",
+	"CMAKE_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator",
 	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/az/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/az/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -28,13 +28,13 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/az/arena_ws/devel/.private/pedsim_simulator/include",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include",
-		"/home/az/arena_ws/devel/.private/pedsim_msgs/include",
-		"/home/az/arena_ws/devel/.private/pedsim_srvs/include",
-		"/home/az/arena_ws/devel/.private/flatland_msgs/include",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_simulator/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_srvs/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_msgs/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include",
 		"/opt/ros/noetic/include",
 		"/opt/ros/noetic/include/xmlrpcpp",
 		"/usr/include/x86_64-linux-gnu/qt5",
@@ -61,166 +61,166 @@
 		"-c",
 		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/az/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/pedsim_simulator_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agent_pose_stamped.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agentstatemachine.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/config.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agent.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agentcluster.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agentgroup.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/areawaypoint.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/attractionarea.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/queueingwaypoint.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/robot.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/scenarioelement.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/waitingqueue.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/waypoint.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/alongwallforce.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/force.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/groupcoherenceforce.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/groupgazeforce.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/grouprepulsionforce.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/randomforce.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene_services.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/groupwaypointplanner.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/individualwaypointplanner.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/queueingplanner.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/shoppingplanner.h",
-		"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/waypointplanner.h"
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agent_pose_stamped.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agentstatemachine.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/config.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agent.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agentcluster.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agentgroup.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/areawaypoint.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/attractionarea.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/queueingwaypoint.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/robot.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/scenarioelement.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/waitingqueue.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/waypoint.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/alongwallforce.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/force.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/groupcoherenceforce.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/groupgazeforce.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/grouprepulsionforce.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/randomforce.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene_services.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/groupwaypointplanner.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/individualwaypointplanner.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/queueingplanner.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/shoppingplanner.h",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/waypointplanner/waypointplanner.h"
 	],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/az/arena_ws/build/pedsim_simulator/CMakeFiles/pedsim_simulator_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/CMakeFiles/pedsim_simulator_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
-	"SETTINGS_FILE" : "/home/az/arena_ws/build/pedsim_simulator/CMakeFiles/pedsim_simulator_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/CMakeFiles/pedsim_simulator_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agent_pose_stamped.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agent_pose_stamped.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agentstatemachine.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agentstatemachine.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agent.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agent.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentcluster.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentcluster.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/areawaypoint.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/areawaypoint.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/attractionarea.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/attractionarea.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/robot.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/robot.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/scenarioelement.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/scenarioelement.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/wall.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/wall.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waypoint.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waypoint.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/alongwallforce.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/alongwallforce.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/force.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/force.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupgazeforce.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupgazeforce.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/rng.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/rng.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scenarioreader.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scenarioreader.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator_node.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator_node.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/groupwaypointplanner.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/groupwaypointplanner.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/individualwaypointplanner.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/individualwaypointplanner.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp",
 			"MU"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/shoppingplanner.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/shoppingplanner.cpp",
 			"MU"
 		]
 	],

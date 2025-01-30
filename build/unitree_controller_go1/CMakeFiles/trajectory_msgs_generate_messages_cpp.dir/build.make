@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/unitree_controller_go1
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1
 
 # Utility rule file for trajectory_msgs_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/clean
 
 CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/depend:
-	cd /home/az/arena_ws/build/unitree_controller_go1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/depend
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_virtualizerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_virtualizerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/tiago/ira_laser_tools/src/laserscan_virtualizer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/tiago/ira_laser_tools/src/laserscan_virtualizer.cpp
 ros/ros.h
 -
 string.h
@@ -46,7 +46,7 @@ pcl/io/pcd_io.h
 sensor_msgs/point_cloud_conversion.h
 -
 sensor_msgs/LaserScan.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/tiago/ira_laser_tools/src/sensor_msgs/LaserScan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/tiago/ira_laser_tools/src/sensor_msgs/LaserScan.h
 pcl_ros/point_cloud.h
 -
 Eigen/Dense

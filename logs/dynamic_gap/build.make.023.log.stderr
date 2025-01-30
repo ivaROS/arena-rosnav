@@ -1,7 +1,0 @@
-[01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp:[m[K In member function ‘[01m[Kvoid dynamic_gap::Planner::identifyDynamicEndPoints(const int&, std::vector<dynamic_gap::Gap*>&, const std::vector<geometry_msgs::TwistStamped_<std::allocator<void> > >&, const std::vector<geometry_msgs::TwistStamped_<std::allocator<void> > >&, const ros::Time&)[m[K’:
-[01m[K/home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp:419:47:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[KisStatic[m[K’ in ‘[01m[Kgap[m[K’, which is of pointer type ‘[01m[Kdynamic_gap::Gap*[m[K’ (maybe you meant to use ‘[01m[K->[m[K’ ?)
-  419 |                 std::string isStaticStr = gap.[01;31m[KisStatic[m[K ? "true" : "false";
-      |                                               [01;31m[K^~~~~~~~[m[K
-make[2]: *** [CMakeFiles/dynamic_gap.dir/build.make:271: CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:1628: CMakeFiles/dynamic_gap.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2

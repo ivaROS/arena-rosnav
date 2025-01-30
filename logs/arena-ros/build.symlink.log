@@ -1,3 +1,3 @@
-Linked: (/home/az/arena_ws/devel/.private/arena-ros/share/arena-ros/cmake/arena-rosConfig.cmake, /home/az/arena_ws/devel/share/arena-ros/cmake/arena-rosConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/arena-ros/share/arena-ros/cmake/arena-rosConfig-version.cmake, /home/az/arena_ws/devel/share/arena-ros/cmake/arena-rosConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/arena-ros/lib/pkgconfig/arena-ros.pc, /home/az/arena_ws/devel/lib/pkgconfig/arena-ros.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena-ros/cmake/arena-rosConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena-ros/cmake/arena-rosConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/arena-ros.pc

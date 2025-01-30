@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/global_planner/lib/libglobal_planner.pdb"
-  "/home/az/arena_ws/devel/.private/global_planner/lib/libglobal_planner.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/global_planner/lib/libglobal_planner.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/global_planner/lib/libglobal_planner.so"
   "CMakeFiles/global_planner.dir/src/astar.cpp.o"
   "CMakeFiles/global_planner.dir/src/dijkstra.cpp.o"
   "CMakeFiles/global_planner.dir/src/gradient_path.cpp.o"

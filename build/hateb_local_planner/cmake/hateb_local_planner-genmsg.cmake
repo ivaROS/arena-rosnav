@@ -2,7 +2,7 @@
 
 message(STATUS "hateb_local_planner: 6 messages, 5 services")
 
-set(MSG_I_FLAGS "-Ihateb_local_planner:/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg;-Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg;-Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg;-Icostmap_converter:/opt/ros/noetic/share/costmap_converter/cmake/../msg;-Icohan_msgs:/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg;-Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg;-Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg")
+set(MSG_I_FLAGS "-Ihateb_local_planner:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg;-Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg;-Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg;-Icostmap_converter:/opt/ros/noetic/share/costmap_converter/cmake/../msg;-Icohan_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg;-Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg;-Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg")
 
 # Find all generators
 find_package(gencpp REQUIRED)
@@ -17,59 +17,59 @@ add_custom_target(hateb_local_planner_generate_messages ALL)
 
 
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" "geometry_msgs/Point32:geometry_msgs/Twist:geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Vector3:geometry_msgs/QuaternionStamped:geometry_msgs/Polygon:geometry_msgs/TwistWithCovariance:geometry_msgs/PolygonStamped"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" "geometry_msgs/PolygonStamped:geometry_msgs/Polygon:geometry_msgs/Vector3:geometry_msgs/QuaternionStamped:std_msgs/Header:geometry_msgs/Twist:geometry_msgs/Point32:geometry_msgs/Quaternion:geometry_msgs/TwistWithCovariance"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" "std_msgs/Header:hateb_local_planner/OptimizationCost"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" "std_msgs/Header:hateb_local_planner/OptimizationCost"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" "geometry_msgs/Twist:geometry_msgs/Quaternion:geometry_msgs/Vector3:geometry_msgs/Pose:geometry_msgs/Point"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" "geometry_msgs/Pose:geometry_msgs/Vector3:geometry_msgs/Twist:geometry_msgs/Quaternion:geometry_msgs/Point"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" "geometry_msgs/Twist:geometry_msgs/Quaternion:hateb_local_planner/TrajectoryPointMsg:std_msgs/Header:geometry_msgs/Vector3:geometry_msgs/Pose:geometry_msgs/Point"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" "geometry_msgs/Pose:hateb_local_planner/TrajectoryPointMsg:geometry_msgs/Vector3:std_msgs/Header:geometry_msgs/Twist:geometry_msgs/Quaternion:geometry_msgs/Point"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" "geometry_msgs/Twist:geometry_msgs/Point32:geometry_msgs/Quaternion:hateb_local_planner/TrajectoryPointMsg:std_msgs/Header:geometry_msgs/Vector3:geometry_msgs/Pose:costmap_converter/ObstacleMsg:costmap_converter/ObstacleArrayMsg:geometry_msgs/Point:geometry_msgs/Polygon:geometry_msgs/TwistWithCovariance:hateb_local_planner/TrajectoryMsg"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" "geometry_msgs/Pose:hateb_local_planner/TrajectoryPointMsg:geometry_msgs/Polygon:geometry_msgs/Vector3:std_msgs/Header:geometry_msgs/Twist:geometry_msgs/Point32:geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/TwistWithCovariance:hateb_local_planner/TrajectoryMsg:costmap_converter/ObstacleArrayMsg:costmap_converter/ObstacleMsg"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" "geometry_msgs/Twist:geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Vector3:nav_msgs/Path:geometry_msgs/PoseStamped:geometry_msgs/Pose:cohan_msgs/AgentPathArray:cohan_msgs/AgentPath:geometry_msgs/Point"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" "geometry_msgs/Pose:geometry_msgs/PoseStamped:geometry_msgs/Vector3:std_msgs/Header:cohan_msgs/AgentPathArray:geometry_msgs/Twist:cohan_msgs/AgentPath:geometry_msgs/Quaternion:nav_msgs/Path:geometry_msgs/Point"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" "geometry_msgs/Twist:geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Vector3:geometry_msgs/PoseStamped:geometry_msgs/Pose:geometry_msgs/Point"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "hateb_local_planner" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" "geometry_msgs/Pose:geometry_msgs/PoseStamped:geometry_msgs/Vector3:std_msgs/Header:geometry_msgs/Twist:geometry_msgs/Quaternion:geometry_msgs/Point"
 )
 
 #
@@ -79,71 +79,71 @@ add_custom_target(_hateb_local_planner_generate_messages_check_deps_${_filename}
 ### Section generating for lang: gencpp
 ### Generating Messages
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 
 ### Generating Services
 _generate_srv_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_cpp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/hateb_local_planner
 )
 
@@ -159,27 +159,27 @@ add_custom_target(hateb_local_planner_generate_messages_cpp
 add_dependencies(hateb_local_planner_generate_messages hateb_local_planner_generate_messages_cpp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_cpp _hateb_local_planner_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -192,71 +192,71 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS hateb_local_planner_generate_messag
 ### Section generating for lang: geneus
 ### Generating Messages
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 
 ### Generating Services
 _generate_srv_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_eus(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/hateb_local_planner
 )
 
@@ -272,27 +272,27 @@ add_custom_target(hateb_local_planner_generate_messages_eus
 add_dependencies(hateb_local_planner_generate_messages hateb_local_planner_generate_messages_eus)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_eus _hateb_local_planner_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -305,71 +305,71 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS hateb_local_planner_generate_messag
 ### Section generating for lang: genlisp
 ### Generating Messages
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 
 ### Generating Services
 _generate_srv_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_lisp(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/hateb_local_planner
 )
 
@@ -385,27 +385,27 @@ add_custom_target(hateb_local_planner_generate_messages_lisp
 add_dependencies(hateb_local_planner_generate_messages hateb_local_planner_generate_messages_lisp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_lisp _hateb_local_planner_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -418,71 +418,71 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS hateb_local_planner_generate_messag
 ### Section generating for lang: gennodejs
 ### Generating Messages
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 
 ### Generating Services
 _generate_srv_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_nodejs(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/hateb_local_planner
 )
 
@@ -498,27 +498,27 @@ add_custom_target(hateb_local_planner_generate_messages_nodejs
 add_dependencies(hateb_local_planner_generate_messages hateb_local_planner_generate_messages_nodejs)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_nodejs _hateb_local_planner_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -531,71 +531,71 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS hateb_local_planner_generate_messag
 ### Section generating for lang: genpy
 ### Generating Messages
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PolygonStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/QuaternionStamped.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_msg_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Polygon.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point32.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/TwistWithCovariance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleArrayMsg.msg;/opt/ros/noetic/share/costmap_converter/cmake/../msg/ObstacleMsg.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 
 ### Generating Services
 _generate_srv_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/home/az/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPathArray.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs/msg/AgentPath.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/nav_msgs/cmake/../msg/Path.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 _generate_srv_py(hateb_local_planner
-  "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/PoseStamped.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Twist.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner
 )
 
@@ -611,27 +611,27 @@ add_custom_target(hateb_local_planner_generate_messages_py
 add_dependencies(hateb_local_planner_generate_messages hateb_local_planner_generate_messages_py)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/ObstacleMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCost.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/OptimizationCostArray.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryPointMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/TrajectoryMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/msg/FeedbackMsg.msg" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Approach.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/Optimize.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/setPlanning.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/srv/getOptimVel.srv" NAME_WE)
 add_dependencies(hateb_local_planner_generate_messages_py _hateb_local_planner_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -724,7 +724,7 @@ if(TARGET cohan_msgs_generate_messages_nodejs)
 endif()
 
 if(genpy_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner)
-  install(CODE "execute_process(COMMAND \"/home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner\")")
+  install(CODE "execute_process(COMMAND \"/usr/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner\")")
   # install generated code
   install(
     DIRECTORY ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/hateb_local_planner

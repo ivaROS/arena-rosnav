@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/light_scan_sim
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim
 
 # Include any dependencies generated for this target.
 include CMakeFiles/light_scan_sim_node.dir/depend.make
@@ -58,56 +58,56 @@ include CMakeFiles/light_scan_sim_node.dir/progress.make
 include CMakeFiles/light_scan_sim_node.dir/flags.make
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o: CMakeFiles/light_scan_sim_node.dir/flags.make
-CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o: /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o -c /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp
+CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp > CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp > CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.i
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim_node.cpp -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.s
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o: CMakeFiles/light_scan_sim_node.dir/flags.make
-CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o: /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o -c /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp
+CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp > CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp > CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.i
 
 CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/light_scan_sim.cpp -o CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.s
 
 CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o: CMakeFiles/light_scan_sim_node.dir/flags.make
-CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o: /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o -c /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp
+CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp
 
 CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp > CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp > CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.i
 
 CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp -o CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/ray_cast.cpp -o CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.s
 
 CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o: CMakeFiles/light_scan_sim_node.dir/flags.make
-CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o: /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o -c /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp
+CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp
 
 CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp > CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp > CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.i
 
 CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp -o CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/src/wall_segment_sim.cpp -o CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.s
 
 # Object files for target light_scan_sim_node
 light_scan_sim_node_OBJECTS = \
@@ -119,88 +119,88 @@ light_scan_sim_node_OBJECTS = \
 # External object files for target light_scan_sim_node
 light_scan_sim_node_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/build.make
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so.2.3.1
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
-/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable /home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so.2.3.1
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node: CMakeFiles/light_scan_sim_node.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/light_scan_sim_node.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/light_scan_sim_node.dir/build: /home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node
+CMakeFiles/light_scan_sim_node.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node
 
 .PHONY : CMakeFiles/light_scan_sim_node.dir/build
 
@@ -209,6 +209,6 @@ CMakeFiles/light_scan_sim_node.dir/clean:
 .PHONY : CMakeFiles/light_scan_sim_node.dir/clean
 
 CMakeFiles/light_scan_sim_node.dir/depend:
-	cd /home/az/arena_ws/build/light_scan_sim && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim /home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim /home/az/arena_ws/build/light_scan_sim /home/az/arena_ws/build/light_scan_sim /home/az/arena_ws/build/light_scan_sim/CMakeFiles/light_scan_sim_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/light_scan_sim/CMakeFiles/light_scan_sim_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/light_scan_sim_node.dir/depend
 

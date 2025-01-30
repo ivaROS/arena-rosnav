@@ -1,39 +1,39 @@
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/light_scan_sim/cmake/light_scan_simConfig.cmake, /home/az/arena_ws/devel/share/light_scan_sim/cmake/light_scan_simConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/light_scan_sim/cmake/light_scan_sim-msg-extras.cmake, /home/az/arena_ws/devel/share/light_scan_sim/cmake/light_scan_sim-msg-extras.cmake)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/light_scan_sim/cmake/light_scan_sim-msg-paths.cmake, /home/az/arena_ws/devel/share/light_scan_sim/cmake/light_scan_sim-msg-paths.cmake)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/light_scan_sim/cmake/light_scan_simConfig-version.cmake, /home/az/arena_ws/devel/share/light_scan_sim/cmake/light_scan_simConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/roseus/ros/light_scan_sim/manifest.l, /home/az/arena_ws/devel/share/roseus/ros/light_scan_sim/manifest.l)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/roseus/ros/light_scan_sim/msg/Segment.l, /home/az/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/Segment.l)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/roseus/ros/light_scan_sim/msg/MaterialList.l, /home/az/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/MaterialList.l)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/roseus/ros/light_scan_sim/msg/SegmentList.l, /home/az/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/SegmentList.l)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/roseus/ros/light_scan_sim/msg/Material.l, /home/az/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/Material.l)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/light_scan_sim-msg.asd, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/light_scan_sim-msg.asd)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/MaterialList.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/MaterialList.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/_package.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/Segment.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/Segment.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/_package_Material.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_Material.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/Material.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/Material.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/_package_SegmentList.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_SegmentList.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/SegmentList.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/SegmentList.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/_package_Segment.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_Segment.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/common-lisp/ros/light_scan_sim/msg/_package_MaterialList.lisp, /home/az/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_MaterialList.lisp)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/_index.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/_index.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/msg/SegmentList.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/SegmentList.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/msg/_index.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/_index.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/msg/Segment.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/Segment.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/msg/MaterialList.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/MaterialList.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/share/gennodejs/ros/light_scan_sim/msg/Material.js, /home/az/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/Material.js)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/include/light_scan_sim/SegmentList.h, /home/az/arena_ws/devel/include/light_scan_sim/SegmentList.h)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/include/light_scan_sim/Material.h, /home/az/arena_ws/devel/include/light_scan_sim/Material.h)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/include/light_scan_sim/MaterialList.h, /home/az/arena_ws/devel/include/light_scan_sim/MaterialList.h)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/include/light_scan_sim/Segment.h, /home/az/arena_ws/devel/include/light_scan_sim/Segment.h)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so, /home/az/arena_ws/devel/lib/libBox2DEmbed.so)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so.2.3.1, /home/az/arena_ws/devel/lib/libBox2DEmbed.so.2.3.1)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/pkgconfig/light_scan_sim.pc, /home/az/arena_ws/devel/lib/pkgconfig/light_scan_sim.pc)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/msg/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/msg/_Segment.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_Segment.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/msg/_Material.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_Material.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/msg/_SegmentList.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_SegmentList.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/python3/dist-packages/light_scan_sim/msg/_MaterialList.py, /home/az/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_MaterialList.py)
-Linked: (/home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node, /home/az/arena_ws/devel/lib/light_scan_sim/light_scan_sim_node)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/light_scan_sim/cmake/light_scan_simConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/light_scan_sim/cmake/light_scan_sim-msg-extras.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/light_scan_sim/cmake/light_scan_sim-msg-paths.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/light_scan_sim/cmake/light_scan_simConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/light_scan_sim/manifest.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/Segment.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/MaterialList.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/SegmentList.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/roseus/ros/light_scan_sim/msg/Material.l
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/light_scan_sim-msg.asd
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/MaterialList.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/Segment.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_Material.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/Material.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_SegmentList.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/SegmentList.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_Segment.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/common-lisp/ros/light_scan_sim/msg/_package_MaterialList.lisp
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/_index.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/SegmentList.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/_index.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/Segment.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/MaterialList.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/gennodejs/ros/light_scan_sim/msg/Material.js
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/light_scan_sim/SegmentList.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/light_scan_sim/Material.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/light_scan_sim/MaterialList.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/light_scan_sim/Segment.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libBox2DEmbed.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libBox2DEmbed.so.2.3.1
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/light_scan_sim.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_Segment.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_Material.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_SegmentList.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/light_scan_sim/msg/_MaterialList.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/light_scan_sim/light_scan_sim_node

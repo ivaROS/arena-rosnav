@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/barn_msgs/include/barn_msgs/BARN_data.h"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_msgs/include/barn_msgs/BARN_data.h"
   "CMakeFiles/barn_msgs_generate_messages_cpp"
 )
 

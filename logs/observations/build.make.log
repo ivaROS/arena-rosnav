@@ -1,23 +1,61 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
 [  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _observations_generate_messages_check_deps_Observation[0m
 [  0%] Built target _observations_generate_messages_check_deps_Observation
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
 [  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
 [  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  0%] Built target geometry_msgs_generate_messages_eus
-[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target observations_generate_messages_cpp[0m
+[  9%] [34m[1mGenerating C++ code from observations/Observation.msg[0m
 [  9%] Built target observations_generate_messages_cpp
+[35m[1mScanning dependencies of target observations_generate_messages_py[0m
+[ 18%] [34m[1mGenerating Python from MSG observations/Observation[0m
+[ 27%] [34m[1mGenerating Python msg __init__.py for observations[0m
 [ 27%] Built target observations_generate_messages_py
+[35m[1mScanning dependencies of target observations_generate_messages_nodejs[0m
+[ 36%] [34m[1mGenerating Javascript code from observations/Observation.msg[0m
 [ 36%] Built target observations_generate_messages_nodejs
+[35m[1mScanning dependencies of target observations_generate_messages_eus[0m
+[ 45%] [34m[1mGenerating EusLisp code from observations/Observation.msg[0m
+[ 54%] [34m[1mGenerating EusLisp manifest code for observations[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [ 54%] Built target observations_generate_messages_eus
+[35m[1mScanning dependencies of target observations_generate_messages_lisp[0m
+[ 63%] [34m[1mGenerating Lisp code from observations/Observation.msg[0m
 [ 63%] Built target observations_generate_messages_lisp
+[35m[1mScanning dependencies of target observation_packer[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/observation_packer/observation_packer.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/common/zVector2d.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/common/f_math.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/observations/lib/observations/observation_packer[0m
 [100%] Built target observation_packer
+[35m[1mScanning dependencies of target observations_generate_messages[0m
 [100%] Built target observations_generate_messages

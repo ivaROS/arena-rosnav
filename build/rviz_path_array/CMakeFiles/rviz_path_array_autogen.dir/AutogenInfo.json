@@ -1,21 +1,21 @@
 {
-	"BUILD_DIR" : "/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen",
-	"CMAKE_BINARY_DIR" : "/home/az/arena_ws/build/rviz_path_array",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/arena_ws/build/rviz_path_array",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/arena_ws/src/planners/cohan/rviz_path_array",
+	"BUILD_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen",
+	"CMAKE_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
-	"CMAKE_SOURCE_DIR" : "/home/az/arena_ws/src/planners/cohan/rviz_path_array",
+	"CMAKE_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array",
 	"HEADERS" : 
 	[
 		[
-			"/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h",
 			"Mu",
 			"UVLADIE3JM/moc_patharray_display.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -37,7 +37,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/az/arena_ws/devel/.private/cohan_msgs/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include",
 		"/opt/ros/noetic/include",
 		"/opt/ros/noetic/include/xmlrpcpp",
 		"/usr/include/eigen3",
@@ -67,20 +67,20 @@
 		"-c",
 		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/az/arena_ws/build/rviz_path_array/CMakeFiles/rviz_path_array_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/CMakeFiles/rviz_path_array_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
-	"SETTINGS_FILE" : "/home/az/arena_ws/build/rviz_path_array/CMakeFiles/rviz_path_array_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/CMakeFiles/rviz_path_array_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.cpp",
 			"Mu"
 		]
 	],

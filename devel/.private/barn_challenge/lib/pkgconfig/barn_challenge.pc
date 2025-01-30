@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/barn_challenge
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge
 
 Name: barn_challenge
 Description: Description of barn_challenge
 Version: 0.0.0
-Cflags: -I/home/az/arena_ws/src/planners/dragon/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon/include
 Libs: -L${prefix}/lib -lfarm_planner_lib
 Requires: 

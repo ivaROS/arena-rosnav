@@ -1,1 +1,5 @@
+[35m[1mScanning dependencies of target mapping[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/mapping.dir/src/mapping.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/mapping.dir/src/raycast.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mapping/lib/libmapping.so[0m
 [100%] Built target mapping

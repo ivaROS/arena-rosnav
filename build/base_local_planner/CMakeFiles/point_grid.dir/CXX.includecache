@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
 ros/ros.h
 -
 geometry_msgs/Polygon.h
@@ -18,19 +18,19 @@ geometry_msgs/Point.h
 geometry_msgs/Point32.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
 geometry_msgs/Point.h
 -
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
 geometry_msgs/Point32.h
 -
 sensor_msgs/PointCloud.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/point_grid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/point_grid.h
 vector
 -
 list
@@ -46,7 +46,7 @@ base_local_planner/world_model.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
 vector
 -
 costmap_2d/observation.h
@@ -58,7 +58,7 @@ geometry_msgs/Point.h
 base_local_planner/planar_laser_scan.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/point_grid_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/point_grid_node.cpp
 base_local_planner/point_grid.h
 -
 ros/console.h

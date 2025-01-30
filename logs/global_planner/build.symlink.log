@@ -1,12 +1,12 @@
-Linked: (/home/az/arena_ws/devel/.private/global_planner/share/global_planner/docs/GlobalPlannerConfig.dox, /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.dox)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/share/global_planner/docs/GlobalPlannerConfig-usage.dox, /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig-usage.dox)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/share/global_planner/docs/GlobalPlannerConfig.wikidoc, /home/az/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.wikidoc)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/share/global_planner/cmake/global_plannerConfig.cmake, /home/az/arena_ws/devel/share/global_planner/cmake/global_plannerConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/share/global_planner/cmake/global_plannerConfig-version.cmake, /home/az/arena_ws/devel/share/global_planner/cmake/global_plannerConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/include/global_planner/GlobalPlannerConfig.h, /home/az/arena_ws/devel/include/global_planner/GlobalPlannerConfig.h)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/libglobal_planner.so, /home/az/arena_ws/devel/lib/libglobal_planner.so)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/pkgconfig/global_planner.pc, /home/az/arena_ws/devel/lib/pkgconfig/global_planner.pc)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/python3/dist-packages/global_planner/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/python3/dist-packages/global_planner/cfg/GlobalPlannerConfig.py, /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/GlobalPlannerConfig.py)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/python3/dist-packages/global_planner/cfg/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/global_planner/lib/global_planner/planner, /home/az/arena_ws/devel/lib/global_planner/planner)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig-usage.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/global_planner/docs/GlobalPlannerConfig.wikidoc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/global_planner/cmake/global_plannerConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/global_planner/cmake/global_plannerConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/global_planner/GlobalPlannerConfig.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libglobal_planner.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/global_planner.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/global_planner/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/GlobalPlannerConfig.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/global_planner/cfg/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/global_planner/planner

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/mecanum_drive_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/mecanum_drive_controller.h
 controller_interface/controller.h
 -
 hardware_interface/joint_command_interface.h
@@ -26,7 +26,7 @@ mecanum_drive_controller/odometry.h
 mecanum_drive_controller/speed_limiter.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/odometry.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/odometry.h
 ros/time.h
 -
 boost/accumulators/accumulators.hpp
@@ -38,9 +38,9 @@ boost/accumulators/statistics/rolling_mean.hpp
 boost/function.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/speed_limiter.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include/mecanum_drive_controller/speed_limiter.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/mecanum_drive_controller.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/mecanum_drive_controller.cpp
 tf/transform_datatypes.h
 -
 urdf_parser/urdf_parser.h
@@ -50,7 +50,7 @@ boost/assign.hpp
 mecanum_drive_controller/mecanum_drive_controller.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/odometry.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/odometry.cpp
 mecanum_drive_controller/odometry.h
 -
 tf/transform_datatypes.h
@@ -58,7 +58,7 @@ tf/transform_datatypes.h
 boost/bind.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/speed_limiter.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/speed_limiter.cpp
 algorithm
 -
 mecanum_drive_controller/speed_limiter.h

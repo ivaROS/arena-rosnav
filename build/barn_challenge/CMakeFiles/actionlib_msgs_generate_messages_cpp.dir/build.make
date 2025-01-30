@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/dragon
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/barn_challenge
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge
 
 # Utility rule file for actionlib_msgs_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/clean
 
 CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/depend:
-	cd /home/az/arena_ws/build/barn_challenge && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/dragon /home/az/arena_ws/src/planners/dragon /home/az/arena_ws/build/barn_challenge /home/az/arena_ws/build/barn_challenge /home/az/arena_ws/build/barn_challenge/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/depend
 

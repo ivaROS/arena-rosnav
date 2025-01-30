@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cob_twist_controller
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller
 
 # Include any dependencies generated for this target.
 include CMakeFiles/debug_fk_vel_recursive_node.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/debug_fk_vel_recursive_node.dir/progress.make
 include CMakeFiles/debug_fk_vel_recursive_node.dir/flags.make
 
 CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o: CMakeFiles/debug_fk_vel_recursive_node.dir/flags.make
-CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o -c /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp
+CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp
 
 CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp > CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp > CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.i
 
 CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp -o CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/debug/debug_fk_vel_recursive_node.cpp -o CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.s
 
 # Object files for target debug_fk_vel_recursive_node
 debug_fk_vel_recursive_node_OBJECTS = \
@@ -77,57 +77,57 @@ debug_fk_vel_recursive_node_OBJECTS = \
 # External object files for target debug_fk_vel_recursive_node
 debug_fk_vel_recursive_node_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/build.make
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libeigen_conversions.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libkdl_parser.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf_conversions.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libkdl_conversions.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/liburdf.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_bridge.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libeigen_conversions.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libkdl_parser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf_conversions.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libkdl_conversions.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/liburdf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libtinyxml.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_bridge.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node: CMakeFiles/debug_fk_vel_recursive_node.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/debug_fk_vel_recursive_node.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/debug_fk_vel_recursive_node.dir/build: /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node
+CMakeFiles/debug_fk_vel_recursive_node.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node
 
 .PHONY : CMakeFiles/debug_fk_vel_recursive_node.dir/build
 
@@ -136,6 +136,6 @@ CMakeFiles/debug_fk_vel_recursive_node.dir/clean:
 .PHONY : CMakeFiles/debug_fk_vel_recursive_node.dir/clean
 
 CMakeFiles/debug_fk_vel_recursive_node.dir/depend:
-	cd /home/az/arena_ws/build/cob_twist_controller && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller/CMakeFiles/debug_fk_vel_recursive_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/CMakeFiles/debug_fk_vel_recursive_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/debug_fk_vel_recursive_node.dir/depend
 

@@ -19,24 +19,24 @@
 [ 25%] Built target mpc_local_planner_msgs_generate_messages_py
 [35m[1mScanning dependencies of target mpc_local_planner_msgs_generate_messages_nodejs[0m
 [ 33%] [34m[1mGenerating Javascript code from mpc_local_planner_msgs/StateFeedback.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
+[ 41%] Built target mpc_local_planner_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target mpc_local_planner_msgs_generate_messages_lisp[0m
-[ 41%] [34m[1mGenerating Lisp code from mpc_local_planner_msgs/StateFeedback.msg[0m
-[ 50%] [34m[1mGenerating Javascript code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from mpc_local_planner_msgs/StateFeedback.msg[0m
 [ 58%] [34m[1mGenerating Lisp code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
-[ 58%] Built target mpc_local_planner_msgs_generate_messages_nodejs
+[ 58%] Built target mpc_local_planner_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target mpc_local_planner_msgs_generate_messages_eus[0m
 [ 66%] [34m[1mGenerating EusLisp code from mpc_local_planner_msgs/StateFeedback.msg[0m
-[ 66%] Built target mpc_local_planner_msgs_generate_messages_lisp
+[ 75%] [34m[1mGenerating EusLisp code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
+[ 83%] [34m[1mGenerating EusLisp manifest code for mpc_local_planner_msgs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 83%] Built target mpc_local_planner_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target mpc_local_planner_msgs_generate_messages_cpp[0m
-[ 75%] [34m[1mGenerating C++ code from mpc_local_planner_msgs/StateFeedback.msg[0m
-[ 83%] [34m[1mGenerating EusLisp code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
-[ 91%] [34m[1mGenerating C++ code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
-[100%] [34m[1mGenerating EusLisp manifest code for mpc_local_planner_msgs[0m
+[ 91%] [34m[1mGenerating C++ code from mpc_local_planner_msgs/StateFeedback.msg[0m
+[100%] [34m[1mGenerating C++ code from mpc_local_planner_msgs/OptimalControlResult.msg[0m
 [100%] Built target mpc_local_planner_msgs_generate_messages_cpp
-WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[100%] Built target mpc_local_planner_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target mpc_local_planner_msgs_generate_messages[0m
 [100%] Built target mpc_local_planner_msgs_generate_messages

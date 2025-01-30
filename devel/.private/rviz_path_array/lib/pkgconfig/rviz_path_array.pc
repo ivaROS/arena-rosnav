@@ -1,4 +1,4 @@
-prefix=/home/az/arena_ws/devel/.private/rviz_path_array
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/rviz_path_array
 
 Name: rviz_path_array
 Description: Description of rviz_path_array

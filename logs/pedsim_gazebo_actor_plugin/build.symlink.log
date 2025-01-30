@@ -1,4 +1,4 @@
-Linked: (/home/az/arena_ws/devel/.private/pedsim_gazebo_actor_plugin/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig.cmake, /home/az/arena_ws/devel/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/pedsim_gazebo_actor_plugin/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig-version.cmake, /home/az/arena_ws/devel/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/pedsim_gazebo_actor_plugin/lib/libPedsimGazeboActorPlugin.so, /home/az/arena_ws/devel/lib/libPedsimGazeboActorPlugin.so)
-Linked: (/home/az/arena_ws/devel/.private/pedsim_gazebo_actor_plugin/lib/pkgconfig/pedsim_gazebo_actor_plugin.pc, /home/az/arena_ws/devel/lib/pkgconfig/pedsim_gazebo_actor_plugin.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/pedsim_gazebo_actor_plugin/cmake/pedsim_gazebo_actor_pluginConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libPedsimGazeboActorPlugin.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/pedsim_gazebo_actor_plugin.pc

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/move_base_flex/move_base_flex
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/move_base_flex
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/move_base_flex
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/move_base_flex
 
 # Utility rule file for download_extra_data.
 
@@ -67,6 +67,6 @@ CMakeFiles/download_extra_data.dir/clean:
 .PHONY : CMakeFiles/download_extra_data.dir/clean
 
 CMakeFiles/download_extra_data.dir/depend:
-	cd /home/az/arena_ws/build/move_base_flex && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/move_base_flex/move_base_flex /home/az/arena_ws/src/arena/utils/move_base_flex/move_base_flex /home/az/arena_ws/build/move_base_flex /home/az/arena_ws/build/move_base_flex /home/az/arena_ws/build/move_base_flex/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/move_base_flex && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/move_base_flex /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/move_base_flex /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/move_base_flex /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/move_base_flex /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/move_base_flex/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/download_extra_data.dir/depend
 

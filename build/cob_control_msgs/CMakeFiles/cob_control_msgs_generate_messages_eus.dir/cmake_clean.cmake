@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/manifest.l"
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/msg/ObstacleDistance.l"
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/msg/ObstacleDistances.l"
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/srv/GetObstacleDistance.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/manifest.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/msg/ObstacleDistance.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/msg/ObstacleDistances.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/roseus/ros/cob_control_msgs/srv/GetObstacleDistance.l"
   "CMakeFiles/cob_control_msgs_generate_messages_eus"
 )
 

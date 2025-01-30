@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mapping
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mapping
 
 # Utility rule file for nodelet_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/nodelet_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/nodelet_generate_messages_nodejs.dir/clean
 
 CMakeFiles/nodelet_generate_messages_nodejs.dir/depend:
-	cd /home/az/arena_ws/build/mapping && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping /home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping /home/az/arena_ws/build/mapping /home/az/arena_ws/build/mapping /home/az/arena_ws/build/mapping/CMakeFiles/nodelet_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mapping && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mapping /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mapping /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mapping/CMakeFiles/nodelet_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/nodelet_generate_messages_nodejs.dir/depend
 

@@ -1,2 +1,2 @@
 set(arena_evaluation_msgs_MESSAGE_FILES "")
-set(arena_evaluation_msgs_SERVICE_FILES "/home/az/arena_ws/src/arena/evaluation/arena_evaluation_msgs/srv/ChangeDirectory.srv")
+set(arena_evaluation_msgs_SERVICE_FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/evaluation/arena_evaluation_msgs/srv/ChangeDirectory.srv")

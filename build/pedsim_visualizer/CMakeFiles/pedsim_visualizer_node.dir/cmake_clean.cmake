@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/pedsim_visualizer/lib/pedsim_visualizer/pedsim_visualizer_node"
-  "/home/az/arena_ws/devel/.private/pedsim_visualizer/lib/pedsim_visualizer/pedsim_visualizer_node.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_visualizer/lib/pedsim_visualizer/pedsim_visualizer_node"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_visualizer/lib/pedsim_visualizer/pedsim_visualizer_node.pdb"
   "CMakeFiles/pedsim_visualizer_node.dir/src/sim_visualizer.cpp.o"
   "CMakeFiles/pedsim_visualizer_node.dir/src/sim_visualizer_node.cpp.o"
 )

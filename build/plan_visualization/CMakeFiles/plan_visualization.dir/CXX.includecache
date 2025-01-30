@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/include/plan_visualization/planning_visualization.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/include/plan_visualization/planning_visualization.h
 algorithm
 -
 iostream
@@ -24,7 +24,7 @@ geometry_msgs/PoseStamped.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/src/planning_visualization.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/src/planning_visualization.cpp
 plan_visualization/planning_visualization.h
 -
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/unitree_controller_go1
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1
 
 # Include any dependencies generated for this target.
 include CMakeFiles/unitree_controller_go1.dir/depend.make
@@ -58,355 +58,355 @@ include CMakeFiles/unitree_controller_go1.dir/progress.make
 include CMakeFiles/unitree_controller_go1.dir/flags.make
 
 CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
+CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp > CMakeFiles/unitree_controller_go1.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp > CMakeFiles/unitree_controller_go1.dir/src/main.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp -o CMakeFiles/unitree_controller_go1.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp -o CMakeFiles/unitree_controller_go1.dir/src/main.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
+CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp > CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp -o CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
+CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
+CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
+CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp > CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
+CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
+CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
+CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp > CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp -o CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
+CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
+CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
+CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp > CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp -o CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
+CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
+CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
+CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
+CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp > CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.i
 
 CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp -o CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.s
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
+CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc > CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc > CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.i
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.s
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o: CMakeFiles/unitree_controller_go1.dir/flags.make
-CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o: /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o -c /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
+CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc > CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc > CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.i
 
 CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc -o CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.s
 
 # Object files for target unitree_controller_go1
 unitree_controller_go1_OBJECTS = \
@@ -441,81 +441,81 @@ unitree_controller_go1_OBJECTS = \
 # External object files for target unitree_controller_go1
 unitree_controller_go1_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/build.make
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librobot_state_publisher_solver.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libjoint_state_listener.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libkdl_parser.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/liburdf.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_bridge.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable /home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/main.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/FSM.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/FSMState.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_BalanceTest.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Danger.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FixedStand.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_FreeStand.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Passive.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_StepTest.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_SwingTest.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_Trotting.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/FSM/State_move_base.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/FeetEndCal.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/GaitGenerator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/Gait/WaveGenerator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/LowPassFilter.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/unitreeLeg.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/common/unitreeRobot.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/BalanceCtrl.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/ControlFrame.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/control/Estimator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/IOROS.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/IOSDK.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/KeyBoard.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librobot_state_publisher_solver.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libjoint_state_listener.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libkdl_parser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/liburdf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libtinyxml.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_bridge.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1: CMakeFiles/unitree_controller_go1.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/unitree_controller_go1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/unitree_controller_go1.dir/build: /home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1
+CMakeFiles/unitree_controller_go1.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1
 
 .PHONY : CMakeFiles/unitree_controller_go1.dir/build
 
@@ -524,6 +524,6 @@ CMakeFiles/unitree_controller_go1.dir/clean:
 .PHONY : CMakeFiles/unitree_controller_go1.dir/clean
 
 CMakeFiles/unitree_controller_go1.dir/depend:
-	cd /home/az/arena_ws/build/unitree_controller_go1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1 /home/az/arena_ws/build/unitree_controller_go1/CMakeFiles/unitree_controller_go1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1/CMakeFiles/unitree_controller_go1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/unitree_controller_go1.dir/depend
 

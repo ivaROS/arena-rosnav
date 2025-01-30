@@ -1,10 +1,10 @@
--I/home/az/arena_ws/devel/.private/pedsim_simulator/include
--I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include
--I/home/az/arena_ws/devel/.private/pedsim_msgs/include
--I/home/az/arena_ws/devel/.private/pedsim_srvs/include
--I/home/az/arena_ws/devel/.private/flatland_msgs/include
--I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include
--I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_simulator/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_srvs/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_msgs/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include
+-I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include
 -I/opt/ros/noetic/include
 -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
 -I/usr/include
@@ -15,5 +15,5 @@
 -DQT_GUI_LIB
 -DQT_CORE_LIB
 -o
-/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/force/moc_grouprepulsionforce.cpp
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/grouprepulsionforce.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/include/pedsim_simulator/force/moc_grouprepulsionforce.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/force/grouprepulsionforce.h

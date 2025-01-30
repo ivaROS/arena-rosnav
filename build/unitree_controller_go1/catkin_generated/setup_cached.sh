@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/az/arena_ws/devel/.private/unitree_controller_go1:$CMAKE_PREFIX_PATH"
-export PWD='/home/az/arena_ws/build/unitree_controller_go1'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/az/arena_ws/devel/.private/unitree_controller_go1/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1:$CMAKE_PREFIX_PATH"
+export PWD='/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/unitree_controller_go1'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1:$ROS_PACKAGE_PATH"

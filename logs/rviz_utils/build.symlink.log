@@ -1,7 +1,7 @@
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/share/rviz_utils/cmake/rviz_utilsConfig-version.cmake, /home/az/arena_ws/devel/share/rviz_utils/cmake/rviz_utilsConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/share/rviz_utils/cmake/rviz_utilsConfig.cmake, /home/az/arena_ws/devel/share/rviz_utils/cmake/rviz_utilsConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/lib/pkgconfig/rviz_utils.pc, /home/az/arena_ws/devel/lib/pkgconfig/rviz_utils.pc)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/lib/python3/dist-packages/rviz_utils/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/rviz_utils/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/lib/rviz_utils/cmake.lock, /home/az/arena_ws/devel/lib/rviz_utils/cmake.lock)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/lib/rviz_utils/create_config_file.py, /home/az/arena_ws/devel/lib/rviz_utils/create_config_file.py)
-Linked: (/home/az/arena_ws/devel/.private/rviz_utils/lib/rviz_utils/visualize_robot_model.py, /home/az/arena_ws/devel/lib/rviz_utils/visualize_robot_model.py)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_utils/cmake/rviz_utilsConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_utils/cmake/rviz_utilsConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/rviz_utils.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/rviz_utils/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/rviz_utils/cmake.lock
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/rviz_utils/create_config_file.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/rviz_utils/visualize_robot_model.py

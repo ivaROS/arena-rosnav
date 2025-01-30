@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/gazebo_ros_2Dmap_plugin
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin
 
 # Include any dependencies generated for this target.
 include CMakeFiles/gazebo_2Dmap_plugin.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/gazebo_2Dmap_plugin.dir/progress.make
 include CMakeFiles/gazebo_2Dmap_plugin.dir/flags.make
 
 CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o: CMakeFiles/gazebo_2Dmap_plugin.dir/flags.make
-CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o: /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o -c /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
+CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp
 
 CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp > CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp > CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.i
 
 CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp -o CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin/src/gazebo_2Dmap_plugin.cpp -o CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.s
 
 # Object files for target gazebo_2Dmap_plugin
 gazebo_2Dmap_plugin_OBJECTS = \
@@ -77,155 +77,155 @@ gazebo_2Dmap_plugin_OBJECTS = \
 # External object files for target gazebo_2Dmap_plugin
 gazebo_2Dmap_plugin_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/build.make
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_api_plugin.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_paths_plugin.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_control.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libdefault_robot_hw_sim.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcontroller_manager.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcontrol_toolbox.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librealtime_tools.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_parser.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_loader.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_loader_plugins.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libvision_reconfigure.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_utils.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_camera_utils.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_camera.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_triggered_camera.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_multicamera.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_triggered_multicamera.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_depth_camera.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_openni_kinect.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_gpu_laser.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_laser.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_block_laser.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_p3d.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_imu.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_imu_sensor.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_f3d.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_ft_sensor.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_bumper.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_template.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_projector.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_prosilica.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_force.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_joint_state_publisher.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_joint_pose_trajectory.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_diff_drive.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_tricycle_drive.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_skid_steer_drive.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_video.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_planar_move.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_range.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_vacuum_gripper.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libnodeletlib.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libbondcpp.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libimage_transport.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcamera_info_manager.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcamera_calibration_parsers.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librobot_state_publisher_solver.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libjoint_state_listener.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libkdl_parser.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/liburdf.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_bridge.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKsimbody.so.3.6
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdart.so.6.9.2
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_client.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_gui.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_sensors.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_rendering.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_physics.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_ode.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_transport.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_msgs.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_util.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_common.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_gimpact.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_opcode.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_opende_ou.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_iostreams.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libprotobuf.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libsdformat9.so.9.8.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-common3-graphics.so.3.14.2
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKmath.so.3.6
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKcommon.so.3.6
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libblas.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblapack.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libblas.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblapack.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdart-external-odelcpsolver.so.6.9.2
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libccd.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libfcl.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libassimp.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liboctomap.so.1.9.3
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liboctomath.so.1.9.3
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-transport8.so.8.3.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-fuel_tools4.so.4.6.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-msgs5.so.5.10.0
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-math6.so.6.15.1
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libprotobuf.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-common3.so.3.14.2
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
-/home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library /home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/src/gazebo_2Dmap_plugin.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_api_plugin.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_paths_plugin.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_control.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libdefault_robot_hw_sim.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcontroller_manager.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcontrol_toolbox.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librealtime_tools.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_parser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtransmission_interface_loader_plugins.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libvision_reconfigure.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_utils.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_camera_utils.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_camera.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_triggered_camera.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_multicamera.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_triggered_multicamera.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_depth_camera.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_openni_kinect.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_gpu_laser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_laser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_block_laser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_p3d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_imu.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_imu_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_f3d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_ft_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_bumper.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_template.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_projector.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_prosilica.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_force.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_joint_state_publisher.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_joint_pose_trajectory.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_diff_drive.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_tricycle_drive.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_skid_steer_drive.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_video.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_planar_move.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_range.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libgazebo_ros_vacuum_gripper.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libnodeletlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libbondcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libimage_transport.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcamera_info_manager.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcamera_calibration_parsers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librobot_state_publisher_solver.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libjoint_state_listener.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libkdl_parser.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/liburdf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libtinyxml.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_bridge.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKsimbody.so.3.6
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdart.so.6.9.2
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_client.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_gui.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_sensors.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_rendering.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_physics.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_ode.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_transport.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_msgs.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_util.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_gimpact.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_opcode.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libgazebo_opende_ou.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_iostreams.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libprotobuf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libsdformat9.so.9.8.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-common3-graphics.so.3.14.2
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKmath.so.3.6
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libSimTKcommon.so.3.6
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libblas.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblapack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libblas.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liblapack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libdart-external-odelcpsolver.so.6.9.2
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libccd.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libfcl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libassimp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liboctomap.so.1.9.3
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/liboctomath.so.1.9.3
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-transport8.so.8.3.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-fuel_tools4.so.4.6.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-msgs5.so.5.10.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-math6.so.6.15.1
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libprotobuf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-common3.so.3.14.2
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: /usr/lib/x86_64-linux-gnu/libuuid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so: CMakeFiles/gazebo_2Dmap_plugin.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gazebo_2Dmap_plugin.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/gazebo_2Dmap_plugin.dir/build: /home/az/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so
+CMakeFiles/gazebo_2Dmap_plugin.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/gazebo_ros_2Dmap_plugin/lib/libgazebo_2Dmap_plugin.so
 
 .PHONY : CMakeFiles/gazebo_2Dmap_plugin.dir/build
 
@@ -234,6 +234,6 @@ CMakeFiles/gazebo_2Dmap_plugin.dir/clean:
 .PHONY : CMakeFiles/gazebo_2Dmap_plugin.dir/clean
 
 CMakeFiles/gazebo_2Dmap_plugin.dir/depend:
-	cd /home/az/arena_ws/build/gazebo_ros_2Dmap_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin /home/az/arena_ws/src/extern/gazebo_ros_2Dmap_plugin /home/az/arena_ws/build/gazebo_ros_2Dmap_plugin /home/az/arena_ws/build/gazebo_ros_2Dmap_plugin /home/az/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles/gazebo_2Dmap_plugin.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/extern/gazebo_ros_2Dmap_plugin /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/gazebo_ros_2Dmap_plugin/CMakeFiles/gazebo_2Dmap_plugin.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/gazebo_2Dmap_plugin.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/planners/global/global_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/global_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/global_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/global_planner
 
 # Utility rule file for tf_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/tf_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/tf_generate_messages_cpp.dir/clean
 
 CMakeFiles/tf_generate_messages_cpp.dir/depend:
-	cd /home/az/arena_ws/build/global_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/planners/global/global_planner /home/az/arena_ws/src/arena/utils/navigation/planners/global/global_planner /home/az/arena_ws/build/global_planner /home/az/arena_ws/build/global_planner /home/az/arena_ws/build/global_planner/CMakeFiles/tf_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/global_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/global_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/global_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/global_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/global_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/global_planner/CMakeFiles/tf_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tf_generate_messages_cpp.dir/depend
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include/spacial_horizon/spacial_horizon_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include/spacial_horizon/spacial_horizon_node.h
 Eigen/Eigen
 -
 iostream
@@ -22,7 +22,7 @@ nav_msgs/Odometry.h
 geometry_msgs/PoseStamped.h
 -
 geometry_msgs/PoseWithCovarianceStamped.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include/spacial_horizon/geometry_msgs/PoseWithCovarianceStamped.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include/spacial_horizon/geometry_msgs/PoseWithCovarianceStamped.h
 nav_msgs/Path.h
 -
 nav_msgs/GetPlan.h
@@ -34,7 +34,7 @@ boost/foreach.hpp
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/src/spacial_horizon_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/src/spacial_horizon_node.cpp
 spacial_horizon/spacial_horizon_node.h
 -
 

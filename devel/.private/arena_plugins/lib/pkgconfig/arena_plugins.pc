@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/arena_plugins
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/arena_plugins
 
 Name: arena_plugins
 Description: Description of arena_plugins
 Version: 0.0.1
-Cflags: -I/home/az/arena_ws/src/arena/utils/flatland/arena_plugins/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/arena_plugins/include
 Libs: -L${prefix}/lib -larena_plugins_lib
 Requires: pluginlib roscpp flatland_server std_msgs

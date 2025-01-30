@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/core/nav_core
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/nav_core
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/nav_core
 
 # Utility rule file for map_msgs_generate_messages_lisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/map_msgs_generate_messages_lisp.dir/clean:
 .PHONY : CMakeFiles/map_msgs_generate_messages_lisp.dir/clean
 
 CMakeFiles/map_msgs_generate_messages_lisp.dir/depend:
-	cd /home/az/arena_ws/build/nav_core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/core/nav_core /home/az/arena_ws/src/arena/utils/navigation/core/nav_core /home/az/arena_ws/build/nav_core /home/az/arena_ws/build/nav_core /home/az/arena_ws/build/nav_core/CMakeFiles/map_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/nav_core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/nav_core /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/nav_core /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/nav_core/CMakeFiles/map_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/map_msgs_generate_messages_lisp.dir/depend
 

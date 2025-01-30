@@ -1,4 +1,0 @@
-catkin_generated/env_cached.sh: 16: exec: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3: not found
-make[2]: *** [CMakeFiles/_LfH_generate_messages_check_deps_Bspline.dir/build.make:57: CMakeFiles/_LfH_generate_messages_check_deps_Bspline] Error 127
-make[1]: *** [CMakeFiles/Makefile2:487: CMakeFiles/_LfH_generate_messages_check_deps_Bspline.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2

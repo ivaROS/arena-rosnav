@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
 string
 -
 vector
@@ -44,19 +44,19 @@ kdl/chainjnttojacsolver.hpp
 cob_twist_controller/TwistControllerConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping.h
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/damping_methods/damping_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/damping.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/damping.cpp
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/ros/ros.h
 cob_twist_controller/damping_methods/damping.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/damping_methods/cob_twist_controller/damping_methods/damping.h
 
 /opt/ros/noetic/include/dynamic_reconfigure/BoolParameter.h
 string

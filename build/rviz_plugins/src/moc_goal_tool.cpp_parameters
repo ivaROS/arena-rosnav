@@ -3,5 +3,5 @@
 -DROSCONSOLE_BACKEND_LOG4CXX
 -DQT_NO_KEYWORDS
 -o
-/home/az/arena_ws/build/rviz_plugins/src/moc_goal_tool.cpp
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_plugins/src/moc_goal_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h

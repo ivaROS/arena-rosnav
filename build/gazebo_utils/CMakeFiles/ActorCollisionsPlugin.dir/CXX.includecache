@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.cc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.cc
 ignition/math/Vector3.hh
 -
 gazebo/physics/Actor.hh
@@ -18,9 +18,9 @@ gazebo/physics/Collision.hh
 gazebo/physics/Link.hh
 -
 ActorCollisionsPlugin.hh
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.hh
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/ActorCollisionsPlugin.hh
 gazebo/common/Plugin.hh
 -
 

@@ -43,70 +43,70 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/plan_msgs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs
 
 # Utility rule file for plan_msgs_generate_messages_nodejs.
 
 # Include the progress variables for this target.
 include CMakeFiles/plan_msgs_generate_messages_nodejs.dir/progress.make
 
-CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js
-CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js
-CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js
-CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js
+CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js
+CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js
+CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js
+CMakeFiles/plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js
 
 
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Javascript code from plan_msgs/RobotState.msg"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg -Iplan_msgs:/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Javascript code from plan_msgs/RobotState.msg"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg -Iplan_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg
 
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotStateStamped.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Javascript code from plan_msgs/RobotStateStamped.msg"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotStateStamped.msg -Iplan_msgs:/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotStateStamped.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotState.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Javascript code from plan_msgs/RobotStateStamped.msg"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg/RobotStateStamped.msg -Iplan_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg
 
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/Subgoal.srv
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Javascript code from plan_msgs/Subgoal.srv"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/Subgoal.srv -Iplan_msgs:/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/Subgoal.srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Javascript code from plan_msgs/Subgoal.srv"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/Subgoal.srv -Iplan_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv
 
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/MakeGlobalPlan.srv
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/nav_msgs/msg/Path.msg
-/home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating Javascript code from plan_msgs/MakeGlobalPlan.srv"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/MakeGlobalPlan.srv -Iplan_msgs:/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/MakeGlobalPlan.srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/nav_msgs/msg/Path.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating Javascript code from plan_msgs/MakeGlobalPlan.srv"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/srv/MakeGlobalPlan.srv -Iplan_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Inav_msgs:/opt/ros/noetic/share/nav_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -p plan_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv
 
 plan_msgs_generate_messages_nodejs: CMakeFiles/plan_msgs_generate_messages_nodejs
-plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js
-plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js
-plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js
-plan_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js
+plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotState.js
+plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/msg/RobotStateStamped.js
+plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/Subgoal.js
+plan_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/share/gennodejs/ros/plan_msgs/srv/MakeGlobalPlan.js
 plan_msgs_generate_messages_nodejs: CMakeFiles/plan_msgs_generate_messages_nodejs.dir/build.make
 
 .PHONY : plan_msgs_generate_messages_nodejs
@@ -121,6 +121,6 @@ CMakeFiles/plan_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/plan_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/plan_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/az/arena_ws/build/plan_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs /home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs /home/az/arena_ws/build/plan_msgs /home/az/arena_ws/build/plan_msgs /home/az/arena_ws/build/plan_msgs/CMakeFiles/plan_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/plan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/plan_msgs/CMakeFiles/plan_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/plan_msgs_generate_messages_nodejs.dir/depend
 

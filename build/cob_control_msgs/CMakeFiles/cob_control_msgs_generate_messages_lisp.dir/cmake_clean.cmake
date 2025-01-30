@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/msg/ObstacleDistance.lisp"
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/msg/ObstacleDistances.lisp"
-  "/home/az/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/srv/GetObstacleDistance.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/msg/ObstacleDistance.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/msg/ObstacleDistances.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/common-lisp/ros/cob_control_msgs/srv/GetObstacleDistance.lisp"
   "CMakeFiles/cob_control_msgs_generate_messages_lisp"
 )
 

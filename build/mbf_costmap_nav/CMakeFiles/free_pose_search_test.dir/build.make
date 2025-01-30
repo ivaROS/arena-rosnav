@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mbf_costmap_nav
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav
 
 # Include any dependencies generated for this target.
 include CMakeFiles/free_pose_search_test.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/free_pose_search_test.dir/progress.make
 include CMakeFiles/free_pose_search_test.dir/flags.make
 
 CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o: CMakeFiles/free_pose_search_test.dir/flags.make
-CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o: /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o -c /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp
+CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp
 
 CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp > CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp > CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.i
 
 CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp -o CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/test/free_pose_search_test.cpp -o CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.s
 
 # Object files for target free_pose_search_test
 free_pose_search_test_OBJECTS = \
@@ -77,58 +77,58 @@ free_pose_search_test_OBJECTS = \
 # External object files for target free_pose_search_test
 free_pose_search_test_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/build.make
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: gtest/lib/libgtest.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_costmap_server.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/mbf_abstract_nav/lib/libmbf_abstract_server.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/test/free_pose_search_test.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: gtest/lib/libgtest.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_costmap_server.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/lib/libmbf_abstract_server.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test: CMakeFiles/free_pose_search_test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/free_pose_search_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/free_pose_search_test.dir/build: /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test
+CMakeFiles/free_pose_search_test.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/free_pose_search_test
 
 .PHONY : CMakeFiles/free_pose_search_test.dir/build
 
@@ -137,6 +137,6 @@ CMakeFiles/free_pose_search_test.dir/clean:
 .PHONY : CMakeFiles/free_pose_search_test.dir/clean
 
 CMakeFiles/free_pose_search_test.dir/depend:
-	cd /home/az/arena_ws/build/mbf_costmap_nav && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles/free_pose_search_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles/free_pose_search_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/free_pose_search_test.dir/depend
 

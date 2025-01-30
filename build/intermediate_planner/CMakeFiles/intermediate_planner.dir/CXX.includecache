@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlan.h
 ros/service_traits.h
 -
 plan_msgs/MakeGlobalPlanRequest.h
@@ -14,7 +14,7 @@ plan_msgs/MakeGlobalPlanRequest.h
 plan_msgs/MakeGlobalPlanResponse.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanRequest.h
 string
 -
 vector
@@ -34,7 +34,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanResponse.h
 string
 -
 vector
@@ -52,7 +52,7 @@ ros/message_operations.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
 Eigen/Eigen
 -
 iostream
@@ -106,13 +106,13 @@ visualization_msgs/Marker.h
 mapping/raycast.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
 Eigen/Eigen
 -
 vector
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/astar.h
 Eigen/Eigen
 -
 iostream
@@ -134,9 +134,9 @@ queue
 memory
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h
 iostream
 -
 ros/ros.h
@@ -148,9 +148,9 @@ Eigen/Eigen
 queue
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/kinodynamic_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/kinodynamic_astar.h
 ros/console.h
 -
 ros/ros.h
@@ -172,9 +172,9 @@ unordered_map
 utility
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/include/plan_visualization/planning_visualization.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/plan_visualization/include/plan_visualization/planning_visualization.h
 algorithm
 -
 iostream
@@ -192,7 +192,7 @@ geometry_msgs/PoseStamped.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_astar.h
 ros/ros.h
 -
 Eigen/Eigen
@@ -204,9 +204,9 @@ traj_planner/uniform_bspline.h
 mapping/mapping.h
 -
 traj_planner/lbfgs.hpp
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/traj_planner/lbfgs.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/traj_planner/lbfgs.hpp
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_esdf.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/bspline_optimizer_esdf.h
 Eigen/Eigen
 -
 mapping/mapping.h
@@ -214,7 +214,7 @@ mapping/mapping.h
 ros/ros.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/lbfgs.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/lbfgs.hpp
 cstdint
 -
 cstdio
@@ -226,7 +226,7 @@ cstring
 cmath
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/polynomial_traj.h
 Eigen/Eigen
 -
 vector
@@ -236,7 +236,7 @@ iostream
 memory
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/uniform_bspline.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/traj_planner/include/traj_planner/uniform_bspline.h
 Eigen/Eigen
 -
 algorithm
@@ -244,7 +244,7 @@ algorithm
 iostream
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/intermediate_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/intermediate_planner.h
 iostream
 -
 ros/console.h
@@ -260,27 +260,27 @@ nav_msgs/Odometry.h
 nav_msgs/Path.h
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/mapping/mapping.h
 path_search/astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/path_search/astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/path_search/astar.h
 path_search/kinodynamic_astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/path_search/kinodynamic_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/path_search/kinodynamic_astar.h
 traj_planner/bspline_optimizer_esdf.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/bspline_optimizer_esdf.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/bspline_optimizer_esdf.h
 traj_planner/uniform_bspline.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/uniform_bspline.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/uniform_bspline.h
 traj_planner/bspline_optimizer_astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/bspline_optimizer_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/bspline_optimizer_astar.h
 traj_planner/polynomial_traj.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/polynomial_traj.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/traj_planner/polynomial_traj.h
 intermediate_planner/plan_container_mid.hpp
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/intermediate_planner/plan_container_mid.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/intermediate_planner/plan_container_mid.hpp
 plan_visualization/planning_visualization.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/plan_visualization/planning_visualization.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/plan_visualization/planning_visualization.h
 plan_msgs/MakeGlobalPlan.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/plan_container_mid.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/include/intermediate_planner/plan_container_mid.hpp
 Eigen/Eigen
 -
 vector
@@ -292,9 +292,9 @@ traj_planner/uniform_bspline.h
 traj_planner/polynomial_traj.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/src/intermediate_planner.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/src/intermediate_planner.cpp
 intermediate_planner/intermediate_planner.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/src/intermediate_planner/intermediate_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/intermediate_planner/src/intermediate_planner/intermediate_planner.h
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

@@ -1,5 +1,5 @@
 arena/arena-rosnav/arena_bringup
-/home/az/arena_ws/devel/.private/arena_bringup/cmake.lock /home/az/arena_ws/devel/./cmake.lock
-/home/az/arena_ws/devel/.private/arena_bringup/share/arena_bringup/cmake/arena_bringupConfig-version.cmake /home/az/arena_ws/devel/share/arena_bringup/cmake/arena_bringupConfig-version.cmake
-/home/az/arena_ws/devel/.private/arena_bringup/share/arena_bringup/cmake/arena_bringupConfig.cmake /home/az/arena_ws/devel/share/arena_bringup/cmake/arena_bringupConfig.cmake
-/home/az/arena_ws/devel/.private/arena_bringup/lib/pkgconfig/arena_bringup.pc /home/az/arena_ws/devel/lib/pkgconfig/arena_bringup.pc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/arena_bringup/cmake.lock /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/./cmake.lock
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/arena_bringup/share/arena_bringup/cmake/arena_bringupConfig-version.cmake /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena_bringup/cmake/arena_bringupConfig-version.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/arena_bringup/share/arena_bringup/cmake/arena_bringupConfig.cmake /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena_bringup/cmake/arena_bringupConfig.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/arena_bringup/lib/pkgconfig/arena_bringup.pc /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/arena_bringup.pc

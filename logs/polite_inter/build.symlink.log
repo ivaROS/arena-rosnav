@@ -1,11 +1,11 @@
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/share/polite_inter/docs/PoliteInterConfig-usage.dox, /home/az/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig-usage.dox)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/share/polite_inter/docs/PoliteInterConfig.dox, /home/az/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig.dox)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/share/polite_inter/docs/PoliteInterConfig.wikidoc, /home/az/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig.wikidoc)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/share/polite_inter/cmake/polite_interConfig.cmake, /home/az/arena_ws/devel/share/polite_inter/cmake/polite_interConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/share/polite_inter/cmake/polite_interConfig-version.cmake, /home/az/arena_ws/devel/share/polite_inter/cmake/polite_interConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/include/polite_inter/PoliteInterConfig.h, /home/az/arena_ws/devel/include/polite_inter/PoliteInterConfig.h)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/lib/libpolite_inter.so, /home/az/arena_ws/devel/lib/libpolite_inter.so)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/lib/pkgconfig/polite_inter.pc, /home/az/arena_ws/devel/lib/pkgconfig/polite_inter.pc)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/lib/python3/dist-packages/polite_inter/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/polite_inter/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/lib/python3/dist-packages/polite_inter/cfg/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/polite_inter/cfg/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/polite_inter/lib/python3/dist-packages/polite_inter/cfg/PoliteInterConfig.py, /home/az/arena_ws/devel/lib/python3/dist-packages/polite_inter/cfg/PoliteInterConfig.py)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig-usage.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/polite_inter/docs/PoliteInterConfig.wikidoc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/polite_inter/cmake/polite_interConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/polite_inter/cmake/polite_interConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/polite_inter/PoliteInterConfig.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libpolite_inter.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/polite_inter.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/polite_inter/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/polite_inter/cfg/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/polite_inter/cfg/PoliteInterConfig.py

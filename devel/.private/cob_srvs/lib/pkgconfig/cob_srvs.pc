@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/cob_srvs
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs
 
 Name: cob_srvs
 Description: Description of cob_srvs
 Version: 0.7.8
-Cflags: -I/home/az/arena_ws/devel/.private/cob_srvs/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_srvs/include
 Libs: -L${prefix}/lib 
 Requires: geometry_msgs message_runtime

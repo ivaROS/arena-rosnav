@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/potential_gap
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/potential_gap
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap
 
 # Utility rule file for costmap_2d_gencfg.
 
@@ -67,6 +67,6 @@ CMakeFiles/costmap_2d_gencfg.dir/clean:
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/clean
 
 CMakeFiles/costmap_2d_gencfg.dir/depend:
-	cd /home/az/arena_ws/build/potential_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/potential_gap /home/az/arena_ws/src/planners/potential_gap /home/az/arena_ws/build/potential_gap /home/az/arena_ws/build/potential_gap /home/az/arena_ws/build/potential_gap/CMakeFiles/costmap_2d_gencfg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles/costmap_2d_gencfg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/flatland_plugins
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bumper_test.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/bumper_test.dir/progress.make
 include CMakeFiles/bumper_test.dir/flags.make
 
 CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o: CMakeFiles/bumper_test.dir/flags.make
-CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o: /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/flatland_plugins/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o -c /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp
+CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp
 
 CMakeFiles/bumper_test.dir/test/bumper_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bumper_test.dir/test/bumper_test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp > CMakeFiles/bumper_test.dir/test/bumper_test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp > CMakeFiles/bumper_test.dir/test/bumper_test.cpp.i
 
 CMakeFiles/bumper_test.dir/test/bumper_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bumper_test.dir/test/bumper_test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp -o CMakeFiles/bumper_test.dir/test/bumper_test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins/test/bumper_test.cpp -o CMakeFiles/bumper_test.dir/test/bumper_test.cpp.s
 
 # Object files for target bumper_test
 bumper_test_OBJECTS = \
@@ -77,98 +77,98 @@ bumper_test_OBJECTS = \
 # External object files for target bumper_test
 bumper_test_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/build.make
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: gtest/lib/libgtest.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/arena_ws/devel/.private/flatland_plugins/lib/libflatland_plugins_lib.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_lib.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libyaml-cpp.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/flatland_plugins/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/test/bumper_test.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: gtest/lib/libgtest.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/libflatland_plugins_lib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_lib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libyaml-cpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test: CMakeFiles/bumper_test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bumper_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/bumper_test.dir/build: /home/az/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test
+CMakeFiles/bumper_test.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_plugins/lib/flatland_plugins/bumper_test
 
 .PHONY : CMakeFiles/bumper_test.dir/build
 
@@ -177,6 +177,6 @@ CMakeFiles/bumper_test.dir/clean:
 .PHONY : CMakeFiles/bumper_test.dir/clean
 
 CMakeFiles/bumper_test.dir/depend:
-	cd /home/az/arena_ws/build/flatland_plugins && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins /home/az/arena_ws/src/arena/utils/flatland/flatland_plugins /home/az/arena_ws/build/flatland_plugins /home/az/arena_ws/build/flatland_plugins /home/az/arena_ws/build/flatland_plugins/CMakeFiles/bumper_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_plugins /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_plugins/CMakeFiles/bumper_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/bumper_test.dir/depend
 

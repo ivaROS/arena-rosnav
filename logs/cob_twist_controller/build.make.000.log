@@ -1,9 +1,9 @@
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
 [  0%] Built target roscpp_generate_messages_py
 [35m[1mScanning dependencies of target cob_twist_controller_gencfg[0m
-[  2%] [34m[1mGenerating dynamic reconfigure files from cfg/TwistController.cfg: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py[0m
+[  2%] [34m[1mGenerating dynamic reconfigure files from cfg/TwistController.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py[0m
 Generating reconfiguration files for TwistController in cob_twist_controller
-Wrote header file in /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+Wrote header file in /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
 [  2%] Built target cob_twist_controller_gencfg
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
 [  2%] Built target visualization_msgs_generate_messages_py
@@ -167,57 +167,57 @@ Wrote header file in /home/az/arena_ws/devel/.private/cob_twist_controller/inclu
 [  2%] Built target trajectory_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target debug_trajectory_marker_node[0m
 [  4%] [32mBuilding CXX object CMakeFiles/debug_trajectory_marker_node.dir/src/debug/debug_trajectory_marker_node.cpp.o[0m
-[  6%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_trajectory_marker_node[0m
+[  6%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_trajectory_marker_node[0m
 [  6%] Built target debug_trajectory_marker_node
 [35m[1mScanning dependencies of target kinematic_extensions[0m
 [  9%] [32mBuilding CXX object CMakeFiles/kinematic_extensions.dir/src/kinematic_extensions/kinematic_extension_builder.cpp.o[0m
 [ 11%] [32mBuilding CXX object CMakeFiles/kinematic_extensions.dir/src/kinematic_extensions/kinematic_extension_dof.cpp.o[0m
 [ 13%] [32mBuilding CXX object CMakeFiles/kinematic_extensions.dir/src/kinematic_extensions/kinematic_extension_lookat.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/kinematic_extensions.dir/src/kinematic_extensions/kinematic_extension_urdf.cpp.o[0m
 [35m[1mScanning dependencies of target inv_calculations[0m
-[ 15%] [32mBuilding CXX object CMakeFiles/inv_calculations.dir/src/inverse_jacobian_calculations/inverse_jacobian_calculation.cpp.o[0m
-[ 18%] [32mBuilding CXX object CMakeFiles/kinematic_extensions.dir/src/kinematic_extensions/kinematic_extension_urdf.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/inv_calculations.dir/src/inverse_jacobian_calculations/inverse_jacobian_calculation.cpp.o[0m
 [35m[1mScanning dependencies of target damping_methods[0m
 [ 20%] [32mBuilding CXX object CMakeFiles/damping_methods.dir/src/damping_methods/damping.cpp.o[0m
+[ 22%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libkinematic_extensions.so[0m
+[ 22%] Built target kinematic_extensions
 [35m[1mScanning dependencies of target limiters[0m
-[ 22%] [32mBuilding CXX object CMakeFiles/limiters.dir/src/limiters/limiter.cpp.o[0m
 [35m[1mScanning dependencies of target test_moving_average_node[0m
 [ 25%] [32mBuilding CXX object CMakeFiles/test_moving_average_node.dir/src/debug/test_moving_average_node.cpp.o[0m
-[ 27%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libdamping_methods.so[0m
-[ 27%] Built target damping_methods
+[ 27%] [32mBuilding CXX object CMakeFiles/limiters.dir/src/limiters/limiter.cpp.o[0m
 [35m[1mScanning dependencies of target controller_interfaces[0m
 [ 29%] [32mBuilding CXX object CMakeFiles/controller_interfaces.dir/src/controller_interfaces/controller_interface.cpp.o[0m
-[ 31%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libkinematic_extensions.so[0m
-[ 34%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/liblimiters.so[0m
-[ 34%] Built target limiters
+[ 31%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_moving_average_node[0m
+[ 31%] Built target test_moving_average_node
 [35m[1mScanning dependencies of target test_twist_command_sine_node[0m
-[ 36%] [32mBuilding CXX object CMakeFiles/test_twist_command_sine_node.dir/src/debug/test_twist_command_sine_node.cpp.o[0m
-[ 36%] Built target kinematic_extensions
+[ 34%] [32mBuilding CXX object CMakeFiles/test_twist_command_sine_node.dir/src/debug/test_twist_command_sine_node.cpp.o[0m
+[ 36%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/liblimiters.so[0m
+[ 36%] Built target limiters
 [35m[1mScanning dependencies of target test_trajectory_command_sine_node[0m
 [ 38%] [32mBuilding CXX object CMakeFiles/test_trajectory_command_sine_node.dir/src/debug/test_trajectory_command_sine_node.cpp.o[0m
-[ 40%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_moving_average_node[0m
-[ 40%] Built target test_moving_average_node
+[ 40%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libdamping_methods.so[0m
+[ 40%] Built target damping_methods
 [35m[1mScanning dependencies of target test_forward_command_sine_node[0m
 [ 43%] [32mBuilding CXX object CMakeFiles/test_forward_command_sine_node.dir/src/debug/test_forward_command_sine_node.cpp.o[0m
-[ 45%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_twist_command_sine_node[0m
-[ 45%] Built target test_twist_command_sine_node
+[ 45%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libcontroller_interfaces.so[0m
+[ 45%] Built target controller_interfaces
 [35m[1mScanning dependencies of target debug_fk_vel_recursive_node[0m
 [ 47%] [32mBuilding CXX object CMakeFiles/debug_fk_vel_recursive_node.dir/src/debug/debug_fk_vel_recursive_node.cpp.o[0m
-[ 50%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libcontroller_interfaces.so[0m
-[ 50%] Built target controller_interfaces
+[ 50%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_twist_command_sine_node[0m
+[ 50%] Built target test_twist_command_sine_node
 [35m[1mScanning dependencies of target test_simpson_integrator_node[0m
 [ 52%] [32mBuilding CXX object CMakeFiles/test_simpson_integrator_node.dir/src/debug/test_simpson_integrator_node.cpp.o[0m
-[ 54%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node[0m
-[ 56%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_forward_command_sine_node[0m
-[ 59%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libinv_calculations.so[0m
-[ 59%] Built target test_trajectory_command_sine_node
-[ 59%] Built target test_forward_command_sine_node
+[ 54%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libinv_calculations.so[0m
+[ 56%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_forward_command_sine_node[0m
+[ 59%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node[0m
 [ 59%] Built target inv_calculations
 [35m[1mScanning dependencies of target constraint_solvers[0m
+[ 59%] Built target test_forward_command_sine_node
 [ 61%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/constraint_solver_factory.cpp.o[0m
+[ 61%] Built target test_trajectory_command_sine_node
 [ 63%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/gradient_projection_method_solver.cpp.o[0m
-[ 65%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_simpson_integrator_node[0m
+[ 65%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_simpson_integrator_node[0m
 [ 65%] Built target test_simpson_integrator_node
-[ 68%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node[0m
+[ 68%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/debug_fk_vel_recursive_node[0m
 [ 68%] Built target debug_fk_vel_recursive_node
 [ 70%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/stack_of_tasks_solver.cpp.o[0m
 [ 72%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/task_priority_solver.cpp.o[0m
@@ -225,18 +225,18 @@ Wrote header file in /home/az/arena_ws/devel/.private/cob_twist_controller/inclu
 [ 77%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/unified_joint_limit_singularity_solver.cpp.o[0m
 [ 79%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/weighted_least_norm_solver.cpp.o[0m
 [ 81%] [32mBuilding CXX object CMakeFiles/constraint_solvers.dir/src/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.cpp.o[0m
-[ 84%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libconstraint_solvers.so[0m
+[ 84%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libconstraint_solvers.so[0m
 [ 84%] Built target constraint_solvers
 [35m[1mScanning dependencies of target inverse_differential_kinematics_solver[0m
 [ 86%] [32mBuilding CXX object CMakeFiles/inverse_differential_kinematics_solver.dir/src/callback_data_mediator.cpp.o[0m
 [ 88%] [32mBuilding CXX object CMakeFiles/inverse_differential_kinematics_solver.dir/src/inverse_differential_kinematics_solver.cpp.o[0m
-[ 90%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libinverse_differential_kinematics_solver.so[0m
+[ 90%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libinverse_differential_kinematics_solver.so[0m
 [ 90%] Built target inverse_differential_kinematics_solver
 [35m[1mScanning dependencies of target twist_controller[0m
 [ 93%] [32mBuilding CXX object CMakeFiles/twist_controller.dir/src/cob_twist_controller.cpp.o[0m
-[ 95%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/cob_twist_controller/lib/libtwist_controller.so[0m
+[ 95%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/libtwist_controller.so[0m
 [ 95%] Built target twist_controller
 [35m[1mScanning dependencies of target cob_twist_controller_node[0m
 [ 97%] [32mBuilding CXX object CMakeFiles/cob_twist_controller_node.dir/src/cob_twist_controller_node.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/cob_twist_controller_node[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/cob_twist_controller_node[0m
 [100%] Built target cob_twist_controller_node

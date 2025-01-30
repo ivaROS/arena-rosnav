@@ -17,24 +17,24 @@ add_custom_target(cob_srvs_generate_messages ALL)
 
 
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_custom_target(_cob_srvs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" "geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" "geometry_msgs/Point:geometry_msgs/Quaternion:geometry_msgs/Pose"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_custom_target(_cob_srvs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_custom_target(_cob_srvs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" ""
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_custom_target(_cob_srvs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_srvs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" ""
 )
 
 #
@@ -46,25 +46,25 @@ add_custom_target(_cob_srvs_generate_messages_check_deps_${_filename}
 
 ### Generating Services
 _generate_srv_cpp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_cpp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
-  "${MSG_I_FLAGS}"
-  ""
-  ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_srvs
-)
-_generate_srv_cpp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_cpp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "${MSG_I_FLAGS}"
+  ""
+  ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_srvs
+)
+_generate_srv_cpp(cob_srvs
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_srvs
@@ -82,13 +82,13 @@ add_custom_target(cob_srvs_generate_messages_cpp
 add_dependencies(cob_srvs_generate_messages cob_srvs_generate_messages_cpp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_cpp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_cpp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_cpp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_cpp _cob_srvs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -103,25 +103,25 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_srvs_generate_messages_cpp)
 
 ### Generating Services
 _generate_srv_eus(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_eus(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
-  "${MSG_I_FLAGS}"
-  ""
-  ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_srvs
-)
-_generate_srv_eus(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_eus(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "${MSG_I_FLAGS}"
+  ""
+  ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_srvs
+)
+_generate_srv_eus(cob_srvs
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_srvs
@@ -139,13 +139,13 @@ add_custom_target(cob_srvs_generate_messages_eus
 add_dependencies(cob_srvs_generate_messages cob_srvs_generate_messages_eus)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_eus _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_eus _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_eus _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_eus _cob_srvs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -160,25 +160,25 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_srvs_generate_messages_eus)
 
 ### Generating Services
 _generate_srv_lisp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_lisp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
-  "${MSG_I_FLAGS}"
-  ""
-  ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_srvs
-)
-_generate_srv_lisp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_lisp(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "${MSG_I_FLAGS}"
+  ""
+  ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_srvs
+)
+_generate_srv_lisp(cob_srvs
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_srvs
@@ -196,13 +196,13 @@ add_custom_target(cob_srvs_generate_messages_lisp
 add_dependencies(cob_srvs_generate_messages cob_srvs_generate_messages_lisp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_lisp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_lisp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_lisp _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_lisp _cob_srvs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -217,25 +217,25 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_srvs_generate_messages_lisp)
 
 ### Generating Services
 _generate_srv_nodejs(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_nodejs(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
-  "${MSG_I_FLAGS}"
-  ""
-  ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_srvs
-)
-_generate_srv_nodejs(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_nodejs(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "${MSG_I_FLAGS}"
+  ""
+  ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_srvs
+)
+_generate_srv_nodejs(cob_srvs
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_srvs
@@ -253,13 +253,13 @@ add_custom_target(cob_srvs_generate_messages_nodejs
 add_dependencies(cob_srvs_generate_messages cob_srvs_generate_messages_nodejs)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_nodejs _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_nodejs _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_nodejs _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_nodejs _cob_srvs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -274,25 +274,25 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_srvs_generate_messages_nodejs)
 
 ### Generating Services
 _generate_srv_py(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
+  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Point.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Quaternion.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Pose.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_py(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
-  "${MSG_I_FLAGS}"
-  ""
-  ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs
-)
-_generate_srv_py(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs
 )
 _generate_srv_py(cob_srvs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv"
+  "${MSG_I_FLAGS}"
+  ""
+  ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs
+)
+_generate_srv_py(cob_srvs
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs
@@ -310,13 +310,13 @@ add_custom_target(cob_srvs_generate_messages_py
 add_dependencies(cob_srvs_generate_messages cob_srvs_generate_messages_py)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/Dock.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_py _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetFloat.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_py _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetInt.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_py _cob_srvs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs/srv/SetString.srv" NAME_WE)
 add_dependencies(cob_srvs_generate_messages_py _cob_srvs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -373,7 +373,7 @@ if(TARGET geometry_msgs_generate_messages_nodejs)
 endif()
 
 if(genpy_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs)
-  install(CODE "execute_process(COMMAND \"/home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs\")")
+  install(CODE "execute_process(COMMAND \"/usr/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs\")")
   # install generated code
   install(
     DIRECTORY ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_srvs

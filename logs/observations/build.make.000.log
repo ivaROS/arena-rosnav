@@ -55,7 +55,7 @@ WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conve
 [ 72%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/observation_packer/observation_packer.cpp.o[0m
 [ 81%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/common/zVector2d.cpp.o[0m
 [ 90%] [32mBuilding CXX object CMakeFiles/observation_packer.dir/common/f_math.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/observations/lib/observations/observation_packer[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/observations/lib/observations/observation_packer[0m
 [100%] Built target observation_packer
 [35m[1mScanning dependencies of target observations_generate_messages[0m
 [100%] Built target observations_generate_messages

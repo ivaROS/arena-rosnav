@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
 string
 -
 vector
@@ -44,7 +44,7 @@ kdl/chainjnttojacsolver.hpp
 cob_twist_controller/TwistControllerConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/controller_interface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/controller_interface.h
 sensor_msgs/JointState.h
 -
 std_msgs/Float64MultiArray.h
@@ -54,23 +54,23 @@ trajectory_msgs/JointTrajectory.h
 boost/thread/mutex.hpp
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/utils/moving_average.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/utils/moving_average.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/utils/moving_average.h
 cob_twist_controller/controller_interfaces/controller_interface_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/controller_interface_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/controller_interface_base.h
 vector
 -
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/ros/ros.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/utils/simpson_integrator.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/utils/simpson_integrator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/controller_interfaces/cob_twist_controller/utils/simpson_integrator.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/moving_average.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/moving_average.h
 stdint.h
 -
 ros/ros.h
@@ -78,7 +78,7 @@ ros/ros.h
 deque
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/simpson_integrator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/simpson_integrator.h
 vector
 -
 ros/ros.h
@@ -88,15 +88,15 @@ kdl/jntarray.hpp
 std_msgs/Float64MultiArray.h
 -
 cob_twist_controller/utils/moving_average.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/cob_twist_controller/utils/moving_average.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/utils/cob_twist_controller/utils/moving_average.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/controller_interface.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/controller_interface.cpp
 pluginlib/class_list_macros.h
 -
 cob_twist_controller/controller_interfaces/controller_interface.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface.h
 cob_twist_controller/controller_interfaces/controller_interface_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/controller_interfaces/cob_twist_controller/controller_interfaces/controller_interface_base.h
 
 /opt/ros/noetic/include/class_loader/class_loader.hpp
 boost/bind.hpp

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node"
-  "/home/az/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/cob_twist_controller/test_trajectory_command_sine_node.pdb"
   "CMakeFiles/test_trajectory_command_sine_node.dir/src/debug/test_trajectory_command_sine_node.cpp.o"
 )
 

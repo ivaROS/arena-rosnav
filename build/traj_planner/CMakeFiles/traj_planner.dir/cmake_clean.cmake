@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/traj_planner/lib/libtraj_planner.pdb"
-  "/home/az/arena_ws/devel/.private/traj_planner/lib/libtraj_planner.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/traj_planner/lib/libtraj_planner.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/traj_planner/lib/libtraj_planner.so"
   "CMakeFiles/traj_planner.dir/src/bspline_optimizer_astar.cpp.o"
   "CMakeFiles/traj_planner.dir/src/bspline_optimizer_esdf.cpp.o"
   "CMakeFiles/traj_planner.dir/src/polynomial_traj.cpp.o"

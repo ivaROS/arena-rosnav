@@ -1,12 +1,35 @@
+[35m[1mScanning dependencies of target _training_generate_messages_check_deps_String[0m
 [  0%] Built target _training_generate_messages_check_deps_String
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target training_generate_messages_cpp[0m
+[ 14%] [34m[1mGenerating C++ code from training/String.srv[0m
 [ 14%] Built target training_generate_messages_cpp
+[35m[1mScanning dependencies of target training_generate_messages_lisp[0m
+[ 28%] [34m[1mGenerating Lisp code from training/String.srv[0m
 [ 28%] Built target training_generate_messages_lisp
-[ 57%] Built target training_generate_messages_eus
+[35m[1mScanning dependencies of target training_generate_messages_eus[0m
+[ 42%] [34m[1mGenerating EusLisp code from training/String.srv[0m
+[ 57%] [34m[1mGenerating EusLisp manifest code for training[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target training_generate_messages_nodejs[0m
+[ 71%] [34m[1mGenerating Javascript code from training/String.srv[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [ 71%] Built target training_generate_messages_nodejs
+[35m[1mScanning dependencies of target training_generate_messages_py[0m
+[ 85%] [34m[1mGenerating Python code from SRV training/String[0m
+[100%] [34m[1mGenerating Python srv __init__.py for training[0m
 [100%] Built target training_generate_messages_py
+[100%] Built target training_generate_messages_eus
+[35m[1mScanning dependencies of target training_generate_messages[0m
 [100%] Built target training_generate_messages

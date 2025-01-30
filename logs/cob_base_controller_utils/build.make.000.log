@@ -1,3 +1,5 @@
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target _cob_base_controller_utils_generate_messages_check_deps_WheelCommands[0m
 [  0%] Built target _cob_base_controller_utils_generate_messages_check_deps_WheelCommands
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
@@ -11,52 +13,52 @@
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
 [  0%] Built target actionlib_msgs_generate_messages_py
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
-[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
 [  0%] Built target actionlib_generate_messages_py
-[  0%] Built target actionlib_generate_messages_cpp
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
-[  0%] Built target std_msgs_generate_messages_py
 [  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
 [  0%] Built target roscpp_generate_messages_cpp
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
-[  0%] Built target nav_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
-[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
 [  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
 [  0%] Built target tf2_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-[  0%] Built target sensor_msgs_generate_messages_py
 [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
 [  0%] Built target roscpp_generate_messages_lisp
 [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
-[  0%] Built target actionlib_generate_messages_lisp
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_lisp
 [  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
 [  0%] Built target tf_generate_messages_eus
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  0%] Built target roscpp_generate_messages_nodejs
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
@@ -65,8 +67,8 @@
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
 [  0%] Built target actionlib_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
 [  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
 [  0%] Built target std_srvs_generate_messages_nodejs
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
 [  0%] Built target roscpp_generate_messages_py
@@ -102,42 +104,40 @@
 [  0%] Built target sensor_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
-[  0%] Built target sensor_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
-[  0%] Built target actionlib_generate_messages_nodejs
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
-[  0%] Built target tf2_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
-[  0%] Built target tf2_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages_py[0m
 [  9%] [34m[1mGenerating Python from MSG cob_base_controller_utils/WheelCommands[0m
-[ 18%] [34m[1mGenerating Python msg __init__.py for cob_base_controller_utils[0m
-[ 18%] Built target cob_base_controller_utils_generate_messages_py
 [35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages_nodejs[0m
-[ 27%] [34m[1mGenerating Javascript code from cob_base_controller_utils/WheelCommands.msg[0m
-[ 27%] Built target cob_base_controller_utils_generate_messages_nodejs
+[ 18%] [34m[1mGenerating Javascript code from cob_base_controller_utils/WheelCommands.msg[0m
+[ 18%] Built target cob_base_controller_utils_generate_messages_nodejs
+[ 27%] [34m[1mGenerating Python msg __init__.py for cob_base_controller_utils[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 27%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 27%] Built target actionlib_generate_messages_nodejs
+[ 27%] Built target cob_base_controller_utils_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 27%] Built target tf2_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages_eus[0m
 [ 36%] [34m[1mGenerating EusLisp code from cob_base_controller_utils/WheelCommands.msg[0m
 [ 45%] [34m[1mGenerating EusLisp manifest code for cob_base_controller_utils[0m
 WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 45%] Built target cob_base_controller_utils_generate_messages_eus
 [35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages_cpp[0m
 [ 54%] [34m[1mGenerating C++ code from cob_base_controller_utils/WheelCommands.msg[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 54%] Built target cob_base_controller_utils_generate_messages_cpp
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages_lisp[0m
 [ 63%] [34m[1mGenerating Lisp code from cob_base_controller_utils/WheelCommands.msg[0m
 [ 63%] Built target cob_base_controller_utils_generate_messages_lisp
-[ 63%] Built target cob_base_controller_utils_generate_messages_cpp
-[35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages[0m
+[ 63%] Built target cob_base_controller_utils_generate_messages_eus
 [35m[1mScanning dependencies of target cob_stuck_detector[0m
-[35m[1mScanning dependencies of target cob_spin_detector[0m
-[ 63%] Built target cob_base_controller_utils_generate_messages
 [ 72%] [32mBuilding CXX object CMakeFiles/cob_stuck_detector.dir/src/stuck_detector.cpp.o[0m
+[35m[1mScanning dependencies of target cob_base_controller_utils_generate_messages[0m
+[ 72%] Built target cob_base_controller_utils_generate_messages
+[35m[1mScanning dependencies of target cob_spin_detector[0m
 [ 81%] [32mBuilding CXX object CMakeFiles/cob_spin_detector.dir/src/spin_detector.cpp.o[0m
-[ 90%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_base_controller_utils/lib/cob_base_controller_utils/cob_stuck_detector[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/cob_base_controller_utils/lib/cob_base_controller_utils/cob_spin_detector[0m
-[100%] Built target cob_stuck_detector
+[ 90%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_base_controller_utils/lib/cob_base_controller_utils/cob_stuck_detector[0m
+[ 90%] Built target cob_stuck_detector
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_base_controller_utils/lib/cob_base_controller_utils/cob_spin_detector[0m
 [100%] Built target cob_spin_detector

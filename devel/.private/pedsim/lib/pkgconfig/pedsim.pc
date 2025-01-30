@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/pedsim
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim
 
 Name: pedsim
 Description: Description of pedsim
 Version: 0.2.0
-Cflags: -I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include/
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/3rdparty/libpedsim/include/
 Libs: -L${prefix}/lib -lpedsim
 Requires: roscpp

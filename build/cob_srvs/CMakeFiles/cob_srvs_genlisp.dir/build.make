@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cob_srvs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs
 
 # Utility rule file for cob_srvs_genlisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/cob_srvs_genlisp.dir/clean:
 .PHONY : CMakeFiles/cob_srvs_genlisp.dir/clean
 
 CMakeFiles/cob_srvs_genlisp.dir/depend:
-	cd /home/az/arena_ws/build/cob_srvs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/arena_ws/build/cob_srvs /home/az/arena_ws/build/cob_srvs /home/az/arena_ws/build/cob_srvs/CMakeFiles/cob_srvs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_srvs/CMakeFiles/cob_srvs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cob_srvs_genlisp.dir/depend
 

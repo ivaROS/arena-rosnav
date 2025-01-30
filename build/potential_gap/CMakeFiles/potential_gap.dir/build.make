@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/potential_gap
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/potential_gap
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap
 
 # Include any dependencies generated for this target.
 include CMakeFiles/potential_gap.dir/depend.make
@@ -58,147 +58,147 @@ include CMakeFiles/potential_gap.dir/progress.make
 include CMakeFiles/potential_gap.dir/flags.make
 
 CMakeFiles/potential_gap.dir/src/planner.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/planner.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/potential_gap.dir/src/planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/planner.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/planner.cpp
+CMakeFiles/potential_gap.dir/src/planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/potential_gap.dir/src/planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/planner.cpp
 
 CMakeFiles/potential_gap.dir/src/planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/planner.cpp > CMakeFiles/potential_gap.dir/src/planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/planner.cpp > CMakeFiles/potential_gap.dir/src/planner.cpp.i
 
 CMakeFiles/potential_gap.dir/src/planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/planner.cpp -o CMakeFiles/potential_gap.dir/src/planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/planner.cpp -o CMakeFiles/potential_gap.dir/src/planner.cpp.s
 
 CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
+CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp
 
 CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp > CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp > CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.i
 
 CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_follower.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.s
 
 CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
+CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potential_gap.cpp
 
 CMakeFiles/potential_gap.dir/src/potential_gap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/potential_gap.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/potential_gap.cpp > CMakeFiles/potential_gap.dir/src/potential_gap.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potential_gap.cpp > CMakeFiles/potential_gap.dir/src/potential_gap.cpp.i
 
 CMakeFiles/potential_gap.dir/src/potential_gap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/potential_gap.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/potential_gap.cpp -o CMakeFiles/potential_gap.dir/src/potential_gap.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potential_gap.cpp -o CMakeFiles/potential_gap.dir/src/potential_gap.cpp.s
 
 CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
+CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_utils.cpp
 
 CMakeFiles/potential_gap.dir/src/gap_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/gap_utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/gap_utils.cpp > CMakeFiles/potential_gap.dir/src/gap_utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_utils.cpp > CMakeFiles/potential_gap.dir/src/gap_utils.cpp.i
 
 CMakeFiles/potential_gap.dir/src/gap_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/gap_utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/gap_utils.cpp -o CMakeFiles/potential_gap.dir/src/gap_utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_utils.cpp -o CMakeFiles/potential_gap.dir/src/gap_utils.cpp.s
 
 CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
+CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp
 
 CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp > CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp > CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.i
 
 CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp -o CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/potentialgap_config.cpp -o CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.s
 
 CMakeFiles/potential_gap.dir/src/visualization.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/visualization.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/visualization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/potential_gap.dir/src/visualization.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/visualization.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/visualization.cpp
+CMakeFiles/potential_gap.dir/src/visualization.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/visualization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/potential_gap.dir/src/visualization.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/visualization.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/visualization.cpp
 
 CMakeFiles/potential_gap.dir/src/visualization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/visualization.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/visualization.cpp > CMakeFiles/potential_gap.dir/src/visualization.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/visualization.cpp > CMakeFiles/potential_gap.dir/src/visualization.cpp.i
 
 CMakeFiles/potential_gap.dir/src/visualization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/visualization.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/visualization.cpp -o CMakeFiles/potential_gap.dir/src/visualization.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/visualization.cpp -o CMakeFiles/potential_gap.dir/src/visualization.cpp.s
 
 CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
+CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/goal_selector.cpp
 
 CMakeFiles/potential_gap.dir/src/goal_selector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/goal_selector.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/goal_selector.cpp > CMakeFiles/potential_gap.dir/src/goal_selector.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/goal_selector.cpp > CMakeFiles/potential_gap.dir/src/goal_selector.cpp.i
 
 CMakeFiles/potential_gap.dir/src/goal_selector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/goal_selector.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/goal_selector.cpp -o CMakeFiles/potential_gap.dir/src/goal_selector.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/goal_selector.cpp -o CMakeFiles/potential_gap.dir/src/goal_selector.cpp.s
 
 CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
+CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp
 
 CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp > CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp > CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.i
 
 CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_scoring.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.s
 
 CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
+CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp
 
 CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp > CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp > CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.i
 
 CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp -o CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_trajectory_generator.cpp -o CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.s
 
 CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
+CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_manip.cpp
 
 CMakeFiles/potential_gap.dir/src/gap_manip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/gap_manip.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/gap_manip.cpp > CMakeFiles/potential_gap.dir/src/gap_manip.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_manip.cpp > CMakeFiles/potential_gap.dir/src/gap_manip.cpp.i
 
 CMakeFiles/potential_gap.dir/src/gap_manip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/gap_manip.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/gap_manip.cpp -o CMakeFiles/potential_gap.dir/src/gap_manip.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/gap_manip.cpp -o CMakeFiles/potential_gap.dir/src/gap_manip.cpp.s
 
 CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o: CMakeFiles/potential_gap.dir/flags.make
-CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o: /home/az/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o -c /home/az/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
+CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp
 
 CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp > CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp > CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.i
 
 CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp -o CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.s
 
 # Object files for target potential_gap
 potential_gap_OBJECTS = \
@@ -217,61 +217,61 @@ potential_gap_OBJECTS = \
 # External object files for target potential_gap
 potential_gap_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/planner.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/visualization.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/build.make
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/visualization.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so: CMakeFiles/potential_gap.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/potential_gap.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/potential_gap.dir/build: /home/az/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so
+CMakeFiles/potential_gap.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so
 
 .PHONY : CMakeFiles/potential_gap.dir/build
 
@@ -280,6 +280,6 @@ CMakeFiles/potential_gap.dir/clean:
 .PHONY : CMakeFiles/potential_gap.dir/clean
 
 CMakeFiles/potential_gap.dir/depend:
-	cd /home/az/arena_ws/build/potential_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/potential_gap /home/az/arena_ws/src/planners/potential_gap /home/az/arena_ws/build/potential_gap /home/az/arena_ws/build/potential_gap /home/az/arena_ws/build/potential_gap/CMakeFiles/potential_gap.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/potential_gap/CMakeFiles/potential_gap.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/potential_gap.dir/depend
 

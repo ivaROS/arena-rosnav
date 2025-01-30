@@ -1,4 +1,48 @@
-catkin_generated/env_cached.sh: 16: exec: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3: not found
-make[2]: *** [CMakeFiles/_LfH_generate_messages_check_deps_Bspline.dir/build.make:57: CMakeFiles/_LfH_generate_messages_check_deps_Bspline] Error 127
-make[1]: *** [CMakeFiles/Makefile2:487: CMakeFiles/_LfH_generate_messages_check_deps_Bspline.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2
+[35m[1mScanning dependencies of target _LfH_generate_messages_check_deps_Bspline[0m
+[  0%] Built target _LfH_generate_messages_check_deps_Bspline
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target LfH_generate_messages_lisp[0m
+[ 14%] [34m[1mGenerating Lisp code from LfH/Bspline.msg[0m
+[ 14%] Built target LfH_generate_messages_lisp
+[35m[1mScanning dependencies of target LfH_generate_messages_py[0m
+[ 28%] [34m[1mGenerating Python from MSG LfH/Bspline[0m
+[ 42%] [34m[1mGenerating Python msg __init__.py for LfH[0m
+[ 42%] Built target LfH_generate_messages_py
+[35m[1mScanning dependencies of target LfH_generate_messages_cpp[0m
+[ 57%] [34m[1mGenerating C++ code from LfH/Bspline.msg[0m
+[ 57%] Built target LfH_generate_messages_cpp
+[35m[1mScanning dependencies of target LfH_generate_messages_nodejs[0m
+[ 71%] [34m[1mGenerating Javascript code from LfH/Bspline.msg[0m
+[ 71%] Built target LfH_generate_messages_nodejs
+[35m[1mScanning dependencies of target LfH_generate_messages_eus[0m
+[ 85%] [34m[1mGenerating EusLisp code from LfH/Bspline.msg[0m
+[100%] [34m[1mGenerating EusLisp manifest code for LfH[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target LfH_generate_messages_eus
+[35m[1mScanning dependencies of target LfH_generate_messages[0m
+[100%] Built target LfH_generate_messages

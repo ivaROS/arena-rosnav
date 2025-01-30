@@ -1,4 +1,4 @@
-Symlinking /home/az/arena_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig.cmake
-Symlinking /home/az/arena_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig-version.cmake
-Symlinking /home/az/arena_ws/devel/lib/librviz_path_array.so
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/rviz_path_array.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/librviz_path_array.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/rviz_path_array.pc

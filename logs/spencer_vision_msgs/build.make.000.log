@@ -56,21 +56,21 @@
 [ 59%] [34m[1mGenerating EusLisp manifest code for spencer_vision_msgs[0m
 WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 59%] Built target spencer_vision_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target spencer_vision_msgs_generate_messages_py[0m
 [ 63%] [34m[1mGenerating Python from MSG spencer_vision_msgs/PersonImage[0m
 [ 68%] [34m[1mGenerating Python from MSG spencer_vision_msgs/PersonImages[0m
 [ 72%] [34m[1mGenerating Python from MSG spencer_vision_msgs/PersonROI[0m
 [ 77%] [34m[1mGenerating Python from MSG spencer_vision_msgs/PersonROIs[0m
-[ 81%] [34m[1mGenerating Python msg __init__.py for spencer_vision_msgs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [35m[1mScanning dependencies of target spencer_vision_msgs_generate_messages_cpp[0m
-[ 86%] [34m[1mGenerating C++ code from spencer_vision_msgs/PersonImage.msg[0m
+[ 81%] [34m[1mGenerating C++ code from spencer_vision_msgs/PersonImage.msg[0m
+[ 86%] [34m[1mGenerating Python msg __init__.py for spencer_vision_msgs[0m
 [ 90%] [34m[1mGenerating C++ code from spencer_vision_msgs/PersonImages.msg[0m
 [ 90%] Built target spencer_vision_msgs_generate_messages_py
 [ 95%] [34m[1mGenerating C++ code from spencer_vision_msgs/PersonROI.msg[0m
 [100%] [34m[1mGenerating C++ code from spencer_vision_msgs/PersonROIs.msg[0m
+[100%] Built target spencer_vision_msgs_generate_messages_eus
 [100%] Built target spencer_vision_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target spencer_vision_msgs_generate_messages[0m
 [100%] Built target spencer_vision_msgs_generate_messages

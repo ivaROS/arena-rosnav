@@ -1,8 +1,8 @@
-# Install script for directory: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator
+# Install script for directory: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/az/arena_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -49,152 +49,152 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/_setup_util.py")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE PROGRAM FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE PROGRAM FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/env.sh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE PROGRAM FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE PROGRAM FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/env.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.bash;/home/az/arena_ws/install/local_setup.bash")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.bash;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.bash"
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.bash"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.sh;/home/az/arena_ws/install/local_setup.sh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.sh;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.sh"
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.sh"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.zsh;/home/az/arena_ws/install/local_setup.zsh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.zsh;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.zsh"
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/setup.zsh"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/.rosinstall")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/.rosinstall")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/msg" TYPE FILE FILES
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianPose.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianTwist.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianVector.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianWrench.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointAccelerations.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointConstraint.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointImpedances.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointPositions.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointTorques.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointValue.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointVelocities.msg"
-    "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/Poison.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianPose.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianTwist.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianVector.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/CartesianWrench.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointAccelerations.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointConstraint.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointImpedances.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointPositions.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointTorques.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointValue.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/JointVelocities.msg"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/msg/Poison.msg"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/cmake" TYPE FILE FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator-msg-paths.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/cmake" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator-msg-paths.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/brics_actuator/include/brics_actuator")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/include/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/brics_actuator/share/roseus/ros/brics_actuator")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/share/roseus/ros/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/brics_actuator/share/common-lisp/ros/brics_actuator")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/share/common-lisp/ros/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/brics_actuator/share/gennodejs/ros/brics_actuator")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/share/gennodejs/ros/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  execute_process(COMMAND "/home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3" -m compileall "/home/az/arena_ws/devel/.private/brics_actuator/lib/python3/dist-packages/brics_actuator")
+  execute_process(COMMAND "/usr/bin/python3" -m compileall "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/lib/python3/dist-packages/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/brics_actuator/lib/python3/dist-packages/brics_actuator")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/brics_actuator/lib/python3/dist-packages/brics_actuator")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/cmake" TYPE FILE FILES "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator-msg-extras.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/cmake" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuator-msg-extras.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator/cmake" TYPE FILE FILES
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuatorConfig.cmake"
-    "/home/az/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuatorConfig-version.cmake"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuatorConfig.cmake"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/catkin_generated/installspace/brics_actuatorConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator" TYPE FILE FILES "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brics_actuator" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/brics_actuator/package.xml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/az/arena_ws/build/brics_actuator/gtest/cmake_install.cmake")
+  include("/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/gtest/cmake_install.cmake")
 
 endif()
 
@@ -206,5 +206,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/az/arena_ws/build/brics_actuator/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/brics_actuator/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

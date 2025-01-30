@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/training
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/training
 
 Name: training
 Description: Description of training
 Version: 0.0.0
-Cflags: -I/home/az/arena_ws/devel/.private/training/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/training/include
 Libs: -L${prefix}/lib 
 Requires: 

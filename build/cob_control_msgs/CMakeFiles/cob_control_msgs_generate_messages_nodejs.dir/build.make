@@ -43,45 +43,45 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cob_control_msgs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs
 
 # Utility rule file for cob_control_msgs_generate_messages_nodejs.
 
 # Include the progress variables for this target.
 include CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/progress.make
 
-CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js
-CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js
-CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js
+CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js
+CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js
+CMakeFiles/cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js
 
 
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Javascript code from cob_control_msgs/ObstacleDistance.msg"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg -Icob_control_msgs:/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Javascript code from cob_control_msgs/ObstacleDistance.msg"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg -Icob_control_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg
 
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Javascript code from cob_control_msgs/ObstacleDistances.msg"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg -Icob_control_msgs:/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Javascript code from cob_control_msgs/ObstacleDistances.msg"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg -Icob_control_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg
 
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
-/home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Javascript code from cob_control_msgs/GetObstacleDistance.srv"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv -Icob_control_msgs:/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Javascript code from cob_control_msgs/GetObstacleDistance.srv"
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv -Icob_control_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p cob_control_msgs -o /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv
 
 cob_control_msgs_generate_messages_nodejs: CMakeFiles/cob_control_msgs_generate_messages_nodejs
-cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js
-cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js
-cob_control_msgs_generate_messages_nodejs: /home/az/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js
+cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistance.js
+cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/msg/ObstacleDistances.js
+cob_control_msgs_generate_messages_nodejs: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/share/gennodejs/ros/cob_control_msgs/srv/GetObstacleDistance.js
 cob_control_msgs_generate_messages_nodejs: CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/build.make
 
 .PHONY : cob_control_msgs_generate_messages_nodejs
@@ -96,6 +96,6 @@ CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/az/arena_ws/build/cob_control_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs /home/az/arena_ws/build/cob_control_msgs /home/az/arena_ws/build/cob_control_msgs /home/az/arena_ws/build/cob_control_msgs/CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_control_msgs/CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cob_control_msgs_generate_messages_nodejs.dir/depend
 

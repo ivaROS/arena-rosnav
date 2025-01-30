@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/cob_gazebo_ros_control
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_gazebo_ros_control
 
 Name: cob_gazebo_ros_control
 Description: Description of cob_gazebo_ros_control
 Version: 0.7.7
-Cflags: -I/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include
 Libs: -L${prefix}/lib -lhwi_switch_gazebo_ros_control -lhwi_switch_robot_hw_sim
 Requires: controller_manager gazebo_ros gazebo_ros_control hardware_interface joint_limits_interface pluginlib roscpp transmission_interface urdf

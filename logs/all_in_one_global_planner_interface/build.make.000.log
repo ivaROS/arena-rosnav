@@ -43,11 +43,11 @@ WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conve
 [ 63%] Built target all_in_one_global_planner_interface_generate_messages_eus
 [35m[1mScanning dependencies of target all_in_one_global_planner_interface[0m
 [ 72%] [32mBuilding CXX object CMakeFiles/all_in_one_global_planner_interface.dir/src/GlobalPlannerInterface.cpp.o[0m
-[35m[1mScanning dependencies of target all_in_one_global_planner_interface_generate_messages[0m
-[ 72%] Built target all_in_one_global_planner_interface_generate_messages
-[ 81%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/all_in_one_global_planner_interface/lib/liball_in_one_global_planner_interface.so[0m
+[ 81%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_global_planner_interface/lib/liball_in_one_global_planner_interface.so[0m
 [ 81%] Built target all_in_one_global_planner_interface
+[35m[1mScanning dependencies of target all_in_one_global_planner_interface_generate_messages[0m
+[ 81%] Built target all_in_one_global_planner_interface_generate_messages
 [35m[1mScanning dependencies of target GlobalPlannerInterface[0m
 [ 90%] [32mBuilding CXX object CMakeFiles/GlobalPlannerInterface.dir/src/GlobalPlannerInterface.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/all_in_one_global_planner_interface/lib/all_in_one_global_planner_interface/GlobalPlannerInterface[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_global_planner_interface/lib/all_in_one_global_planner_interface/GlobalPlannerInterface[0m
 [100%] Built target GlobalPlannerInterface

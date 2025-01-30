@@ -1,6 +1,24 @@
+[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_Material[0m
 [35m[1mScanning dependencies of target Box2D_shared[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_MaterialList[0m
 [  1%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2DistanceJoint.cpp.o[0m
+[  1%] Built target _light_scan_sim_generate_messages_check_deps_Material
+[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_Segment[0m
+[  1%] Built target _light_scan_sim_generate_messages_check_deps_MaterialList
+[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_SegmentList[0m
+[  1%] Built target _light_scan_sim_generate_messages_check_deps_Segment
 [  2%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2FrictionJoint.cpp.o[0m
+[  2%] Built target _light_scan_sim_generate_messages_check_deps_SegmentList
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  2%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  2%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  2%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_cpp
 [  4%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2GearJoint.cpp.o[0m
 [  5%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2Joint.cpp.o[0m
 [  6%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2MotorJoint.cpp.o[0m
@@ -13,100 +31,82 @@
 [ 16%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Joints/b2WheelJoint.cpp.o[0m
 [ 17%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2CircleContact.cpp.o[0m
 [ 18%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2Contact.cpp.o[0m
-[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_Material[0m
 [ 20%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2ContactSolver.cpp.o[0m
-[ 20%] Built target _light_scan_sim_generate_messages_check_deps_Material
 [ 21%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2PolygonAndCircleContact.cpp.o[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
-[ 21%] Built target std_msgs_generate_messages_py
 [ 22%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2EdgeAndCircleContact.cpp.o[0m
-[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_MaterialList[0m
-[ 22%] Built target _light_scan_sim_generate_messages_check_deps_MaterialList
 [ 24%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp.o[0m
 [ 25%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2ChainAndCircleContact.cpp.o[0m
 [ 27%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2ChainAndPolygonContact.cpp.o[0m
 [ 28%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/Contacts/b2PolygonContact.cpp.o[0m
-[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_Segment[0m
 [ 29%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2Body.cpp.o[0m
-[ 29%] Built target _light_scan_sim_generate_messages_check_deps_Segment
-[35m[1mScanning dependencies of target _light_scan_sim_generate_messages_check_deps_SegmentList[0m
-[ 29%] Built target _light_scan_sim_generate_messages_check_deps_SegmentList
-[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[ 29%] Built target std_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[ 29%] Built target std_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[ 29%] Built target std_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[ 29%] Built target std_msgs_generate_messages_cpp
+[ 31%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2ContactManager.cpp.o[0m
+[ 32%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2Fixture.cpp.o[0m
+[ 33%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2Island.cpp.o[0m
+[ 35%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2World.cpp.o[0m
+[ 36%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2WorldCallbacks.cpp.o[0m
+[ 37%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2BlockAllocator.cpp.o[0m
+[ 39%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Draw.cpp.o[0m
+[ 40%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Math.cpp.o[0m
+[ 41%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Settings.cpp.o[0m
 [35m[1mScanning dependencies of target light_scan_sim_generate_messages_py[0m
-[ 31%] [34m[1mGenerating Python from MSG light_scan_sim/Segment[0m
-[ 32%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2ContactManager.cpp.o[0m
-[ 33%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2Fixture.cpp.o[0m
-[ 35%] [34m[1mGenerating Python from MSG light_scan_sim/SegmentList[0m
-[ 36%] [34m[1mGenerating Python from MSG light_scan_sim/Material[0m
-[ 37%] [34m[1mGenerating Python from MSG light_scan_sim/MaterialList[0m
-[ 39%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2Island.cpp.o[0m
-[ 40%] [34m[1mGenerating Python msg __init__.py for light_scan_sim[0m
-[ 41%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2World.cpp.o[0m
-[ 41%] Built target light_scan_sim_generate_messages_py
+[ 43%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2StackAllocator.cpp.o[0m
+[ 44%] [34m[1mGenerating Python from MSG light_scan_sim/Segment[0m
 [35m[1mScanning dependencies of target light_scan_sim_generate_messages_nodejs[0m
-[ 43%] [34m[1mGenerating Javascript code from light_scan_sim/Segment.msg[0m
-[ 44%] [34m[1mGenerating Javascript code from light_scan_sim/SegmentList.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from light_scan_sim/Segment.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG light_scan_sim/SegmentList[0m
+[ 48%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Timer.cpp.o[0m
+[ 50%] [34m[1mGenerating Javascript code from light_scan_sim/SegmentList.msg[0m
+[ 51%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2CircleShape.cpp.o[0m
+[ 52%] [34m[1mGenerating Javascript code from light_scan_sim/Material.msg[0m
+[ 54%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2EdgeShape.cpp.o[0m
+[ 55%] [34m[1mGenerating Python from MSG light_scan_sim/Material[0m
+[ 56%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2ChainShape.cpp.o[0m
+[ 58%] [34m[1mGenerating Javascript code from light_scan_sim/MaterialList.msg[0m
+[ 59%] [34m[1mGenerating Python from MSG light_scan_sim/MaterialList[0m
+[ 59%] Built target light_scan_sim_generate_messages_nodejs
 [35m[1mScanning dependencies of target light_scan_sim_generate_messages_lisp[0m
-[ 45%] [34m[1mGenerating Lisp code from light_scan_sim/Segment.msg[0m
-[ 47%] [34m[1mGenerating Javascript code from light_scan_sim/Material.msg[0m
-[ 48%] [34m[1mGenerating Lisp code from light_scan_sim/SegmentList.msg[0m
-[ 50%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Dynamics/b2WorldCallbacks.cpp.o[0m
-[ 51%] [34m[1mGenerating Javascript code from light_scan_sim/MaterialList.msg[0m
-[ 52%] [34m[1mGenerating Lisp code from light_scan_sim/Material.msg[0m
-[ 52%] Built target light_scan_sim_generate_messages_nodejs
+[ 60%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2PolygonShape.cpp.o[0m
+[ 62%] [34m[1mGenerating Lisp code from light_scan_sim/Segment.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from light_scan_sim/SegmentList.msg[0m
+[ 64%] [34m[1mGenerating Lisp code from light_scan_sim/Material.msg[0m
+[ 66%] [34m[1mGenerating Lisp code from light_scan_sim/MaterialList.msg[0m
+[ 67%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2BroadPhase.cpp.o[0m
+[ 68%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollideCircle.cpp.o[0m
+[ 70%] [34m[1mGenerating Python msg __init__.py for light_scan_sim[0m
+[ 70%] Built target light_scan_sim_generate_messages_lisp
+[ 70%] Built target light_scan_sim_generate_messages_py
+[ 71%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollideEdge.cpp.o[0m
 [35m[1mScanning dependencies of target light_scan_sim_generate_messages_eus[0m
-[ 54%] [34m[1mGenerating Lisp code from light_scan_sim/MaterialList.msg[0m
-[ 55%] [34m[1mGenerating EusLisp code from light_scan_sim/Segment.msg[0m
-[ 55%] Built target light_scan_sim_generate_messages_lisp
-[ 56%] [34m[1mGenerating EusLisp code from light_scan_sim/SegmentList.msg[0m
-[ 58%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2BlockAllocator.cpp.o[0m
-[ 59%] [34m[1mGenerating EusLisp code from light_scan_sim/Material.msg[0m
-[ 60%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Draw.cpp.o[0m
-[ 62%] [34m[1mGenerating EusLisp code from light_scan_sim/MaterialList.msg[0m
-[ 63%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Math.cpp.o[0m
-[ 64%] [34m[1mGenerating EusLisp manifest code for light_scan_sim[0m
-[ 66%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Settings.cpp.o[0m
-[ 67%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2StackAllocator.cpp.o[0m
-[ 68%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Common/b2Timer.cpp.o[0m
-[ 70%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2CircleShape.cpp.o[0m
-WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 71%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2EdgeShape.cpp.o[0m
-WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 72%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2ChainShape.cpp.o[0m
-[ 74%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2PolygonShape.cpp.o[0m
-[ 75%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2BroadPhase.cpp.o[0m
+[ 72%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollidePolygon.cpp.o[0m
+[ 74%] [34m[1mGenerating EusLisp code from light_scan_sim/Segment.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from light_scan_sim/SegmentList.msg[0m
+[ 77%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2Collision.cpp.o[0m
+[ 78%] [34m[1mGenerating EusLisp code from light_scan_sim/Material.msg[0m
+[ 79%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2Distance.cpp.o[0m
+[ 81%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2DynamicTree.cpp.o[0m
+[ 82%] [34m[1mGenerating EusLisp code from light_scan_sim/MaterialList.msg[0m
+[ 83%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2TimeOfImpact.cpp.o[0m
+[ 85%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Rope/b2Rope.cpp.o[0m
+[ 86%] [34m[1mGenerating EusLisp manifest code for light_scan_sim[0m
 [35m[1mScanning dependencies of target light_scan_sim_generate_messages_cpp[0m
-[ 77%] [34m[1mGenerating C++ code from light_scan_sim/Segment.msg[0m
-[ 78%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollideCircle.cpp.o[0m
-[ 79%] [34m[1mGenerating C++ code from light_scan_sim/SegmentList.msg[0m
+[ 87%] [34m[1mGenerating C++ code from light_scan_sim/Segment.msg[0m
+[ 89%] [34m[1mGenerating C++ code from light_scan_sim/SegmentList.msg[0m
+[ 90%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so[0m
+[ 91%] [34m[1mGenerating C++ code from light_scan_sim/Material.msg[0m
 WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 81%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollideEdge.cpp.o[0m
-[ 82%] [34m[1mGenerating C++ code from light_scan_sim/Material.msg[0m
-[ 83%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2CollidePolygon.cpp.o[0m
-[ 85%] [34m[1mGenerating C++ code from light_scan_sim/MaterialList.msg[0m
-[ 86%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2Collision.cpp.o[0m
-[ 86%] Built target light_scan_sim_generate_messages_cpp
-[ 87%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2Distance.cpp.o[0m
-[ 87%] Built target light_scan_sim_generate_messages_eus
-[35m[1mScanning dependencies of target light_scan_sim_generate_messages[0m
-[ 87%] Built target light_scan_sim_generate_messages
-[ 89%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2DynamicTree.cpp.o[0m
-[ 90%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Collision/b2TimeOfImpact.cpp.o[0m
-[ 91%] [32mBuilding CXX object thirdparty/Box2D/CMakeFiles/Box2D_shared.dir/Rope/b2Rope.cpp.o[0m
-[ 93%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so[0m
+[ 93%] [34m[1mGenerating C++ code from light_scan_sim/MaterialList.msg[0m
 [ 93%] Built target Box2D_shared
+[ 93%] Built target light_scan_sim_generate_messages_cpp
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 93%] Built target light_scan_sim_generate_messages_eus
 [35m[1mScanning dependencies of target light_scan_sim_node[0m
 [ 94%] [32mBuilding CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim_node.cpp.o[0m
 [ 95%] [32mBuilding CXX object CMakeFiles/light_scan_sim_node.dir/src/light_scan_sim.cpp.o[0m
 [ 97%] [32mBuilding CXX object CMakeFiles/light_scan_sim_node.dir/src/ray_cast.cpp.o[0m
 [ 98%] [32mBuilding CXX object CMakeFiles/light_scan_sim_node.dir/src/wall_segment_sim.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/light_scan_sim/light_scan_sim_node[0m
 [100%] Built target light_scan_sim_node
+[35m[1mScanning dependencies of target light_scan_sim_generate_messages[0m
+[100%] Built target light_scan_sim_generate_messages

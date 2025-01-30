@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/az/arena_ws/devel/.private/sarl_star_ros:$CMAKE_PREFIX_PATH"
-export PWD='/home/az/arena_ws/build/sarl_star_ros'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/az/arena_ws/devel/.private/sarl_star_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/az/arena_ws/src/planners/sarl-star/sarl_star_ros:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sarl_star_ros:$CMAKE_PREFIX_PATH"
+export PWD='/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/sarl_star_ros'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sarl_star_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/sarl-star/sarl_star_ros:$ROS_PACKAGE_PATH"

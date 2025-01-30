@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 # generated from dynamic_reconfigure/cmake/setup_custom_pythonpath.sh.in
 
-PYTHONPATH=/home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages:$PYTHONPATH
-exec /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 "$@"
+PYTHONPATH=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages:$PYTHONPATH
+exec /usr/bin/python3 "$@"

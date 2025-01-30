@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/az/arena_ws/devel/.private/drl_vo_barn_nav:$CMAKE_PREFIX_PATH"
-export PWD='/home/az/arena_ws/build/drl_vo_barn_nav'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/az/arena_ws/devel/.private/drl_vo_barn_nav/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/az/arena_ws/src/planners/trail/drl_vo_barn_nav:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/drl_vo_barn_nav:$CMAKE_PREFIX_PATH"
+export PWD='/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/drl_vo_barn_nav'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/drl_vo_barn_nav/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/trail/drl_vo_barn_nav:$ROS_PACKAGE_PATH"

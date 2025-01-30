@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/include/inter_util.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/include/inter_util.h
 ros/ros.h
 -
 string
@@ -16,9 +16,9 @@ vector
 std_msgs/String.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/src/inter_util.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/src/inter_util.cpp
 inter_util.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/src/inter_util.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/planners/inter/inter_util/src/inter_util.h
 vector
 -
 cmath

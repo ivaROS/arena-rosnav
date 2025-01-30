@@ -31,8 +31,8 @@
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
 [  0%] Built target nav_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
 [  0%] Built target nav_msgs_generate_messages_py
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
 [  0%] Built target tf2_msgs_generate_messages_eus
@@ -45,8 +45,8 @@
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
 [  0%] Built target rosgraph_msgs_generate_messages_py
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
 [  0%] Built target tf2_msgs_generate_messages_py
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
 [  0%] Built target rosgraph_msgs_generate_messages_eus
@@ -59,56 +59,56 @@
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
 [  0%] Built target tf2_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target roscpp_generate_messages_nodejs
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
 [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
 [  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
 [  0%] Built target actionlib_generate_messages_eus
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
-[  0%] Built target roscpp_generate_messages_py
 [  0%] Built target rosgraph_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
 [  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
 [  0%] Built target sensor_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
 [  0%] Built target sensor_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
-[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
 [  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target plan_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target plan_msgs_generate_messages_lisp[0m
 [  0%] Built target actionlib_generate_messages_nodejs
-[  0%] Built target plan_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_eus[0m
 [  0%] Built target plan_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target plan_msgs_generate_messages_lisp[0m
+[  0%] Built target plan_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target plan_msgs_generate_messages_nodejs[0m
 [  0%] Built target plan_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target plan_manager_node[0m
-[35m[1mScanning dependencies of target test_node[0m
 [ 16%] [32mBuilding CXX object CMakeFiles/plan_manager_node.dir/src/plan_manager_node.cpp.o[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/test_node.dir/src/test_node.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/plan_manager_node.dir/src/plan_manager.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/plan_manager_node.dir/src/plan_collector.cpp.o[0m
-[ 83%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/plan_manager/lib/plan_manager/test_node[0m
-[ 83%] Built target test_node
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:[m[K In member function ‘[01m[Kbool PlanCollector::generate_subgoal(RobotStatePtr, RobotStatePtr, nav_msgs::Path, double, double)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:59:18:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<geometry_msgs::PoseStamped_<std::allocator<void> >, std::allocator<geometry_msgs::PoseStamped_<std::allocator<void> > > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[ 33%] [32mBuilding CXX object CMakeFiles/plan_manager_node.dir/src/plan_manager.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/plan_manager_node.dir/src/plan_collector.cpp.o[0m
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:[m[K In member function ‘[01m[Kbool PlanCollector::generate_subgoal(RobotStatePtr, RobotStatePtr, nav_msgs::Path, double, double)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/plan_collector.cpp:59:18:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<geometry_msgs::PoseStamped_<std::allocator<void> >, std::allocator<geometry_msgs::PoseStamped_<std::allocator<void> > > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
    59 |     for(int i=0;[01;35m[Ki<global_path.poses.size()[m[K;i++){
       |                 [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/plan_manager/lib/plan_manager/plan_manager_node[0m
-[100%] Built target plan_manager_node
+[ 66%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_manager/lib/plan_manager/plan_manager_node[0m
+[ 66%] Built target plan_manager_node
+[35m[1mScanning dependencies of target test_node[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/test_node.dir/src/test_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_manager/lib/plan_manager/test_node[0m
+[100%] Built target test_node

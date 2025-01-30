@@ -157,19 +157,19 @@
 [ 13%] [34m[1mAutomatic MOC for target flatland_viz[0m
 [ 13%] Built target flatland_viz_autogen
 [35m[1mScanning dependencies of target flatland_viz_plugins[0m
-[35m[1mScanning dependencies of target flatland_viz[0m
 [ 20%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o[0m
-[ 26%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/flatland_viz_autogen/mocs_compilation.cpp.o[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o[0m
+[35m[1mScanning dependencies of target flatland_viz[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/flatland_viz_autogen/mocs_compilation.cpp.o[0m
 [ 40%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/flatland_viz_node.cpp.o[0m
-[ 46%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/flatland_viz.cpp.o[0m
-[ 53%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/flatland_window.cpp.o[0m
-[ 60%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/load_model_dialog.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o[0m
-[ 73%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/spawn_model_tool.cpp.o[0m
-[ 80%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/pause_sim_tool.cpp.o[0m
-[ 86%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o[0m
-[ 93%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/flatland_viz/lib/flatland_viz/flatland_viz[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/flatland_viz.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/flatland_window.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/load_model_dialog.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/spawn_model_tool.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/flatland_viz.dir/src/pause_sim_tool.cpp.o[0m
+[ 93%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so[0m
+[ 93%] Built target flatland_viz_plugins
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/flatland_viz/flatland_viz[0m
 [100%] Built target flatland_viz
-[100%] Built target flatland_viz_plugins

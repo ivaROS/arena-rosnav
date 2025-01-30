@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
 Eigen/Eigen
 -
 iostream
@@ -60,17 +60,17 @@ visualization_msgs/Marker.h
 mapping/raycast.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
 Eigen/Eigen
 -
 vector
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/mapping.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/mapping.cpp
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/raycast.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/src/raycast.cpp
 Eigen/Eigen
 -
 cmath

@@ -1,26 +1,108 @@
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_MovePeds[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_MovePeds
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_RegisterRobot[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_RegisterRobot
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SpawnWalls[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SpawnWalls
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_cpp[0m
 [  0%] Built target pedsim_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SetAgentState[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SetAgentState
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_GetAllAgentsState[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_GetAllAgentsState
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SpawnObstacles[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SpawnObstacles
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SetAllAgentsState[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SetAllAgentsState
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_GetAgentState[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_GetAgentState
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SpawnPed[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SpawnPed
-[  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target pedsim_msgs_generate_messages_nodejs
-[  0%] Built target pedsim_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _pedsim_srvs_generate_messages_check_deps_SpawnPeds[0m
 [  0%] Built target _pedsim_srvs_generate_messages_check_deps_SpawnPeds
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_nodejs[0m
+[  0%] Built target pedsim_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_lisp[0m
+[  0%] Built target pedsim_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_py[0m
 [  0%] Built target pedsim_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pedsim_msgs_generate_messages_eus[0m
 [  0%] Built target pedsim_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
-[ 19%] Built target pedsim_srvs_generate_messages_cpp
-[ 38%] Built target pedsim_srvs_generate_messages_nodejs
-[ 57%] Built target pedsim_srvs_generate_messages_lisp
-[ 78%] Built target pedsim_srvs_generate_messages_py
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_cpp[0m
+[  1%] [34m[1mGenerating C++ code from pedsim_srvs/SetAgentState.srv[0m
+[  3%] [34m[1mGenerating C++ code from pedsim_srvs/GetAgentState.srv[0m
+[  5%] [34m[1mGenerating C++ code from pedsim_srvs/SetAllAgentsState.srv[0m
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_nodejs[0m
+[  7%] [34m[1mGenerating Javascript code from pedsim_srvs/SetAgentState.srv[0m
+[  9%] [34m[1mGenerating Javascript code from pedsim_srvs/GetAgentState.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from pedsim_srvs/SetAllAgentsState.srv[0m
+[ 13%] [34m[1mGenerating C++ code from pedsim_srvs/GetAllAgentsState.srv[0m
+[ 15%] [34m[1mGenerating Javascript code from pedsim_srvs/GetAllAgentsState.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from pedsim_srvs/SpawnPed.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from pedsim_srvs/SpawnPeds.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from pedsim_srvs/SpawnWalls.srv[0m
+[ 23%] [34m[1mGenerating C++ code from pedsim_srvs/SpawnPed.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from pedsim_srvs/MovePeds.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from pedsim_srvs/SpawnObstacles.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from pedsim_srvs/RegisterRobot.srv[0m
+[ 30%] [34m[1mGenerating C++ code from pedsim_srvs/SpawnPeds.srv[0m
+[ 30%] Built target pedsim_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_lisp[0m
+[ 32%] [34m[1mGenerating Lisp code from pedsim_srvs/SetAgentState.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from pedsim_srvs/GetAgentState.srv[0m
+[ 36%] [34m[1mGenerating Lisp code from pedsim_srvs/SetAllAgentsState.srv[0m
+[ 38%] [34m[1mGenerating C++ code from pedsim_srvs/SpawnWalls.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from pedsim_srvs/GetAllAgentsState.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from pedsim_srvs/SpawnPed.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from pedsim_srvs/SpawnPeds.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from pedsim_srvs/SpawnWalls.srv[0m
+[ 48%] [34m[1mGenerating Lisp code from pedsim_srvs/MovePeds.srv[0m
+[ 50%] [34m[1mGenerating C++ code from pedsim_srvs/MovePeds.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from pedsim_srvs/SpawnObstacles.srv[0m
+[ 53%] [34m[1mGenerating Lisp code from pedsim_srvs/RegisterRobot.srv[0m
+[ 53%] Built target pedsim_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_py[0m
+[ 55%] [34m[1mGenerating Python code from SRV pedsim_srvs/SetAgentState[0m
+[ 57%] [34m[1mGenerating C++ code from pedsim_srvs/SpawnObstacles.srv[0m
+[ 59%] [34m[1mGenerating Python code from SRV pedsim_srvs/GetAgentState[0m
+[ 61%] [34m[1mGenerating C++ code from pedsim_srvs/RegisterRobot.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV pedsim_srvs/SetAllAgentsState[0m
+[ 63%] Built target pedsim_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages_eus[0m
+[ 65%] [34m[1mGenerating EusLisp code from pedsim_srvs/SetAgentState.srv[0m
+[ 67%] [34m[1mGenerating Python code from SRV pedsim_srvs/GetAllAgentsState[0m
+[ 69%] [34m[1mGenerating EusLisp code from pedsim_srvs/GetAgentState.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV pedsim_srvs/SpawnPed[0m
+[ 73%] [34m[1mGenerating EusLisp code from pedsim_srvs/SetAllAgentsState.srv[0m
+[ 75%] [34m[1mGenerating EusLisp code from pedsim_srvs/GetAllAgentsState.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV pedsim_srvs/SpawnPeds[0m
+[ 78%] [34m[1mGenerating EusLisp code from pedsim_srvs/SpawnPed.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from pedsim_srvs/SpawnPeds.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV pedsim_srvs/SpawnWalls[0m
+[ 84%] [34m[1mGenerating EusLisp code from pedsim_srvs/SpawnWalls.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV pedsim_srvs/MovePeds[0m
+[ 88%] [34m[1mGenerating EusLisp code from pedsim_srvs/MovePeds.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from pedsim_srvs/SpawnObstacles.srv[0m
+[ 92%] [34m[1mGenerating Python code from SRV pedsim_srvs/SpawnObstacles[0m
+[ 94%] [34m[1mGenerating Python code from SRV pedsim_srvs/RegisterRobot[0m
+[ 96%] [34m[1mGenerating EusLisp code from pedsim_srvs/RegisterRobot.srv[0m
+[ 98%] [34m[1mGenerating EusLisp manifest code for pedsim_srvs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for pedsim_srvs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target pedsim_srvs_generate_messages_py
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [100%] Built target pedsim_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target pedsim_srvs_generate_messages[0m
 [100%] Built target pedsim_srvs_generate_messages

@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/manifest.l"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/GetVelCmd.l"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/GetVelCmdWithGlobalPlan.l"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/ResetCostmap.l"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/SetGlobalPlan.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/manifest.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/GetVelCmd.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/GetVelCmdWithGlobalPlan.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/ResetCostmap.l"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/roseus/ros/all_in_one_local_planner_interface/srv/SetGlobalPlan.l"
   "CMakeFiles/all_in_one_local_planner_interface_generate_messages_eus"
 )
 

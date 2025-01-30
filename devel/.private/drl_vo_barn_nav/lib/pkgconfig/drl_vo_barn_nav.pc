@@ -1,4 +1,4 @@
-prefix=/home/az/arena_ws/devel/.private/drl_vo_barn_nav
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/drl_vo_barn_nav
 
 Name: drl_vo_barn_nav
 Description: Description of drl_vo_barn_nav

@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/jackal_msgs
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/jackal_msgs
 
 Name: jackal_msgs
 Description: Description of jackal_msgs
 Version: 0.8.8
-Cflags: -I/home/az/arena_ws/devel/.private/jackal_msgs/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/jackal_msgs/include
 Libs: -L${prefix}/lib 
 Requires: std_msgs message_runtime

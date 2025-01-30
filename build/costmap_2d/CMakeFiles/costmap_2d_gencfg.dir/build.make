@@ -43,169 +43,169 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/costmap_2d
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d
 
 # Utility rule file for costmap_2d_gencfg.
 
 # Include the progress variables for this target.
 include CMakeFiles/costmap_2d_gencfg.dir/progress.make
 
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-CMakeFiles/costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+CMakeFiles/costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
 
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/Costmap2D.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/Costmap2D.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/Costmap2D.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/Costmap2D.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/Costmap2D.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/Costmap2D.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/ObstaclePlugin.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dynamic reconfigure files from cfg/ObstaclePlugin.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/ObstaclePlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/ObstaclePlugin.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dynamic reconfigure files from cfg/ObstaclePlugin.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/ObstaclePlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/GenericPlugin.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating dynamic reconfigure files from cfg/GenericPlugin.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/GenericPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/GenericPlugin.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating dynamic reconfigure files from cfg/GenericPlugin.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/GenericPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/InflationPlugin.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating dynamic reconfigure files from cfg/InflationPlugin.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/InflationPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/InflationPlugin.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating dynamic reconfigure files from cfg/InflationPlugin.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/InflationPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/VoxelPlugin.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating dynamic reconfigure files from cfg/VoxelPlugin.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/VoxelPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/VoxelPlugin.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating dynamic reconfigure files from cfg/VoxelPlugin.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/VoxelPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/SemanticPlugin.cfg
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating dynamic reconfigure files from cfg/SemanticPlugin.cfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/SemanticPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/SemanticPlugin.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating dynamic reconfigure files from cfg/SemanticPlugin.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/cfg/SemanticPlugin.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
 
-/home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc
 
 costmap_2d_gencfg: CMakeFiles/costmap_2d_gencfg
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
-costmap_2d_gencfg: /home/az/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/Costmap2DConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/Costmap2DConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/ObstaclePluginConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/ObstaclePluginConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/GenericPluginConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/GenericPluginConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/InflationPluginConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/InflationPluginConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/VoxelPluginConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/VoxelPluginConfig.wikidoc
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig-usage.dox
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/python3/dist-packages/costmap_2d/cfg/SemanticPluginConfig.py
+costmap_2d_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/share/costmap_2d/docs/SemanticPluginConfig.wikidoc
 costmap_2d_gencfg: CMakeFiles/costmap_2d_gencfg.dir/build.make
 
 .PHONY : costmap_2d_gencfg
@@ -220,6 +220,6 @@ CMakeFiles/costmap_2d_gencfg.dir/clean:
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/clean
 
 CMakeFiles/costmap_2d_gencfg.dir/depend:
-	cd /home/az/arena_ws/build/costmap_2d && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/arena_ws/build/costmap_2d /home/az/arena_ws/build/costmap_2d /home/az/arena_ws/build/costmap_2d/CMakeFiles/costmap_2d_gencfg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles/costmap_2d_gencfg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/depend
 

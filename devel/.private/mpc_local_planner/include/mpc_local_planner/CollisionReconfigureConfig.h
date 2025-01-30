@@ -286,13 +286,13 @@ int collision_check_no_poses;
 
 
 
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       bool include_costmap_obstacles;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       double costmap_obstacles_behind_robot_dist;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       double collision_check_min_resolution_angular;
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       int collision_check_no_poses;
 //#line 231 "/opt/ros/noetic/share/dynamic_reconfigure/cmake/../templates/ConfigType.h.template"
 
@@ -433,45 +433,45 @@ int collision_check_no_poses;
     {
 CollisionReconfigureConfig::GroupDescription<CollisionReconfigureConfig::DEFAULT, CollisionReconfigureConfig> Default("Default", "", 0, 0, true, &CollisionReconfigureConfig::groups);
 CollisionReconfigureConfig::GroupDescription<CollisionReconfigureConfig::DEFAULT::COLLISION_AVOIDANCE, CollisionReconfigureConfig::DEFAULT> Collision_avoidance("Collision_avoidance", "tab", 0, 1, true, &CollisionReconfigureConfig::DEFAULT::collision_avoidance);
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __min__.include_costmap_obstacles = 0;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __max__.include_costmap_obstacles = 1;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __default__.include_costmap_obstacles = 1;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       Collision_avoidance.abstract_parameters.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<bool>("include_costmap_obstacles", "bool", 0, "Specify whether the obstacles in the costmap should be taken into account directly (this is necessary if no seperate clustering and detection is implemented)", "", &CollisionReconfigureConfig::include_costmap_obstacles)));
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __param_descriptions__.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<bool>("include_costmap_obstacles", "bool", 0, "Specify whether the obstacles in the costmap should be taken into account directly (this is necessary if no seperate clustering and detection is implemented)", "", &CollisionReconfigureConfig::include_costmap_obstacles)));
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __min__.costmap_obstacles_behind_robot_dist = 0.0;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __max__.costmap_obstacles_behind_robot_dist = 10.0;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __default__.costmap_obstacles_behind_robot_dist = 1.5;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       Collision_avoidance.abstract_parameters.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<double>("costmap_obstacles_behind_robot_dist", "double", 0, "Limit the occupied local costmap obstacles taken into account for planning behind the robot (specify distance in meters)", "", &CollisionReconfigureConfig::costmap_obstacles_behind_robot_dist)));
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __param_descriptions__.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<double>("costmap_obstacles_behind_robot_dist", "double", 0, "Limit the occupied local costmap obstacles taken into account for planning behind the robot (specify distance in meters)", "", &CollisionReconfigureConfig::costmap_obstacles_behind_robot_dist)));
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __min__.collision_check_min_resolution_angular = -3.1415;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __max__.collision_check_min_resolution_angular = 3.1415;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __default__.collision_check_min_resolution_angular = 3.1415;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       Collision_avoidance.abstract_parameters.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<double>("collision_check_min_resolution_angular", "double", 0, "", "", &CollisionReconfigureConfig::collision_check_min_resolution_angular)));
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __param_descriptions__.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<double>("collision_check_min_resolution_angular", "double", 0, "", "", &CollisionReconfigureConfig::collision_check_min_resolution_angular)));
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __min__.collision_check_no_poses = -1;
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __max__.collision_check_no_poses = 100;
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __default__.collision_check_no_poses = -1;
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       Collision_avoidance.abstract_parameters.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<int>("collision_check_no_poses", "int", 0, "", "", &CollisionReconfigureConfig::collision_check_no_poses)));
-//#line 25 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
+//#line 25 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg"
       __param_descriptions__.push_back(CollisionReconfigureConfig::AbstractParamDescriptionConstPtr(new CollisionReconfigureConfig::ParamDescription<int>("collision_check_no_poses", "int", 0, "", "", &CollisionReconfigureConfig::collision_check_no_poses)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Collision_avoidance.convertParams();

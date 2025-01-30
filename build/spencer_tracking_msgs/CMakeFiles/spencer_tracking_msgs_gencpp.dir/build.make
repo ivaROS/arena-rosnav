@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/spencer_tracking_msgs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_msgs
 
 # Utility rule file for spencer_tracking_msgs_gencpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/spencer_tracking_msgs_gencpp.dir/clean:
 .PHONY : CMakeFiles/spencer_tracking_msgs_gencpp.dir/clean
 
 CMakeFiles/spencer_tracking_msgs_gencpp.dir/depend:
-	cd /home/az/arena_ws/build/spencer_tracking_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs /home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs /home/az/arena_ws/build/spencer_tracking_msgs /home/az/arena_ws/build/spencer_tracking_msgs /home/az/arena_ws/build/spencer_tracking_msgs/CMakeFiles/spencer_tracking_msgs_gencpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_messages/spencer_tracking_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spencer_tracking_msgs/CMakeFiles/spencer_tracking_msgs_gencpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/spencer_tracking_msgs_gencpp.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/cohan/hateb_local_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/hateb_local_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hateb_local_planner.dir/depend.make
@@ -58,134 +58,134 @@ include CMakeFiles/hateb_local_planner.dir/progress.make
 include CMakeFiles/hateb_local_planner.dir/flags.make
 
 CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp
+CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp > CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp > CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp -o CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/timed_elastic_band.cpp -o CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp
+CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp > CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp > CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp -o CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/optimal_planner.cpp -o CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp
+CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp > CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp > CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp -o CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/obstacles.cpp -o CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp
+CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp > CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp > CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp -o CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/visualization.cpp -o CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp
+CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp > CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp > CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp -o CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/recovery_behaviors.cpp -o CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp
+CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp > CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp > CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp -o CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_config.cpp -o CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp
+CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp > CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp > CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp -o CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/homotopy_class_planner.cpp -o CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp
+CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp > CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp > CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp -o CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/hateb_local_planner_ros.cpp -o CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp
+CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp > CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp > CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp -o CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/graph_search.cpp -o CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.s
 
 CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o: CMakeFiles/hateb_local_planner.dir/flags.make
-CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o: /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o -c /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp
+CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp
 
 CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp > CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp > CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.i
 
 CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp -o CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/backoff.cpp -o CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.s
 
 # Object files for target hateb_local_planner
 hateb_local_planner_OBJECTS = \
@@ -203,74 +203,74 @@ hateb_local_planner_OBJECTS = \
 # External object files for target hateb_local_planner
 hateb_local_planner_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/build.make
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_csparse_extension.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_core.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_stuff.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_types_slam2d.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_types_slam3d.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_cholmod.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_pcg.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_csparse.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_incremental.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libcostmap_converter.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libinteractive_markers.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX shared library /home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/homotopy_class_planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/graph_search.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_csparse_extension.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_core.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_stuff.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_types_slam2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_types_slam3d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_cholmod.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_pcg.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_solver_csparse.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libg2o_incremental.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libcostmap_converter.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libinteractive_markers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so: CMakeFiles/hateb_local_planner.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hateb_local_planner.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/hateb_local_planner.dir/build: /home/az/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so
+CMakeFiles/hateb_local_planner.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so
 
 .PHONY : CMakeFiles/hateb_local_planner.dir/build
 
@@ -279,6 +279,6 @@ CMakeFiles/hateb_local_planner.dir/clean:
 .PHONY : CMakeFiles/hateb_local_planner.dir/clean
 
 CMakeFiles/hateb_local_planner.dir/depend:
-	cd /home/az/arena_ws/build/hateb_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/cohan/hateb_local_planner /home/az/arena_ws/src/planners/cohan/hateb_local_planner /home/az/arena_ws/build/hateb_local_planner /home/az/arena_ws/build/hateb_local_planner /home/az/arena_ws/build/hateb_local_planner/CMakeFiles/hateb_local_planner.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/hateb_local_planner/CMakeFiles/hateb_local_planner.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hateb_local_planner.dir/depend
 

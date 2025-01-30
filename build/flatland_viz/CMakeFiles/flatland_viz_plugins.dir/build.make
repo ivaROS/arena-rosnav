@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/flatland/flatland_viz
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/flatland_viz
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz
 
 # Include any dependencies generated for this target.
 include CMakeFiles/flatland_viz_plugins.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/flatland_viz_plugins.dir/flags.make
 
 CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o: CMakeFiles/flatland_viz_plugins.dir/flags.make
 CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o: flatland_viz_plugins_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o -c /home/az/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp
 
 CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp > CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp > CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp -o CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_plugins_autogen/mocs_compilation.cpp -o CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o: CMakeFiles/flatland_viz_plugins.dir/flags.make
-CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o: /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o -c /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp
+CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp
 
 CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp > CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp > CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.i
 
 CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.s
 
 CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o: CMakeFiles/flatland_viz_plugins.dir/flags.make
-CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o: /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o -c /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp
+CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp
 
 CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp > CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp > CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.i
 
 CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.s
 
 CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o: CMakeFiles/flatland_viz_plugins.dir/flags.make
-CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o: /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o -c /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp
+CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp
 
 CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp > CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp > CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.i
 
 CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp -o CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.s
 
 # Object files for target flatland_viz_plugins
 flatland_viz_plugins_OBJECTS = \
@@ -119,120 +119,120 @@ flatland_viz_plugins_OBJECTS = \
 # External object files for target flatland_viz_plugins
 flatland_viz_plugins_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/build.make
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librviz.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOgreOverlay.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOpenGL.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libGLX.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libGLU.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libimage_transport.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libinteractive_markers.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libresource_retriever.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/liburdf.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_bridge.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_lib.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libyaml-cpp.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8
-/home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX shared library /home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/flatland_viz_plugins_autogen/mocs_compilation.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/load_model_dialog.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/spawn_model_tool.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/src/pause_sim_tool.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librviz.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libGLX.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libGLU.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libimage_transport.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libinteractive_markers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libresource_retriever.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/liburdf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_model.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liburdfdom_world.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libtinyxml.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_bridge.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_lib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libyaml-cpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so: CMakeFiles/flatland_viz_plugins.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/flatland_viz_plugins.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/flatland_viz_plugins.dir/build: /home/az/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so
+CMakeFiles/flatland_viz_plugins.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_viz/lib/libflatland_viz_plugins.so
 
 .PHONY : CMakeFiles/flatland_viz_plugins.dir/build
 
@@ -241,6 +241,6 @@ CMakeFiles/flatland_viz_plugins.dir/clean:
 .PHONY : CMakeFiles/flatland_viz_plugins.dir/clean
 
 CMakeFiles/flatland_viz_plugins.dir/depend:
-	cd /home/az/arena_ws/build/flatland_viz && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/flatland/flatland_viz /home/az/arena_ws/src/arena/utils/flatland/flatland_viz /home/az/arena_ws/build/flatland_viz /home/az/arena_ws/build/flatland_viz /home/az/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_plugins.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_plugins.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/flatland_viz_plugins.dir/depend
 

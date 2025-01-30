@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/mbf_abstract_nav/include/mbf_abstract_nav/MoveBaseFlexConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/include/mbf_abstract_nav/MoveBaseFlexConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathAction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathAction.h
 string
 -
 vector
@@ -46,7 +46,7 @@ mbf_msgs/ExePathActionResult.h
 mbf_msgs/ExePathActionFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionFeedback.h
 string
 -
 vector
@@ -68,7 +68,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/ExePathFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionGoal.h
 string
 -
 vector
@@ -90,7 +90,7 @@ actionlib_msgs/GoalID.h
 mbf_msgs/ExePathGoal.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathActionResult.h
 string
 -
 vector
@@ -112,7 +112,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/ExePathResult.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathFeedback.h
 string
 -
 vector
@@ -132,7 +132,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/TwistStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathGoal.h
 string
 -
 vector
@@ -150,7 +150,7 @@ ros/message_operations.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/ExePathResult.h
 string
 -
 vector
@@ -168,7 +168,7 @@ ros/message_operations.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathAction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathAction.h
 string
 -
 vector
@@ -190,7 +190,7 @@ mbf_msgs/GetInterPathActionResult.h
 mbf_msgs/GetInterPathActionFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionFeedback.h
 string
 -
 vector
@@ -212,7 +212,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/GetInterPathFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionGoal.h
 string
 -
 vector
@@ -234,7 +234,7 @@ actionlib_msgs/GoalID.h
 mbf_msgs/GetInterPathGoal.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathActionResult.h
 string
 -
 vector
@@ -256,7 +256,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/GetInterPathResult.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathFeedback.h
 string
 -
 vector
@@ -272,7 +272,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathGoal.h
 string
 -
 vector
@@ -294,7 +294,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetInterPathResult.h
 string
 -
 vector
@@ -312,7 +312,7 @@ ros/message_operations.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathAction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathAction.h
 string
 -
 vector
@@ -334,7 +334,7 @@ mbf_msgs/GetPathActionResult.h
 mbf_msgs/GetPathActionFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionFeedback.h
 string
 -
 vector
@@ -356,7 +356,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/GetPathFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionGoal.h
 string
 -
 vector
@@ -378,7 +378,7 @@ actionlib_msgs/GoalID.h
 mbf_msgs/GetPathGoal.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathActionResult.h
 string
 -
 vector
@@ -400,7 +400,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/GetPathResult.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathFeedback.h
 string
 -
 vector
@@ -416,7 +416,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathGoal.h
 string
 -
 vector
@@ -436,7 +436,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/GetPathResult.h
 string
 -
 vector
@@ -454,7 +454,7 @@ ros/message_operations.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseAction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseAction.h
 string
 -
 vector
@@ -476,7 +476,7 @@ mbf_msgs/MoveBaseActionResult.h
 mbf_msgs/MoveBaseActionFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionFeedback.h
 string
 -
 vector
@@ -498,7 +498,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/MoveBaseFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionGoal.h
 string
 -
 vector
@@ -520,7 +520,7 @@ actionlib_msgs/GoalID.h
 mbf_msgs/MoveBaseGoal.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseActionResult.h
 string
 -
 vector
@@ -542,7 +542,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/MoveBaseResult.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseFeedback.h
 string
 -
 vector
@@ -562,7 +562,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/TwistStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseGoal.h
 string
 -
 vector
@@ -580,7 +580,7 @@ ros/message_operations.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/MoveBaseResult.h
 string
 -
 vector
@@ -598,7 +598,7 @@ ros/message_operations.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryAction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryAction.h
 string
 -
 vector
@@ -620,7 +620,7 @@ mbf_msgs/RecoveryActionResult.h
 mbf_msgs/RecoveryActionFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionFeedback.h
 string
 -
 vector
@@ -642,7 +642,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/RecoveryFeedback.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionGoal.h
 string
 -
 vector
@@ -664,7 +664,7 @@ actionlib_msgs/GoalID.h
 mbf_msgs/RecoveryGoal.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryActionResult.h
 string
 -
 vector
@@ -686,7 +686,7 @@ actionlib_msgs/GoalStatus.h
 mbf_msgs/RecoveryResult.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryFeedback.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryFeedback.h
 string
 -
 vector
@@ -702,7 +702,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryGoal.h
 string
 -
 vector
@@ -718,7 +718,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryResult.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_msgs/include/mbf_msgs/RecoveryResult.h
 string
 -
 vector
@@ -734,7 +734,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_controller.h
 vector
 -
 string
@@ -748,7 +748,7 @@ geometry_msgs/TwistStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_inter.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_inter.h
 vector
 -
 string
@@ -760,7 +760,7 @@ boost/shared_ptr.hpp
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_planner.h
 vector
 -
 string
@@ -772,7 +772,7 @@ boost/shared_ptr.hpp
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_recovery.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_recovery.h
 stdint.h
 -
 string
@@ -780,7 +780,7 @@ string
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_action_base.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_action_base.hpp
 boost/thread/thread.hpp
 -
 boost/thread/mutex.hpp
@@ -802,11 +802,11 @@ actionlib/server/action_server.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/MoveBaseFlexConfig.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
 mbf_abstract_nav/abstract_execution_base.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_controller_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_controller_execution.h
 map
 -
 string
@@ -822,11 +822,11 @@ mbf_utility/navigation_utility.h
 mbf_abstract_core/abstract_controller.h
 -
 mbf_abstract_nav/MoveBaseFlexConfig.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
 mbf_abstract_nav/abstract_execution_base.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_execution_base.h
 boost/thread.hpp
 -
 mbf_utility/robot_information.h
@@ -836,7 +836,7 @@ mbf_abstract_nav/MoveBaseFlexConfig.h
 string
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_inter_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_inter_execution.h
 map
 -
 string
@@ -852,9 +852,9 @@ mbf_utility/robot_information.h
 mbf_utility/navigation_utility.h
 -
 mbf_abstract_nav/abstract_execution_base.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_navigation_server.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_navigation_server.h
 string
 -
 boost/shared_ptr.hpp
@@ -892,7 +892,7 @@ mbf_abstract_nav/move_base_action.h
 mbf_abstract_nav/MoveBaseFlexConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_planner_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_planner_execution.h
 map
 -
 string
@@ -908,15 +908,15 @@ mbf_utility/robot_information.h
 mbf_utility/navigation_utility.h
 -
 mbf_abstract_nav/abstract_execution_base.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_plugin_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_plugin_manager.h
 boost/function.hpp
 -
 impl/abstract_plugin_manager.tcc
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/abstract_plugin_manager.tcc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/abstract_plugin_manager.tcc
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_recovery_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/abstract_recovery_execution.h
 map
 -
 string
@@ -930,11 +930,11 @@ mbf_utility/robot_information.h
 mbf_utility/navigation_utility.h
 -
 mbf_abstract_nav/MoveBaseFlexConfig.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
 mbf_abstract_nav/abstract_execution_base.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_execution_base.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/controller_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/controller_action.h
 actionlib/server/action_server.h
 -
 mbf_msgs/ExePathAction.h
@@ -942,17 +942,17 @@ mbf_msgs/ExePathAction.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/abstract_action_base.hpp
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
 mbf_abstract_nav/abstract_controller_execution.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_controller_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_controller_execution.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/abstract_plugin_manager.tcc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/abstract_plugin_manager.tcc
 mbf_abstract_nav/abstract_plugin_manager.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/mbf_abstract_nav/abstract_plugin_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/impl/mbf_abstract_nav/abstract_plugin_manager.h
 XmlRpcException.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/inter_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/inter_action.h
 actionlib/server/action_server.h
 -
 mbf_msgs/GetInterPathAction.h
@@ -960,11 +960,11 @@ mbf_msgs/GetInterPathAction.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/abstract_action_base.hpp
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
 mbf_abstract_nav/abstract_inter_execution.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_inter_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_inter_execution.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/move_base_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/move_base_action.h
 actionlib/server/action_server.h
 -
 actionlib/client/simple_action_client.h
@@ -982,9 +982,9 @@ mbf_msgs/RecoveryAction.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/MoveBaseFlexConfig.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/MoveBaseFlexConfig.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/planner_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/planner_action.h
 actionlib/server/action_server.h
 -
 mbf_msgs/GetPathAction.h
@@ -992,11 +992,11 @@ mbf_msgs/GetPathAction.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/abstract_action_base.hpp
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
 mbf_abstract_nav/abstract_planner_execution.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_planner_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_planner_execution.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/recovery_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/recovery_action.h
 boost/thread/condition_variable.hpp
 -
 actionlib/server/action_server.h
@@ -1006,11 +1006,11 @@ mbf_msgs/RecoveryAction.h
 mbf_utility/robot_information.h
 -
 mbf_abstract_nav/abstract_action_base.hpp
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_action_base.hpp
 mbf_abstract_nav/abstract_recovery_execution.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_recovery_execution.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_abstract_nav/include/mbf_abstract_nav/mbf_abstract_nav/abstract_recovery_execution.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/include/mbf_simple_nav/simple_navigation_server.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/include/mbf_simple_nav/simple_navigation_server.h
 mbf_abstract_nav/abstract_navigation_server.h
 -
 pluginlib/class_loader.h
@@ -1018,11 +1018,11 @@ pluginlib/class_loader.h
 mbf_utility/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/src/simple_navigation_server.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/src/simple_navigation_server.cpp
 mbf_simple_nav/simple_navigation_server.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/src/mbf_simple_nav/simple_navigation_server.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_simple_nav/src/mbf_simple_nav/simple_navigation_server.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/navigation_utility.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/navigation_utility.h
 geometry_msgs/PoseStamped.h
 -
 ros/duration.h
@@ -1038,9 +1038,9 @@ tf2_ros/buffer.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
 -
 mbf_utility/types.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/types.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/odometry_helper.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/odometry_helper.h
 nav_msgs/Odometry.h
 -
 ros/ros.h
@@ -1050,7 +1050,7 @@ boost/thread.hpp
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/robot_information.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/robot_information.h
 boost/shared_ptr.hpp
 -
 geometry_msgs/PoseStamped.h
@@ -1062,11 +1062,11 @@ ros/duration.h
 string
 -
 mbf_utility/odometry_helper.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/odometry_helper.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/odometry_helper.h
 mbf_utility/types.h
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/mbf_utility/types.h
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/types.h
 boost/shared_ptr.hpp
 -
 ros/common.h

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/navfn/lib/navfn/navfn_node"
-  "/home/az/arena_ws/devel/.private/navfn/lib/navfn/navfn_node.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib/navfn/navfn_node"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib/navfn/navfn_node.pdb"
   "CMakeFiles/navfn_node.dir/src/navfn_node.cpp.o"
 )
 

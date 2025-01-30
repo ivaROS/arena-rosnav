@@ -1,8 +1,8 @@
 # generated from catkin/cmake/template/pkg.context.pc.in
 CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/az/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery/include".split(';') if "/home/az/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery/include" != "" else []
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery/include".split(';') if "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/recovery/rotate_recovery/include" != "" else []
 PROJECT_CATKIN_DEPENDS = "costmap_2d;geometry_msgs;nav_core;pluginlib;roscpp;tf2;tf2_ros".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lrotate_recovery".split(';') if "-lrotate_recovery" != "" else []
 PROJECT_NAME = "rotate_recovery"
-PROJECT_SPACE_DIR = "/home/az/arena_ws/devel/.private/rotate_recovery"
+PROJECT_SPACE_DIR = "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/rotate_recovery"
 PROJECT_VERSION = "1.17.3"

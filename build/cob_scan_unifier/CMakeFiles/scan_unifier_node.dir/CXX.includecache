@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_scan_unifier/include/cob_scan_unifier/scan_unifier_node.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_scan_unifier/include/cob_scan_unifier/scan_unifier_node.h
 pthread.h
 -
 XmlRpc.h
@@ -36,7 +36,7 @@ sensor_msgs/LaserScan.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_scan_unifier/src/scan_unifier_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_scan_unifier/src/scan_unifier_node.cpp
 cob_scan_unifier/scan_unifier_node.h
 -
 

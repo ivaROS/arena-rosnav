@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/rviz_plugins/lib/librviz_plugins.pdb"
-  "/home/az/arena_ws/devel/.private/rviz_plugins/lib/librviz_plugins.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/rviz_plugins/lib/librviz_plugins.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/rviz_plugins/lib/librviz_plugins.so"
   "CMakeFiles/rviz_plugins.dir/src/goal_tool.cpp.o"
   "CMakeFiles/rviz_plugins.dir/src/moc_goal_tool.cpp.o"
   "CMakeFiles/rviz_plugins.dir/src/moc_task_tool.cpp.o"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.pdb"
-  "/home/az/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_server/lib/libflatland_Box2D.so"
   "CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2ChainShape.cpp.o"
   "CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2CircleShape.cpp.o"
   "CMakeFiles/flatland_Box2D.dir/Collision/Shapes/b2EdgeShape.cpp.o"

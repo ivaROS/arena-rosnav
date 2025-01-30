@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/mecanum_drive_controller.cpp" "/home/az/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/mecanum_drive_controller.cpp.o"
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/odometry.cpp" "/home/az/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/odometry.cpp.o"
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/speed_limiter.cpp" "/home/az/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/speed_limiter.cpp.o"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/mecanum_drive_controller.cpp" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/mecanum_drive_controller.cpp.o"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/odometry.cpp" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/odometry.cpp.o"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/src/speed_limiter.cpp" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/ridgeback_control/CMakeFiles/mecanum_drive_controller.dir/src/speed_limiter.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,7 +20,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/ridgeback/ridgeback_control/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   )

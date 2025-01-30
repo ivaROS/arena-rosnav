@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/UVLADIE3JM/moc_patharray_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/UVLADIE3JM/moc_patharray_display.cpp
 ../../../../src/planners/cohan/rviz_path_array/src/patharray_display.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/mocs_compilation.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/mocs_compilation.cpp
 UVLADIE3JM/moc_patharray_display.cpp
-/home/az/arena_ws/build/rviz_path_array/rviz_path_array_autogen/UVLADIE3JM/moc_patharray_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_path_array/rviz_path_array_autogen/UVLADIE3JM/moc_patharray_display.cpp
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
 string
 -
 vector
@@ -38,7 +38,7 @@ std_msgs/Header.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
 string
 -
 vector
@@ -58,7 +58,7 @@ std_msgs/Header.h
 cohan_msgs/AgentPath.h
 -
 
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.cpp
 boost/bind.hpp
 -
 OgreSceneNode.h
@@ -72,37 +72,37 @@ OgreBillboardSet.h
 OgreMatrix4.h
 -
 rviz/display_context.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/display_context.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/display_context.h
 rviz/frame_manager.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/frame_manager.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/frame_manager.h
 rviz/properties/enum_property.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/enum_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/enum_property.h
 rviz/properties/color_property.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/color_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/color_property.h
 rviz/properties/float_property.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/float_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/float_property.h
 rviz/properties/int_property.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/int_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/int_property.h
 rviz/properties/vector_property.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/vector_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/properties/vector_property.h
 rviz/validate_floats.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/validate_floats.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/validate_floats.h
 rviz/validate_quaternions.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/validate_quaternions.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/validate_quaternions.h
 rviz/ogre_helpers/billboard_line.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/ogre_helpers/billboard_line.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/ogre_helpers/billboard_line.h
 patharray_display.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
 pluginlib/class_list_macros.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/patharray_display.h
 cohan_msgs/AgentPathArray.h
 -
 cohan_msgs/AgentPath.h
 -
 rviz/message_filter_display.h
-/home/az/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/message_filter_display.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/rviz_path_array/src/rviz/message_filter_display.h
 rviz/ogre_helpers/arrow.h
 -
 rviz/ogre_helpers/axes.h

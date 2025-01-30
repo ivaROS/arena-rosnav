@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cob_base_controller_utils/include/cob_base_controller_utils/WheelCommands.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_base_controller_utils/include/cob_base_controller_utils/WheelCommands.h
 string
 -
 vector
@@ -24,7 +24,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/az/arena_ws/devel/.private/cob_omni_drive_controller/include/cob_omni_drive_controller/SteerCtrlConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_omni_drive_controller/include/cob_omni_drive_controller/SteerCtrlConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -42,13 +42,13 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_base_controller_utils/include/cob_base_controller_utils/OdometryTracker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_base_controller_utils/include/cob_base_controller_utils/OdometryTracker.h
 tf/tf.h
 -
 nav_msgs/Odometry.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeom.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeom.h
 vector
 -
 string
@@ -58,13 +58,13 @@ stdexcept
 boost/make_shared.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
 ros/ros.h
 -
 cob_omni_drive_controller/UndercarriageCtrlGeom.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
 controller_interface/controller.h
 -
 cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
@@ -72,7 +72,7 @@ cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
 boost/scoped_ptr.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
 controller_interface/controller.h
 -
 hardware_interface/joint_command_interface.h
@@ -94,27 +94,27 @@ realtime_tools/realtime_publisher.h
 cob_base_controller_utils/WheelCommands.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/control_multi_plugin.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/control_multi_plugin.cpp
 GeomController.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
 WheelControllerBase.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
 controller_interface/multi_interface_controller.h
 -
 hardware_interface/joint_command_interface.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/control_plugin.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/control_plugin.cpp
 GeomController.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
 WheelControllerBase.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/WheelControllerBase.h
 dynamic_reconfigure/server.h
 -
 cob_omni_drive_controller/SteerCtrlConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/odom_plugin.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/odom_plugin.cpp
 hardware_interface/joint_state_interface.h
 -
 pluginlib/class_list_macros.h
@@ -128,7 +128,7 @@ cob_omni_drive_controller/UndercarriageCtrlGeom.h
 std_srvs/Trigger.h
 -
 GeomController.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/GeomController.h
 
 /opt/ros/noetic/include/class_loader/class_loader.hpp
 boost/bind.hpp

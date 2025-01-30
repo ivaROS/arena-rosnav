@@ -517,89 +517,89 @@ double extension_ratio;
 
 
 
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool numerical_filtering;
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int damping_method;
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double damping_factor;
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double lambda_max;
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double w_threshold;
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double beta;
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double slope_damping;
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double eps_damping;
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double eps_truncation;
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int solver;
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int priority;
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double k_H;
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int constraint_jla;
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int priority_jla;
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double k_H_jla;
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double activation_threshold_jla;
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double activation_buffer_jla;
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double critical_threshold_jla;
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double damping_jla;
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int constraint_ca;
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int priority_ca;
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double k_H_ca;
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double activation_threshold_ca;
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double activation_buffer_ca;
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double critical_threshold_ca;
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double damping_ca;
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double sigma;
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double sigma_speed;
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double delta_pos;
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double delta_speed;
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool keep_direction;
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool enforce_input_limits;
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool enforce_pos_limits;
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool enforce_vel_limits;
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       bool enforce_acc_limits;
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double limits_tolerance;
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double max_lin_twist;
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double max_rot_twist;
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double max_vel_lin_base;
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double max_vel_rot_base;
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       int kinematic_extension;
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       double extension_ratio;
 //#line 231 "/opt/ros/noetic/share/dynamic_reconfigure/cmake/../templates/ConfigType.h.template"
 
@@ -740,95 +740,95 @@ double extension_ratio;
     {
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT, TwistControllerConfig> Default("Default", "", 0, 0, true, &TwistControllerConfig::groups);
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::DAMPING_AND_TRUNCATION, TwistControllerConfig::DEFAULT> Damping_and_Truncation("Damping_and_Truncation", "damping_truncation", 0, 1, true, &TwistControllerConfig::DEFAULT::damping_and_truncation);
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.numerical_filtering = 0;
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.numerical_filtering = 1;
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.numerical_filtering = 0;
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("numerical_filtering", "bool", 0, "Numerical Filtering yes/no", "", &TwistControllerConfig::numerical_filtering)));
-//#line 50 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 50 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("numerical_filtering", "bool", 0, "Numerical Filtering yes/no", "", &TwistControllerConfig::numerical_filtering)));
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.damping_method = -2147483648;
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.damping_method = 2147483647;
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.damping_method = 4;
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("damping_method", "int", 0, "The damping method to use.", "{'enum': [{'name': 'NO_DAMPING', 'type': 'int', 'value': 0, 'srcline': 8, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No damping means a damping factor of 0.0.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CONSTANT', 'type': 'int', 'value': 1, 'srcline': 9, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Constant damping factor given by parameter damping_factor.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'MANIPULABILITY', 'type': 'int', 'value': 2, 'srcline': 10, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the manipulability measure.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LEAST_SINGULAR_VALUE', 'type': 'int', 'value': 3, 'srcline': 11, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the least singular value', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'SIGMOID', 'type': 'int', 'value': 4, 'srcline': 12, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on sigmoid functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the damping_methods'}", &TwistControllerConfig::damping_method)));
-//#line 51 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("damping_method", "int", 0, "The damping method to use.", "{'enum': [{'name': 'NO_DAMPING', 'type': 'int', 'value': 0, 'srcline': 8, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No damping means a damping factor of 0.0.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CONSTANT', 'type': 'int', 'value': 1, 'srcline': 9, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Constant damping factor given by parameter damping_factor.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'MANIPULABILITY', 'type': 'int', 'value': 2, 'srcline': 10, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the manipulability measure.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LEAST_SINGULAR_VALUE', 'type': 'int', 'value': 3, 'srcline': 11, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the least singular value', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'SIGMOID', 'type': 'int', 'value': 4, 'srcline': 12, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on sigmoid functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the damping_methods'}", &TwistControllerConfig::damping_method)));
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("damping_method", "int", 0, "The damping method to use.", "{'enum': [{'name': 'NO_DAMPING', 'type': 'int', 'value': 0, 'srcline': 8, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No damping means a damping factor of 0.0.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CONSTANT', 'type': 'int', 'value': 1, 'srcline': 9, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Constant damping factor given by parameter damping_factor.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'MANIPULABILITY', 'type': 'int', 'value': 2, 'srcline': 10, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the manipulability measure.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LEAST_SINGULAR_VALUE', 'type': 'int', 'value': 3, 'srcline': 11, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the least singular value', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'SIGMOID', 'type': 'int', 'value': 4, 'srcline': 12, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on sigmoid functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the damping_methods'}", &TwistControllerConfig::damping_method)));
+//#line 51 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("damping_method", "int", 0, "The damping method to use.", "{'enum': [{'name': 'NO_DAMPING', 'type': 'int', 'value': 0, 'srcline': 8, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No damping means a damping factor of 0.0.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CONSTANT', 'type': 'int', 'value': 1, 'srcline': 9, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Constant damping factor given by parameter damping_factor.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'MANIPULABILITY', 'type': 'int', 'value': 2, 'srcline': 10, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the manipulability measure.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LEAST_SINGULAR_VALUE', 'type': 'int', 'value': 3, 'srcline': 11, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on the least singular value', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'SIGMOID', 'type': 'int', 'value': 4, 'srcline': 12, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Damping factor calculation based on sigmoid functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the damping_methods'}", &TwistControllerConfig::damping_method)));
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.damping_factor = 0.0;
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.damping_factor = 1.0;
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.damping_factor = 0.01;
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_factor", "double", 0, "The constant damping_factor (used in CONSTANT)", "", &TwistControllerConfig::damping_factor)));
-//#line 52 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 52 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_factor", "double", 0, "The constant damping_factor (used in CONSTANT)", "", &TwistControllerConfig::damping_factor)));
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.lambda_max = 0.0;
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.lambda_max = 10.0;
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.lambda_max = 0.001;
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("lambda_max", "double", 0, "Value for maximum damping_factor (used in MANIPULABILITY/LSV/SIGMOID)", "", &TwistControllerConfig::lambda_max)));
-//#line 53 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 53 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("lambda_max", "double", 0, "Value for maximum damping_factor (used in MANIPULABILITY/LSV/SIGMOID)", "", &TwistControllerConfig::lambda_max)));
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.w_threshold = 0.0;
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.w_threshold = 0.1;
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.w_threshold = 0.001;
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("w_threshold", "double", 0, "Value for manipulability threshold (used in MANIPULABILITY/SIGMOID)", "", &TwistControllerConfig::w_threshold)));
-//#line 54 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 54 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("w_threshold", "double", 0, "Value for manipulability threshold (used in MANIPULABILITY/SIGMOID)", "", &TwistControllerConfig::w_threshold)));
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.beta = 0.0;
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.beta = 1.0;
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.beta = 0.005;
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("beta", "double", 0, "Beta for Low Isotropic Damping", "", &TwistControllerConfig::beta)));
-//#line 55 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 55 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("beta", "double", 0, "Beta for Low Isotropic Damping", "", &TwistControllerConfig::beta)));
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.slope_damping = 0.001;
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.slope_damping = 0.1;
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.slope_damping = 0.05;
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("slope_damping", "double", 0, "Value for the activation gradient (used in SIGMOID)", "", &TwistControllerConfig::slope_damping)));
-//#line 56 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 56 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("slope_damping", "double", 0, "Value for the activation gradient (used in SIGMOID)", "", &TwistControllerConfig::slope_damping)));
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.eps_damping = 0.0;
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.eps_damping = 1.0;
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.eps_damping = 0.003;
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("eps_damping", "double", 0, "Value for least singular value damping", "", &TwistControllerConfig::eps_damping)));
-//#line 57 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 57 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("eps_damping", "double", 0, "Value for least singular value damping", "", &TwistControllerConfig::eps_damping)));
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.eps_truncation = 0.0;
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.eps_truncation = 1.0;
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.eps_truncation = 0.001;
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Damping_and_Truncation.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("eps_truncation", "double", 0, "Value for singular value threshold (used for truncation: sing. value < eps)", "", &TwistControllerConfig::eps_truncation)));
-//#line 58 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 58 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("eps_truncation", "double", 0, "Value for singular value threshold (used for truncation: sing. value < eps)", "", &TwistControllerConfig::eps_truncation)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Damping_and_Truncation.convertParams();
@@ -837,106 +837,106 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::DAMPING_
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TwistControllerConfig::AbstractGroupDescriptionConstPtr(new TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::DAMPING_AND_TRUNCATION, TwistControllerConfig::DEFAULT>(Damping_and_Truncation)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS, TwistControllerConfig::DEFAULT> Solver_and_Constraints("Solver_and_Constraints", "solver_constraints", 0, 2, true, &TwistControllerConfig::DEFAULT::solver_and_constraints);
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.solver = -2147483648;
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.solver = 2147483647;
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.solver = 1;
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      Solver_and_Constraints.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("solver", "int", 0, "The solver to use (edited via an enum)", "{'enum': [{'name': 'DEFAULT_SOLVER', 'type': 'int', 'value': 0, 'srcline': 16, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No constraints active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'WLN', 'type': 'int', 'value': 1, 'srcline': 17, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Weighted-least-norm base, with identity as weighting matrix (equal to None)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'GPM', 'type': 'int', 'value': 2, 'srcline': 18, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Gradient-projection-method', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'STACK_OF_TASKS', 'type': 'int', 'value': 3, 'srcline': 19, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for all with dynamic resadjust of GPM and task ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'TASK_2ND_PRIO', 'type': 'int', 'value': 4, 'srcline': 20, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for obstacle avoidance ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'UNIFIED_JLA_SA', 'type': 'int', 'value': 5, 'srcline': 21, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inv Kinematics solver based on unified weighted least norm and sigmoid weighting functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the solvers'}", &TwistControllerConfig::solver)));
-//#line 62 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("solver", "int", 0, "The solver to use (edited via an enum)", "{'enum': [{'name': 'DEFAULT_SOLVER', 'type': 'int', 'value': 0, 'srcline': 16, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No constraints active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'WLN', 'type': 'int', 'value': 1, 'srcline': 17, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Weighted-least-norm base, with identity as weighting matrix (equal to None)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'GPM', 'type': 'int', 'value': 2, 'srcline': 18, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Gradient-projection-method', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'STACK_OF_TASKS', 'type': 'int', 'value': 3, 'srcline': 19, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for all with dynamic resadjust of GPM and task ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'TASK_2ND_PRIO', 'type': 'int', 'value': 4, 'srcline': 20, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for obstacle avoidance ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'UNIFIED_JLA_SA', 'type': 'int', 'value': 5, 'srcline': 21, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inv Kinematics solver based on unified weighted least norm and sigmoid weighting functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the solvers'}", &TwistControllerConfig::solver)));
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      Solver_and_Constraints.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("solver", "int", 0, "The solver to use (edited via an enum)", "{'enum': [{'name': 'DEFAULT_SOLVER', 'type': 'int', 'value': 0, 'srcline': 16, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No constraints active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'WLN', 'type': 'int', 'value': 1, 'srcline': 17, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Weighted-least-norm base, with identity as weighting matrix (equal to None)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'GPM', 'type': 'int', 'value': 2, 'srcline': 18, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Gradient-projection-method', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'STACK_OF_TASKS', 'type': 'int', 'value': 3, 'srcline': 19, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for all with dynamic resadjust of GPM and task ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'TASK_2ND_PRIO', 'type': 'int', 'value': 4, 'srcline': 20, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for obstacle avoidance ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'UNIFIED_JLA_SA', 'type': 'int', 'value': 5, 'srcline': 21, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inv Kinematics solver based on unified weighted least norm and sigmoid weighting functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the solvers'}", &TwistControllerConfig::solver)));
+//#line 62 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("solver", "int", 0, "The solver to use (edited via an enum)", "{'enum': [{'name': 'DEFAULT_SOLVER', 'type': 'int', 'value': 0, 'srcline': 16, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No constraints active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'WLN', 'type': 'int', 'value': 1, 'srcline': 17, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Weighted-least-norm base, with identity as weighting matrix (equal to None)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'GPM', 'type': 'int', 'value': 2, 'srcline': 18, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Gradient-projection-method', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'STACK_OF_TASKS', 'type': 'int', 'value': 3, 'srcline': 19, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for all with dynamic resadjust of GPM and task ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'TASK_2ND_PRIO', 'type': 'int', 'value': 4, 'srcline': 20, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Task Priority Strategy for obstacle avoidance ...', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'UNIFIED_JLA_SA', 'type': 'int', 'value': 5, 'srcline': 21, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inv Kinematics solver based on unified weighted least norm and sigmoid weighting functions', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the solvers'}", &TwistControllerConfig::solver)));
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.priority = 0;
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.priority = 1000;
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.priority = 500;
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Solver_and_Constraints.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority", "int", 0, "Priority for the main end-effector task (important for task processing; 0 = highest prio)", "", &TwistControllerConfig::priority)));
-//#line 63 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 63 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority", "int", 0, "Priority for the main end-effector task (important for task processing; 0 = highest prio)", "", &TwistControllerConfig::priority)));
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.k_H = -1000.0;
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.k_H = 1000.0;
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.k_H = 1.0;
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Solver_and_Constraints.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H", "double", 0, "Self-motion factor for GPM (for both JLA and CA; multiplies the homogeneous solution). ", "", &TwistControllerConfig::k_H)));
-//#line 64 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 64 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H", "double", 0, "Self-motion factor for GPM (for both JLA and CA; multiplies the homogeneous solution). ", "", &TwistControllerConfig::k_H)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::JOINT_LIMIT_AVOIDANCE, TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS> Joint_Limit_Avoidance("Joint_Limit_Avoidance", "jla", 2, 3, true, &TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::joint_limit_avoidance);
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.constraint_jla = -2147483648;
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.constraint_jla = 2147483647;
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.constraint_jla = 1;
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_jla", "int", 0, "The JLA constraint to use (edited via an enum)", "{'enum': [{'name': 'JLA_OFF', 'type': 'int', 'value': 0, 'srcline': 27, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA', 'type': 'int', 'value': 1, 'srcline': 28, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_MID', 'type': 'int', 'value': 2, 'srcline': 29, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Special JLA: Keep joint pos in the middle of the limited range.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_INEQ', 'type': 'int', 'value': 3, 'srcline': 30, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inequality constraint for JLA.', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the joint limit avoidance constraints'}", &TwistControllerConfig::constraint_jla)));
-//#line 67 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_jla", "int", 0, "The JLA constraint to use (edited via an enum)", "{'enum': [{'name': 'JLA_OFF', 'type': 'int', 'value': 0, 'srcline': 27, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA', 'type': 'int', 'value': 1, 'srcline': 28, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_MID', 'type': 'int', 'value': 2, 'srcline': 29, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Special JLA: Keep joint pos in the middle of the limited range.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_INEQ', 'type': 'int', 'value': 3, 'srcline': 30, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inequality constraint for JLA.', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the joint limit avoidance constraints'}", &TwistControllerConfig::constraint_jla)));
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_jla", "int", 0, "The JLA constraint to use (edited via an enum)", "{'enum': [{'name': 'JLA_OFF', 'type': 'int', 'value': 0, 'srcline': 27, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA', 'type': 'int', 'value': 1, 'srcline': 28, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_MID', 'type': 'int', 'value': 2, 'srcline': 29, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Special JLA: Keep joint pos in the middle of the limited range.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_INEQ', 'type': 'int', 'value': 3, 'srcline': 30, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inequality constraint for JLA.', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the joint limit avoidance constraints'}", &TwistControllerConfig::constraint_jla)));
+//#line 67 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_jla", "int", 0, "The JLA constraint to use (edited via an enum)", "{'enum': [{'name': 'JLA_OFF', 'type': 'int', 'value': 0, 'srcline': 27, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA', 'type': 'int', 'value': 1, 'srcline': 28, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'JLA active', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_MID', 'type': 'int', 'value': 2, 'srcline': 29, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Special JLA: Keep joint pos in the middle of the limited range.', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'JLA_INEQ', 'type': 'int', 'value': 3, 'srcline': 30, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Inequality constraint for JLA.', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the joint limit avoidance constraints'}", &TwistControllerConfig::constraint_jla)));
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.priority_jla = 0;
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.priority_jla = 1000;
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.priority_jla = 50;
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority_jla", "int", 0, "Priority for the joint limit avoidance constraint (important for task processing; 0 = highest prio)", "", &TwistControllerConfig::priority_jla)));
-//#line 68 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 68 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority_jla", "int", 0, "Priority for the joint limit avoidance constraint (important for task processing; 0 = highest prio)", "", &TwistControllerConfig::priority_jla)));
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.k_H_jla = -1000.0;
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.k_H_jla = 1000.0;
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.k_H_jla = -1.0;
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H_jla", "double", 0, "Self-motion factor for GPM. Special weighting for JLA constraint", "", &TwistControllerConfig::k_H_jla)));
-//#line 69 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 69 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H_jla", "double", 0, "Self-motion factor for GPM. Special weighting for JLA constraint", "", &TwistControllerConfig::k_H_jla)));
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.activation_threshold_jla = 0.0;
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.activation_threshold_jla = 100.0;
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.activation_threshold_jla = 10.0;
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_threshold_jla", "double", 0, "In [%]. Tolerance from min and max joint positition limit.", "", &TwistControllerConfig::activation_threshold_jla)));
-//#line 70 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 70 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_threshold_jla", "double", 0, "In [%]. Tolerance from min and max joint positition limit.", "", &TwistControllerConfig::activation_threshold_jla)));
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.activation_buffer_jla = 0.0;
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.activation_buffer_jla = 500.0;
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.activation_buffer_jla = 300.0;
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_buffer_jla", "double", 0, "In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing)", "", &TwistControllerConfig::activation_buffer_jla)));
-//#line 71 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 71 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_buffer_jla", "double", 0, "In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing)", "", &TwistControllerConfig::activation_buffer_jla)));
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.critical_threshold_jla = 0.0;
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.critical_threshold_jla = 100.0;
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.critical_threshold_jla = 5.0;
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("critical_threshold_jla", "double", 0, "In [%]. Tolerance when critical region becomes active. JLA becomes task. Should be less than activation threshold (best experienced: 1/2 of activation threshold).", "", &TwistControllerConfig::critical_threshold_jla)));
-//#line 72 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 72 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("critical_threshold_jla", "double", 0, "In [%]. Tolerance when critical region becomes active. JLA becomes task. Should be less than activation threshold (best experienced: 1/2 of activation threshold).", "", &TwistControllerConfig::critical_threshold_jla)));
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.damping_jla = 0.0;
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.damping_jla = 1.0;
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.damping_jla = 1e-06;
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Joint_Limit_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_jla", "double", 0, "Const. damping factor for the inv. of the JLA task jacobian", "", &TwistControllerConfig::damping_jla)));
-//#line 73 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 73 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_jla", "double", 0, "Const. damping factor for the inv. of the JLA task jacobian", "", &TwistControllerConfig::damping_jla)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Joint_Limit_Avoidance.convertParams();
@@ -945,75 +945,75 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_A
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TwistControllerConfig::AbstractGroupDescriptionConstPtr(new TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::JOINT_LIMIT_AVOIDANCE, TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS>(Joint_Limit_Avoidance)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::COLLISION_AVOIDANCE, TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS> Collision_Avoidance("Collision_Avoidance", "ca", 2, 4, true, &TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::collision_avoidance);
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.constraint_ca = -2147483648;
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.constraint_ca = 2147483647;
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.constraint_ca = 0;
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_ca", "int", 0, "The CA constraint to use (edited via an enum)", "{'enum': [{'name': 'CA_OFF', 'type': 'int', 'value': 0, 'srcline': 35, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'CA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CA', 'type': 'int', 'value': 1, 'srcline': 36, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Collision avoidance active!', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the collision avoidance constraints'}", &TwistControllerConfig::constraint_ca)));
-//#line 76 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_ca", "int", 0, "The CA constraint to use (edited via an enum)", "{'enum': [{'name': 'CA_OFF', 'type': 'int', 'value': 0, 'srcline': 35, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'CA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CA', 'type': 'int', 'value': 1, 'srcline': 36, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Collision avoidance active!', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the collision avoidance constraints'}", &TwistControllerConfig::constraint_ca)));
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_ca", "int", 0, "The CA constraint to use (edited via an enum)", "{'enum': [{'name': 'CA_OFF', 'type': 'int', 'value': 0, 'srcline': 35, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'CA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CA', 'type': 'int', 'value': 1, 'srcline': 36, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Collision avoidance active!', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the collision avoidance constraints'}", &TwistControllerConfig::constraint_ca)));
+//#line 76 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("constraint_ca", "int", 0, "The CA constraint to use (edited via an enum)", "{'enum': [{'name': 'CA_OFF', 'type': 'int', 'value': 0, 'srcline': 35, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'CA inactive', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'CA', 'type': 'int', 'value': 1, 'srcline': 36, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Collision avoidance active!', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the collision avoidance constraints'}", &TwistControllerConfig::constraint_ca)));
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.priority_ca = 0;
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.priority_ca = 1000;
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.priority_ca = 100;
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority_ca", "int", 0, "Priority for the collision avoidance constraint (important for task processing; 0 = highest prio).", "", &TwistControllerConfig::priority_ca)));
-//#line 77 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 77 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("priority_ca", "int", 0, "Priority for the collision avoidance constraint (important for task processing; 0 = highest prio).", "", &TwistControllerConfig::priority_ca)));
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.k_H_ca = -1000.0;
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.k_H_ca = 1000.0;
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.k_H_ca = -20.0;
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H_ca", "double", 0, "Self-motion factor for GPM. Special weighting for CA constraint", "", &TwistControllerConfig::k_H_ca)));
-//#line 78 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 78 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("k_H_ca", "double", 0, "Self-motion factor for GPM. Special weighting for CA constraint", "", &TwistControllerConfig::k_H_ca)));
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.activation_threshold_ca = 0.0;
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.activation_threshold_ca = 1.0;
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.activation_threshold_ca = 0.1;
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_threshold_ca", "double", 0, "The distance the constraint shall get active in [m].", "", &TwistControllerConfig::activation_threshold_ca)));
-//#line 79 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 79 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_threshold_ca", "double", 0, "The distance the constraint shall get active in [m].", "", &TwistControllerConfig::activation_threshold_ca)));
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.activation_buffer_ca = 0.0;
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.activation_buffer_ca = 100.0;
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.activation_buffer_ca = 50.0;
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_buffer_ca", "double", 0, "In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing)", "", &TwistControllerConfig::activation_buffer_ca)));
-//#line 80 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 80 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("activation_buffer_ca", "double", 0, "In [%]. For smooth transition an additional buffer to activation threshold can be given. Smoothing is started prior to activation threshold. (0 % = no smoothing)", "", &TwistControllerConfig::activation_buffer_ca)));
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.critical_threshold_ca = 0.0;
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.critical_threshold_ca = 1.0;
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.critical_threshold_ca = 0.025;
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("critical_threshold_ca", "double", 0, "Tolerance when critical region becomes active. CA becomes task. Should be less than activation threshold (best experienced: 1/4 of activation threshold).", "", &TwistControllerConfig::critical_threshold_ca)));
-//#line 81 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 81 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("critical_threshold_ca", "double", 0, "Tolerance when critical region becomes active. CA becomes task. Should be less than activation threshold (best experienced: 1/4 of activation threshold).", "", &TwistControllerConfig::critical_threshold_ca)));
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.damping_ca = 0.0;
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.damping_ca = 1.0;
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.damping_ca = 1e-06;
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Collision_Avoidance.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_ca", "double", 0, "Const. damping factor for the inv. of the CA task jacobian", "", &TwistControllerConfig::damping_ca)));
-//#line 82 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 82 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("damping_ca", "double", 0, "Const. damping factor for the inv. of the CA task jacobian", "", &TwistControllerConfig::damping_ca)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Collision_Avoidance.convertParams();
@@ -1022,45 +1022,45 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_A
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TwistControllerConfig::AbstractGroupDescriptionConstPtr(new TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::COLLISION_AVOIDANCE, TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS>(Collision_Avoidance)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::UNIFIED_JLA_SA, TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS> Unified_JLA_SA("Unified_JLA_SA", "ujs", 2, 5, true, &TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS::unified_jla_sa);
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.sigma = 0.01;
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.sigma = 1.0;
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.sigma = 0.01;
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Unified_JLA_SA.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("sigma", "double", 0, "Sigma", "", &TwistControllerConfig::sigma)));
-//#line 85 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 85 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("sigma", "double", 0, "Sigma", "", &TwistControllerConfig::sigma)));
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.sigma_speed = 0.01;
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.sigma_speed = 10.0;
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.sigma_speed = 5.0;
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Unified_JLA_SA.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("sigma_speed", "double", 0, "Sigma Speed", "", &TwistControllerConfig::sigma_speed)));
-//#line 86 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 86 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("sigma_speed", "double", 0, "Sigma Speed", "", &TwistControllerConfig::sigma_speed)));
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.delta_pos = 0.001;
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.delta_pos = 1.0;
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.delta_pos = 0.5;
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Unified_JLA_SA.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("delta_pos", "double", 0, "Delta Pos", "", &TwistControllerConfig::delta_pos)));
-//#line 87 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 87 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("delta_pos", "double", 0, "Delta Pos", "", &TwistControllerConfig::delta_pos)));
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.delta_speed = 0.001;
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.delta_speed = 10.0;
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.delta_speed = 1.0;
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Unified_JLA_SA.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("delta_speed", "double", 0, "Delta Speed", "", &TwistControllerConfig::delta_speed)));
-//#line 88 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 88 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("delta_speed", "double", 0, "Delta Speed", "", &TwistControllerConfig::delta_speed)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Unified_JLA_SA.convertParams();
@@ -1075,105 +1075,105 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_A
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TwistControllerConfig::AbstractGroupDescriptionConstPtr(new TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::SOLVER_AND_CONSTRAINTS, TwistControllerConfig::DEFAULT>(Solver_and_Constraints)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::LIMITS, TwistControllerConfig::DEFAULT> Limits("Limits", "limits", 0, 6, true, &TwistControllerConfig::DEFAULT::limits);
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.keep_direction = 0;
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.keep_direction = 1;
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.keep_direction = 1;
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("keep_direction", "bool", 0, "With keep_direction the whole joint positions and velocities vector is affected by a scaling factor. Else only individual components of the vectors are affected -> direction will be changed.", "", &TwistControllerConfig::keep_direction)));
-//#line 92 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 92 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("keep_direction", "bool", 0, "With keep_direction the whole joint positions and velocities vector is affected by a scaling factor. Else only individual components of the vectors are affected -> direction will be changed.", "", &TwistControllerConfig::keep_direction)));
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.enforce_input_limits = 0;
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.enforce_input_limits = 1;
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.enforce_input_limits = 1;
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_input_limits", "bool", 0, "If 'True', enforce Cartesian velocity limits on input twist", "", &TwistControllerConfig::enforce_input_limits)));
-//#line 93 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 93 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_input_limits", "bool", 0, "If 'True', enforce Cartesian velocity limits on input twist", "", &TwistControllerConfig::enforce_input_limits)));
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.enforce_pos_limits = 0;
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.enforce_pos_limits = 1;
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.enforce_pos_limits = 1;
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_pos_limits", "bool", 0, "If 'True', enforce joint position limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_pos_limits)));
-//#line 94 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 94 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_pos_limits", "bool", 0, "If 'True', enforce joint position limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_pos_limits)));
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.enforce_vel_limits = 0;
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.enforce_vel_limits = 1;
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.enforce_vel_limits = 1;
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_vel_limits", "bool", 0, "If 'True', enforce joint velocity limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_vel_limits)));
-//#line 95 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 95 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_vel_limits", "bool", 0, "If 'True', enforce joint velocity limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_vel_limits)));
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.enforce_acc_limits = 0;
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.enforce_acc_limits = 1;
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.enforce_acc_limits = 0;
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_acc_limits", "bool", 0, "If 'True', enforce joint acceleration limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_acc_limits)));
-//#line 96 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 96 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<bool>("enforce_acc_limits", "bool", 0, "If 'True', enforce joint acceleration limits in TwistController, else let RobotHW handle the limits", "", &TwistControllerConfig::enforce_acc_limits)));
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.limits_tolerance = 0.0;
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.limits_tolerance = 90.0;
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.limits_tolerance = 30.0;
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("limits_tolerance", "double", 0, "Tolerance around joint position limits where velocities are normalized [degrees]. Must not be zero else DIV/0!", "", &TwistControllerConfig::limits_tolerance)));
-//#line 97 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 97 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("limits_tolerance", "double", 0, "Tolerance around joint position limits where velocities are normalized [degrees]. Must not be zero else DIV/0!", "", &TwistControllerConfig::limits_tolerance)));
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.max_lin_twist = 0.0;
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.max_lin_twist = 5.0;
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.max_lin_twist = 0.5;
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_lin_twist", "double", 0, "Maximum input linear velocity, twist command for the inverse kinematics solver in [m/s].", "", &TwistControllerConfig::max_lin_twist)));
-//#line 98 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 98 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_lin_twist", "double", 0, "Maximum input linear velocity, twist command for the inverse kinematics solver in [m/s].", "", &TwistControllerConfig::max_lin_twist)));
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.max_rot_twist = 0.0;
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.max_rot_twist = 5.0;
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.max_rot_twist = 0.5;
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_rot_twist", "double", 0, "Maximum input rotational velocity, twist command for the inverse kinematics solver in [rad/s].", "", &TwistControllerConfig::max_rot_twist)));
-//#line 99 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 99 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_rot_twist", "double", 0, "Maximum input rotational velocity, twist command for the inverse kinematics solver in [rad/s].", "", &TwistControllerConfig::max_rot_twist)));
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.max_vel_lin_base = 0.0;
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.max_vel_lin_base = 1.5;
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.max_vel_lin_base = 0.5;
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_vel_lin_base", "double", 0, "Maximum linear velocity to be commanded to the base in [m/s].", "", &TwistControllerConfig::max_vel_lin_base)));
-//#line 100 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 100 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_vel_lin_base", "double", 0, "Maximum linear velocity to be commanded to the base in [m/s].", "", &TwistControllerConfig::max_vel_lin_base)));
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.max_vel_rot_base = 0.0;
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.max_vel_rot_base = 1.5;
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.max_vel_rot_base = 0.5;
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Limits.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_vel_rot_base", "double", 0, "Maximum rotational velocity to be commanded to the base in [rad/s].", "", &TwistControllerConfig::max_vel_rot_base)));
-//#line 101 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 101 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("max_vel_rot_base", "double", 0, "Maximum rotational velocity to be commanded to the base in [rad/s].", "", &TwistControllerConfig::max_vel_rot_base)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Limits.convertParams();
@@ -1182,25 +1182,25 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::LIMITS, 
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       __group_descriptions__.push_back(TwistControllerConfig::AbstractGroupDescriptionConstPtr(new TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::LIMITS, TwistControllerConfig::DEFAULT>(Limits)));
 TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::KINEMATICS_EXTENSION, TwistControllerConfig::DEFAULT> Kinematics_Extension("Kinematics_Extension", "kin_ext", 0, 7, true, &TwistControllerConfig::DEFAULT::kinematics_extension);
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.kinematic_extension = -2147483648;
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.kinematic_extension = 2147483647;
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.kinematic_extension = 0;
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      Kinematics_Extension.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("kinematic_extension", "int", 0, "Consider additional DoF", "{'enum': [{'name': 'NO_EXTENSION', 'type': 'int', 'value': 0, 'srcline': 41, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No additional DoF considered', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_COMPENSATION', 'type': 'int', 'value': 1, 'srcline': 42, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Compensate base motion', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_ACTIVE', 'type': 'int', 'value': 2, 'srcline': 43, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a mobile base (2d)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'COB_TORSO', 'type': 'int', 'value': 3, 'srcline': 44, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'KinematicExtension for COB_TORSO (any DoF)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LOOKAT', 'type': 'int', 'value': 4, 'srcline': 45, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a virtual Lookat component', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the kinematic extensions'}", &TwistControllerConfig::kinematic_extension)));
-//#line 105 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
-      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("kinematic_extension", "int", 0, "Consider additional DoF", "{'enum': [{'name': 'NO_EXTENSION', 'type': 'int', 'value': 0, 'srcline': 41, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No additional DoF considered', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_COMPENSATION', 'type': 'int', 'value': 1, 'srcline': 42, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Compensate base motion', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_ACTIVE', 'type': 'int', 'value': 2, 'srcline': 43, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a mobile base (2d)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'COB_TORSO', 'type': 'int', 'value': 3, 'srcline': 44, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'KinematicExtension for COB_TORSO (any DoF)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LOOKAT', 'type': 'int', 'value': 4, 'srcline': 45, 'srcfile': '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a virtual Lookat component', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the kinematic extensions'}", &TwistControllerConfig::kinematic_extension)));
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      Kinematics_Extension.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("kinematic_extension", "int", 0, "Consider additional DoF", "{'enum': [{'name': 'NO_EXTENSION', 'type': 'int', 'value': 0, 'srcline': 41, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No additional DoF considered', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_COMPENSATION', 'type': 'int', 'value': 1, 'srcline': 42, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Compensate base motion', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_ACTIVE', 'type': 'int', 'value': 2, 'srcline': 43, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a mobile base (2d)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'COB_TORSO', 'type': 'int', 'value': 3, 'srcline': 44, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'KinematicExtension for COB_TORSO (any DoF)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LOOKAT', 'type': 'int', 'value': 4, 'srcline': 45, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a virtual Lookat component', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the kinematic extensions'}", &TwistControllerConfig::kinematic_extension)));
+//#line 105 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+      __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<int>("kinematic_extension", "int", 0, "Consider additional DoF", "{'enum': [{'name': 'NO_EXTENSION', 'type': 'int', 'value': 0, 'srcline': 41, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'No additional DoF considered', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_COMPENSATION', 'type': 'int', 'value': 1, 'srcline': 42, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Compensate base motion', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'BASE_ACTIVE', 'type': 'int', 'value': 2, 'srcline': 43, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a mobile base (2d)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'COB_TORSO', 'type': 'int', 'value': 3, 'srcline': 44, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'KinematicExtension for COB_TORSO (any DoF)', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'LOOKAT', 'type': 'int', 'value': 4, 'srcline': 45, 'srcfile': '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg', 'description': 'Consider additional DoF of a virtual Lookat component', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description': 'enum types for the kinematic extensions'}", &TwistControllerConfig::kinematic_extension)));
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __min__.extension_ratio = 0.0;
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __max__.extension_ratio = 1.0;
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __default__.extension_ratio = 0.01;
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       Kinematics_Extension.abstract_parameters.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("extension_ratio", "double", 0, "Value for ratio between chain and extension", "", &TwistControllerConfig::extension_ratio)));
-//#line 106 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 106 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       __param_descriptions__.push_back(TwistControllerConfig::AbstractParamDescriptionConstPtr(new TwistControllerConfig::ParamDescription<double>("extension_ratio", "double", 0, "Value for ratio between chain and extension", "", &TwistControllerConfig::extension_ratio)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Kinematics_Extension.convertParams();
@@ -1287,49 +1287,49 @@ TwistControllerConfig::GroupDescription<TwistControllerConfig::DEFAULT::KINEMATI
     return statics;
   }
 
-//#line 8 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 8 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_NO_DAMPING = 0;
-//#line 9 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 9 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_CONSTANT = 1;
-//#line 10 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 10 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_MANIPULABILITY = 2;
-//#line 11 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 11 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_LEAST_SINGULAR_VALUE = 3;
-//#line 12 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 12 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_SIGMOID = 4;
-//#line 16 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 16 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_DEFAULT_SOLVER = 0;
-//#line 17 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 17 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_WLN = 1;
-//#line 18 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 18 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_GPM = 2;
-//#line 19 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 19 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_STACK_OF_TASKS = 3;
-//#line 20 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_TASK_2ND_PRIO = 4;
-//#line 21 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 21 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_UNIFIED_JLA_SA = 5;
-//#line 27 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 27 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_JLA_OFF = 0;
-//#line 28 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_JLA = 1;
-//#line 29 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 29 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_JLA_MID = 2;
-//#line 30 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_JLA_INEQ = 3;
-//#line 35 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 35 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_CA_OFF = 0;
-//#line 36 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 36 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_CA = 1;
-//#line 41 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 41 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_NO_EXTENSION = 0;
-//#line 42 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 42 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_BASE_COMPENSATION = 1;
-//#line 43 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 43 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_BASE_ACTIVE = 2;
-//#line 44 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 44 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_COB_TORSO = 3;
-//#line 45 "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
+//#line 45 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg"
       const int TwistController_LOOKAT = 4;
 }
 

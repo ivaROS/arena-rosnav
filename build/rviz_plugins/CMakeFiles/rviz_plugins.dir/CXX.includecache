@@ -6,39 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/build/rviz_plugins/src/moc_goal_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_plugins/src/moc_goal_tool.cpp
 ../../../src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/az/arena_ws/build/rviz_plugins/src/moc_task_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/rviz_plugins/src/moc_task_tool.cpp
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.cpp
 tf/transform_listener.h
 -
 geometry_msgs/PoseStamped.h
 -
 rviz/display_context.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/display_context.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/display_context.h
 rviz/properties/string_property.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/properties/string_property.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/properties/string_property.h
 goal_tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/goal_tool.h
 QObject
 -
 ros/ros.h
 -
 pose_tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.cpp
 OGRE/OgrePlane.h
 -
 OGRE/OgreRay.h
@@ -48,19 +48,19 @@ OGRE/OgreSceneNode.h
 OGRE/OgreViewport.h
 -
 rviz/geometry.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/geometry.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/geometry.h
 rviz/ogre_helpers/arrow.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/ogre_helpers/arrow.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/ogre_helpers/arrow.h
 rviz/viewport_mouse_event.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/viewport_mouse_event.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/viewport_mouse_event.h
 rviz/load_resource.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/load_resource.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/load_resource.h
 rviz/render_panel.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/render_panel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/render_panel.h
 pose_tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/pose_tool.h
 OGRE/OgreVector3.h
 -
 QCursor
@@ -68,15 +68,15 @@ QCursor
 ros/ros.h
 -
 rviz/tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/rviz/tool.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.cpp
 task_tool.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.h
 pluginlib/class_list_macros.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/rviz_plugins/src/task_tool.h
 ros/ros.h
 -
 rviz/tool.h

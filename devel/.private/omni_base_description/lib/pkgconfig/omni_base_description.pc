@@ -1,4 +1,4 @@
-prefix=/home/az/arena_ws/devel/.private/omni_base_description
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/omni_base_description
 
 Name: omni_base_description
 Description: Description of omni_base_description

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/dynamic_gap
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/dynamic_gap
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap
 
 # Include any dependencies generated for this target.
 include CMakeFiles/dynamic_gap.dir/depend.make
@@ -58,238 +58,238 @@ include CMakeFiles/dynamic_gap.dir/progress.make
 include CMakeFiles/dynamic_gap.dir/flags.make
 
 CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp
+CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp
 
 CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp > CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp > CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp -o CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/config/DynamicGapConfig.cpp -o CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp
+CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp
 
 CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp > CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp > CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_detection/GapDetector.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp
+CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/GapAssociator.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp
+CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/PerfectEstimator.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp
+CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp > CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp
+CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp
 
 CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp > CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp > CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/gap_feasibility/GapFeasibilityChecker.cpp -o CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp
+CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp
 
 CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp > CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp > CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp -o CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/global_plan_management/GlobalPlanManager.cpp -o CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp
+CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp > CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp > CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp -o CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/scan_processing/DynamicScanPropagator.cpp -o CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp
+CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapTrajectoryGenerator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp
+CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_generation/GapManipulator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp
+CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_evaluation/TrajectoryEvaluator.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp
+CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp > CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/trajectory_tracking/TrajectoryController.cpp -o CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp
+CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp
 
 CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp > CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp > CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp -o CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/utils/Utils.cpp -o CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp
+CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GapVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp
+CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/GoalVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp
+CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp
 
 CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp > CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/visualization/TrajectoryVisualizer.cpp -o CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp
+CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/Planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/Planner.cpp
 
 CMakeFiles/dynamic_gap.dir/src/Planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/Planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp > CMakeFiles/dynamic_gap.dir/src/Planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/Planner.cpp > CMakeFiles/dynamic_gap.dir/src/Planner.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/Planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/Planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/Planner.cpp -o CMakeFiles/dynamic_gap.dir/src/Planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/Planner.cpp -o CMakeFiles/dynamic_gap.dir/src/Planner.cpp.s
 
 CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o: CMakeFiles/dynamic_gap.dir/flags.make
-CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o: /home/az/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o -c /home/az/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp
+CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp
 
 CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp > CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp > CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.i
 
 CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp -o CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/src/DynamicGapPlanner.cpp -o CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.s
 
 # Object files for target dynamic_gap
 dynamic_gap_OBJECTS = \
@@ -315,68 +315,68 @@ dynamic_gap_OBJECTS = \
 # External object files for target dynamic_gap
 dynamic_gap_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/build.make
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX shared library /home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/config/DynamicGapConfig.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_detection/GapDetector.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/GapAssociator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/PerfectEstimator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_estimation/RotatingFrameCartesianKalmanFilter.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/gap_feasibility/GapFeasibilityChecker.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/global_plan_management/GlobalPlanManager.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/scan_processing/DynamicScanPropagator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapTrajectoryGenerator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_generation/GapManipulator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_evaluation/TrajectoryEvaluator.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/trajectory_tracking/TrajectoryController.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/utils/Utils.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/GapVisualizer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/GoalVisualizer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/visualization/TrajectoryVisualizer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/src/DynamicGapPlanner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so: CMakeFiles/dynamic_gap.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dynamic_gap.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/dynamic_gap.dir/build: /home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so
+CMakeFiles/dynamic_gap.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so
 
 .PHONY : CMakeFiles/dynamic_gap.dir/build
 
@@ -385,6 +385,6 @@ CMakeFiles/dynamic_gap.dir/clean:
 .PHONY : CMakeFiles/dynamic_gap.dir/clean
 
 CMakeFiles/dynamic_gap.dir/depend:
-	cd /home/az/arena_ws/build/dynamic_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/dynamic_gap /home/az/arena_ws/src/planners/dynamic_gap /home/az/arena_ws/build/dynamic_gap /home/az/arena_ws/build/dynamic_gap /home/az/arena_ws/build/dynamic_gap/CMakeFiles/dynamic_gap.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/dynamic_gap/CMakeFiles/dynamic_gap.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/dynamic_gap.dir/depend
 

@@ -1,18 +1,66 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _potential_gap_generate_messages_check_deps_TrajPlan[0m
 [  0%] Built target _potential_gap_generate_messages_check_deps_TrajPlan
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  0%] Built target geometry_msgs_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target potential_gap_generate_messages_lisp[0m
+[  5%] [34m[1mGenerating Lisp code from potential_gap/TrajPlan.msg[0m
 [  5%] Built target potential_gap_generate_messages_lisp
+[35m[1mScanning dependencies of target potential_gap_generate_messages_eus[0m
+[ 10%] [34m[1mGenerating EusLisp code from potential_gap/TrajPlan.msg[0m
+[ 15%] [34m[1mGenerating EusLisp manifest code for potential_gap[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [ 15%] Built target potential_gap_generate_messages_eus
+[35m[1mScanning dependencies of target potential_gap_generate_messages_cpp[0m
+[ 21%] [34m[1mGenerating C++ code from potential_gap/TrajPlan.msg[0m
 [ 21%] Built target potential_gap_generate_messages_cpp
+[35m[1mScanning dependencies of target potential_gap_generate_messages_nodejs[0m
+[ 26%] [34m[1mGenerating Javascript code from potential_gap/TrajPlan.msg[0m
 [ 26%] Built target potential_gap_generate_messages_nodejs
+[35m[1mScanning dependencies of target potential_gap_generate_messages_py[0m
+[ 31%] [34m[1mGenerating Python from MSG potential_gap/TrajPlan[0m
+[ 36%] [34m[1mGenerating Python msg __init__.py for potential_gap[0m
 [ 36%] Built target potential_gap_generate_messages_py
-[ 36%] Built target potential_gap_generate_messages
+[35m[1mScanning dependencies of target potential_gap[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/planner.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/trajectory_follower.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/potential_gap.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/gap_utils.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/potentialgap_config.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/visualization.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/goal_selector.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/trajectory_scoring.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/gap_trajectory_generator.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/gap_manip.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/potential_gap.dir/src/trajectory_controller.cpp.o[0m
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp:[m[K In member function ‘[01m[Kgeometry_msgs::Twist potential_gap::TrajectoryController::controlLaw(geometry_msgs::Pose, nav_msgs::Odometry, sensor_msgs::LaserScan, geometry_msgs::PoseStamped)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp:271:74:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstd::vector<geometry_msgs::Point_<std::allocator<void> > > potential_gap::TrajectoryController::findLocalLine(int)[m[K’ is deprecated: Not Used, Deemed Unnecessary [[01;35m[K-Wdeprecated-declarations[m[K]
+  271 |             std::vector<geometry_msgs::Point> vec = findLocalLine(min_idx[01;35m[K)[m[K;
+      |                                                                          [01;35m[K^[m[K
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/potential_gap/src/trajectory_controller.cpp:18:39:[m[K [01;36m[Knote: [m[Kdeclared here
+   18 |     std::vector<geometry_msgs::Point> [01;36m[KTrajectoryController[m[K::findLocalLine(int idx) {
+      |                                       [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/potential_gap/lib/libpotential_gap.so[0m
 [100%] Built target potential_gap
+[35m[1mScanning dependencies of target potential_gap_generate_messages[0m
+[100%] Built target potential_gap_generate_messages

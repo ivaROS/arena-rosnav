@@ -1,3 +1,16 @@
+[35m[1mScanning dependencies of target ira_laser_tools_gencfg[0m
+[ 16%] [34m[1mGenerating dynamic reconfigure files from cfg/laserscan_multi_merger.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_multi_mergerConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/lib/python3/dist-packages/ira_laser_tools/cfg/laserscan_multi_mergerConfig.py[0m
+Generating reconfiguration files for laserscan_multi_merger in laserscan_multi_merger
+Wrote header file in /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_multi_mergerConfig.h
+[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/laserscan_virtualizer.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_virtualizerConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/lib/python3/dist-packages/ira_laser_tools/cfg/laserscan_virtualizerConfig.py[0m
+Generating reconfiguration files for laserscan_virtualizer in laserscan_virtualizer
+Wrote header file in /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/include/ira_laser_tools/laserscan_virtualizerConfig.h
 [ 33%] Built target ira_laser_tools_gencfg
-[ 66%] Built target laserscan_virtualizer
+[35m[1mScanning dependencies of target laserscan_virtualizer[0m
+[35m[1mScanning dependencies of target laserscan_multi_merger[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/laserscan_multi_merger.dir/src/laserscan_multi_merger.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/laserscan_virtualizer.dir/src/laserscan_virtualizer.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/lib/ira_laser_tools/laserscan_virtualizer[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ira_laser_tools/lib/ira_laser_tools/laserscan_multi_merger[0m
+[100%] Built target laserscan_virtualizer
 [100%] Built target laserscan_multi_merger

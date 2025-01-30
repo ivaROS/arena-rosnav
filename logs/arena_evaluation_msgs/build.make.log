@@ -1,4 +1,25 @@
-catkin_generated/env_cached.sh: 16: exec: /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3: not found
-make[2]: *** [CMakeFiles/_arena_evaluation_msgs_generate_messages_check_deps_ChangeDirectory.dir/build.make:57: CMakeFiles/_arena_evaluation_msgs_generate_messages_check_deps_ChangeDirectory] Error 127
-make[1]: *** [CMakeFiles/Makefile2:926: CMakeFiles/_arena_evaluation_msgs_generate_messages_check_deps_ChangeDirectory.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2
+[35m[1mScanning dependencies of target _arena_evaluation_msgs_generate_messages_check_deps_ChangeDirectory[0m
+[  0%] Built target _arena_evaluation_msgs_generate_messages_check_deps_ChangeDirectory
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages_lisp[0m
+[ 14%] [34m[1mGenerating Lisp code from arena_evaluation_msgs/ChangeDirectory.srv[0m
+[ 14%] Built target arena_evaluation_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages_py[0m
+[ 28%] [34m[1mGenerating Python code from SRV arena_evaluation_msgs/ChangeDirectory[0m
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages_eus[0m
+[ 42%] [34m[1mGenerating EusLisp code from arena_evaluation_msgs/ChangeDirectory.srv[0m
+[ 57%] [34m[1mGenerating Python srv __init__.py for arena_evaluation_msgs[0m
+[ 71%] [34m[1mGenerating EusLisp manifest code for arena_evaluation_msgs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 71%] Built target arena_evaluation_msgs_generate_messages_py
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages_nodejs[0m
+[ 85%] [34m[1mGenerating Javascript code from arena_evaluation_msgs/ChangeDirectory.srv[0m
+[ 85%] Built target arena_evaluation_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages_cpp[0m
+[100%] [34m[1mGenerating C++ code from arena_evaluation_msgs/ChangeDirectory.srv[0m
+[100%] Built target arena_evaluation_msgs_generate_messages_cpp
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target arena_evaluation_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target arena_evaluation_msgs_generate_messages[0m
+[100%] Built target arena_evaluation_msgs_generate_messages

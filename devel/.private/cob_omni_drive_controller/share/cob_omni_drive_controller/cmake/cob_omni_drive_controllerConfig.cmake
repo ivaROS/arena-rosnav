@@ -67,14 +67,14 @@ set(cob_omni_drive_controller_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(cob_omni_drive_controller_SOURCE_PREFIX /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller)
-  set(cob_omni_drive_controller_DEVEL_PREFIX /home/az/arena_ws/devel/.private/cob_omni_drive_controller)
+  set(cob_omni_drive_controller_SOURCE_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller)
+  set(cob_omni_drive_controller_DEVEL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_omni_drive_controller)
   set(cob_omni_drive_controller_INSTALL_PREFIX "")
   set(cob_omni_drive_controller_PREFIX ${cob_omni_drive_controller_DEVEL_PREFIX})
 else()
   set(cob_omni_drive_controller_SOURCE_PREFIX "")
   set(cob_omni_drive_controller_DEVEL_PREFIX "")
-  set(cob_omni_drive_controller_INSTALL_PREFIX /home/az/arena_ws/install)
+  set(cob_omni_drive_controller_INSTALL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install)
   set(cob_omni_drive_controller_PREFIX ${cob_omni_drive_controller_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(cob_omni_drive_controller_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/az/arena_ws/devel/.private/cob_omni_drive_controller/include;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include;/usr/include " STREQUAL " ")
+if(NOT "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_omni_drive_controller/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include;/usr/include " STREQUAL " ")
   set(cob_omni_drive_controller_INCLUDE_DIRS "")
-  set(_include_dirs "/home/az/arena_ws/devel/.private/cob_omni_drive_controller/include;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include;/usr/include")
+  set(_include_dirs "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_omni_drive_controller/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include;/usr/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT " " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/az/arena_ws/devel/.private/cob_omni_drive_controller/include;/home
         message(FATAL_ERROR "Project 'cob_omni_drive_controller' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'cob_omni_drive_controller' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'cob_omni_drive_controller' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/${idir}'.  ${_report}")
     endif()
     _list_append_unique(cob_omni_drive_controller_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/az/arena_ws/devel/.private/cob_omni_drive_controller/lib;/home/az/arena_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_omni_drive_controller/lib;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

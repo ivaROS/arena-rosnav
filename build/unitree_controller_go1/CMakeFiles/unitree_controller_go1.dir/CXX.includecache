@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/BmsCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/BmsCmd.h
 string
 -
 vector
@@ -22,7 +22,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/BmsState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/BmsState.h
 string
 -
 vector
@@ -38,7 +38,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/Cartesian.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/Cartesian.h
 string
 -
 vector
@@ -54,7 +54,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/IMU.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/IMU.h
 string
 -
 vector
@@ -70,7 +70,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/LowCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/LowCmd.h
 string
 -
 vector
@@ -90,7 +90,7 @@ unitree_legged_msgs/MotorCmd.h
 unitree_legged_msgs/BmsCmd.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/LowState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/LowState.h
 string
 -
 vector
@@ -122,7 +122,7 @@ unitree_legged_msgs/Cartesian.h
 unitree_legged_msgs/Cartesian.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/MotorCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/MotorCmd.h
 string
 -
 vector
@@ -138,7 +138,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/MotorState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_msgs/include/unitree_legged_msgs/MotorState.h
 string
 -
 vector
@@ -154,33 +154,33 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 FSM/State_FixedStand.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_FixedStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_FixedStand.h
 FSM/State_Passive.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Passive.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Passive.h
 FSM/State_FreeStand.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_FreeStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_FreeStand.h
 FSM/State_Trotting.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Trotting.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Trotting.h
 FSM/State_BalanceTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_BalanceTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_BalanceTest.h
 FSM/State_SwingTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_SwingTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_SwingTest.h
 FSM/State_StepTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_StepTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_StepTest.h
 FSM/State_Danger.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Danger.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Danger.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/enumClass.h
 control/CtrlComponents.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/CtrlComponents.h
 FSM/State_move_base.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_move_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_move_base.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSMState.h
 string
 -
 iostream
@@ -188,97 +188,97 @@ iostream
 unistd.h
 -
 control/CtrlComponents.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/CtrlComponents.h
 message/LowlevelCmd.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/message/LowlevelCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/message/LowlevelCmd.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/message/LowlevelState.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/enumClass.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/mathTools.h
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/mathTypes.h
 common/timeMarker.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/timeMarker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/common/timeMarker.h
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/interface/CmdPanel.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_BalanceTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_BalanceTest.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Danger.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Danger.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_FixedStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_FixedStand.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_FreeStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_FreeStand.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Passive.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Passive.h
 FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_StepTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_StepTest.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_SwingTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_SwingTest.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 Gait/GaitGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/Gait/GaitGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/Gait/GaitGenerator.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Trotting.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_Trotting.h
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/FSMState.h
 Gait/GaitGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/Gait/GaitGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/Gait/GaitGenerator.h
 control/BalanceCtrl.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/BalanceCtrl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/control/BalanceCtrl.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_move_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/State_move_base.h
 FSM/State_Trotting.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Trotting.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/FSM/State_Trotting.h
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/FSM/ros/ros.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/FeetEndCal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/FeetEndCal.h
 control/CtrlComponents.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/control/CtrlComponents.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/message/LowlevelState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/GaitGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/GaitGenerator.h
 Gait/WaveGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/Gait/WaveGenerator.h
 Gait/FeetEndCal.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/Gait/FeetEndCal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/Gait/FeetEndCal.h
 common/PyPlot.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/WaveGenerator.h
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/mathTypes.h
 common/timeMarker.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/timeMarker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/timeMarker.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/enumClass.h
 unistd.h
 -
 common/PyPlot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/PyPlot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/Gait/common/PyPlot.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/LowPassFilter.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/LowPassFilter.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/PyPlot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/PyPlot.h
 map
 -
 thread
@@ -292,29 +292,29 @@ eigen3/Eigen/Dense
 iostream
 -
 thirdParty/matplotlibcpp.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/thirdParty/matplotlibcpp.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/thirdParty/matplotlibcpp.h
 common/timeMarker.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/timeMarker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/timeMarker.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/enumClass.h
 iostream
 -
 sstream
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/mathTools.h
 stdio.h
 -
 iostream
 -
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/mathTypes.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/mathTypes.h
 eigen3/Eigen/Dense
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/timeMarker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/timeMarker.h
 iostream
 -
 sys/time.h
@@ -322,77 +322,77 @@ sys/time.h
 unistd.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/unitreeLeg.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/unitreeLeg.h
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/mathTypes.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/enumClass.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/unitreeRobot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/unitreeRobot.h
 common/unitreeLeg.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/unitreeLeg.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/common/unitreeLeg.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/common/message/LowlevelState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/BalanceCtrl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/BalanceCtrl.h
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/mathTypes.h
 thirdParty/quadProgpp/QuadProg++.hh
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/thirdParty/quadProgpp/QuadProg++.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/thirdParty/quadProgpp/QuadProg++.hh
 common/unitreeRobot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
 common/PyPlot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/ControlFrame.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/ControlFrame.h
 FSM/FSM.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/FSM/FSM.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/FSM/FSM.h
 control/CtrlComponents.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/CtrlComponents.h
 interface/ROSParams.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/ROSParams.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/ROSParams.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/CtrlComponents.h
 message/LowlevelCmd.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelCmd.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelState.h
 interface/IOInterface.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/IOInterface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/IOInterface.h
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/CmdPanel.h
 common/unitreeRobot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
 Gait/WaveGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Gait/WaveGenerator.h
 control/Estimator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/Estimator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/Estimator.h
 control/BalanceCtrl.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/BalanceCtrl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/control/BalanceCtrl.h
 string
 -
 iostream
 -
 interface/ROSParams.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/ROSParams.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/interface/ROSParams.h
 common/PyPlot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Estimator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Estimator.h
 vector
 -
 common/unitreeRobot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/unitreeRobot.h
 common/LowPassFilter.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/LowPassFilter.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/LowPassFilter.h
 Gait/WaveGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/Gait/WaveGenerator.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/message/LowlevelState.h
 string
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/string
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/string
 common/PyPlot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/control/common/PyPlot.h
 ros/ros.h
 -
 ros/time.h
@@ -410,57 +410,57 @@ boost/array.hpp
 rosgraph_msgs/Clock.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/CmdPanel.h
 message/unitree_joystick.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/unitree_joystick.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/unitree_joystick.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/common/enumClass.h
 pthread.h
 -
 unitree_legged_sdk/unitree_legged_sdk.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
 unitree_legged_sdk/unitree_legged_sdk.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOInterface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOInterface.h
 message/LowlevelCmd.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/LowlevelCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/LowlevelCmd.h
 message/LowlevelState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/LowlevelState.h
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
 string
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOROS.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOROS.h
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/ros/ros.h
 interface/IOInterface.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/IOInterface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/IOInterface.h
 unitree_legged_msgs/LowCmd.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/LowCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/LowCmd.h
 unitree_legged_msgs/LowState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/LowState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/LowState.h
 unitree_legged_msgs/MotorCmd.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/MotorCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/MotorCmd.h
 unitree_legged_msgs/MotorState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/MotorState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_msgs/MotorState.h
 sensor_msgs/Imu.h
 -
 string
 -
 interface/ROSParams.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/ROSParams.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/ROSParams.h
 geometry_msgs/Twist.h
 -
 rosgraph_msgs/Clock.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOSDK.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/IOSDK.h
 interface/IOInterface.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/IOInterface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/IOInterface.h
 unitree_legged_sdk/unitree_legged_sdk.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/unitree_legged_sdk.h
 ros/ros.h
 -
 ros/time.h
@@ -468,7 +468,7 @@ ros/time.h
 sensor_msgs/JointState.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/KeyBoard.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/KeyBoard.h
 stdio.h
 -
 stdlib.h
@@ -484,45 +484,45 @@ fcntl.h
 termios.h
 -
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/common/mathTools.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/ROSParams.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/ROSParams.h
 string
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/WirelessHandle.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/WirelessHandle.h
 message/unitree_joystick.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/unitree_joystick.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/message/unitree_joystick.h
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/interface/CmdPanel.h
 unitree_legged_sdk/comm.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/comm.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/interface/unitree_legged_sdk/comm.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/LowlevelCmd.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/LowlevelCmd.h
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTypes.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTools.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/LowlevelState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/LowlevelState.h
 iostream
 -
 common/mathTypes.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTypes.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/mathTools.h
 interface/CmdPanel.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/interface/CmdPanel.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/interface/CmdPanel.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/common/enumClass.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/unitree_joystick.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/message/unitree_joystick.h
 stdint.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/matplotlibcpp.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/matplotlibcpp.h
 Python.h
 -
 vector
@@ -548,7 +548,7 @@ numpy/arrayobject.h
 opencv2/opencv.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/Array.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/Array.hh
 set
 -
 stdexcept
@@ -564,75 +564,75 @@ cstdlib
 stdexcept
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/QuadProg++.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/QuadProg++.hh
 Array.hh
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/Array.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/include/thirdParty/quadProgpp/Array.hh
 eigen3/Eigen/Dense
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM.cpp
 FSM/FSM.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/FSM.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/FSM.h
 iostream
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSMState.cpp
 FSM/FSMState.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/FSMState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/FSMState.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_BalanceTest.cpp
 FSM/State_BalanceTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_BalanceTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_BalanceTest.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Danger.cpp
 FSM/State_Danger.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Danger.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Danger.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FixedStand.cpp
 iostream
 -
 FSM/State_FixedStand.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_FixedStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_FixedStand.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_FreeStand.cpp
 FSM/State_FreeStand.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_FreeStand.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_FreeStand.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Passive.cpp
 FSM/State_Passive.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Passive.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Passive.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_StepTest.cpp
 FSM/State_StepTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_StepTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_StepTest.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_SwingTest.cpp
 FSM/State_SwingTest.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_SwingTest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_SwingTest.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_Trotting.cpp
 FSM/State_Trotting.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Trotting.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_Trotting.h
 iomanip
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/State_move_base.cpp
 FSM/State_move_base.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_move_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/FSM/State_move_base.h
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/FSM/ros/ros.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/FeetEndCal.cpp
 Gait/FeetEndCal.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/FeetEndCal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/FeetEndCal.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/GaitGenerator.cpp
 Gait/GaitGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/GaitGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/GaitGenerator.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.cpp
 Gait/WaveGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/Gait/WaveGenerator.h
 iostream
 -
 sys/time.h
@@ -640,51 +640,51 @@ sys/time.h
 math.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/LowPassFilter.cpp
 common/LowPassFilter.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/LowPassFilter.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/LowPassFilter.h
 math.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeLeg.cpp
 common/unitreeLeg.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/unitreeLeg.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/unitreeLeg.h
 iostream
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/unitreeRobot.cpp
 common/unitreeRobot.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/unitreeRobot.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/common/common/unitreeRobot.h
 iostream
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.cpp
 control/BalanceCtrl.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/BalanceCtrl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/BalanceCtrl.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/mathTools.h
 common/timeMarker.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/timeMarker.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/timeMarker.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.cpp
 control/ControlFrame.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/ControlFrame.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/ControlFrame.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/Estimator.cpp
 control/Estimator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/Estimator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/control/Estimator.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/mathTools.h
 common/enumClass.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/enumClass.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/common/enumClass.h
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ros/ros.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.cpp
 interface/IOROS.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/IOROS.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/IOROS.h
 interface/KeyBoard.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/KeyBoard.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/KeyBoard.h
 iostream
 -
 unistd.h
@@ -692,31 +692,31 @@ unistd.h
 csignal
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.cpp
 interface/IOSDK.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/IOSDK.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/IOSDK.h
 interface/WirelessHandle.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/WirelessHandle.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/WirelessHandle.h
 stdio.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.cpp
 interface/KeyBoard.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/KeyBoard.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/KeyBoard.h
 iostream
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/WirelessHandle.cpp
 interface/WirelessHandle.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/WirelessHandle.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/interface/WirelessHandle.h
 common/mathTools.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/common/mathTools.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/common/mathTools.h
 string.h
 -
 stdio.h
 -
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/main.cpp
 iostream
 -
 unistd.h
@@ -726,25 +726,25 @@ csignal
 sched.h
 -
 control/ControlFrame.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/ControlFrame.h
 control/CtrlComponents.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/CtrlComponents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/CtrlComponents.h
 Gait/WaveGenerator.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/Gait/WaveGenerator.h
 control/BalanceCtrl.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/control/BalanceCtrl.h
 interface/IOSDK.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOSDK.h
 interface/KeyBoard.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/KeyBoard.h
 interface/IOROS.h
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/interface/IOROS.h
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/Array.cc
 thirdParty/quadProgpp/Array.hh
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/thirdParty/quadProgpp/Array.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/thirdParty/quadProgpp/Array.hh
 
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/QuadProg++.cc
 iostream
 -
 algorithm
@@ -758,7 +758,7 @@ sstream
 stdexcept
 -
 thirdParty/quadProgpp/QuadProg++.hh
-/home/az/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/thirdParty/quadProgpp/QuadProg++.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/unitree_ros/unitree_controllers/unitree_controller_go1/src/quadProgpp/thirdParty/quadProgpp/QuadProg++.hh
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

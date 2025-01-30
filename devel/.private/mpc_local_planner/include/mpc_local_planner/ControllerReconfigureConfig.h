@@ -290,17 +290,17 @@ double global_plan_viapoint_sep;
 
 
 
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       double xy_goal_tolerance;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       double yaw_goal_tolerance;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       bool global_plan_overwrite_orientation;
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       double global_plan_prune_distance;
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       double max_global_plan_lookahead_dist;
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       double global_plan_viapoint_sep;
 //#line 231 "/opt/ros/noetic/share/dynamic_reconfigure/cmake/../templates/ConfigType.h.template"
 
@@ -441,65 +441,65 @@ double global_plan_viapoint_sep;
     {
 ControllerReconfigureConfig::GroupDescription<ControllerReconfigureConfig::DEFAULT, ControllerReconfigureConfig> Default("Default", "", 0, 0, true, &ControllerReconfigureConfig::groups);
 ControllerReconfigureConfig::GroupDescription<ControllerReconfigureConfig::DEFAULT::CONTROLLER, ControllerReconfigureConfig::DEFAULT> Controller("Controller", "tab", 0, 1, true, &ControllerReconfigureConfig::DEFAULT::controller);
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.xy_goal_tolerance = 0.0;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.xy_goal_tolerance = 1.0;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.xy_goal_tolerance = 0.2;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("xy_goal_tolerance", "double", 0, "Allowed final euclidean distance to the goal position", "", &ControllerReconfigureConfig::xy_goal_tolerance)));
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("xy_goal_tolerance", "double", 0, "Allowed final euclidean distance to the goal position", "", &ControllerReconfigureConfig::xy_goal_tolerance)));
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.yaw_goal_tolerance = 0.0;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.yaw_goal_tolerance = 1.0;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.yaw_goal_tolerance = 0.1;
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("yaw_goal_tolerance", "double", 0, "Allowed final orientation error to the goal orientation", "", &ControllerReconfigureConfig::yaw_goal_tolerance)));
-//#line 22 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 22 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("yaw_goal_tolerance", "double", 0, "Allowed final orientation error to the goal orientation", "", &ControllerReconfigureConfig::yaw_goal_tolerance)));
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.global_plan_overwrite_orientation = 0;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.global_plan_overwrite_orientation = 1;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.global_plan_overwrite_orientation = 1;
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<bool>("global_plan_overwrite_orientation", "bool", 0, "Some global planners are not considering the orientation at local subgoals between start and global goal, therefore determine it automatically", "", &ControllerReconfigureConfig::global_plan_overwrite_orientation)));
-//#line 24 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 24 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<bool>("global_plan_overwrite_orientation", "bool", 0, "Some global planners are not considering the orientation at local subgoals between start and global goal, therefore determine it automatically", "", &ControllerReconfigureConfig::global_plan_overwrite_orientation)));
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.global_plan_prune_distance = 0.0;
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.global_plan_prune_distance = 10.0;
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.global_plan_prune_distance = 1.0;
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("global_plan_prune_distance", "double", 0, "", "", &ControllerReconfigureConfig::global_plan_prune_distance)));
-//#line 26 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 26 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("global_plan_prune_distance", "double", 0, "", "", &ControllerReconfigureConfig::global_plan_prune_distance)));
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.max_global_plan_lookahead_dist = 0.0;
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.max_global_plan_lookahead_dist = 10.0;
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.max_global_plan_lookahead_dist = 1.5;
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("max_global_plan_lookahead_dist", "double", 0, "Specify maximum length (cumulative Euclidean distances) of the subset of the global plan taken into account for optimization [if 0 or negative: disabled; the length is also bounded by the local costmap size]", "", &ControllerReconfigureConfig::max_global_plan_lookahead_dist)));
-//#line 28 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 28 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("max_global_plan_lookahead_dist", "double", 0, "Specify maximum length (cumulative Euclidean distances) of the subset of the global plan taken into account for optimization [if 0 or negative: disabled; the length is also bounded by the local costmap size]", "", &ControllerReconfigureConfig::max_global_plan_lookahead_dist)));
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __min__.global_plan_viapoint_sep = -1.0;
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __max__.global_plan_viapoint_sep = 10.0;
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __default__.global_plan_viapoint_sep = -1.0;
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       Controller.abstract_parameters.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("global_plan_viapoint_sep", "double", 0, "Min. separation between each two consecutive via-points extracted from the global plan [if negative: disabled]", "", &ControllerReconfigureConfig::global_plan_viapoint_sep)));
-//#line 30 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
+//#line 30 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg"
       __param_descriptions__.push_back(ControllerReconfigureConfig::AbstractParamDescriptionConstPtr(new ControllerReconfigureConfig::ParamDescription<double>("global_plan_viapoint_sep", "double", 0, "Min. separation between each two consecutive via-points extracted from the global plan [if negative: disabled]", "", &ControllerReconfigureConfig::global_plan_viapoint_sep)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Controller.convertParams();

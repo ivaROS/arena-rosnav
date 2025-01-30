@@ -1,41 +1,41 @@
 {
-	"BUILD_DIR" : "/home/az/arena_ws/build/flatland_viz/flatland_viz_autogen",
-	"CMAKE_BINARY_DIR" : "/home/az/arena_ws/build/flatland_viz",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/arena_ws/build/flatland_viz",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/arena_ws/src/arena/utils/flatland/flatland_viz",
+	"BUILD_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_autogen",
+	"CMAKE_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
-	"CMAKE_SOURCE_DIR" : "/home/az/arena_ws/src/arena/utils/flatland/flatland_viz",
+	"CMAKE_SOURCE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz",
 	"HEADERS" : 
 	[
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/flatland_viz.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/flatland_viz.h",
 			"Mu",
 			"JAOYBHAGH3/moc_flatland_viz.cpp"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/flatland_window.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/flatland_window.h",
 			"Mu",
 			"JAOYBHAGH3/moc_flatland_window.cpp"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/load_model_dialog.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/load_model_dialog.h",
 			"Mu",
 			"JAOYBHAGH3/moc_load_model_dialog.cpp"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/pause_sim_tool.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/pause_sim_tool.h",
 			"Mu",
 			"JAOYBHAGH3/moc_pause_sim_tool.cpp"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/spawn_model_tool.h",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include/flatland_viz/spawn_model_tool.h",
 			"Mu",
 			"JAOYBHAGH3/moc_spawn_model_tool.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/az/arena_ws/build/flatland_viz/flatland_viz_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/az/arena_ws/build/flatland_viz/flatland_viz_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -56,10 +56,10 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/include",
-		"/home/az/arena_ws/devel/.private/flatland_msgs/include",
-		"/home/az/arena_ws/src/arena/utils/flatland/flatland_server/include",
-		"/home/az/arena_ws/src/arena/utils/flatland/flatland_server/thirdparty",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/flatland_msgs/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_server/include",
+		"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_server/thirdparty",
 		"/opt/ros/noetic/include",
 		"/opt/ros/noetic/include/xmlrpcpp",
 		"/usr/include/eigen3",
@@ -91,40 +91,40 @@
 		"-c",
 		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/az/arena_ws/build/flatland_viz/flatland_viz_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/flatland_viz_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/az/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
-	"SETTINGS_FILE" : "/home/az/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/flatland_viz/CMakeFiles/flatland_viz_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_viz.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_viz.cpp",
 			"Mu"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_viz_node.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_viz_node.cpp",
 			"Mu"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_window.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/flatland_window.cpp",
 			"Mu"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/load_model_dialog.cpp",
 			"Mu"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/pause_sim_tool.cpp",
 			"Mu"
 		],
 		[
-			"/home/az/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp",
+			"/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/flatland/flatland_viz/src/spawn_model_tool.cpp",
 			"Mu"
 		]
 	],

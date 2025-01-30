@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/base_local_planner/lib/base_local_planner/base_local_planner_utest"
-  "/home/az/arena_ws/devel/.private/base_local_planner/lib/base_local_planner/base_local_planner_utest.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/base_local_planner/base_local_planner_utest"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/base_local_planner/base_local_planner_utest.pdb"
   "CMakeFiles/base_local_planner_utest.dir/test/footprint_helper_test.cpp.o"
   "CMakeFiles/base_local_planner_utest.dir/test/gtest_main.cpp.o"
   "CMakeFiles/base_local_planner_utest.dir/test/map_grid_test.cpp.o"

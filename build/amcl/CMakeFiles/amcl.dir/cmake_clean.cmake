@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/amcl/lib/amcl/amcl"
-  "/home/az/arena_ws/devel/.private/amcl/lib/amcl/amcl.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/amcl/lib/amcl/amcl"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/amcl/lib/amcl/amcl.pdb"
   "CMakeFiles/amcl.dir/src/amcl_node.cpp.o"
 )
 

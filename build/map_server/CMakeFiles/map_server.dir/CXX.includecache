@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/image_loader.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/image_loader.h
 nav_msgs/GetMap.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/nav_msgs/GetMap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/include/map_server/nav_msgs/GetMap.h
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/main.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/main.cpp
 stdio.h
 -
 stdlib.h
@@ -20,17 +20,17 @@ fstream
 boost/filesystem.hpp
 -
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/ros/ros.h
 ros/console.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/ros/console.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/ros/console.h
 map_server/image_loader.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/map_server/image_loader.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/map_server/image_loader.h
 nav_msgs/MapMetaData.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/nav_msgs/MapMetaData.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/nav_msgs/MapMetaData.h
 nav_msgs/LoadMap.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/nav_msgs/LoadMap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/nav_msgs/LoadMap.h
 yaml-cpp/yaml.h
-/home/az/arena_ws/src/arena/utils/navigation/utils/map_server/src/yaml-cpp/yaml.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server/src/yaml-cpp/yaml.h
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

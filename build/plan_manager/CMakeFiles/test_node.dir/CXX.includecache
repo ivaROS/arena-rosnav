@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlan.h
 ros/service_traits.h
 -
 plan_msgs/MakeGlobalPlanRequest.h
@@ -14,7 +14,7 @@ plan_msgs/MakeGlobalPlanRequest.h
 plan_msgs/MakeGlobalPlanResponse.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanRequest.h
 string
 -
 vector
@@ -34,7 +34,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/MakeGlobalPlanResponse.h
 string
 -
 vector
@@ -52,7 +52,7 @@ ros/message_operations.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/RobotState.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/RobotState.h
 string
 -
 vector
@@ -72,7 +72,7 @@ geometry_msgs/Pose.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/devel/.private/plan_msgs/include/plan_msgs/RobotStateStamped.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/plan_msgs/include/plan_msgs/RobotStateStamped.h
 string
 -
 vector
@@ -92,7 +92,7 @@ std_msgs/Header.h
 plan_msgs/RobotState.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/plan_collector.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/plan_collector.h
 Eigen/Eigen
 -
 iostream
@@ -112,7 +112,7 @@ plan_manager/robot_state.h
 plan_msgs/MakeGlobalPlan.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/robot_state.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/robot_state.h
 Eigen/Eigen
 -
 geometry_msgs/Pose.h
@@ -126,13 +126,13 @@ tf2/LinearMath/Quaternion.h
 geometry_msgs/Quaternion.h
 -
 tf/transform_datatypes.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/tf/transform_datatypes.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/include/plan_manager/tf/transform_datatypes.h
 plan_msgs/RobotStateStamped.h
 -
 plan_msgs/RobotState.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/test_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/plan_manager/src/test_node.cpp
 plan_manager/robot_state.h
 -
 plan_manager/plan_collector.h

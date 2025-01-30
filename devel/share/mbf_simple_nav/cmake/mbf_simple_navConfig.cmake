@@ -1,1 +1,1 @@
-/home/az/arena_ws/devel/.private/mbf_simple_nav/share/mbf_simple_nav/cmake/mbf_simple_navConfig.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_simple_nav/share/mbf_simple_nav/cmake/mbf_simple_navConfig.cmake

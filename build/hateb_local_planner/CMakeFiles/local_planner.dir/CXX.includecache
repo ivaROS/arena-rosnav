@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoal.h
 ros/service_traits.h
 -
 agent_path_prediction/AgentGoalRequest.h
@@ -14,7 +14,7 @@ agent_path_prediction/AgentGoalRequest.h
 agent_path_prediction/AgentGoalResponse.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoalRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoalRequest.h
 string
 -
 vector
@@ -32,7 +32,7 @@ ros/message_operations.h
 agent_path_prediction/AgentPose.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoalResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentGoalResponse.h
 string
 -
 vector
@@ -48,7 +48,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPathPredictionConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPathPredictionConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -66,7 +66,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPose.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPose.h
 string
 -
 vector
@@ -84,7 +84,7 @@ ros/message_operations.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredict.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredict.h
 ros/service_traits.h
 -
 agent_path_prediction/AgentPosePredictRequest.h
@@ -92,7 +92,7 @@ agent_path_prediction/AgentPosePredictRequest.h
 agent_path_prediction/AgentPosePredictResponse.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredictRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredictRequest.h
 string
 -
 vector
@@ -108,7 +108,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredictResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/AgentPosePredictResponse.h
 string
 -
 vector
@@ -126,7 +126,7 @@ ros/message_operations.h
 agent_path_prediction/PredictedPoses.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/PredictedGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/PredictedGoal.h
 string
 -
 vector
@@ -144,7 +144,7 @@ ros/message_operations.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/PredictedPoses.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/agent_path_prediction/include/agent_path_prediction/PredictedPoses.h
 string
 -
 vector
@@ -164,7 +164,7 @@ geometry_msgs/PoseWithCovarianceStamped.h
 geometry_msgs/TwistStamped.h
 -
 
-/home/az/arena_ws/devel/.private/base_local_planner/include/base_local_planner/BaseLocalPlannerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/include/base_local_planner/BaseLocalPlannerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -182,7 +182,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
 string
 -
 vector
@@ -202,7 +202,7 @@ std_msgs/Header.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
 string
 -
 vector
@@ -222,7 +222,7 @@ std_msgs/Header.h
 cohan_msgs/AgentPath.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTimeToGoal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTimeToGoal.h
 string
 -
 vector
@@ -240,7 +240,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTimeToGoalArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTimeToGoalArray.h
 string
 -
 vector
@@ -260,7 +260,7 @@ std_msgs/Header.h
 cohan_msgs/AgentTimeToGoal.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectory.h
 string
 -
 vector
@@ -280,7 +280,7 @@ std_msgs/Header.h
 cohan_msgs/Trajectory.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectoryArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectoryArray.h
 string
 -
 vector
@@ -300,7 +300,7 @@ std_msgs/Header.h
 cohan_msgs/AgentTrajectory.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/StateArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/StateArray.h
 string
 -
 vector
@@ -316,7 +316,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgent.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgent.h
 string
 -
 vector
@@ -334,7 +334,7 @@ ros/message_operations.h
 cohan_msgs/TrackedSegment.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgents.h
 string
 -
 vector
@@ -354,7 +354,7 @@ std_msgs/Header.h
 cohan_msgs/TrackedAgent.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegment.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegment.h
 string
 -
 vector
@@ -376,7 +376,7 @@ geometry_msgs/TwistWithCovariance.h
 geometry_msgs/AccelWithCovariance.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegmentType.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegmentType.h
 string
 -
 vector
@@ -392,7 +392,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/Trajectory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/Trajectory.h
 string
 -
 vector
@@ -412,7 +412,7 @@ std_msgs/Header.h
 cohan_msgs/TrajectoryPoint.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrajectoryPoint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrajectoryPoint.h
 string
 -
 vector
@@ -434,7 +434,7 @@ geometry_msgs/Twist.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -452,7 +452,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
 ros/service_traits.h
 -
 costmap_2d/GetDumpRequest.h
@@ -460,7 +460,7 @@ costmap_2d/GetDumpRequest.h
 costmap_2d/GetDumpResponse.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
 string
 -
 vector
@@ -476,7 +476,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
 string
 -
 vector
@@ -500,7 +500,7 @@ costmap_2d/ObstacleDump.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
 string
 -
 vector
@@ -518,7 +518,7 @@ ros/message_operations.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -536,7 +536,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
 string
 -
 vector
@@ -554,7 +554,7 @@ ros/message_operations.h
 pedsim_msgs/SemanticData.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -572,7 +572,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Approach.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Approach.h
 ros/service_traits.h
 -
 hateb_local_planner/ApproachRequest.h
@@ -580,7 +580,7 @@ hateb_local_planner/ApproachRequest.h
 hateb_local_planner/ApproachResponse.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/ApproachRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/ApproachRequest.h
 string
 -
 vector
@@ -596,7 +596,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/ApproachResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/ApproachResponse.h
 string
 -
 vector
@@ -612,7 +612,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/HATebLocalPlannerReconfigureConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/HATebLocalPlannerReconfigureConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -630,7 +630,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizationCost.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizationCost.h
 string
 -
 vector
@@ -646,7 +646,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizationCostArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizationCostArray.h
 string
 -
 vector
@@ -666,7 +666,7 @@ std_msgs/Header.h
 hateb_local_planner/OptimizationCost.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Optimize.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Optimize.h
 ros/service_traits.h
 -
 hateb_local_planner/OptimizeRequest.h
@@ -674,7 +674,7 @@ hateb_local_planner/OptimizeRequest.h
 hateb_local_planner/OptimizeResponse.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeRequest.h
 string
 -
 vector
@@ -694,7 +694,7 @@ nav_msgs/Path.h
 cohan_msgs/AgentPathArray.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeResponse.h
 string
 -
 vector
@@ -712,7 +712,7 @@ ros/message_operations.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/TrajectoryMsg.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/TrajectoryMsg.h
 string
 -
 vector
@@ -732,7 +732,7 @@ std_msgs/Header.h
 hateb_local_planner/TrajectoryPointMsg.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/TrajectoryPointMsg.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/TrajectoryPointMsg.h
 string
 -
 vector
@@ -754,7 +754,7 @@ geometry_msgs/Twist.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanning.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanning.h
 ros/service_traits.h
 -
 hateb_local_planner/getPlanningRequest.h
@@ -762,7 +762,7 @@ hateb_local_planner/getPlanningRequest.h
 hateb_local_planner/getPlanningResponse.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanningRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanningRequest.h
 string
 -
 vector
@@ -778,7 +778,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanningResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/getPlanningResponse.h
 string
 -
 vector
@@ -794,7 +794,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanning.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanning.h
 ros/service_traits.h
 -
 hateb_local_planner/setPlanningRequest.h
@@ -802,7 +802,7 @@ hateb_local_planner/setPlanningRequest.h
 hateb_local_planner/setPlanningResponse.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanningRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanningRequest.h
 string
 -
 vector
@@ -818,7 +818,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanningResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/setPlanningResponse.h
 string
 -
 vector
@@ -834,7 +834,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
 string
 -
 vector
@@ -854,7 +854,7 @@ std_msgs/Header.h
 pedsim_msgs/SemanticDatum.h
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
 string
 -
 vector
@@ -872,7 +872,7 @@ ros/message_operations.h
 geometry_msgs/Point.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_abstract_core/include/mbf_abstract_core/abstract_controller.h
 vector
 -
 string
@@ -886,7 +886,7 @@ geometry_msgs/TwistStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_costmap_core/include/mbf_costmap_core/costmap_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_costmap_core/include/mbf_costmap_core/costmap_controller.h
 mbf_abstract_core/abstract_controller.h
 -
 costmap_2d/costmap_2d_ros.h
@@ -894,7 +894,7 @@ costmap_2d/costmap_2d_ros.h
 mbf_utility/types.h
 -
 
-/home/az/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/utils/mbf_utility/include/mbf_utility/types.h
 boost/shared_ptr.hpp
 -
 ros/common.h
@@ -904,9 +904,9 @@ tf2_ros/buffer.h
 tf/transform_listener.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
 vector
 -
 queue
@@ -916,7 +916,7 @@ geometry_msgs/Point.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
 ros/ros.h
 -
 costmap_2d/layered_costmap.h
@@ -928,11 +928,11 @@ map_msgs/OccupancyGridUpdate.h
 costmap_2d/GetDump.h
 -
 costmap_2d/obstacle_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
 costmap_2d/semantic_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
 costmap_2d/layered_costmap.h
 -
 costmap_2d/layer.h
@@ -956,7 +956,7 @@ pluginlib/class_loader.hpp
 tf2/LinearMath/Transform.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -964,7 +964,7 @@ costmap_2d/layer.h
 costmap_2d/layered_costmap.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
 ros/ros.h
 -
 geometry_msgs/Polygon.h
@@ -976,7 +976,7 @@ geometry_msgs/Point.h
 geometry_msgs/Point32.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
 costmap_2d/costmap_2d.h
 -
 costmap_2d/layered_costmap.h
@@ -988,7 +988,7 @@ tf2_ros/buffer.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
 costmap_2d/cost_values.h
 -
 costmap_2d/layer.h
@@ -1000,13 +1000,13 @@ vector
 string
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
 geometry_msgs/Point.h
 -
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
 vector
 -
 list
@@ -1024,7 +1024,7 @@ sensor_msgs/PointCloud2.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -1058,7 +1058,7 @@ costmap_2d/footprint.h
 costmap_2d/ObstacleDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -1078,7 +1078,7 @@ costmap_2d/SemanticPluginConfig.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
 geometry_msgs/PoseStamped.h
 -
 geometry_msgs/Twist.h
@@ -1088,13 +1088,13 @@ costmap_2d/costmap_2d_ros.h
 tf2_ros/buffer.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/costmap_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/costmap_model.h
 base_local_planner/world_model.h
 -
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
 ros/ros.h
 -
 nav_msgs/Odometry.h
@@ -1118,7 +1118,7 @@ angles/angles.h
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/odometry_helper_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/odometry_helper_ros.h
 nav_msgs/Odometry.h
 -
 ros/ros.h
@@ -1128,13 +1128,13 @@ boost/thread.hpp
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
 geometry_msgs/Point32.h
 -
 sensor_msgs/PointCloud.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
 vector
 -
 costmap_2d/observation.h
@@ -1146,7 +1146,7 @@ geometry_msgs/Point.h
 base_local_planner/planar_laser_scan.h
 -
 
-/home/az/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/agent_path_prediction/include/agent_path_prediction/agent_path_prediction.h
 ros/ros.h
 -
 dynamic_reconfigure/server.h
@@ -1184,7 +1184,7 @@ nav_msgs/GetPlan.h
 visualization_msgs/MarkerArray.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/backoff.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/backoff.h
 ros/ros.h
 -
 dynamic_reconfigure/server.h
@@ -1204,17 +1204,17 @@ nav_msgs/GetPlan.h
 tf2/utils.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/distance_calculations.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/distance_calculations.h
 Eigen/Core
 -
 hateb_local_planner/misc.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/equivalence_relations.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/equivalence_relations.h
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/base_teb_edges.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/base_teb_edges.h
 hateb_local_planner/hateb_config.h
 -
 g2o/core/base_binary_edge.h
@@ -1226,7 +1226,7 @@ g2o/core/base_multi_edge.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_acceleration.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_acceleration.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1240,7 +1240,7 @@ hateb_local_planner/g2o_types/base_teb_edges.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_agent_safety.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_agent_safety.h
 hateb_local_planner/g2o_types/penalties.h
 -
 hateb_local_planner/g2o_types/vertex_pose.h
@@ -1250,7 +1250,7 @@ hateb_local_planner/hateb_config.h
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_rel_velocity.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_rel_velocity.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1262,7 +1262,7 @@ hateb_local_planner/hateb_config.h
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_safety.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_safety.h
 hateb_local_planner/obstacles.h
 -
 hateb_local_planner/robot_footprint_model.h
@@ -1276,7 +1276,7 @@ hateb_local_planner/hateb_config.h
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_ttc.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_ttc.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1290,7 +1290,7 @@ hateb_local_planner/g2o_types/base_teb_edges.h
 iostream
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_ttcplus.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_ttcplus.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1302,11 +1302,11 @@ hateb_local_planner/hateb_config.h
 std_msgs/Header.h
 -
 sstream
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/sstream
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/sstream
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_visibility.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_agent_robot_visibility.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/penalties.h
@@ -1316,23 +1316,7 @@ hateb_local_planner/hateb_config.h
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_dynamic_obstacle.h
-hateb_local_planner/g2o_types/vertex_pose.h
--
-hateb_local_planner/g2o_types/vertex_timediff.h
--
-hateb_local_planner/g2o_types/penalties.h
--
-hateb_local_planner/g2o_types/base_teb_edges.h
--
-hateb_local_planner/obstacles.h
--
-hateb_local_planner/hateb_config.h
--
-hateb_local_planner/robot_footprint_model.h
--
-
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_invisible_human.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_dynamic_obstacle.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1348,7 +1332,23 @@ hateb_local_planner/hateb_config.h
 hateb_local_planner/robot_footprint_model.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_kinematics.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_invisible_human.h
+hateb_local_planner/g2o_types/vertex_pose.h
+-
+hateb_local_planner/g2o_types/vertex_timediff.h
+-
+hateb_local_planner/g2o_types/penalties.h
+-
+hateb_local_planner/g2o_types/base_teb_edges.h
+-
+hateb_local_planner/obstacles.h
+-
+hateb_local_planner/hateb_config.h
+-
+hateb_local_planner/robot_footprint_model.h
+-
+
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_kinematics.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/penalties.h
@@ -1360,7 +1360,7 @@ hateb_local_planner/hateb_config.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_obstacle.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_obstacle.h
 hateb_local_planner/obstacles.h
 -
 hateb_local_planner/robot_footprint_model.h
@@ -1374,7 +1374,7 @@ hateb_local_planner/g2o_types/penalties.h
 hateb_local_planner/hateb_config.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_prefer_rotdir.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_prefer_rotdir.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/base_teb_edges.h
@@ -1382,9 +1382,9 @@ hateb_local_planner/g2o_types/base_teb_edges.h
 hateb_local_planner/g2o_types/penalties.h
 -
 g2o/core/base_unary_edge.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_unary_edge.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_unary_edge.h
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_shortest_path.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_shortest_path.h
 float.h
 -
 base_local_planner/BaseLocalPlannerConfig.h
@@ -1396,7 +1396,7 @@ hateb_local_planner/g2o_types/vertex_pose.h
 Eigen/Core
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_time_optimal.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_time_optimal.h
 float.h
 -
 base_local_planner/BaseLocalPlannerConfig.h
@@ -1412,7 +1412,7 @@ hateb_local_planner/hateb_config.h
 Eigen/Core
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_velocity.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_velocity.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/vertex_timediff.h
@@ -1426,15 +1426,15 @@ hateb_local_planner/hateb_config.h
 iostream
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_via_point.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/edge_via_point.h
 hateb_local_planner/g2o_types/vertex_pose.h
 -
 hateb_local_planner/g2o_types/base_teb_edges.h
 -
 g2o/core/base_unary_edge.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_unary_edge.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_unary_edge.h
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/penalties.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/penalties.h
 cmath
 -
 Eigen/Core
@@ -1442,7 +1442,7 @@ Eigen/Core
 g2o/stuff/misc.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/vertex_pose.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/vertex_pose.h
 g2o/config.h
 -
 g2o/core/base_vertex.h
@@ -1454,19 +1454,19 @@ g2o/stuff/misc.h
 hateb_local_planner/pose_se2.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/vertex_timediff.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/vertex_timediff.h
 g2o/config.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/config.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/config.h
 g2o/core/base_vertex.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_vertex.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/base_vertex.h
 g2o/core/hyper_graph_action.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/hyper_graph_action.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/g2o/core/hyper_graph_action.h
 ros/console.h
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/ros/console.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/g2o_types/ros/console.h
 Eigen/Core
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/graph_search.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/graph_search.h
 boost/graph/adjacency_list.hpp
 -
 boost/graph/adjacency_list.hpp
@@ -1490,7 +1490,7 @@ hateb_local_planner/pose_se2.h
 hateb_local_planner/hateb_config.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/h_signature.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/h_signature.h
 hateb_local_planner/equivalence_relations.h
 -
 hateb_local_planner/misc.h
@@ -1514,7 +1514,7 @@ vector
 iterator
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/hateb_config.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/hateb_config.h
 ros/console.h
 -
 ros/ros.h
@@ -1526,7 +1526,7 @@ Eigen/StdVector
 hateb_local_planner/HATebLocalPlannerReconfigureConfig.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/hateb_local_planner_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/hateb_local_planner_ros.h
 ros/ros.h
 -
 nav_core/base_local_planner.h
@@ -1620,7 +1620,7 @@ boost/shared_ptr.hpp
 hateb_local_planner/backoff.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/homotopy_class_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/homotopy_class_planner.h
 math.h
 -
 algorithm
@@ -1662,13 +1662,13 @@ hateb_local_planner/graph_search.h
 hateb_local_planner/homotopy_class_planner.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/homotopy_class_planner.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/homotopy_class_planner.hpp
 hateb_local_planner/homotopy_class_planner.h
 -
 hateb_local_planner/h_signature.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/misc.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/misc.h
 Eigen/Core
 -
 boost/utility.hpp
@@ -1678,7 +1678,7 @@ boost/type_traits.hpp
 vector
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/obstacles.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/obstacles.h
 Eigen/Core
 -
 Eigen/StdVector
@@ -1702,7 +1702,7 @@ tf/tf.h
 hateb_local_planner/distance_calculations.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/optimal_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/optimal_planner.h
 math.h
 -
 hateb_local_planner/hateb_config.h
@@ -1778,7 +1778,7 @@ nav_msgs/Odometry.h
 limits.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/planner_interface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/planner_interface.h
 boost/shared_ptr.hpp
 -
 tf/transform_datatypes.h
@@ -1800,7 +1800,7 @@ hateb_local_planner/OptimizationCostArray.h
 hateb_local_planner/TrajectoryMsg.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/pose_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/pose_se2.h
 g2o/stuff/misc.h
 -
 Eigen/Core
@@ -1812,7 +1812,7 @@ geometry_msgs/Pose.h
 tf/transform_datatypes.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/recovery_behaviors.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/recovery_behaviors.h
 boost/circular_buffer.hpp
 -
 geometry_msgs/Twist.h
@@ -1820,7 +1820,7 @@ geometry_msgs/Twist.h
 ros/ros.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/robot_footprint_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/robot_footprint_model.h
 hateb_local_planner/pose_se2.h
 -
 hateb_local_planner/obstacles.h
@@ -1828,7 +1828,7 @@ hateb_local_planner/obstacles.h
 visualization_msgs/Marker.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/timed_elastic_band.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/timed_elastic_band.h
 ros/ros.h
 -
 ros/assert.h
@@ -1852,11 +1852,11 @@ hateb_local_planner/g2o_types/vertex_timediff.h
 hateb_local_planner/timed_elastic_band.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/timed_elastic_band.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/timed_elastic_band.hpp
 hateb_local_planner/timed_elastic_band.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/visualization.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/visualization.h
 hateb_local_planner/TrajectoryMsg.h
 -
 hateb_local_planner/robot_footprint_model.h
@@ -1908,13 +1908,13 @@ visualization_msgs/MarkerArray.h
 hateb_local_planner/visualization.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/visualization.hpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/visualization.hpp
 hateb_local_planner/visualization.h
 -
 boost/utility.hpp
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/local_planner_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/local_planner_node.cpp
 hateb_local_planner/hateb_local_planner_ros.h
 -
 boost/shared_ptr.hpp

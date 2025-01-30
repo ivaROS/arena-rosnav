@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.pdb"
-  "/home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so"
   "CMakeFiles/voxel_grid.dir/src/voxel_grid.cpp.o"
 )
 

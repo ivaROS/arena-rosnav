@@ -1,4 +1,4 @@
-Symlinking /home/az/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake
-Symlinking /home/az/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
-Symlinking /home/az/arena_ws/devel/lib/librviz_plugins.so
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/rviz_plugins.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/librviz_plugins.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/rviz_plugins.pc

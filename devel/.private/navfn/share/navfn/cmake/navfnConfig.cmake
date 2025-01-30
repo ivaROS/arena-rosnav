@@ -67,14 +67,14 @@ set(navfn_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(navfn_SOURCE_PREFIX /home/az/arena_ws/src/arena/utils/navigation/planners/global/navfn)
-  set(navfn_DEVEL_PREFIX /home/az/arena_ws/devel/.private/navfn)
+  set(navfn_SOURCE_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/navfn)
+  set(navfn_DEVEL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn)
   set(navfn_INSTALL_PREFIX "")
   set(navfn_PREFIX ${navfn_DEVEL_PREFIX})
 else()
   set(navfn_SOURCE_PREFIX "")
   set(navfn_DEVEL_PREFIX "")
-  set(navfn_INSTALL_PREFIX /home/az/arena_ws/install)
+  set(navfn_INSTALL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install)
   set(navfn_PREFIX ${navfn_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(navfn_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/az/arena_ws/devel/.private/navfn/include;/home/az/arena_ws/src/arena/utils/navigation/planners/global/navfn/include " STREQUAL " ")
+if(NOT "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/navfn/include " STREQUAL " ")
   set(navfn_INCLUDE_DIRS "")
-  set(_include_dirs "/home/az/arena_ws/devel/.private/navfn/include;/home/az/arena_ws/src/arena/utils/navigation/planners/global/navfn/include")
+  set(_include_dirs "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/navfn/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT "http://wiki.ros.org/navfn " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/az/arena_ws/devel/.private/navfn/include;/home/az/arena_ws/src/are
         message(FATAL_ERROR "Project 'navfn' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'navfn' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/arena_ws/src/arena/utils/navigation/planners/global/navfn/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'navfn' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/navfn/${idir}'.  ${_report}")
     endif()
     _list_append_unique(navfn_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/az/arena_ws/devel/.private/navfn/lib;/home/az/arena_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

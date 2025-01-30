@@ -43,94 +43,94 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/mpc/mpc_local_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mpc_local_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner
 
 # Utility rule file for mpc_local_planner_gencfg.
 
 # Include the progress variables for this target.
 include CMakeFiles/mpc_local_planner_gencfg.dir/progress.make
 
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-CMakeFiles/mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+CMakeFiles/mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
 
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/mpc_collision.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/mpc_collision.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py"
+	catkin_generated/env_cached.sh /usr/bin/python3 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_collision.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dynamic reconfigure files from cfg/mpc_controller.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dynamic reconfigure files from cfg/mpc_controller.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py"
+	catkin_generated/env_cached.sh /usr/bin/python3 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_controller.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating dynamic reconfigure files from cfg/mpc_footprint.cfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py"
-	catkin_generated/env_cached.sh /home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3 /home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating dynamic reconfigure files from cfg/mpc_footprint.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py"
+	catkin_generated/env_cached.sh /usr/bin/python3 /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc
 
 mpc_local_planner_gencfg: CMakeFiles/mpc_local_planner_gencfg
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
-mpc_local_planner_gencfg: /home/az/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_collisionConfig.h
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig-usage.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_collisionConfig.py
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_collisionConfig.wikidoc
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_controllerConfig.h
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig-usage.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_controllerConfig.py
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_controllerConfig.wikidoc
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/include/mpc_local_planner/mpc_footprintConfig.h
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig-usage.dox
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/python3/dist-packages/mpc_local_planner/cfg/mpc_footprintConfig.py
+mpc_local_planner_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/share/mpc_local_planner/docs/mpc_footprintConfig.wikidoc
 mpc_local_planner_gencfg: CMakeFiles/mpc_local_planner_gencfg.dir/build.make
 
 .PHONY : mpc_local_planner_gencfg
@@ -145,6 +145,6 @@ CMakeFiles/mpc_local_planner_gencfg.dir/clean:
 .PHONY : CMakeFiles/mpc_local_planner_gencfg.dir/clean
 
 CMakeFiles/mpc_local_planner_gencfg.dir/depend:
-	cd /home/az/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_gencfg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_gencfg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mpc_local_planner_gencfg.dir/depend
 

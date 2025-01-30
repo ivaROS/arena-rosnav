@@ -125,18 +125,18 @@
 [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
 [  0%] Built target actionlib_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
-[  0%] Built target geometry_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
 [  0%] Built target tf_generate_messages_cpp
 [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
 [  0%] Built target dynamic_reconfigure_generate_messages_eus
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[  0%] Built target geometry_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
 [  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
 [  0%] Built target actionlib_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
 [  0%] Built target actionlib_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
@@ -168,5 +168,5 @@
 [  0%] Built target actionlib_generate_messages_nodejs
 [35m[1mScanning dependencies of target carrot_planner[0m
 [ 50%] [32mBuilding CXX object CMakeFiles/carrot_planner.dir/src/carrot_planner.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/carrot_planner/lib/libcarrot_planner.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/carrot_planner/lib/libcarrot_planner.so[0m
 [100%] Built target carrot_planner

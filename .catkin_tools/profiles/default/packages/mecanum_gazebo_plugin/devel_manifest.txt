@@ -1,5 +1,5 @@
 arena/utils/3rd-party-robot-packages/ridgeback/mecanum_gazebo_plugin
-/home/az/arena_ws/devel/.private/mecanum_gazebo_plugin/cmake.lock /home/az/arena_ws/devel/./cmake.lock
-/home/az/arena_ws/devel/.private/mecanum_gazebo_plugin/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig-version.cmake /home/az/arena_ws/devel/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig-version.cmake
-/home/az/arena_ws/devel/.private/mecanum_gazebo_plugin/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig.cmake /home/az/arena_ws/devel/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig.cmake
-/home/az/arena_ws/devel/.private/mecanum_gazebo_plugin/lib/pkgconfig/mecanum_gazebo_plugin.pc /home/az/arena_ws/devel/lib/pkgconfig/mecanum_gazebo_plugin.pc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mecanum_gazebo_plugin/cmake.lock /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/./cmake.lock
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mecanum_gazebo_plugin/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig-version.cmake /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig-version.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mecanum_gazebo_plugin/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig.cmake /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/mecanum_gazebo_plugin/cmake/mecanum_gazebo_pluginConfig.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mecanum_gazebo_plugin/lib/pkgconfig/mecanum_gazebo_plugin.pc /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/mecanum_gazebo_plugin.pc

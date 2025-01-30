@@ -1,1 +1,1 @@
-/home/az/arena_ws/devel/.private/ridgeback_control/share/ridgeback_control/cmake/ridgeback_controlConfig.cmake
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/ridgeback_control/share/ridgeback_control/cmake/ridgeback_controlConfig.cmake

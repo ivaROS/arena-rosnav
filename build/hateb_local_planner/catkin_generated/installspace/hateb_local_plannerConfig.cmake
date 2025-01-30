@@ -67,14 +67,14 @@ set(hateb_local_planner_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(hateb_local_planner_SOURCE_PREFIX /home/az/arena_ws/src/planners/cohan/hateb_local_planner)
-  set(hateb_local_planner_DEVEL_PREFIX /home/az/arena_ws/devel/.private/hateb_local_planner)
+  set(hateb_local_planner_SOURCE_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner)
+  set(hateb_local_planner_DEVEL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner)
   set(hateb_local_planner_INSTALL_PREFIX "")
   set(hateb_local_planner_PREFIX ${hateb_local_planner_DEVEL_PREFIX})
 else()
   set(hateb_local_planner_SOURCE_PREFIX "")
   set(hateb_local_planner_DEVEL_PREFIX "")
-  set(hateb_local_planner_INSTALL_PREFIX /home/az/arena_ws/install)
+  set(hateb_local_planner_INSTALL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install)
   set(hateb_local_planner_PREFIX ${hateb_local_planner_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/az/arena_ws/install/lib;/home/az/arena_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/lib;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

@@ -3,10 +3,10 @@
 [ 50%] [32mBuilding CXX object CMakeFiles/path_search.dir/src/kinodynamic_astar.cpp.o[0m
 [ 75%] [32mBuilding CXX object CMakeFiles/path_search.dir/src/dyn_astar.cpp.o[0m
 In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:5[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp:1[m[K:
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:[m[K In member function ‘[01m[Kbool AStar::Coord2Index(const Vector2d&, Eigen::Vector2i&) const[m[K’:
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:13:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects a matching ‘[01m[Kint[m[K’ argument [[01;35m[K-Wformat=[m[K]
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:5[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp:1[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:[m[K In member function ‘[01m[Kbool AStar::Coord2Index(const Vector2d&, Eigen::Vector2i&) const[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:13:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects a matching ‘[01m[Kint[m[K’ argument [[01;35m[K-Wformat=[m[K]
   109 |   ROS_ERROR([01;35m[K"Ran out of pool, index=%d %d %d"[m[K, idx(0), idx(1));
       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
 [01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
@@ -21,14 +21,14 @@ In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
 [01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
   214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
       |                        [01;36m[K^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
   109 |   [01;36m[KROS_ERROR[m[K("Ran out of pool, index=%d %d %d", idx(0), idx(1));
       |   [01;36m[K^~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp:1[m[K:
-[01m[K/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp:1[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h:109:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
   109 |   ROS_ERROR("Ran out of pool, index=%d %d [01;36m[K%d[m[K", idx(0), idx(1));
       |                                           [01;36m[K~^[m[K
       |                                            [01;36m[K|[m[K
       |                                            [01;36m[Kint[m[K
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/path_search/lib/libpath_search.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/path_search/lib/libpath_search.so[0m
 [100%] Built target path_search

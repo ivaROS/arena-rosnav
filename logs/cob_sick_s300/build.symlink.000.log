@@ -1,5 +1,5 @@
-Symlinking /home/az/arena_ws/devel/share/cob_sick_s300/cmake/cob_sick_s300Config.cmake
-Symlinking /home/az/arena_ws/devel/share/cob_sick_s300/cmake/cob_sick_s300Config-version.cmake
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/cob_sick_s300.pc
-Symlinking /home/az/arena_ws/devel/lib/cob_sick_s300/cob_scan_filter
-Symlinking /home/az/arena_ws/devel/lib/cob_sick_s300/cob_sick_s300
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/cob_sick_s300/cmake/cob_sick_s300Config.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/cob_sick_s300/cmake/cob_sick_s300Config-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/cob_sick_s300.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/cob_sick_s300/cob_scan_filter
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/cob_sick_s300/cob_sick_s300

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/dragon
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/barn_challenge
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge
 
 # Include any dependencies generated for this target.
 include CMakeFiles/reduce_lidar.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/reduce_lidar.dir/progress.make
 include CMakeFiles/reduce_lidar.dir/flags.make
 
 CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o: CMakeFiles/reduce_lidar.dir/flags.make
-CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o: /home/az/arena_ws/src/planners/dragon/src/reduceLidar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/barn_challenge/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o -c /home/az/arena_ws/src/planners/dragon/src/reduceLidar.cpp
+CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon/src/reduceLidar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon/src/reduceLidar.cpp
 
 CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/dragon/src/reduceLidar.cpp > CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon/src/reduceLidar.cpp > CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.i
 
 CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/dragon/src/reduceLidar.cpp -o CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon/src/reduceLidar.cpp -o CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.s
 
 # Object files for target reduce_lidar
 reduce_lidar_OBJECTS = \
@@ -77,36 +77,36 @@ reduce_lidar_OBJECTS = \
 # External object files for target reduce_lidar
 reduce_lidar_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/build.make
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/barn_challenge/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar: CMakeFiles/reduce_lidar.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/reduce_lidar.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/reduce_lidar.dir/build: /home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar
+CMakeFiles/reduce_lidar.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar
 
 .PHONY : CMakeFiles/reduce_lidar.dir/build
 
@@ -115,6 +115,6 @@ CMakeFiles/reduce_lidar.dir/clean:
 .PHONY : CMakeFiles/reduce_lidar.dir/clean
 
 CMakeFiles/reduce_lidar.dir/depend:
-	cd /home/az/arena_ws/build/barn_challenge && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/dragon /home/az/arena_ws/src/planners/dragon /home/az/arena_ws/build/barn_challenge /home/az/arena_ws/build/barn_challenge /home/az/arena_ws/build/barn_challenge/CMakeFiles/reduce_lidar.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dragon /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/barn_challenge/CMakeFiles/reduce_lidar.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/reduce_lidar.dir/depend
 

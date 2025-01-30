@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cob_control_msgs/include/cob_control_msgs/ObstacleDistance.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/include/cob_control_msgs/ObstacleDistance.h
 string
 -
 vector
@@ -30,7 +30,7 @@ geometry_msgs/Vector3.h
 geometry_msgs/Vector3.h
 -
 
-/home/az/arena_ws/devel/.private/cob_control_msgs/include/cob_control_msgs/ObstacleDistances.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_control_msgs/include/cob_control_msgs/ObstacleDistances.h
 string
 -
 vector
@@ -48,7 +48,7 @@ ros/message_operations.h
 cob_control_msgs/ObstacleDistance.h
 -
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -66,7 +66,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/callback_data_mediator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/callback_data_mediator.h
 vector
 -
 stdint.h
@@ -74,13 +74,13 @@ stdint.h
 boost/thread/mutex.hpp
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraints/constraint_params.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller/constraints/constraint_params.h
 cob_control_msgs/ObstacleDistances.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_control_msgs/ObstacleDistances.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_control_msgs/ObstacleDistances.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
 string
 -
 vector
@@ -100,7 +100,7 @@ kdl/chainjnttojacsolver.hpp
 cob_twist_controller/TwistControllerConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/constraint_solver_factory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/constraint_solver_factory.h
 set
 -
 Eigen/Core
@@ -116,13 +116,13 @@ kdl/chainfksolvervel_recursive.hpp
 boost/shared_ptr.hpp
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/factories/solver_factory.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/constraint_solvers/factories/solver_factory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/constraint_solvers/factories/solver_factory.h
 cob_twist_controller/callback_data_mediator.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/callback_data_mediator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/cob_twist_controller/callback_data_mediator.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/solver_factory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/solver_factory.h
 set
 -
 Eigen/Core
@@ -132,13 +132,13 @@ Eigen/SVD
 kdl/jntarray.hpp
 -
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/task_stack/task_stack_controller.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/task_stack/task_stack_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/factories/cob_twist_controller/task_stack/task_stack_controller.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 set
 -
 Eigen/Core
@@ -150,81 +150,81 @@ boost/shared_ptr.hpp
 cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
 -
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/task_stack/task_stack_controller.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/task_stack/task_stack_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/task_stack/task_stack_controller.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
 set
 -
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/ros/ros.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
 set
 -
 ros/ros.h
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
 set
 -
 ros/ros.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/ros/ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/ros/ros.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraints/constraint.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint.h
 set
 -
 string
@@ -236,15 +236,15 @@ kdl/chainjnttojacsolver.hpp
 kdl/chainfksolvervel_recursive.hpp
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraints/constraint_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_base.h
 cob_twist_controller/callback_data_mediator.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/callback_data_mediator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/callback_data_mediator.h
 cob_twist_controller/constraints/constraint_impl.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_impl.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_base.h
 set
 -
 string
@@ -262,15 +262,15 @@ kdl/jntarrayvel.hpp
 Eigen/Core
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/constraints/constraint_params.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
 cob_twist_controller/callback_data_mediator.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/callback_data_mediator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/callback_data_mediator.h
 cob_twist_controller/task_stack/task_stack_controller.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/task_stack/task_stack_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/task_stack/task_stack_controller.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_ca_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_ca_impl.h
 vector
 -
 string
@@ -292,15 +292,15 @@ kdl/jntarray.hpp
 eigen_conversions/eigen_kdl.h
 -
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
 cob_twist_controller/constraints/constraint_params.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
 cob_twist_controller/damping_methods/damping.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/damping_methods/damping.h
 cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_impl.h
 sstream
 -
 set
@@ -318,15 +318,15 @@ boost/pointer_cast.hpp
 kdl/chainjnttojacsolver.hpp
 -
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
 cob_twist_controller/constraints/constraint_params.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
 cob_twist_controller/constraints/constraint_ca_impl.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_ca_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_ca_impl.h
 cob_twist_controller/constraints/constraint_jla_impl.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_jla_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_jla_impl.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_jla_impl.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_jla_impl.h
 sstream
 -
 string
@@ -346,17 +346,17 @@ kdl/chainjnttojacsolver.hpp
 kdl/jntarray.hpp
 -
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint.h
 cob_twist_controller/constraints/constraint_params.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/constraints/constraint_params.h
 cob_twist_controller/damping_methods/damping.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/damping_methods/damping.h
 cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
 eigen_conversions/eigen_kdl.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_params.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/constraint_params.h
 vector
 -
 string
@@ -368,31 +368,31 @@ boost/shared_ptr.hpp
 boost/scoped_ptr.hpp
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/constraints/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping.h
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/damping_methods/damping_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
 cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
 Eigen/Core
 -
 boost/shared_ptr.hpp
 -
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/task_stack_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/task_stack_controller.h
 vector
 -
 string
@@ -406,11 +406,11 @@ boost/shared_ptr.hpp
 Eigen/Dense
 -
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/cob_twist_controller/cob_twist_controller_data_types.h
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/task_stack/cob_twist_controller/damping_methods/damping_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/constraint_solver_factory.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/constraint_solver_factory.cpp
 set
 -
 ros/ros.h
@@ -418,69 +418,69 @@ ros/ros.h
 cob_twist_controller/constraint_solvers/constraint_solver_factory.h
 -
 cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/constraint_solver_base.h
 cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
 cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
 cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
 cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
 cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
 cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
 cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
 cob_twist_controller/damping_methods/damping.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/damping_methods/damping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/damping_methods/damping.h
 cob_twist_controller/constraints/constraint.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraints/constraint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/cob_twist_controller/constraints/constraint.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/gradient_projection_method_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/gradient_projection_method_solver.cpp
 set
 -
 cmath
 -
 cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/gradient_projection_method_solver.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/stack_of_tasks_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/stack_of_tasks_solver.cpp
 set
 -
 cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/stack_of_tasks_solver.h
 cob_twist_controller/task_stack/task_stack_controller.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/task_stack/task_stack_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/task_stack/task_stack_controller.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/task_priority_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/task_priority_solver.cpp
 set
 -
 cob_twist_controller/constraint_solvers/solvers/task_priority_solver.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/unconstraint_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/unconstraint_solver.cpp
 ros/ros.h
 -
 cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/unconstraint_solver.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/unified_joint_limit_singularity_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/unified_joint_limit_singularity_solver.cpp
 cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/unified_joint_limit_singularity_solver.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/weighted_least_norm_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/weighted_least_norm_solver.cpp
 cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/weighted_least_norm_solver.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.cpp
 vector
 -
 ros/ros.h
 -
 cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/constraint_solvers/solvers/cob_twist_controller/constraint_solvers/solvers/wln_joint_limit_avoidance_solver.h
 
 /opt/ros/noetic/include/dynamic_reconfigure/BoolParameter.h
 string

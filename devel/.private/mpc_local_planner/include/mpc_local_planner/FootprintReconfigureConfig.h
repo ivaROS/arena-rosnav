@@ -280,7 +280,7 @@ class DEFAULT
 
 
 
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       bool is_footprint_dynamic;
 //#line 231 "/opt/ros/noetic/share/dynamic_reconfigure/cmake/../templates/ConfigType.h.template"
 
@@ -421,15 +421,15 @@ class DEFAULT
     {
 FootprintReconfigureConfig::GroupDescription<FootprintReconfigureConfig::DEFAULT, FootprintReconfigureConfig> Default("Default", "", 0, 0, true, &FootprintReconfigureConfig::groups);
 FootprintReconfigureConfig::GroupDescription<FootprintReconfigureConfig::DEFAULT::FOOTPRINT, FootprintReconfigureConfig::DEFAULT> Footprint("Footprint", "tab", 0, 1, true, &FootprintReconfigureConfig::DEFAULT::footprint);
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       __min__.is_footprint_dynamic = 0;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       __max__.is_footprint_dynamic = 1;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       __default__.is_footprint_dynamic = 0;
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       Footprint.abstract_parameters.push_back(FootprintReconfigureConfig::AbstractParamDescriptionConstPtr(new FootprintReconfigureConfig::ParamDescription<bool>("is_footprint_dynamic", "bool", 0, "If true, updated the footprint before checking trajectory feasibility", "", &FootprintReconfigureConfig::is_footprint_dynamic)));
-//#line 20 "/home/az/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
+//#line 20 "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/cfg/mpc_footprint.cfg"
       __param_descriptions__.push_back(FootprintReconfigureConfig::AbstractParamDescriptionConstPtr(new FootprintReconfigureConfig::ParamDescription<bool>("is_footprint_dynamic", "bool", 0, "If true, updated the footprint before checking trajectory feasibility", "", &FootprintReconfigureConfig::is_footprint_dynamic)));
 //#line 124 "/opt/ros/noetic/lib/python3/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py"
       Footprint.convertParams();

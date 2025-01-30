@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeom.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeom.h
 vector
 -
 string
@@ -16,13 +16,13 @@ stdexcept
 boost/make_shared.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/UndercarriageCtrlGeomROS.h
 ros/ros.h
 -
 cob_omni_drive_controller/UndercarriageCtrlGeom.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/param_parser.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/include/cob_omni_drive_controller/param_parser.h
 urdf/model.h
 -
 tf2/LinearMath/Quaternion.h
@@ -32,7 +32,7 @@ tf2/LinearMath/Transform.h
 tf2/LinearMath/Vector3.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/UndercarriageCtrlGeom.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/UndercarriageCtrlGeom.cpp
 cob_omni_drive_controller/UndercarriageCtrlGeom.h
 -
 math.h
@@ -44,7 +44,7 @@ stdexcept
 boost/shared_ptr.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/param_parser.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_omni_drive_controller/src/param_parser.cpp
 cob_omni_drive_controller/param_parser.h
 -
 cob_omni_drive_controller/UndercarriageCtrlGeomROS.h

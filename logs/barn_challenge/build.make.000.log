@@ -1,8 +1,8 @@
 [35m[1mScanning dependencies of target reduce_lidar[0m
 [ 25%] [32mBuilding CXX object CMakeFiles/reduce_lidar.dir/src/reduceLidar.cpp.o[0m
-[ 50%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar[0m
-[ 50%] Built target reduce_lidar
 [35m[1mScanning dependencies of target gap_navigation[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/gap_navigation.dir/src/followgap.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/gap_navigation[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gap_navigation.dir/src/followgap.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/reduce_lidar[0m
+[ 75%] Built target reduce_lidar
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/barn_challenge/lib/barn_challenge/gap_navigation[0m
 [100%] Built target gap_navigation

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.pdb"
-  "/home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so"
-  "/home/az/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so.2.3.1"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/lib/libBox2DEmbed.so.2.3.1"
   "CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2ChainShape.cpp.o"
   "CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2CircleShape.cpp.o"
   "CMakeFiles/Box2D_shared.dir/Collision/Shapes/b2EdgeShape.cpp.o"

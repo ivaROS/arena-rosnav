@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/applr
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/applr
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/applr
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/applr
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,9 +137,9 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/applr/CMakeFiles /home/az/arena_ws/build/applr/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/applr/CMakeFiles /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/applr/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/applr/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/applr/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -1,5 +1,5 @@
 [35m[1mScanning dependencies of target task_generator_gencfg[0m
-[100%] [34m[1mGenerating dynamic reconfigure files from cfg/TaskGenerator.cfg: /home/az/arena_ws/devel/.private/task_generator/include/task_generator/TaskGeneratorConfig.h /home/az/arena_ws/devel/.private/task_generator/lib/python3/dist-packages/task_generator/cfg/TaskGeneratorConfig.py[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/TaskGenerator.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/task_generator/include/task_generator/TaskGeneratorConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/task_generator/lib/python3/dist-packages/task_generator/cfg/TaskGeneratorConfig.py[0m
 Generating reconfiguration files for TaskGenerator in task_generator
-Wrote header file in /home/az/arena_ws/devel/.private/task_generator/include/task_generator/TaskGeneratorConfig.h
+Wrote header file in /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/task_generator/include/task_generator/TaskGeneratorConfig.h
 [100%] Built target task_generator_gencfg

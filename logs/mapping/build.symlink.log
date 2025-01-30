@@ -1,4 +1,4 @@
-Linked: (/home/az/arena_ws/devel/.private/mapping/share/mapping/cmake/mappingConfig-version.cmake, /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/mapping/share/mapping/cmake/mappingConfig.cmake, /home/az/arena_ws/devel/share/mapping/cmake/mappingConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/mapping/lib/libmapping.so, /home/az/arena_ws/devel/lib/libmapping.so)
-Linked: (/home/az/arena_ws/devel/.private/mapping/lib/pkgconfig/mapping.pc, /home/az/arena_ws/devel/lib/pkgconfig/mapping.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/mapping/cmake/mappingConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/mapping/cmake/mappingConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libmapping.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/mapping.pc

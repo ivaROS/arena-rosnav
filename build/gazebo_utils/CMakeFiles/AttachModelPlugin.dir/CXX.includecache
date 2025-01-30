@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.cc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.cc
 map
 -
 vector
@@ -24,9 +24,9 @@ gazebo/physics/Model.hh
 gazebo/physics/World.hh
 -
 AttachModelPlugin.hh
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.hh
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.hh
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/plugins/gazebo_utils/src/AttachModelPlugin.hh
 memory
 -
 gazebo/common/Plugin.hh

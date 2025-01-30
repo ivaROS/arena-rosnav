@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/mpc/mpc_local_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mpc_local_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner
 
 # Include any dependencies generated for this target.
 include CMakeFiles/test_mpc_optim_node.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/test_mpc_optim_node.dir/progress.make
 include CMakeFiles/test_mpc_optim_node.dir/flags.make
 
 CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o: CMakeFiles/test_mpc_optim_node.dir/flags.make
-CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp
+CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp
 
 CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp > CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp > CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.i
 
 CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp -o CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/test_mpc_optim_node.cpp -o CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.s
 
 # Object files for target test_mpc_optim_node
 test_mpc_optim_node_OBJECTS = \
@@ -77,89 +77,89 @@ test_mpc_optim_node_OBJECTS = \
 # External object files for target test_mpc_optim_node
 test_mpc_optim_node_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/build.make
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libteb_local_planner.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libamd.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libbtf.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcamd.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libccolamd.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcholmod.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcolamd.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcxsparse.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libklu.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libumfpack.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libspqr.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_csparse_extension.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_core.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_stuff.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_types_slam2d.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_types_slam3d.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_cholmod.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_pcg.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_csparse.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_incremental.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libcostmap_converter.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libinteractive_markers.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_controllers.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimal_control.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimization.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/libipopt.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/src/test_mpc_optim_node.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libteb_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libamd.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libbtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcamd.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libccolamd.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcholmod.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcolamd.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libcxsparse.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libklu.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libumfpack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libspqr.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_csparse_extension.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_core.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_stuff.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_types_slam2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_types_slam3d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_cholmod.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_pcg.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_solver_csparse.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libg2o_incremental.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libcostmap_converter.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libinteractive_markers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_controllers.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimal_control.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimization.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /usr/lib/libipopt.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node: CMakeFiles/test_mpc_optim_node.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_mpc_optim_node.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/test_mpc_optim_node.dir/build: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node
+CMakeFiles/test_mpc_optim_node.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/mpc_local_planner/test_mpc_optim_node
 
 .PHONY : CMakeFiles/test_mpc_optim_node.dir/build
 
@@ -168,6 +168,6 @@ CMakeFiles/test_mpc_optim_node.dir/clean:
 .PHONY : CMakeFiles/test_mpc_optim_node.dir/clean
 
 CMakeFiles/test_mpc_optim_node.dir/depend:
-	cd /home/az/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner/CMakeFiles/test_mpc_optim_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles/test_mpc_optim_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/test_mpc_optim_node.dir/depend
 

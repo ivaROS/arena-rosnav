@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPath.h
 string
 -
 vector
@@ -26,7 +26,7 @@ std_msgs/Header.h
 nav_msgs/Path.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentPathArray.h
 string
 -
 vector
@@ -46,7 +46,7 @@ std_msgs/Header.h
 cohan_msgs/AgentPath.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectory.h
 string
 -
 vector
@@ -66,7 +66,7 @@ std_msgs/Header.h
 cohan_msgs/Trajectory.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectoryArray.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/AgentTrajectoryArray.h
 string
 -
 vector
@@ -86,7 +86,7 @@ std_msgs/Header.h
 cohan_msgs/AgentTrajectory.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgent.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgent.h
 string
 -
 vector
@@ -104,7 +104,7 @@ ros/message_operations.h
 cohan_msgs/TrackedSegment.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgents.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedAgents.h
 string
 -
 vector
@@ -124,7 +124,7 @@ std_msgs/Header.h
 cohan_msgs/TrackedAgent.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegment.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegment.h
 string
 -
 vector
@@ -146,7 +146,7 @@ geometry_msgs/TwistWithCovariance.h
 geometry_msgs/AccelWithCovariance.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegmentType.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrackedSegmentType.h
 string
 -
 vector
@@ -162,7 +162,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/Trajectory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/Trajectory.h
 string
 -
 vector
@@ -182,7 +182,7 @@ std_msgs/Header.h
 cohan_msgs/TrajectoryPoint.h
 -
 
-/home/az/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrajectoryPoint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cohan_msgs/include/cohan_msgs/TrajectoryPoint.h
 string
 -
 vector
@@ -204,7 +204,7 @@ geometry_msgs/Twist.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Optimize.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/Optimize.h
 ros/service_traits.h
 -
 hateb_local_planner/OptimizeRequest.h
@@ -212,7 +212,7 @@ hateb_local_planner/OptimizeRequest.h
 hateb_local_planner/OptimizeResponse.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeRequest.h
 string
 -
 vector
@@ -232,7 +232,7 @@ nav_msgs/Path.h
 cohan_msgs/AgentPathArray.h
 -
 
-/home/az/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/OptimizeResponse.h
 string
 -
 vector
@@ -250,7 +250,7 @@ ros/message_operations.h
 geometry_msgs/Twist.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/static_plan_visualizer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/include/hateb_local_planner/static_plan_visualizer.h
 ros/ros.h
 -
 tf2_ros/transform_listener.h
@@ -294,7 +294,7 @@ std_srvs/TriggerRequest.h
 std_srvs/TriggerResponse.h
 -
 
-/home/az/arena_ws/src/planners/cohan/hateb_local_planner/src/static_plan_visualizer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/hateb_local_planner/src/static_plan_visualizer.cpp
 hateb_local_planner/static_plan_visualizer.h
 -
 

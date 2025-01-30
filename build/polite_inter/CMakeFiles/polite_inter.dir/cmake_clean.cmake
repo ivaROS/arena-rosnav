@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/polite_inter/lib/libpolite_inter.pdb"
-  "/home/az/arena_ws/devel/.private/polite_inter/lib/libpolite_inter.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/polite_inter/lib/libpolite_inter.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/polite_inter/lib/libpolite_inter.so"
   "CMakeFiles/polite_inter.dir/src/polite_inter.cpp.o"
 )
 

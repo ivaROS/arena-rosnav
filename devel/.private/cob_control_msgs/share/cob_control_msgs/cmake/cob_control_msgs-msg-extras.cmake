@@ -1,2 +1,2 @@
-set(cob_control_msgs_MESSAGE_FILES "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg")
-set(cob_control_msgs_SERVICE_FILES "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv")
+set(cob_control_msgs_MESSAGE_FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg")
+set(cob_control_msgs_SERVICE_FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv")

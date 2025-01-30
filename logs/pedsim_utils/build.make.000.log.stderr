@@ -1,5 +1,5 @@
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:[m[K In function ‘[01m[Kgeometry_msgs::Quaternion pedsim::toQuaternionMsg(const Quaternionf&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:38:19:[m[K [01;35m[Kwarning: [m[Kmoving a local object in a return statement prevents copy elision [[01;35m[K-Wpessimizing-move[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:[m[K In function ‘[01m[Kgeometry_msgs::Quaternion pedsim::toQuaternionMsg(const Quaternionf&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:38:19:[m[K [01;35m[Kwarning: [m[Kmoving a local object in a return statement prevents copy elision [[01;35m[K-Wpessimizing-move[m[K]
    38 |   return [01;35m[Kstd::move(gq)[m[K;
       |          [01;35m[K~~~~~~~~~^~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:38:19:[m[K [01;36m[Knote: [m[Kremove ‘[01m[Kstd::move[m[K’ call
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/src/pedsim_utils/geometry.cpp:38:19:[m[K [01;36m[Knote: [m[Kremove ‘[01m[Kstd::move[m[K’ call

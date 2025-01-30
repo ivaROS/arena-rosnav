@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/observations/include/observations/Observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/observations/include/observations/Observation.h
 string
 -
 vector
@@ -22,25 +22,25 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.cpp
 f_math.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/f_math.h
 math.h
 -
 stdlib.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.cpp
 zVector2d.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/common/zVector2d.h
 math.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/Transform2D.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/Transform2D.h
 tf2/LinearMath/Quaternion.h
 -
 geometry_msgs/Pose.h
@@ -48,7 +48,7 @@ geometry_msgs/Pose.h
 common/zVector2d.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/observation_packer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/observation_packer.cpp
 observations/Observation.h
 -
 geometry_msgs/PoseStamped.h
@@ -62,7 +62,7 @@ nav_msgs/Odometry.h
 ros/ros.h
 -
 Transform2D.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/Transform2D.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/msgs/observations/observation_packer/Transform2D.h
 common/f_math.h
 -
 signal.h

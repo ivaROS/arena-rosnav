@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC   -Wall -Wunused -std=c++11
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"pedsim_utils\" -Dpedsim_utils_EXPORTS
 
-CXX_INCLUDES = -I/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include -I/home/az/arena_ws/devel/.private/pedsim_msgs/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 
+CXX_INCLUDES = -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_utils/include -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 
 

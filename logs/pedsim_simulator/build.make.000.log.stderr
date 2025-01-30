@@ -1,161 +1,161 @@
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene_services.h:0: Note: No relevant classes found. No output generated.
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agent_pose_stamped.h:0: Note: No relevant classes found. No output generated.
-/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:10: Note: No relevant classes found. No output generated.
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/simulator.h:70[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator_node.cpp:61[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene_services.h:0: Note: No relevant classes found. No output generated.
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agent_pose_stamped.h:0: Note: No relevant classes found. No output generated.
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:10: Note: No relevant classes found. No output generated.
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/simulator.h:70[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator_node.cpp:61[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::initializeSimulation()[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:163:8:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kenv_is_flatland[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::initializeSimulation()[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:163:8:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kenv_is_flatland[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
   163 |   bool [01;35m[Kenv_is_flatland[m[K = true;
       |        [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::reconfigureCB(pedsim_simulator::PedsimSimulatorConfig&, uint32_t)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:216:40:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klevel[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::reconfigureCB(pedsim_simulator::PedsimSimulatorConfig&, uint32_t)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:216:40:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klevel[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   216 |                               [01;35m[Kuint32_t level[m[K)
       |                               [01;35m[K~~~~~~~~~^~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onPauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:242:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onPauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:242:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   242 | bool Simulator::onPauseSimulation([01;35m[Kstd_srvs::Empty::Request &request[m[K,
       |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:243:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:243:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   243 |                                   [01;35m[Kstd_srvs::Empty::Response &response[m[K)
       |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onUnpauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:249:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onUnpauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:249:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   249 | bool Simulator::onUnpauseSimulation([01;35m[Kstd_srvs::Empty::Request &request[m[K,
       |                                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:250:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:250:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   250 |                                     [01;35m[Kstd_srvs::Empty::Response &response[m[K)
       |                                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::spawnCallback(const ros::TimerEvent&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:256:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::spawnCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:256:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   256 | void Simulator::spawnCallback([01;35m[Kconst ros::TimerEvent &event[m[K)
       |                               [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In constructor ‘[01m[KScene::Scene(QObject*)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:55:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In constructor ‘[01m[KScene::Scene(QObject*)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:55:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    55 | Scene::Scene([01;35m[KQObject* parent[m[K) {
       |              [01;35m[K~~~~~~~~~^~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In member function ‘[01m[Kvirtual bool Scene::removeAllObstacles()[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:692:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:37[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:[m[K In member function ‘[01m[Kvirtual bool Scene::removeAllObstacles()[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:692:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
   692 | [01;35m[K}[m[K
       | [01;35m[K^[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/simulator.cpp:37[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:33[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene.cpp:33[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
-   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
-      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:[m[K In constructor ‘[01m[KConfig::Config(QObject*)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:37:25:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:[m[K In constructor ‘[01m[KConfig::Config(QObject*)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/config.cpp:37:25:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    37 | Config::Config([01;35m[KQObject* parent[m[K) {
       |                [01;35m[K~~~~~~~~~^~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agentstatemachine.cpp:39[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/agentstatemachine.cpp:39[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scenarioreader.cpp:36[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scenarioreader.cpp:36[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllPeds(std_srvs::SetBool::Request&, std_srvs::SetBool::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:116:66:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllPeds(std_srvs::SetBool::Request&, std_srvs::SetBool::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:116:66:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   116 | bool SceneServices::cb_removeAllPeds([01;35m[Kstd_srvs::SetBool::Request &request[m[K,
       |                                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllObstacles(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:325:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_removeAllObstacles(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:325:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   325 | bool SceneServices::cb_removeAllObstacles([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
       |                                           [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_resetPeds(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:343:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_resetPeds(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:343:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   343 | bool SceneServices::cb_resetPeds([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
       |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_clearWalls(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:540:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:[m[K In member function ‘[01m[Kbool SceneServices::cb_clearWalls(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:540:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   540 | bool SceneServices::cb_clearWalls([01;35m[Kstd_srvs::Trigger::Request &request[m[K, std_srvs::Trigger::Response &response)
       |                                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:15[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/scene_services.cpp:15[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:[m[K In member function ‘[01m[Kvoid AgentGroup::onPositionChanged(double, double)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agent.cpp:38[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:[m[K In member function ‘[01m[Kvoid AgentGroup::onPositionChanged(double, double)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   100 | void AgentGroup::onPositionChanged([01;35m[Kdouble x[m[K, double y) {
       |                                    [01;35m[K~~~~~~~^[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:53:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ky[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentgroup.cpp:100:53:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ky[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   100 | void AgentGroup::onPositionChanged(double x, [01;35m[Kdouble y[m[K) {
       |                                              [01;35m[K~~~~~~~^[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agent.cpp:38[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentcluster.cpp:35[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/agentcluster.cpp:35[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
-   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
-      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector QueueingWaypoint::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:82:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KposIn[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector QueueingWaypoint::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:82:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KposIn[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    82 | Ped::Tvector QueueingWaypoint::closestPoint([01;35m[Kconst Ped::Tvector& posIn[m[K,
       |                                             [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:83:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/queueingwaypoint.cpp:83:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    83 |                                             [01;35m[Kbool* withinWaypoint[m[K) const {
       |                                             [01;35m[K~~~~~~^~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/wall.cpp:32[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/wall.cpp:32[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector WaitingQueue::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:234:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kp[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector WaitingQueue::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:234:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kp[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   234 | Ped::Tvector WaitingQueue::closestPoint([01;35m[Kconst Ped::Tvector& p[m[K,
       |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~^[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:235:47:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:235:47:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
   235 |                                         [01;35m[Kbool* withinWaypoint[m[K) const {
       |                                         [01;35m[K~~~~~~^~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:36[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/element/waitingqueue.cpp:36[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupCoherenceForce::getForce(Ped::Tvector)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/alongwallforce.cpp:34[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
+      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupCoherenceForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/groupcoherenceforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    56 | Ped::Tvector GroupCoherenceForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
       |                                            [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/alongwallforce.cpp:34[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
-   44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
-      |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupRepulsionForce::getForce(Ped::Tvector)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupRepulsionForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/grouprepulsionforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    56 | Ped::Tvector GroupRepulsionForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
       |                                            [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector RandomForce::getForce(Ped::Tvector)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:77:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector RandomForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:77:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
    77 | Ped::Tvector RandomForce::getForce([01;35m[KPed::Tvector walkingDirection[m[K) {
       |                                    [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
 In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agentstatemachine.h:36[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agent.h:39[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:32[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:[m[K In member function ‘[01m[Kvoid QueueingWaypointPlanner::setDestination(Waypoint*)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:152:9:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kconst id[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/agentstatemachine.h:36[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/agent.h:39[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:32[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:[m[K In member function ‘[01m[Kvoid QueueingWaypointPlanner::setDestination(Waypoint*)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:152:9:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kconst id[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
   152 |         [01;35m[K"Waypoint provided to QueueingWaypointPlanner isn't a waiting queue! "[m[K
       |         [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
   153 | [01;35m[K        "(%s)"[m[K,
@@ -178,34 +178,34 @@ In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
 [01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
   214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
       |                        [01;36m[K^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:151:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:151:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
   151 |     [01;36m[KROS_ERROR[m[K(
       |     [01;36m[K^~~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:153:12:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/queueingplanner.cpp:153:12:[m[K [01;36m[Knote: [m[Kformat string is defined here
   153 |         "([01;36m[K%s[m[K)",
       |           [01;36m[K~^[m[K
       |            [01;36m[K|[m[K
       |            [01;36m[Kchar*[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:35[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/force/randomforce.cpp:35[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:[m[K At global scope:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/shoppingplanner.cpp:33[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/src/waypointplanner/shoppingplanner.cpp:33[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
-                 from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
-                 from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/moc_scene.cpp:9[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/obstacle.h:1[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/include/pedsim_simulator/../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/scene.h:46[m[K,
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/include/pedsim_simulator/moc_scene.cpp:9[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/moc_wall.cpp:9[m[K:
-[01m[K/home/az/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/../../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
+In file included from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/moc_wall.cpp:9[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/pedsim_simulator/include/pedsim_simulator/element/../../../../../src/arena/utils/pedsim_ros/pedsim_engine/pedsim_simulator/include/pedsim_simulator/element/wall.h:44:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* WallLayerString(WallLayer)[m[K’ defined but not used [[01;35m[K-Wunused-function[m[K]
    44 | static const char* [01;35m[KWallLayerString[m[K(WallLayer layer){
       |                    [01;35m[K^~~~~~~~~~~~~~~[m[K

@@ -119,25 +119,25 @@
 [35m[1mScanning dependencies of target pedsim_msgs_generate_messages_py[0m
 [  0%] Built target pedsim_msgs_generate_messages_py
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
-[  0%] Built target tf2_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
 [  0%] Built target sensor_msgs_generate_messages_py
 [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
 [  0%] Built target tf_generate_messages_nodejs
-[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
-[  0%] Built target roscpp_generate_messages_py
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
 [  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
 [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
-[  0%] Built target roscpp_generate_messages_eus
 [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  0%] Built target roscpp_generate_messages_nodejs
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
 [  0%] Built target rosgraph_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
-[  0%] Built target visualization_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
 [  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
@@ -189,14 +189,14 @@ WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conve
 [ 70%] [32mBuilding CXX object CMakeFiles/navfn.dir/src/navfn_ros.cpp.o[0m
 [35m[1mScanning dependencies of target navfn_generate_messages[0m
 [ 70%] Built target navfn_generate_messages
-[ 75%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/navfn/lib/libnavfn.so[0m
+[ 75%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib/libnavfn.so[0m
 [ 75%] Built target navfn
-[35m[1mScanning dependencies of target navfn_node[0m
-[ 80%] [32mBuilding CXX object CMakeFiles/navfn_node.dir/src/navfn_node.cpp.o[0m
 [35m[1mScanning dependencies of target navtest[0m
-[ 85%] [32mBuilding CXX object CMakeFiles/navtest.dir/src/navtest/navtest.cpp.o[0m
-[ 90%] [32mBuilding CXX object CMakeFiles/navtest.dir/src/navtest/navwin.cpp.o[0m
-[ 95%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/navfn/lib/navfn/navtest[0m
+[35m[1mScanning dependencies of target navfn_node[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/navtest.dir/src/navtest/navtest.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/navtest.dir/src/navtest/navwin.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/navfn_node.dir/src/navfn_node.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib/navfn/navtest[0m
 [ 95%] Built target navtest
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/navfn/lib/navfn/navfn_node[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/navfn/lib/navfn/navfn_node[0m
 [100%] Built target navfn_node

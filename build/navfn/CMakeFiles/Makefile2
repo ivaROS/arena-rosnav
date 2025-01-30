@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/planners/global/navfn
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/global/navfn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/navfn
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -262,14 +262,14 @@ test/clean: test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/clean
 CMakeFiles/navfn_node.dir/all: CMakeFiles/navfn.dir/all
 	$(MAKE) -f CMakeFiles/navfn_node.dir/build.make CMakeFiles/navfn_node.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_node.dir/build.make CMakeFiles/navfn_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=24,25 "Built target navfn_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=24,25 "Built target navfn_node"
 .PHONY : CMakeFiles/navfn_node.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_node.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_node.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_node.dir/rule
 
 # Convenience name for target.
@@ -367,14 +367,14 @@ CMakeFiles/navfn.dir/all: CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir
 CMakeFiles/navfn.dir/all: CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/all
 	$(MAKE) -f CMakeFiles/navfn.dir/build.make CMakeFiles/navfn.dir/depend
 	$(MAKE) -f CMakeFiles/navfn.dir/build.make CMakeFiles/navfn.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=9,10,11 "Built target navfn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=9,10,11 "Built target navfn"
 .PHONY : CMakeFiles/navfn.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn.dir/rule
 
 # Convenience name for target.
@@ -394,14 +394,14 @@ CMakeFiles/navfn.dir/clean:
 CMakeFiles/navfn_genpy.dir/all: CMakeFiles/navfn_generate_messages_py.dir/all
 	$(MAKE) -f CMakeFiles/navfn_genpy.dir/build.make CMakeFiles/navfn_genpy.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_genpy.dir/build.make CMakeFiles/navfn_genpy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_genpy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_genpy"
 .PHONY : CMakeFiles/navfn_genpy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_genpy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_genpy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_genpy.dir/rule
 
 # Convenience name for target.
@@ -421,14 +421,14 @@ CMakeFiles/navfn_genpy.dir/clean:
 CMakeFiles/navfn_gennodejs.dir/all: CMakeFiles/navfn_generate_messages_nodejs.dir/all
 	$(MAKE) -f CMakeFiles/navfn_gennodejs.dir/build.make CMakeFiles/navfn_gennodejs.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_gennodejs.dir/build.make CMakeFiles/navfn_gennodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_gennodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_gennodejs"
 .PHONY : CMakeFiles/navfn_gennodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_gennodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_gennodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_gennodejs.dir/rule
 
 # Convenience name for target.
@@ -450,14 +450,14 @@ CMakeFiles/navfn_generate_messages_nodejs.dir/all: CMakeFiles/_navfn_generate_me
 CMakeFiles/navfn_generate_messages_nodejs.dir/all: CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_nodejs.dir/build.make CMakeFiles/navfn_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_nodejs.dir/build.make CMakeFiles/navfn_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=19,20 "Built target navfn_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=19,20 "Built target navfn_generate_messages_nodejs"
 .PHONY : CMakeFiles/navfn_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -477,14 +477,14 @@ CMakeFiles/navfn_generate_messages_nodejs.dir/clean:
 CMakeFiles/navfn_geneus.dir/all: CMakeFiles/navfn_generate_messages_eus.dir/all
 	$(MAKE) -f CMakeFiles/navfn_geneus.dir/build.make CMakeFiles/navfn_geneus.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_geneus.dir/build.make CMakeFiles/navfn_geneus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_geneus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_geneus"
 .PHONY : CMakeFiles/navfn_geneus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_geneus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_geneus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_geneus.dir/rule
 
 # Convenience name for target.
@@ -506,14 +506,14 @@ CMakeFiles/navfn_generate_messages_eus.dir/all: CMakeFiles/geometry_msgs_generat
 CMakeFiles/navfn_generate_messages_eus.dir/all: CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_eus.dir/build.make CMakeFiles/navfn_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_eus.dir/build.make CMakeFiles/navfn_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=14,15,16 "Built target navfn_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=14,15,16 "Built target navfn_generate_messages_eus"
 .PHONY : CMakeFiles/navfn_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -533,14 +533,14 @@ CMakeFiles/navfn_generate_messages_eus.dir/clean:
 CMakeFiles/navfn_gencpp.dir/all: CMakeFiles/navfn_generate_messages_cpp.dir/all
 	$(MAKE) -f CMakeFiles/navfn_gencpp.dir/build.make CMakeFiles/navfn_gencpp.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_gencpp.dir/build.make CMakeFiles/navfn_gencpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_gencpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_gencpp"
 .PHONY : CMakeFiles/navfn_gencpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_gencpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_gencpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_gencpp.dir/rule
 
 # Convenience name for target.
@@ -560,14 +560,14 @@ CMakeFiles/navfn_gencpp.dir/clean:
 CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/all:
 	$(MAKE) -f CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/build.make CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/depend
 	$(MAKE) -f CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/build.make CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _navfn_generate_messages_check_deps_MakeNavPlan"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _navfn_generate_messages_check_deps_MakeNavPlan"
 .PHONY : CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/rule
 
 # Convenience name for target.
@@ -587,14 +587,14 @@ CMakeFiles/_navfn_generate_messages_check_deps_MakeNavPlan.dir/clean:
 CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -614,14 +614,14 @@ CMakeFiles/pedsim_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/visualization_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_py.dir/build.make CMakeFiles/visualization_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_py.dir/build.make CMakeFiles/visualization_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_py"
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visualization_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/visualization_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -641,14 +641,14 @@ CMakeFiles/visualization_msgs_generate_messages_py.dir/clean:
 CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -668,14 +668,14 @@ CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/visualization_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build.make CMakeFiles/visualization_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build.make CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/visualization_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -695,14 +695,14 @@ CMakeFiles/visualization_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -722,14 +722,14 @@ CMakeFiles/pedsim_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/nav_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_lisp.dir/build.make CMakeFiles/nav_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_lisp.dir/build.make CMakeFiles/nav_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/nav_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/nav_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -749,14 +749,14 @@ CMakeFiles/nav_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/nav_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_eus.dir/build.make CMakeFiles/nav_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_eus.dir/build.make CMakeFiles/nav_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/nav_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/nav_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/nav_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/nav_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -776,14 +776,14 @@ CMakeFiles/nav_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/visualization_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_eus.dir/build.make CMakeFiles/visualization_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_eus.dir/build.make CMakeFiles/visualization_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visualization_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/visualization_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -803,14 +803,14 @@ CMakeFiles/visualization_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/nav_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_cpp.dir/build.make CMakeFiles/nav_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_cpp.dir/build.make CMakeFiles/nav_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/nav_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/nav_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -830,14 +830,14 @@ CMakeFiles/nav_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/map_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/map_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/map_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/map_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/map_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -857,14 +857,14 @@ CMakeFiles/map_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/map_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_lisp.dir/build.make CMakeFiles/map_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_lisp.dir/build.make CMakeFiles/map_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/map_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/map_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/map_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/map_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -884,14 +884,14 @@ CMakeFiles/map_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/map_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_cpp.dir/build.make CMakeFiles/map_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_cpp.dir/build.make CMakeFiles/map_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/map_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/map_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/map_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/map_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -911,14 +911,14 @@ CMakeFiles/map_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -938,14 +938,14 @@ CMakeFiles/tf2_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/pedsim_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_eus.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_eus.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pedsim_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/pedsim_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -965,14 +965,14 @@ CMakeFiles/pedsim_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/tf2_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_lisp.dir/build.make CMakeFiles/tf2_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_lisp.dir/build.make CMakeFiles/tf2_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf2_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -992,14 +992,14 @@ CMakeFiles/tf2_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/std_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make CMakeFiles/std_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make CMakeFiles/std_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/std_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/std_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1019,14 +1019,14 @@ CMakeFiles/std_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/geometry_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make CMakeFiles/geometry_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -1046,14 +1046,14 @@ CMakeFiles/geometry_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/std_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/std_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/std_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/std_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -1075,14 +1075,14 @@ CMakeFiles/navfn_generate_messages_py.dir/all: CMakeFiles/_navfn_generate_messag
 CMakeFiles/navfn_generate_messages_py.dir/all: CMakeFiles/geometry_msgs_generate_messages_py.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_py.dir/build.make CMakeFiles/navfn_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_py.dir/build.make CMakeFiles/navfn_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=21,22,23 "Built target navfn_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=21,22,23 "Built target navfn_generate_messages_py"
 .PHONY : CMakeFiles/navfn_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1102,14 +1102,14 @@ CMakeFiles/navfn_generate_messages_py.dir/clean:
 CMakeFiles/std_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_py"
 .PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/std_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1129,14 +1129,14 @@ CMakeFiles/std_msgs_generate_messages_py.dir/clean:
 CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/all:
 	$(MAKE) -f CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/build.make CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/depend
 	$(MAKE) -f CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/build.make CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _navfn_generate_messages_check_deps_SetCostmap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _navfn_generate_messages_check_deps_SetCostmap"
 .PHONY : CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/rule
 
 # Convenience name for target.
@@ -1156,14 +1156,14 @@ CMakeFiles/_navfn_generate_messages_check_deps_SetCostmap.dir/clean:
 CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1183,14 +1183,14 @@ CMakeFiles/geometry_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/tf_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/tf_generate_messages_cpp.dir/build.make CMakeFiles/tf_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/tf_generate_messages_cpp.dir/build.make CMakeFiles/tf_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_cpp"
 .PHONY : CMakeFiles/tf_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1210,14 +1210,14 @@ CMakeFiles/tf_generate_messages_cpp.dir/clean:
 CMakeFiles/dynamic_reconfigure_gencfg.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make CMakeFiles/dynamic_reconfigure_gencfg.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make CMakeFiles/dynamic_reconfigure_gencfg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_gencfg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_gencfg"
 .PHONY : CMakeFiles/dynamic_reconfigure_gencfg.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_gencfg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_gencfg.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
 
 # Convenience name for target.
@@ -1237,14 +1237,14 @@ CMakeFiles/dynamic_reconfigure_gencfg.dir/clean:
 CMakeFiles/tf2_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build.make CMakeFiles/tf2_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build.make CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf2_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1264,14 +1264,14 @@ CMakeFiles/tf2_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_lisp"
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1291,14 +1291,14 @@ CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean:
 CMakeFiles/map_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_py.dir/build.make CMakeFiles/map_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_py.dir/build.make CMakeFiles/map_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_py"
 .PHONY : CMakeFiles/map_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/map_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/map_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/map_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1318,14 +1318,14 @@ CMakeFiles/map_msgs_generate_messages_py.dir/clean:
 CMakeFiles/tests.dir/all: test/CMakeFiles/path_calc_test.dir/all
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tests"
 .PHONY : CMakeFiles/tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tests.dir/rule
 
 # Convenience name for target.
@@ -1347,14 +1347,14 @@ CMakeFiles/navfn_generate_messages_lisp.dir/all: CMakeFiles/_navfn_generate_mess
 CMakeFiles/navfn_generate_messages_lisp.dir/all: CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_lisp.dir/build.make CMakeFiles/navfn_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_lisp.dir/build.make CMakeFiles/navfn_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=17,18 "Built target navfn_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=17,18 "Built target navfn_generate_messages_lisp"
 .PHONY : CMakeFiles/navfn_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1374,14 +1374,14 @@ CMakeFiles/navfn_generate_messages_lisp.dir/clean:
 CMakeFiles/costmap_2d_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_lisp.dir/build.make CMakeFiles/costmap_2d_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_lisp.dir/build.make CMakeFiles/costmap_2d_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_lisp"
 .PHONY : CMakeFiles/costmap_2d_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1401,14 +1401,14 @@ CMakeFiles/costmap_2d_generate_messages_lisp.dir/clean:
 CMakeFiles/roscpp_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_lisp.dir/build.make CMakeFiles/roscpp_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_lisp.dir/build.make CMakeFiles/roscpp_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_lisp"
 .PHONY : CMakeFiles/roscpp_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roscpp_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/roscpp_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/roscpp_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1428,14 +1428,14 @@ CMakeFiles/roscpp_generate_messages_lisp.dir/clean:
 CMakeFiles/clean_test_results.dir/all:
 	$(MAKE) -f CMakeFiles/clean_test_results.dir/build.make CMakeFiles/clean_test_results.dir/depend
 	$(MAKE) -f CMakeFiles/clean_test_results.dir/build.make CMakeFiles/clean_test_results.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target clean_test_results"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target clean_test_results"
 .PHONY : CMakeFiles/clean_test_results.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/clean_test_results.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/clean_test_results.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/clean_test_results.dir/rule
 
 # Convenience name for target.
@@ -1455,14 +1455,14 @@ CMakeFiles/clean_test_results.dir/clean:
 CMakeFiles/actionlib_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_lisp.dir/build.make CMakeFiles/actionlib_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_lisp.dir/build.make CMakeFiles/actionlib_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_lisp"
 .PHONY : CMakeFiles/actionlib_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1486,14 +1486,14 @@ CMakeFiles/navfn_generate_messages.dir/all: CMakeFiles/navfn_generate_messages_l
 CMakeFiles/navfn_generate_messages.dir/all: CMakeFiles/navfn_generate_messages_cpp.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages.dir/build.make CMakeFiles/navfn_generate_messages.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages.dir/build.make CMakeFiles/navfn_generate_messages.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_generate_messages"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_generate_messages"
 .PHONY : CMakeFiles/navfn_generate_messages.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 12
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages.dir/rule
 
 # Convenience name for target.
@@ -1513,14 +1513,14 @@ CMakeFiles/navfn_generate_messages.dir/clean:
 CMakeFiles/map_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_eus.dir/build.make CMakeFiles/map_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/map_msgs_generate_messages_eus.dir/build.make CMakeFiles/map_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target map_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/map_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/map_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/map_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/map_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -1540,14 +1540,14 @@ CMakeFiles/map_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/_catkin_empty_exported_target.dir/all:
 	$(MAKE) -f CMakeFiles/_catkin_empty_exported_target.dir/build.make CMakeFiles/_catkin_empty_exported_target.dir/depend
 	$(MAKE) -f CMakeFiles/_catkin_empty_exported_target.dir/build.make CMakeFiles/_catkin_empty_exported_target.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _catkin_empty_exported_target"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _catkin_empty_exported_target"
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_catkin_empty_exported_target.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_catkin_empty_exported_target.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 # Convenience name for target.
@@ -1567,14 +1567,14 @@ CMakeFiles/_catkin_empty_exported_target.dir/clean:
 CMakeFiles/run_tests.dir/all: test/CMakeFiles/_run_tests_navfn.dir/all
 	$(MAKE) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/depend
 	$(MAKE) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests"
 .PHONY : CMakeFiles/run_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/run_tests.dir/rule
 
 # Convenience name for target.
@@ -1594,14 +1594,14 @@ CMakeFiles/run_tests.dir/clean:
 CMakeFiles/costmap_2d_gencfg.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_gencfg.dir/build.make CMakeFiles/costmap_2d_gencfg.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_gencfg.dir/build.make CMakeFiles/costmap_2d_gencfg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_gencfg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_gencfg"
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_gencfg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_gencfg.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_gencfg.dir/rule
 
 # Convenience name for target.
@@ -1623,14 +1623,14 @@ CMakeFiles/navfn_generate_messages_cpp.dir/all: CMakeFiles/_navfn_generate_messa
 CMakeFiles/navfn_generate_messages_cpp.dir/all: CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_cpp.dir/build.make CMakeFiles/navfn_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_generate_messages_cpp.dir/build.make CMakeFiles/navfn_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=12,13 "Built target navfn_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=12,13 "Built target navfn_generate_messages_cpp"
 .PHONY : CMakeFiles/navfn_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1650,14 +1650,14 @@ CMakeFiles/navfn_generate_messages_cpp.dir/clean:
 CMakeFiles/tf_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/tf_generate_messages_eus.dir/build.make CMakeFiles/tf_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/tf_generate_messages_eus.dir/build.make CMakeFiles/tf_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_eus"
 .PHONY : CMakeFiles/tf_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -1677,14 +1677,14 @@ CMakeFiles/tf_generate_messages_eus.dir/clean:
 CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1704,14 +1704,14 @@ CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/navtest.dir/all: CMakeFiles/navfn.dir/all
 	$(MAKE) -f CMakeFiles/navtest.dir/build.make CMakeFiles/navtest.dir/depend
 	$(MAKE) -f CMakeFiles/navtest.dir/build.make CMakeFiles/navtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=26,27,28 "Built target navtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=26,27,28 "Built target navtest"
 .PHONY : CMakeFiles/navtest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navtest.dir/rule
 
 # Convenience name for target.
@@ -1731,14 +1731,14 @@ CMakeFiles/navtest.dir/clean:
 CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_py"
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1758,14 +1758,14 @@ CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean:
 CMakeFiles/actionlib_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -1785,14 +1785,14 @@ CMakeFiles/actionlib_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/download_extra_data.dir/all:
 	$(MAKE) -f CMakeFiles/download_extra_data.dir/build.make CMakeFiles/download_extra_data.dir/depend
 	$(MAKE) -f CMakeFiles/download_extra_data.dir/build.make CMakeFiles/download_extra_data.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target download_extra_data"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target download_extra_data"
 .PHONY : CMakeFiles/download_extra_data.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/download_extra_data.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/download_extra_data.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/download_extra_data.dir/rule
 
 # Convenience name for target.
@@ -1812,14 +1812,14 @@ CMakeFiles/download_extra_data.dir/clean:
 CMakeFiles/doxygen.dir/all:
 	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/depend
 	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target doxygen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target doxygen"
 .PHONY : CMakeFiles/doxygen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/doxygen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/doxygen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/doxygen.dir/rule
 
 # Convenience name for target.
@@ -1839,14 +1839,14 @@ CMakeFiles/doxygen.dir/clean:
 CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_py"
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1866,14 +1866,14 @@ CMakeFiles/rosgraph_msgs_generate_messages_py.dir/clean:
 CMakeFiles/tf2_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_py.dir/build.make CMakeFiles/tf2_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_py.dir/build.make CMakeFiles/tf2_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_py"
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf2_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf2_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1893,14 +1893,14 @@ CMakeFiles/tf2_msgs_generate_messages_py.dir/clean:
 CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_nodejs"
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -1920,14 +1920,14 @@ CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean:
 CMakeFiles/nav_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/nav_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/nav_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/nav_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/nav_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -1947,14 +1947,14 @@ CMakeFiles/nav_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make CMakeFiles/sensor_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1974,14 +1974,14 @@ CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/costmap_2d_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_py.dir/build.make CMakeFiles/costmap_2d_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_py.dir/build.make CMakeFiles/costmap_2d_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_py"
 .PHONY : CMakeFiles/costmap_2d_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2001,14 +2001,14 @@ CMakeFiles/costmap_2d_generate_messages_py.dir/clean:
 CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_eus"
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2028,14 +2028,14 @@ CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean:
 CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2055,14 +2055,14 @@ CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_cpp"
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2082,14 +2082,14 @@ CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean:
 CMakeFiles/nav_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_py.dir/build.make CMakeFiles/nav_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/nav_msgs_generate_messages_py.dir/build.make CMakeFiles/nav_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target nav_msgs_generate_messages_py"
 .PHONY : CMakeFiles/nav_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/nav_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/nav_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/nav_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2109,14 +2109,14 @@ CMakeFiles/nav_msgs_generate_messages_py.dir/clean:
 CMakeFiles/tf_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/tf_generate_messages_lisp.dir/build.make CMakeFiles/tf_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/tf_generate_messages_lisp.dir/build.make CMakeFiles/tf_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_lisp"
 .PHONY : CMakeFiles/tf_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -2136,14 +2136,14 @@ CMakeFiles/tf_generate_messages_lisp.dir/clean:
 CMakeFiles/costmap_2d_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_cpp.dir/build.make CMakeFiles/costmap_2d_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_cpp.dir/build.make CMakeFiles/costmap_2d_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_cpp"
 .PHONY : CMakeFiles/costmap_2d_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2163,14 +2163,14 @@ CMakeFiles/costmap_2d_generate_messages_cpp.dir/clean:
 CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2190,14 +2190,14 @@ CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -2217,14 +2217,14 @@ CMakeFiles/pedsim_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/actionlib_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_cpp.dir/build.make CMakeFiles/actionlib_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_cpp.dir/build.make CMakeFiles/actionlib_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_cpp"
 .PHONY : CMakeFiles/actionlib_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2244,14 +2244,14 @@ CMakeFiles/actionlib_generate_messages_cpp.dir/clean:
 CMakeFiles/actionlib_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_py.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_py.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_py"
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2271,14 +2271,14 @@ CMakeFiles/actionlib_msgs_generate_messages_py.dir/clean:
 CMakeFiles/std_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make CMakeFiles/std_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make CMakeFiles/std_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/std_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/std_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -2298,14 +2298,14 @@ CMakeFiles/std_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/costmap_2d_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_nodejs.dir/build.make CMakeFiles/costmap_2d_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_nodejs.dir/build.make CMakeFiles/costmap_2d_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_nodejs"
 .PHONY : CMakeFiles/costmap_2d_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2325,14 +2325,14 @@ CMakeFiles/costmap_2d_generate_messages_nodejs.dir/clean:
 CMakeFiles/navfn_genlisp.dir/all: CMakeFiles/navfn_generate_messages_lisp.dir/all
 	$(MAKE) -f CMakeFiles/navfn_genlisp.dir/build.make CMakeFiles/navfn_genlisp.dir/depend
 	$(MAKE) -f CMakeFiles/navfn_genlisp.dir/build.make CMakeFiles/navfn_genlisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_genlisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target navfn_genlisp"
 .PHONY : CMakeFiles/navfn_genlisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/navfn_genlisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/navfn_genlisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/navfn_genlisp.dir/rule
 
 # Convenience name for target.
@@ -2352,14 +2352,14 @@ CMakeFiles/navfn_genlisp.dir/clean:
 CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2379,14 +2379,14 @@ CMakeFiles/geometry_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/costmap_2d_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_eus.dir/build.make CMakeFiles/costmap_2d_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/costmap_2d_generate_messages_eus.dir/build.make CMakeFiles/costmap_2d_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target costmap_2d_generate_messages_eus"
 .PHONY : CMakeFiles/costmap_2d_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/costmap_2d_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/costmap_2d_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/costmap_2d_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2406,14 +2406,14 @@ CMakeFiles/costmap_2d_generate_messages_eus.dir/clean:
 CMakeFiles/geometry_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make CMakeFiles/geometry_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make CMakeFiles/geometry_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target geometry_msgs_generate_messages_py"
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/geometry_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/geometry_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2433,14 +2433,14 @@ CMakeFiles/geometry_msgs_generate_messages_py.dir/clean:
 CMakeFiles/pedsim_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_py.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/pedsim_msgs_generate_messages_py.dir/build.make CMakeFiles/pedsim_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target pedsim_msgs_generate_messages_py"
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pedsim_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/pedsim_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/pedsim_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2460,14 +2460,14 @@ CMakeFiles/pedsim_msgs_generate_messages_py.dir/clean:
 CMakeFiles/tf2_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_eus.dir/build.make CMakeFiles/tf2_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/tf2_msgs_generate_messages_eus.dir/build.make CMakeFiles/tf2_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf2_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf2_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf2_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf2_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2487,14 +2487,14 @@ CMakeFiles/tf2_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/sensor_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make CMakeFiles/sensor_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make CMakeFiles/sensor_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_py"
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sensor_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sensor_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2514,14 +2514,14 @@ CMakeFiles/sensor_msgs_generate_messages_py.dir/clean:
 CMakeFiles/tf_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/tf_generate_messages_nodejs.dir/build.make CMakeFiles/tf_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/tf_generate_messages_nodejs.dir/build.make CMakeFiles/tf_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_nodejs"
 .PHONY : CMakeFiles/tf_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2541,14 +2541,14 @@ CMakeFiles/tf_generate_messages_nodejs.dir/clean:
 CMakeFiles/roscpp_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_py.dir/build.make CMakeFiles/roscpp_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_py.dir/build.make CMakeFiles/roscpp_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_py"
 .PHONY : CMakeFiles/roscpp_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roscpp_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/roscpp_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/roscpp_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2568,14 +2568,14 @@ CMakeFiles/roscpp_generate_messages_py.dir/clean:
 CMakeFiles/roscpp_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_cpp.dir/build.make CMakeFiles/roscpp_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_cpp.dir/build.make CMakeFiles/roscpp_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_cpp"
 .PHONY : CMakeFiles/roscpp_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roscpp_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/roscpp_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/roscpp_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2595,14 +2595,14 @@ CMakeFiles/roscpp_generate_messages_cpp.dir/clean:
 CMakeFiles/roscpp_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_eus.dir/build.make CMakeFiles/roscpp_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_eus.dir/build.make CMakeFiles/roscpp_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_eus"
 .PHONY : CMakeFiles/roscpp_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roscpp_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/roscpp_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/roscpp_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2622,14 +2622,14 @@ CMakeFiles/roscpp_generate_messages_eus.dir/clean:
 CMakeFiles/roscpp_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make CMakeFiles/roscpp_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make CMakeFiles/roscpp_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target roscpp_generate_messages_nodejs"
 .PHONY : CMakeFiles/roscpp_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roscpp_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/roscpp_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/roscpp_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2649,14 +2649,14 @@ CMakeFiles/roscpp_generate_messages_nodejs.dir/clean:
 CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2676,14 +2676,14 @@ CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/visualization_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build.make CMakeFiles/visualization_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build.make CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target visualization_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/visualization_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2703,14 +2703,14 @@ CMakeFiles/visualization_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/sensor_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make CMakeFiles/sensor_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2730,14 +2730,14 @@ CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make CMakeFiles/sensor_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -2757,14 +2757,14 @@ CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean:
 CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2784,14 +2784,14 @@ CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target rosgraph_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2811,14 +2811,14 @@ CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/actionlib_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_eus"
 .PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2838,14 +2838,14 @@ CMakeFiles/actionlib_generate_messages_eus.dir/clean:
 CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_cpp"
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -2865,14 +2865,14 @@ CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/clean:
 CMakeFiles/actionlib_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_nodejs.dir/build.make CMakeFiles/actionlib_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_nodejs.dir/build.make CMakeFiles/actionlib_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_nodejs"
 .PHONY : CMakeFiles/actionlib_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -2892,14 +2892,14 @@ CMakeFiles/actionlib_generate_messages_nodejs.dir/clean:
 CMakeFiles/actionlib_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_py.dir/build.make CMakeFiles/actionlib_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_generate_messages_py.dir/build.make CMakeFiles/actionlib_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_generate_messages_py"
 .PHONY : CMakeFiles/actionlib_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2919,14 +2919,14 @@ CMakeFiles/actionlib_generate_messages_py.dir/clean:
 CMakeFiles/std_msgs_generate_messages_eus.dir/all:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_eus.dir/build.make CMakeFiles/std_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_eus.dir/build.make CMakeFiles/std_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_eus"
 .PHONY : CMakeFiles/std_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/std_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/std_msgs_generate_messages_eus.dir/rule
 
 # Convenience name for target.
@@ -2946,14 +2946,14 @@ CMakeFiles/std_msgs_generate_messages_eus.dir/clean:
 CMakeFiles/tf_generate_messages_py.dir/all:
 	$(MAKE) -f CMakeFiles/tf_generate_messages_py.dir/build.make CMakeFiles/tf_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/tf_generate_messages_py.dir/build.make CMakeFiles/tf_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target tf_generate_messages_py"
 .PHONY : CMakeFiles/tf_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tf_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tf_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/tf_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -2973,14 +2973,14 @@ CMakeFiles/tf_generate_messages_py.dir/clean:
 CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_nodejs"
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
@@ -3000,14 +3000,14 @@ CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/clean:
 CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build.make CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target actionlib_msgs_generate_messages_lisp"
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -3028,14 +3028,14 @@ gtest/googlemock/CMakeFiles/gmock_main.dir/all: gtest/googlemock/CMakeFiles/gmoc
 gtest/googlemock/CMakeFiles/gmock_main.dir/all: gtest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/googlemock/CMakeFiles/gmock_main.dir/build.make gtest/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) -f gtest/googlemock/CMakeFiles/gmock_main.dir/build.make gtest/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=3,4 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=3,4 "Built target gmock_main"
 .PHONY : gtest/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/googlemock/CMakeFiles/gmock_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : gtest/googlemock/CMakeFiles/gmock_main.dir/rule
 
 # Convenience name for target.
@@ -3055,14 +3055,14 @@ gtest/googlemock/CMakeFiles/gmock_main.dir/clean:
 gtest/googlemock/CMakeFiles/gmock.dir/all: gtest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/googlemock/CMakeFiles/gmock.dir/build.make gtest/googlemock/CMakeFiles/gmock.dir/depend
 	$(MAKE) -f gtest/googlemock/CMakeFiles/gmock.dir/build.make gtest/googlemock/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=1,2 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=1,2 "Built target gmock"
 .PHONY : gtest/googlemock/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/googlemock/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/googlemock/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : gtest/googlemock/CMakeFiles/gmock.dir/rule
 
 # Convenience name for target.
@@ -3082,14 +3082,14 @@ gtest/googlemock/CMakeFiles/gmock.dir/clean:
 gtest/googletest/CMakeFiles/gtest_main.dir/all: gtest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/googletest/CMakeFiles/gtest_main.dir/build.make gtest/googletest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f gtest/googletest/CMakeFiles/gtest_main.dir/build.make gtest/googletest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=7,8 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=7,8 "Built target gtest_main"
 .PHONY : gtest/googletest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/googletest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/googletest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : gtest/googletest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.
@@ -3109,14 +3109,14 @@ gtest/googletest/CMakeFiles/gtest_main.dir/clean:
 gtest/googletest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f gtest/googletest/CMakeFiles/gtest.dir/build.make gtest/googletest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f gtest/googletest/CMakeFiles/gtest.dir/build.make gtest/googletest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=5,6 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=5,6 "Built target gtest"
 .PHONY : gtest/googletest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/googletest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/googletest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : gtest/googletest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.
@@ -3137,14 +3137,14 @@ test/CMakeFiles/path_calc_test.dir/all: CMakeFiles/navfn.dir/all
 test/CMakeFiles/path_calc_test.dir/all: gtest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f test/CMakeFiles/path_calc_test.dir/build.make test/CMakeFiles/path_calc_test.dir/depend
 	$(MAKE) -f test/CMakeFiles/path_calc_test.dir/build.make test/CMakeFiles/path_calc_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num=29,30,31 "Built target path_calc_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num=29,30,31 "Built target path_calc_test"
 .PHONY : test/CMakeFiles/path_calc_test.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/path_calc_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/path_calc_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/path_calc_test.dir/rule
 
 # Convenience name for target.
@@ -3164,14 +3164,14 @@ test/CMakeFiles/path_calc_test.dir/clean:
 test/CMakeFiles/run_tests_navfn.dir/all: test/CMakeFiles/run_tests_navfn_gtest.dir/all
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn.dir/build.make test/CMakeFiles/run_tests_navfn.dir/depend
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn.dir/build.make test/CMakeFiles/run_tests_navfn.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn"
 .PHONY : test/CMakeFiles/run_tests_navfn.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/run_tests_navfn.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests_navfn.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/run_tests_navfn.dir/rule
 
 # Convenience name for target.
@@ -3191,14 +3191,14 @@ test/CMakeFiles/run_tests_navfn.dir/clean:
 test/CMakeFiles/_run_tests_navfn.dir/all: test/CMakeFiles/_run_tests_navfn_gtest.dir/all
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn.dir/build.make test/CMakeFiles/_run_tests_navfn.dir/depend
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn.dir/build.make test/CMakeFiles/_run_tests_navfn.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn"
 .PHONY : test/CMakeFiles/_run_tests_navfn.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/_run_tests_navfn.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/_run_tests_navfn.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/_run_tests_navfn.dir/rule
 
 # Convenience name for target.
@@ -3218,14 +3218,14 @@ test/CMakeFiles/_run_tests_navfn.dir/clean:
 test/CMakeFiles/run_tests_navfn_gtest.dir/all: test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/all
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn_gtest.dir/build.make test/CMakeFiles/run_tests_navfn_gtest.dir/depend
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn_gtest.dir/build.make test/CMakeFiles/run_tests_navfn_gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn_gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn_gtest"
 .PHONY : test/CMakeFiles/run_tests_navfn_gtest.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/run_tests_navfn_gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests_navfn_gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/run_tests_navfn_gtest.dir/rule
 
 # Convenience name for target.
@@ -3245,14 +3245,14 @@ test/CMakeFiles/run_tests_navfn_gtest.dir/clean:
 test/CMakeFiles/_run_tests_navfn_gtest.dir/all: test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/all
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn_gtest.dir/build.make test/CMakeFiles/_run_tests_navfn_gtest.dir/depend
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn_gtest.dir/build.make test/CMakeFiles/_run_tests_navfn_gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn_gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn_gtest"
 .PHONY : test/CMakeFiles/_run_tests_navfn_gtest.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/_run_tests_navfn_gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/_run_tests_navfn_gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/_run_tests_navfn_gtest.dir/rule
 
 # Convenience name for target.
@@ -3272,14 +3272,14 @@ test/CMakeFiles/_run_tests_navfn_gtest.dir/clean:
 test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/all: test/CMakeFiles/path_calc_test.dir/all
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/build.make test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/depend
 	$(MAKE) -f test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/build.make test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn_gtest_path_calc_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target run_tests_navfn_gtest_path_calc_test"
 .PHONY : test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/rule
 
 # Convenience name for target.
@@ -3299,14 +3299,14 @@ test/CMakeFiles/run_tests_navfn_gtest_path_calc_test.dir/clean:
 test/CMakeFiles/clean_test_results_navfn.dir/all:
 	$(MAKE) -f test/CMakeFiles/clean_test_results_navfn.dir/build.make test/CMakeFiles/clean_test_results_navfn.dir/depend
 	$(MAKE) -f test/CMakeFiles/clean_test_results_navfn.dir/build.make test/CMakeFiles/clean_test_results_navfn.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target clean_test_results_navfn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target clean_test_results_navfn"
 .PHONY : test/CMakeFiles/clean_test_results_navfn.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/clean_test_results_navfn.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/clean_test_results_navfn.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/clean_test_results_navfn.dir/rule
 
 # Convenience name for target.
@@ -3328,14 +3328,14 @@ test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/all: test/CMakeFiles/p
 test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/all: test/CMakeFiles/clean_test_results_navfn.dir/all
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/build.make test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/depend
 	$(MAKE) -f test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/build.make test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn_gtest_path_calc_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles --progress-num= "Built target _run_tests_navfn_gtest_path_calc_test"
 .PHONY : test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/arena_ws/build/navfn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navfn/CMakeFiles 0
 .PHONY : test/CMakeFiles/_run_tests_navfn_gtest_path_calc_test.dir/rule
 
 # Convenience name for target.

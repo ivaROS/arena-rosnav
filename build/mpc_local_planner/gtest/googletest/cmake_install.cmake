@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/az/arena_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

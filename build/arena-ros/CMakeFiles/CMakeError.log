@@ -1,21 +1,21 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp
+Change Dir: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_17f9a/fast && /usr/bin/make -f CMakeFiles/cmTC_17f9a.dir/build.make CMakeFiles/cmTC_17f9a.dir/build
-make[1]: Entering directory '/home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_17f9a.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_17f9a.dir/src.c.o   -c /home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_17f9a
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17f9a.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_17f9a.dir/src.c.o  -o cmTC_17f9a 
-/usr/bin/ld: CMakeFiles/cmTC_17f9a.dir/src.c.o: in function `main':
+Run Build Command(s):/usr/bin/make cmTC_c9ccd/fast && /usr/bin/make -f CMakeFiles/cmTC_c9ccd.dir/build.make CMakeFiles/cmTC_c9ccd.dir/build
+make[1]: Entering directory '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c9ccd.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_c9ccd.dir/src.c.o   -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_c9ccd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c9ccd.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_c9ccd.dir/src.c.o  -o cmTC_c9ccd 
+/usr/bin/ld: CMakeFiles/cmTC_c9ccd.dir/src.c.o: in function `main':
 src.c:(.text+0x46): undefined reference to `pthread_create'
 /usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
 /usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_17f9a.dir/build.make:87: cmTC_17f9a] Error 1
-make[1]: Leaving directory '/home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_17f9a/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_c9ccd.dir/build.make:87: cmTC_c9ccd] Error 1
+make[1]: Leaving directory '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c9ccd/fast] Error 2
 
 
 Source file was:
@@ -39,20 +39,20 @@ int main(void)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp
+Change Dir: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_846b4/fast && /usr/bin/make -f CMakeFiles/cmTC_846b4.dir/build.make CMakeFiles/cmTC_846b4.dir/build
-make[1]: Entering directory '/home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_846b4.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_846b4.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
-Linking C executable cmTC_846b4
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_846b4.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_846b4.dir/CheckFunctionExists.c.o  -o cmTC_846b4  -lpthreads 
+Run Build Command(s):/usr/bin/make cmTC_2634b/fast && /usr/bin/make -f CMakeFiles/cmTC_2634b.dir/build.make CMakeFiles/cmTC_2634b.dir/build
+make[1]: Entering directory '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2634b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_2634b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2634b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2634b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_2634b.dir/CheckFunctionExists.c.o  -o cmTC_2634b  -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_846b4.dir/build.make:87: cmTC_846b4] Error 1
-make[1]: Leaving directory '/home/az/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_846b4/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_2634b.dir/build.make:87: cmTC_2634b] Error 1
+make[1]: Leaving directory '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/arena-ros/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_2634b/fast] Error 2
 
 
 

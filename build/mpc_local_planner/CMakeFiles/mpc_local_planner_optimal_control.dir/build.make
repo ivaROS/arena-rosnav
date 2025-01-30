@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/mpc/mpc_local_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mpc_local_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner
 
 # Include any dependencies generated for this target.
 include CMakeFiles/mpc_local_planner_optimal_control.dir/depend.make
@@ -58,95 +58,95 @@ include CMakeFiles/mpc_local_planner_optimal_control.dir/progress.make
 include CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.s
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o: CMakeFiles/mpc_local_planner_optimal_control.dir/flags.make
-CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
+CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp > CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.i
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp -o CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.s
 
 # Object files for target mpc_local_planner_optimal_control
 mpc_local_planner_optimal_control_OBJECTS = \
@@ -161,29 +161,29 @@ mpc_local_planner_optimal_control_OBJECTS = \
 # External object files for target mpc_local_planner_optimal_control
 mpc_local_planner_optimal_control_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/build.make
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimal_control.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimization.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /usr/lib/libipopt.so
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX shared library /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/full_discretization_grid_base_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_grid_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/finite_differences_variable_grid_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/stage_inequality_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/quadratic_cost_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/final_state_conditions_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/src/optimal_control/min_time_via_points_cost.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimal_control.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_optimization.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /usr/lib/libipopt.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so: CMakeFiles/mpc_local_planner_optimal_control.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mpc_local_planner_optimal_control.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/mpc_local_planner_optimal_control.dir/build: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so
+CMakeFiles/mpc_local_planner_optimal_control.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_optimal_control.so
 
 .PHONY : CMakeFiles/mpc_local_planner_optimal_control.dir/build
 
@@ -192,6 +192,6 @@ CMakeFiles/mpc_local_planner_optimal_control.dir/clean:
 .PHONY : CMakeFiles/mpc_local_planner_optimal_control.dir/clean
 
 CMakeFiles/mpc_local_planner_optimal_control.dir/depend:
-	cd /home/az/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_optimal_control.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_optimal_control.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mpc_local_planner_optimal_control.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mbf_costmap_nav
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav
 
 # Include any dependencies generated for this target.
 include CMakeFiles/mbf_nav_core_wrapper.dir/depend.make
@@ -58,43 +58,43 @@ include CMakeFiles/mbf_nav_core_wrapper.dir/progress.make
 include CMakeFiles/mbf_nav_core_wrapper.dir/flags.make
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o: CMakeFiles/mbf_nav_core_wrapper.dir/flags.make
-CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o: /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o -c /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp
+CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.i
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_global_planner.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.s
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o: CMakeFiles/mbf_nav_core_wrapper.dir/flags.make
-CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o: /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o -c /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp
+CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.i
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_local_planner.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.s
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o: CMakeFiles/mbf_nav_core_wrapper.dir/flags.make
-CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o: /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o -c /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp
+CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp > CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.i
 
 CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/src/nav_core_wrapper/wrapper_recovery_behavior.cpp -o CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.s
 
 # Object files for target mbf_nav_core_wrapper
 mbf_nav_core_wrapper_OBJECTS = \
@@ -105,58 +105,58 @@ mbf_nav_core_wrapper_OBJECTS = \
 # External object files for target mbf_nav_core_wrapper
 mbf_nav_core_wrapper_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/build.make
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/arena_ws/devel/.private/mbf_abstract_nav/lib/libmbf_abstract_server.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
-/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_global_planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_local_planner.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/src/nav_core_wrapper/wrapper_recovery_behavior.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/lib/libmbf_abstract_server.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib/libmbf_utility.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so: CMakeFiles/mbf_nav_core_wrapper.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mbf_nav_core_wrapper.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/mbf_nav_core_wrapper.dir/build: /home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so
+CMakeFiles/mbf_nav_core_wrapper.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so
 
 .PHONY : CMakeFiles/mbf_nav_core_wrapper.dir/build
 
@@ -165,6 +165,6 @@ CMakeFiles/mbf_nav_core_wrapper.dir/clean:
 .PHONY : CMakeFiles/mbf_nav_core_wrapper.dir/clean
 
 CMakeFiles/mbf_nav_core_wrapper.dir/depend:
-	cd /home/az/arena_ws/build/mbf_costmap_nav && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav /home/az/arena_ws/build/mbf_costmap_nav/CMakeFiles/mbf_nav_core_wrapper.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/CMakeFiles/mbf_nav_core_wrapper.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mbf_nav_core_wrapper.dir/depend
 

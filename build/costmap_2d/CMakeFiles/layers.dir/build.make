@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/costmap_2d
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d
 
 # Include any dependencies generated for this target.
 include CMakeFiles/layers.dir/depend.make
@@ -58,82 +58,82 @@ include CMakeFiles/layers.dir/progress.make
 include CMakeFiles/layers.dir/flags.make
 
 CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
+CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
 
 CMakeFiles/layers.dir/plugins/inflation_layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/plugins/inflation_layer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp > CMakeFiles/layers.dir/plugins/inflation_layer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp > CMakeFiles/layers.dir/plugins/inflation_layer.cpp.i
 
 CMakeFiles/layers.dir/plugins/inflation_layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/plugins/inflation_layer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp -o CMakeFiles/layers.dir/plugins/inflation_layer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp -o CMakeFiles/layers.dir/plugins/inflation_layer.cpp.s
 
 CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
+CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
 
 CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp > CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp > CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.i
 
 CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp -o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp -o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.s
 
 CMakeFiles/layers.dir/plugins/static_layer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/plugins/static_layer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/layers.dir/plugins/static_layer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/static_layer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
+CMakeFiles/layers.dir/plugins/static_layer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/layers.dir/plugins/static_layer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/static_layer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
 
 CMakeFiles/layers.dir/plugins/static_layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/plugins/static_layer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp > CMakeFiles/layers.dir/plugins/static_layer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp > CMakeFiles/layers.dir/plugins/static_layer.cpp.i
 
 CMakeFiles/layers.dir/plugins/static_layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/plugins/static_layer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp -o CMakeFiles/layers.dir/plugins/static_layer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp -o CMakeFiles/layers.dir/plugins/static_layer.cpp.s
 
 CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
+CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
 
 CMakeFiles/layers.dir/plugins/voxel_layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/plugins/voxel_layer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp > CMakeFiles/layers.dir/plugins/voxel_layer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp > CMakeFiles/layers.dir/plugins/voxel_layer.cpp.i
 
 CMakeFiles/layers.dir/plugins/voxel_layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/plugins/voxel_layer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp -o CMakeFiles/layers.dir/plugins/voxel_layer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp -o CMakeFiles/layers.dir/plugins/voxel_layer.cpp.s
 
 CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
+CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
 
 CMakeFiles/layers.dir/plugins/semantic_layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/plugins/semantic_layer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp > CMakeFiles/layers.dir/plugins/semantic_layer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp > CMakeFiles/layers.dir/plugins/semantic_layer.cpp.i
 
 CMakeFiles/layers.dir/plugins/semantic_layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/plugins/semantic_layer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp -o CMakeFiles/layers.dir/plugins/semantic_layer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp -o CMakeFiles/layers.dir/plugins/semantic_layer.cpp.s
 
 CMakeFiles/layers.dir/src/observation_buffer.cpp.o: CMakeFiles/layers.dir/flags.make
-CMakeFiles/layers.dir/src/observation_buffer.cpp.o: /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/layers.dir/src/observation_buffer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/src/observation_buffer.cpp.o -c /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
+CMakeFiles/layers.dir/src/observation_buffer.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/layers.dir/src/observation_buffer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/layers.dir/src/observation_buffer.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
 
 CMakeFiles/layers.dir/src/observation_buffer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/layers.dir/src/observation_buffer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp > CMakeFiles/layers.dir/src/observation_buffer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp > CMakeFiles/layers.dir/src/observation_buffer.cpp.i
 
 CMakeFiles/layers.dir/src/observation_buffer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/layers.dir/src/observation_buffer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp -o CMakeFiles/layers.dir/src/observation_buffer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp -o CMakeFiles/layers.dir/src/observation_buffer.cpp.s
 
 # Object files for target layers
 layers_OBJECTS = \
@@ -147,57 +147,57 @@ layers_OBJECTS = \
 # External object files for target layers
 layers_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/static_layer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/src/observation_buffer.cpp.o
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/build.make
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /home/az/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/liblaser_geometry.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libclass_loader.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libdl.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroslib.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librospack.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/liborocos-kdl.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf2_ros.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libactionlib.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libmessage_filters.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf2.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /home/az/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroscpp.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librostime.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libcpp_common.so
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX shared library /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/static_layer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/plugins/semantic_layer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/src/observation_buffer.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/libcostmap_2d.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libdynamic_reconfigure_config_init_mutex.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/liblaser_geometry.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libclass_loader.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libPocoFoundation.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroslib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librospack.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/liborocos-kdl.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf2_ros.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libactionlib.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libmessage_filters.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libtf2.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib/libvoxel_grid.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroscpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/librostime.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /opt/ros/noetic/lib/libcpp_common.so
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so: CMakeFiles/layers.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/layers.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/layers.dir/build: /home/az/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
+CMakeFiles/layers.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/liblayers.so
 
 .PHONY : CMakeFiles/layers.dir/build
 
@@ -206,6 +206,6 @@ CMakeFiles/layers.dir/clean:
 .PHONY : CMakeFiles/layers.dir/clean
 
 CMakeFiles/layers.dir/depend:
-	cd /home/az/arena_ws/build/costmap_2d && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/arena_ws/build/costmap_2d /home/az/arena_ws/build/costmap_2d /home/az/arena_ws/build/costmap_2d/CMakeFiles/layers.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/costmap_2d/CMakeFiles/layers.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/layers.dir/depend
 

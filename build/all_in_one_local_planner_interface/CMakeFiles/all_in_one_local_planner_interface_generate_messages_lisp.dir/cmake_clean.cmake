@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/GetVelCmd.lisp"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/GetVelCmdWithGlobalPlan.lisp"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/ResetCostmap.lisp"
-  "/home/az/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/SetGlobalPlan.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/GetVelCmd.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/GetVelCmdWithGlobalPlan.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/ResetCostmap.lisp"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/share/common-lisp/ros/all_in_one_local_planner_interface/srv/SetGlobalPlan.lisp"
   "CMakeFiles/all_in_one_local_planner_interface_generate_messages_lisp"
 )
 

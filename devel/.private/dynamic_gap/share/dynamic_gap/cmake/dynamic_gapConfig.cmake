@@ -67,14 +67,14 @@ set(dynamic_gap_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(dynamic_gap_SOURCE_PREFIX /home/az/arena_ws/src/planners/dynamic_gap)
-  set(dynamic_gap_DEVEL_PREFIX /home/az/arena_ws/devel/.private/dynamic_gap)
+  set(dynamic_gap_SOURCE_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap)
+  set(dynamic_gap_DEVEL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap)
   set(dynamic_gap_INSTALL_PREFIX "")
   set(dynamic_gap_PREFIX ${dynamic_gap_DEVEL_PREFIX})
 else()
   set(dynamic_gap_SOURCE_PREFIX "")
   set(dynamic_gap_DEVEL_PREFIX "")
-  set(dynamic_gap_INSTALL_PREFIX /home/az/arena_ws/install)
+  set(dynamic_gap_INSTALL_PREFIX /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install)
   set(dynamic_gap_PREFIX ${dynamic_gap_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(dynamic_gap_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/az/arena_ws/src/planners/dynamic_gap/include;/usr/include/eigen3;/home/az/arena_ws/devel/.private/base_local_planner/include;/home/az/arena_ws/devel/.private/costmap_2d/include;/home/az/arena_ws/devel/.private/pedsim_msgs/include;/home/az/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include;/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include;/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include;/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include;/opt/ros/noetic/include;/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp;/usr/include " STREQUAL " ")
+if(NOT "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/include;/usr/include/eigen3;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include;/opt/ros/noetic/include;/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp;/usr/include " STREQUAL " ")
   set(dynamic_gap_INCLUDE_DIRS "")
-  set(_include_dirs "/home/az/arena_ws/src/planners/dynamic_gap/include;/usr/include/eigen3;/home/az/arena_ws/devel/.private/base_local_planner/include;/home/az/arena_ws/devel/.private/costmap_2d/include;/home/az/arena_ws/devel/.private/pedsim_msgs/include;/home/az/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include;/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include;/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include;/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include;/opt/ros/noetic/include;/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp;/usr/include")
+  set(_include_dirs "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/include;/usr/include/eigen3;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include;/opt/ros/noetic/include;/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp;/usr/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT " " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/az/arena_ws/src/planners/dynamic_gap/include;/usr/include/eigen3;/
         message(FATAL_ERROR "Project 'dynamic_gap' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'dynamic_gap' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/arena_ws/src/planners/dynamic_gap/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'dynamic_gap' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/dynamic_gap/${idir}'.  ${_report}")
     endif()
     _list_append_unique(dynamic_gap_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/az/arena_ws/devel/.private/dynamic_gap/lib;/home/az/arena_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/dynamic_gap/lib;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib;/home/az/testing_github_dynamicGap2025/dynamicGap2025/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

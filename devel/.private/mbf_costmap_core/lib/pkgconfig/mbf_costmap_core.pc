@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/mbf_costmap_core
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_core
 
 Name: mbf_costmap_core
 Description: Description of mbf_costmap_core
 Version: 0.4.0
-Cflags: -I/home/az/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_costmap_core/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/core/mbf_costmap_core/include
 Libs: -L${prefix}/lib 
 Requires: std_msgs geometry_msgs mbf_abstract_core mbf_utility tf costmap_2d nav_core

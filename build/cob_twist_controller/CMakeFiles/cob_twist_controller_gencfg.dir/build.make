@@ -43,44 +43,44 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cob_twist_controller
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller
 
 # Utility rule file for cob_twist_controller_gencfg.
 
 # Include the progress variables for this target.
 include CMakeFiles/cob_twist_controller_gencfg.dir/progress.make
 
-CMakeFiles/cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-CMakeFiles/cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
+CMakeFiles/cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+CMakeFiles/cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
 
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/TwistController.cfg: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py"
-	catkin_generated/env_cached.sh /home/az/arena_ws/build/cob_twist_controller/setup_custom_pythonpath.sh /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h: /opt/ros/noetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dynamic reconfigure files from cfg/TwistController.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py"
+	catkin_generated/env_cached.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/setup_custom_pythonpath.sh /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/cfg/TwistController.cfg /opt/ros/noetic/share/dynamic_reconfigure/cmake/.. /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+	@$(CMAKE_COMMAND) -E touch_nocreate /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc
 
 cob_twist_controller_gencfg: CMakeFiles/cob_twist_controller_gencfg
-cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
-cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox
-cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox
-cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
-cob_twist_controller_gencfg: /home/az/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc
+cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.dox
+cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig-usage.dox
+cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/lib/python3/dist-packages/cob_twist_controller/cfg/TwistControllerConfig.py
+cob_twist_controller_gencfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/share/cob_twist_controller/docs/TwistControllerConfig.wikidoc
 cob_twist_controller_gencfg: CMakeFiles/cob_twist_controller_gencfg.dir/build.make
 
 .PHONY : cob_twist_controller_gencfg
@@ -95,6 +95,6 @@ CMakeFiles/cob_twist_controller_gencfg.dir/clean:
 .PHONY : CMakeFiles/cob_twist_controller_gencfg.dir/clean
 
 CMakeFiles/cob_twist_controller_gencfg.dir/depend:
-	cd /home/az/arena_ws/build/cob_twist_controller && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller /home/az/arena_ws/build/cob_twist_controller/CMakeFiles/cob_twist_controller_gencfg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cob_twist_controller/CMakeFiles/cob_twist_controller_gencfg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cob_twist_controller_gencfg.dir/depend
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/src/spacial_horizon_node.cpp" "/home/az/arena_ws/build/spacial_horizon/CMakeFiles/spacial_horizon_node.dir/src/spacial_horizon_node.cpp.o"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/src/spacial_horizon_node.cpp" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/spacial_horizon/CMakeFiles/spacial_horizon_node.dir/src/spacial_horizon_node.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -23,7 +23,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/az/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/ros/rosnodes/spacial_horizon/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/vtk-7.1"

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/final_state_conditions_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/final_state_conditions_se2.h
 corbo-optimal-control/functions/final_state_constraints.h
 -
 corbo-optimal-control/functions/final_state_cost.h
@@ -16,19 +16,19 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/finite_differences_grid_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/finite_differences_grid_se2.h
 mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
 -
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/finite_differences_variable_grid_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/finite_differences_variable_grid_se2.h
 mpc_local_planner/optimal_control/finite_differences_grid_se2.h
 -
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
 corbo-optimal-control/structured_ocp/discretization_grids/discretization_grid_interface.h
 -
 corbo-optimization/hyper_graph/scalar_vertex.h
@@ -44,7 +44,7 @@ corbo-numerics/finite_differences_collocation.h
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/min_time_via_points_cost.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/min_time_via_points_cost.h
 corbo-core/reference_trajectory.h
 -
 corbo-optimal-control/functions/stage_functions.h
@@ -60,7 +60,7 @@ utility
 vector
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/quadratic_cost_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/quadratic_cost_se2.h
 corbo-optimal-control/functions/quadratic_cost.h
 -
 corbo-optimal-control/functions/quadratic_state_cost.h
@@ -70,7 +70,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/stage_inequality_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/stage_inequality_se2.h
 corbo-core/reference_trajectory.h
 -
 corbo-optimal-control/functions/stage_functions.h
@@ -84,7 +84,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/vector_vertex_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/optimal_control/vector_vertex_se2.h
 corbo-optimization/hyper_graph/vector_vertex.h
 -
 mpc_local_planner/utils/math_utils.h
@@ -96,11 +96,11 @@ memory
 vector
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/math_utils.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/math_utils.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/final_state_conditions_se2.cpp
 mpc_local_planner/optimal_control/final_state_conditions_se2.h
 -
 mpc_local_planner/utils/math_utils.h
@@ -108,7 +108,7 @@ mpc_local_planner/utils/math_utils.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_grid_se2.cpp
 mpc_local_planner/optimal_control/finite_differences_grid_se2.h
 -
 corbo-optimal-control/structured_ocp/edges/finite_differences_collocation_edges.h
@@ -124,7 +124,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/finite_differences_variable_grid_se2.cpp
 mpc_local_planner/optimal_control/finite_differences_variable_grid_se2.h
 -
 corbo-optimal-control/structured_ocp/edges/finite_differences_collocation_edges.h
@@ -140,7 +140,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/full_discretization_grid_base_se2.cpp
 mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
 -
 mpc_local_planner/utils/math_utils.h
@@ -158,7 +158,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/min_time_via_points_cost.cpp
 mpc_local_planner/optimal_control/min_time_via_points_cost.h
 -
 mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
@@ -170,7 +170,7 @@ cmath
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/quadratic_cost_se2.cpp
 mpc_local_planner/optimal_control/quadratic_cost_se2.h
 -
 mpc_local_planner/utils/math_utils.h
@@ -178,7 +178,7 @@ mpc_local_planner/utils/math_utils.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/optimal_control/stage_inequality_se2.cpp
 mpc_local_planner/optimal_control/full_discretization_grid_base_se2.h
 -
 mpc_local_planner/optimal_control/stage_inequality_se2.h

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GenericPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/InflationPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -42,7 +42,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
 string
 -
 vector
@@ -60,7 +60,7 @@ ros/message_operations.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -78,7 +78,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
 string
 -
 vector
@@ -96,7 +96,7 @@ ros/message_operations.h
 pedsim_msgs/SemanticData.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -114,7 +114,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelGrid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelGrid.h
 string
 -
 vector
@@ -136,7 +136,7 @@ geometry_msgs/Point32.h
 geometry_msgs/Vector3.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/VoxelPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -154,7 +154,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
 string
 -
 vector
@@ -174,7 +174,7 @@ std_msgs/Header.h
 pedsim_msgs/SemanticDatum.h
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
 string
 -
 vector
@@ -192,9 +192,9 @@ ros/message_operations.h
 geometry_msgs/Point.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
 vector
 -
 queue
@@ -204,7 +204,7 @@ geometry_msgs/Point.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -212,7 +212,7 @@ costmap_2d/layer.h
 costmap_2d/layered_costmap.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_math.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_math.h
 math.h
 -
 algorithm
@@ -222,7 +222,7 @@ vector
 geometry_msgs/Point.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
 ros/ros.h
 -
 geometry_msgs/Polygon.h
@@ -234,7 +234,7 @@ geometry_msgs/Point.h
 geometry_msgs/Point32.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/inflation_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/inflation_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -248,7 +248,7 @@ dynamic_reconfigure/server.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
 costmap_2d/costmap_2d.h
 -
 costmap_2d/layered_costmap.h
@@ -260,7 +260,7 @@ tf2_ros/buffer.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
 costmap_2d/cost_values.h
 -
 costmap_2d/layer.h
@@ -272,13 +272,13 @@ vector
 string
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
 geometry_msgs/Point.h
 -
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
 vector
 -
 list
@@ -296,7 +296,7 @@ sensor_msgs/PointCloud2.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -330,7 +330,7 @@ costmap_2d/footprint.h
 costmap_2d/ObstacleDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -350,7 +350,7 @@ costmap_2d/SemanticPluginConfig.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/static_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/static_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -368,7 +368,7 @@ map_msgs/OccupancyGridUpdate.h
 message_filters/subscriber.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/voxel_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/voxel_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -402,7 +402,7 @@ costmap_2d/obstacle_layer.h
 voxel_grid/voxel_grid.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/inflation_layer.cpp
 algorithm
 -
 costmap_2d/inflation_layer.h
@@ -416,7 +416,7 @@ boost/thread.hpp
 pluginlib/class_list_macros.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/obstacle_layer.cpp
 costmap_2d/obstacle_layer.h
 -
 costmap_2d/costmap_math.h
@@ -428,7 +428,7 @@ pluginlib/class_list_macros.hpp
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/semantic_layer.cpp
 costmap_2d/semantic_layer.h
 -
 costmap_2d/costmap_math.h
@@ -436,7 +436,7 @@ costmap_2d/costmap_math.h
 pluginlib/class_list_macros.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/static_layer.cpp
 costmap_2d/static_layer.h
 -
 costmap_2d/costmap_math.h
@@ -448,7 +448,7 @@ tf2/convert.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/plugins/voxel_layer.cpp
 costmap_2d/voxel_layer.h
 -
 pluginlib/class_list_macros.hpp
@@ -456,7 +456,7 @@ pluginlib/class_list_macros.hpp
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/src/observation_buffer.cpp
 costmap_2d/observation_buffer.h
 -
 tf2_geometry_msgs/tf2_geometry_msgs.h
@@ -466,7 +466,7 @@ tf2_sensor_msgs/tf2_sensor_msgs.h
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include/voxel_grid/voxel_grid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include/voxel_grid/voxel_grid.h
 stdio.h
 -
 string.h

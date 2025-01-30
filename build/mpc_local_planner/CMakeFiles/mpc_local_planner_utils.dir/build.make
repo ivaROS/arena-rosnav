@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/mpc/mpc_local_planner
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/mpc_local_planner
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner
 
 # Include any dependencies generated for this target.
 include CMakeFiles/mpc_local_planner_utils.dir/depend.make
@@ -58,43 +58,43 @@ include CMakeFiles/mpc_local_planner_utils.dir/progress.make
 include CMakeFiles/mpc_local_planner_utils.dir/flags.make
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o: CMakeFiles/mpc_local_planner_utils.dir/flags.make
-CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
+CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.i
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.s
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o: CMakeFiles/mpc_local_planner_utils.dir/flags.make
-CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
+CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.i
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.s
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o: CMakeFiles/mpc_local_planner_utils.dir/flags.make
-CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o: /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o -c /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
+CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o -c /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp > CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.i
 
 CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp -o CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.s
 
 # Object files for target mpc_local_planner_utils
 mpc_local_planner_utils_OBJECTS = \
@@ -105,23 +105,23 @@ mpc_local_planner_utils_OBJECTS = \
 # External object files for target mpc_local_planner_utils
 mpc_local_planner_utils_EXTERNAL_OBJECTS =
 
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/build.make
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
-/home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so"
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/publisher.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/conversion.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/src/utils/time_series_se2.cpp.o
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/build.make
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_systems.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_numerics.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_communication.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: /opt/ros/noetic/lib/control_box_rst/libcorbo_core.a
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so: CMakeFiles/mpc_local_planner_utils.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mpc_local_planner_utils.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/mpc_local_planner_utils.dir/build: /home/az/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so
+CMakeFiles/mpc_local_planner_utils.dir/build: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mpc_local_planner/lib/libmpc_local_planner_utils.so
 
 .PHONY : CMakeFiles/mpc_local_planner_utils.dir/build
 
@@ -130,6 +130,6 @@ CMakeFiles/mpc_local_planner_utils.dir/clean:
 .PHONY : CMakeFiles/mpc_local_planner_utils.dir/clean
 
 CMakeFiles/mpc_local_planner_utils.dir/depend:
-	cd /home/az/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/src/planners/mpc/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner /home/az/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_utils.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mpc_local_planner/CMakeFiles/mpc_local_planner_utils.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mpc_local_planner_utils.dir/depend
 

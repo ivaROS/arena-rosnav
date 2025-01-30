@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
 vector
 -
 queue
@@ -16,7 +16,7 @@ geometry_msgs/Point.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
 ros/ros.h
 -
 nav_msgs/Odometry.h
@@ -40,7 +40,7 @@ angles/angles.h
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/systems/robot_dynamics_interface.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/systems/robot_dynamics_interface.h
 corbo-core/types.h
 -
 corbo-systems/system_dynamics_interface.h
@@ -52,7 +52,7 @@ teb_local_planner/pose_se2.h
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/conversion.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/conversion.h
 corbo-core/time_series.h
 -
 corbo-core/types.h
@@ -66,11 +66,11 @@ memory
 string
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/math_utils.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/math_utils.h
 cmath
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/publisher.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/publisher.h
 corbo-core/time_series.h
 -
 corbo-core/types.h
@@ -92,19 +92,19 @@ std_msgs/ColorRGBA.h
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/time_series_se2.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/include/mpc_local_planner/utils/time_series_se2.h
 corbo-core/time_series.h
 -
 Eigen/Core
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/conversion.cpp
 mpc_local_planner/utils/conversion.h
 -
 tf/tf.h
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/publisher.cpp
 mpc_local_planner/utils/publisher.h
 -
 mpc_local_planner/utils/conversion.h
@@ -128,7 +128,7 @@ iomanip
 memory
 -
 
-/home/az/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/mpc/mpc_local_planner/src/utils/time_series_se2.cpp
 mpc_local_planner/utils/time_series_se2.h
 -
 mpc_local_planner/utils/math_utils.h

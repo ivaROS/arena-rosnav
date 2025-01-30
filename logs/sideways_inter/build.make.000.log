@@ -1,9 +1,9 @@
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
 [  0%] Built target tf2_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target sideways_inter_gencfg[0m
-[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/SidewaysInter.cfg: /home/az/arena_ws/devel/.private/sideways_inter/include/sideways_inter/SidewaysInterConfig.h /home/az/arena_ws/devel/.private/sideways_inter/lib/python3/dist-packages/sideways_inter/cfg/SidewaysInterConfig.py[0m
+[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/SidewaysInter.cfg: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sideways_inter/include/sideways_inter/SidewaysInterConfig.h /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sideways_inter/lib/python3/dist-packages/sideways_inter/cfg/SidewaysInterConfig.py[0m
 Generating reconfiguration files for sidewaysInter in sideways_inter
-Wrote header file in /home/az/arena_ws/devel/.private/sideways_inter/include/sideways_inter/sidewaysInterConfig.h
+Wrote header file in /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sideways_inter/include/sideways_inter/sidewaysInterConfig.h
 [ 33%] Built target sideways_inter_gencfg
 [35m[1mScanning dependencies of target pedsim_msgs_generate_messages_cpp[0m
 [ 33%] Built target pedsim_msgs_generate_messages_cpp
@@ -171,5 +171,5 @@ Wrote header file in /home/az/arena_ws/devel/.private/sideways_inter/include/sid
 [ 33%] Built target pedsim_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sideways_inter[0m
 [ 66%] [32mBuilding CXX object CMakeFiles/sideways_inter.dir/src/sideways_inter.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/sideways_inter/lib/libsideways_inter.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/sideways_inter/lib/libsideways_inter.so[0m
 [100%] Built target sideways_inter

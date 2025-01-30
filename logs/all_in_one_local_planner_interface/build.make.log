@@ -1,22 +1,74 @@
+[35m[1mScanning dependencies of target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmdWithGlobalPlan[0m
 [  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmdWithGlobalPlan
-[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmd[0m
 [  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_GetVelCmd
-[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _all_in_one_local_planner_interface_generate_messages_check_deps_SetGlobalPlan[0m
 [  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_SetGlobalPlan
-[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _all_in_one_local_planner_interface_generate_messages_check_deps_ResetCostmap[0m
 [  0%] Built target _all_in_one_local_planner_interface_generate_messages_check_deps_ResetCostmap
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
 [  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
 [  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
 [  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages_cpp[0m
+[  3%] [34m[1mGenerating C++ code from all_in_one_local_planner_interface/GetVelCmd.srv[0m
+[  7%] [34m[1mGenerating C++ code from all_in_one_local_planner_interface/GetVelCmdWithGlobalPlan.srv[0m
+[ 11%] [34m[1mGenerating C++ code from all_in_one_local_planner_interface/SetGlobalPlan.srv[0m
+[ 15%] [34m[1mGenerating C++ code from all_in_one_local_planner_interface/ResetCostmap.srv[0m
 [ 15%] Built target all_in_one_local_planner_interface_generate_messages_cpp
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages_py[0m
+[ 19%] [34m[1mGenerating Python code from SRV all_in_one_local_planner_interface/GetVelCmd[0m
+[ 23%] [34m[1mGenerating Python code from SRV all_in_one_local_planner_interface/GetVelCmdWithGlobalPlan[0m
+[ 26%] [34m[1mGenerating Python code from SRV all_in_one_local_planner_interface/SetGlobalPlan[0m
+[ 30%] [34m[1mGenerating Python code from SRV all_in_one_local_planner_interface/ResetCostmap[0m
+[ 34%] [34m[1mGenerating Python srv __init__.py for all_in_one_local_planner_interface[0m
 [ 34%] Built target all_in_one_local_planner_interface_generate_messages_py
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages_lisp[0m
+[ 38%] [34m[1mGenerating Lisp code from all_in_one_local_planner_interface/GetVelCmd.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from all_in_one_local_planner_interface/GetVelCmdWithGlobalPlan.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from all_in_one_local_planner_interface/SetGlobalPlan.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from all_in_one_local_planner_interface/ResetCostmap.srv[0m
 [ 50%] Built target all_in_one_local_planner_interface_generate_messages_lisp
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages_nodejs[0m
+[ 53%] [34m[1mGenerating Javascript code from all_in_one_local_planner_interface/GetVelCmd.srv[0m
+[ 57%] [34m[1mGenerating Javascript code from all_in_one_local_planner_interface/GetVelCmdWithGlobalPlan.srv[0m
+[ 61%] [34m[1mGenerating Javascript code from all_in_one_local_planner_interface/SetGlobalPlan.srv[0m
+[ 65%] [34m[1mGenerating Javascript code from all_in_one_local_planner_interface/ResetCostmap.srv[0m
 [ 65%] Built target all_in_one_local_planner_interface_generate_messages_nodejs
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages_eus[0m
+[ 69%] [34m[1mGenerating EusLisp code from all_in_one_local_planner_interface/GetVelCmd.srv[0m
+[ 73%] [34m[1mGenerating EusLisp code from all_in_one_local_planner_interface/GetVelCmdWithGlobalPlan.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from all_in_one_local_planner_interface/SetGlobalPlan.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from all_in_one_local_planner_interface/ResetCostmap.srv[0m
+[ 84%] [34m[1mGenerating EusLisp manifest code for all_in_one_local_planner_interface[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [ 84%] Built target all_in_one_local_planner_interface_generate_messages_eus
-[ 84%] Built target all_in_one_local_planner_interface_generate_messages
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/all_in_one_local_planner_interface.dir/src/all_in_one_local_planner_node.cpp.o[0m
+[ 92%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/lib/liball_in_one_local_planner_interface.so[0m
 [ 92%] Built target all_in_one_local_planner_interface
+[35m[1mScanning dependencies of target all_in_one_local_planner_interface_generate_messages[0m
+[ 92%] Built target all_in_one_local_planner_interface_generate_messages
+[35m[1mScanning dependencies of target all_in_one_local_planner_node[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/all_in_one_local_planner_node.dir/src/all_in_one_local_planner_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/all_in_one_local_planner_interface/lib/all_in_one_local_planner_interface/all_in_one_local_planner_node[0m
 [100%] Built target all_in_one_local_planner_node

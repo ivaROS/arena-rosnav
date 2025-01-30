@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/planners/cohan/cohan_msgs
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/cohan_msgs
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cohan_msgs
 
 # Utility rule file for nav_msgs_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/nav_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/nav_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/az/arena_ws/build/cohan_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/planners/cohan/cohan_msgs /home/az/arena_ws/src/planners/cohan/cohan_msgs /home/az/arena_ws/build/cohan_msgs /home/az/arena_ws/build/cohan_msgs /home/az/arena_ws/build/cohan_msgs/CMakeFiles/nav_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cohan_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/cohan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cohan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cohan_msgs /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/cohan_msgs/CMakeFiles/nav_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/depend
 

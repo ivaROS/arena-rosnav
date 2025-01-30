@@ -1,8 +1,8 @@
-# Install script for directory: /home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
+# Install script for directory: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/az/arena_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -49,114 +49,114 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/_setup_util.py")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE PROGRAM FILES "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE PROGRAM FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/env.sh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE PROGRAM FILES "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE PROGRAM FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/env.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.bash;/home/az/arena_ws/install/local_setup.bash")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.bash;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.bash"
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.bash"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.sh;/home/az/arena_ws/install/local_setup.sh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.sh;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.sh"
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.sh"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/setup.zsh;/home/az/arena_ws/install/local_setup.zsh")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/setup.zsh;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.zsh"
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/setup.zsh"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/az/arena_ws/install/.rosinstall")
+   "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/az/arena_ws/install" TYPE FILE FILES "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/.rosinstall")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbf_costmap_nav" TYPE FILE FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/include/mbf_costmap_nav/MoveBaseFlexConfig.h")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbf_costmap_nav" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/include/mbf_costmap_nav/MoveBaseFlexConfig.h")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages/mbf_costmap_nav" TYPE FILE FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/__init__.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages/mbf_costmap_nav" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/__init__.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  execute_process(COMMAND "/home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3" -m compileall "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/cfg")
+  execute_process(COMMAND "/usr/bin/python3" -m compileall "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/cfg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages/mbf_costmap_nav" TYPE DIRECTORY FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/cfg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages/mbf_costmap_nav" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/python3/dist-packages/mbf_costmap_nav/cfg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_nav.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_nav.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mbf_costmap_nav/cmake" TYPE FILE FILES
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_navConfig.cmake"
-    "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_navConfig-version.cmake"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_navConfig.cmake"
+    "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/mbf_costmap_navConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mbf_costmap_nav" TYPE FILE FILES "/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mbf_costmap_nav" TYPE FILE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/package.xml")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -166,12 +166,12 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_nav_core_wrapper.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_nav_core_wrapper.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_nav_core_wrapper.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_nav_core_wrapper.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_nav_core_wrapper.so"
-         OLD_RPATH "/home/az/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/arena_ws/devel/.private/mbf_utility/lib:/home/az/arena_ws/devel/.private/costmap_2d/lib:/home/az/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_nav_core_wrapper.so")
@@ -189,12 +189,12 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_costmap_server.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_costmap_server.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/libmbf_costmap_server.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_costmap_server.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_costmap_server.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_costmap_server.so"
-         OLD_RPATH "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib:/home/az/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/arena_ws/devel/.private/mbf_utility/lib:/home/az/arena_ws/devel/.private/costmap_2d/lib:/home/az/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libmbf_costmap_server.so")
@@ -212,12 +212,12 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav/mbf_costmap_nav"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav" TYPE EXECUTABLE FILES "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/mbf_costmap_nav")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav" TYPE EXECUTABLE FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib/mbf_costmap_nav/mbf_costmap_nav")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav/mbf_costmap_nav" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav/mbf_costmap_nav")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav/mbf_costmap_nav"
-         OLD_RPATH "/home/az/arena_ws/devel/.private/mbf_costmap_nav/lib:/home/az/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/arena_ws/devel/.private/mbf_utility/lib:/home/az/arena_ws/devel/.private/costmap_2d/lib:/home/az/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_costmap_nav/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_abstract_nav/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/mbf_utility/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/voxel_grid/lib:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav/mbf_costmap_nav")
@@ -226,16 +226,16 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbf_costmap_nav" TYPE DIRECTORY FILES "/home/az/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/include/mbf_costmap_nav/")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbf_costmap_nav" TYPE DIRECTORY FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/move_base_flex/core/nav/mbf_costmap_nav/include/mbf_costmap_nav/")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav" TYPE PROGRAM FILES "/home/az/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/move_base_legacy_relay.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/mbf_costmap_nav" TYPE PROGRAM FILES "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/catkin_generated/installspace/move_base_legacy_relay.py")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/az/arena_ws/build/mbf_costmap_nav/gtest/cmake_install.cmake")
+  include("/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/gtest/cmake_install.cmake")
 
 endif()
 
@@ -247,5 +247,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/az/arena_ws/build/mbf_costmap_nav/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/mbf_costmap_nav/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/navigation/utils/map_server
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/map_server
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/map_server
 
 # Utility rule file for run_tests_map_server_rostest.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests_map_server_rostest.dir/clean:
 .PHONY : CMakeFiles/run_tests_map_server_rostest.dir/clean
 
 CMakeFiles/run_tests_map_server_rostest.dir/depend:
-	cd /home/az/arena_ws/build/map_server && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/navigation/utils/map_server /home/az/arena_ws/src/arena/utils/navigation/utils/map_server /home/az/arena_ws/build/map_server /home/az/arena_ws/build/map_server /home/az/arena_ws/build/map_server/CMakeFiles/run_tests_map_server_rostest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/map_server && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/map_server /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/map_server /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/map_server /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/map_server/CMakeFiles/run_tests_map_server_rostest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests_map_server_rostest.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control
+CMAKE_SOURCE_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/az/arena_ws/build/youbot_gazebo_control
+CMAKE_BINARY_DIR = /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_gazebo_control
 
 # Utility rule file for nav_msgs_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/nav_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/nav_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/az/arena_ws/build/youbot_gazebo_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control /home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control /home/az/arena_ws/build/youbot_gazebo_control /home/az/arena_ws/build/youbot_gazebo_control /home/az/arena_ws/build/youbot_gazebo_control/CMakeFiles/nav_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_gazebo_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/youbot/youbot_simulation/youbot_gazebo_control /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_gazebo_control /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_gazebo_control /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/youbot_gazebo_control/CMakeFiles/nav_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/nav_msgs_generate_messages_nodejs.dir/depend
 

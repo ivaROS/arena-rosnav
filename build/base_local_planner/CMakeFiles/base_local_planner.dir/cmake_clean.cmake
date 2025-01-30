@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.pdb"
-  "/home/az/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/lib/libbase_local_planner.so"
   "CMakeFiles/base_local_planner.dir/src/costmap_model.cpp.o"
   "CMakeFiles/base_local_planner.dir/src/footprint_helper.cpp.o"
   "CMakeFiles/base_local_planner.dir/src/goal_functions.cpp.o"

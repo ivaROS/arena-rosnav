@@ -1,4 +1,4 @@
-Symlinking /home/az/arena_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig-version.cmake
-Symlinking /home/az/arena_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig.cmake
-Symlinking /home/az/arena_ws/devel/lib/libspencer_tracking_rviz_plugin.so
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/spencer_tracking_rviz_plugin.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libspencer_tracking_rviz_plugin.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/spencer_tracking_rviz_plugin.pc

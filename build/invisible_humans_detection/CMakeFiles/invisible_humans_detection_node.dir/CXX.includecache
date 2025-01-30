@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/planners/cohan/invisible_humans_detection/include/invisible_humans_detection/map_scanner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/invisible_humans_detection/include/invisible_humans_detection/map_scanner.h
 ros/ros.h
 -
 tf2_ros/transform_listener.h
@@ -22,9 +22,9 @@ tf2_eigen/tf2_eigen.h
 tf2/utils.h
 -
 
-/home/az/arena_ws/src/planners/cohan/invisible_humans_detection/src/invisible_humans_detection_node.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/invisible_humans_detection/src/invisible_humans_detection_node.cpp
 invisible_humans_detection/map_scanner.h
-/home/az/arena_ws/src/planners/cohan/invisible_humans_detection/src/invisible_humans_detection/map_scanner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/cohan/invisible_humans_detection/src/invisible_humans_detection/map_scanner.h
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

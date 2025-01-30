@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/costmap_2d/lib/costmap_2d/costmap_tester"
-  "/home/az/arena_ws/devel/.private/costmap_2d/lib/costmap_2d/costmap_tester.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/costmap_2d/costmap_tester"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/lib/costmap_2d/costmap_tester.pdb"
   "CMakeFiles/costmap_tester.dir/test/costmap_tester.cpp.o"
 )
 

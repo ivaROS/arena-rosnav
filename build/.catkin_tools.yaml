@@ -1,6 +1,6 @@
-devel_space: /home/az/arena_ws/devel
+devel_space: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel
 install: false
-install_space: /home/az/arena_ws/install
+install_space: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/install
 profile: default
-source_space: /home/az/arena_ws/src
-workspace: /home/az/arena_ws
+source_space: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src
+workspace: /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws

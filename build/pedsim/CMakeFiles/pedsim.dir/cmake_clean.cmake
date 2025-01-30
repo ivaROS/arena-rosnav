@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/pedsim/lib/libpedsim.pdb"
-  "/home/az/arena_ws/devel/.private/pedsim/lib/libpedsim.so"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim/lib/libpedsim.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim/lib/libpedsim.so"
   "CMakeFiles/pedsim.dir/src/ped_agent.cpp.o"
   "CMakeFiles/pedsim.dir/src/ped_angle.cpp.o"
   "CMakeFiles/pedsim.dir/src/ped_obstacle.cpp.o"

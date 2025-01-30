@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target dynamic_gap[0m
-[  5%] [32mBuilding CXX object CMakeFiles/dynamic_gap.dir/src/Planner.cpp.o[0m
-[ 10%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/dynamic_gap/lib/libdynamic_gap.so[0m
-[100%] Built target dynamic_gap

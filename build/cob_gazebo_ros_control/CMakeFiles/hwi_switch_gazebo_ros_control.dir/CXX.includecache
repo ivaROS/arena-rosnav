@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include/cob_gazebo_ros_control/hwi_switch_gazebo_ros_control_plugin.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include/cob_gazebo_ros_control/hwi_switch_gazebo_ros_control_plugin.h
 gazebo_ros_control/gazebo_ros_control_plugin.h
 -
 cob_gazebo_ros_control/hwi_switch_robot_hw_sim.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include/cob_gazebo_ros_control/hwi_switch_robot_hw_sim.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/include/cob_gazebo_ros_control/hwi_switch_robot_hw_sim.h
 gazebo_ros_control/default_robot_hw_sim.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/src/hwi_switch_gazebo_ros_control_plugin.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_gazebo_ros_control/src/hwi_switch_gazebo_ros_control_plugin.cpp
 cob_gazebo_ros_control/hwi_switch_gazebo_ros_control_plugin.h
 -
 urdf/model.h

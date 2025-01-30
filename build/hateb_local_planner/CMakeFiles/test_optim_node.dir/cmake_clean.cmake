@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/az/arena_ws/devel/.private/hateb_local_planner/lib/hateb_local_planner/test_optim_node"
-  "/home/az/arena_ws/devel/.private/hateb_local_planner/lib/hateb_local_planner/test_optim_node.pdb"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/hateb_local_planner/test_optim_node"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/hateb_local_planner/lib/hateb_local_planner/test_optim_node.pdb"
   "CMakeFiles/test_optim_node.dir/src/test_optim_node.cpp.o"
 )
 

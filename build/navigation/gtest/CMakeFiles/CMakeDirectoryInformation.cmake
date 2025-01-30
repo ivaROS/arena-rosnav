@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/usr/src/googletest")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/az/arena_ws/build/navigation")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/build/navigation")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

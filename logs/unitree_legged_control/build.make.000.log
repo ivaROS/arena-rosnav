@@ -1,4 +1,4 @@
 [35m[1mScanning dependencies of target unitree_legged_control[0m
 [ 50%] [32mBuilding CXX object CMakeFiles/unitree_legged_control.dir/src/joint_controller.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/unitree_legged_control/lib/libunitree_legged_control.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_legged_control/lib/libunitree_legged_control.so[0m
 [100%] Built target unitree_legged_control

@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/light_scan_sim
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim
 
 Name: light_scan_sim
 Description: Description of light_scan_sim
 Version: 0.1.0
-Cflags: -I/home/az/arena_ws/devel/.private/light_scan_sim/include -I/home/az/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/light_scan_sim/include -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/planners/all_in_one/all_in_one_3rd_party/light_scan_sim/include
 Libs: -L${prefix}/lib 
 Requires: roscpp rospy sensor_msgs std_msgs tf nav_msgs message_runtime

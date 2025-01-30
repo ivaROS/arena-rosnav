@@ -1,9 +1,9 @@
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/share/arena_evaluation/cmake/arena_evaluationConfig.cmake, /home/az/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/share/arena_evaluation/cmake/arena_evaluationConfig-version.cmake, /home/az/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/pkgconfig/arena_evaluation.pc, /home/az/arena_ws/devel/lib/pkgconfig/arena_evaluation.pc)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/python3/dist-packages/arena_evaluation/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/arena_evaluation/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/arena_evaluation/cmake.lock, /home/az/arena_ws/devel/lib/arena_evaluation/cmake.lock)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/arena_evaluation/create_plots, /home/az/arena_ws/devel/lib/arena_evaluation/create_plots)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/arena_evaluation/process_data, /home/az/arena_ws/devel/lib/arena_evaluation/process_data)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/arena_evaluation/data_recorder_node, /home/az/arena_ws/devel/lib/arena_evaluation/data_recorder_node)
-Linked: (/home/az/arena_ws/devel/.private/arena_evaluation/lib/arena_evaluation/get_metrics, /home/az/arena_ws/devel/lib/arena_evaluation/get_metrics)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/arena_evaluation/cmake/arena_evaluationConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/arena_evaluation.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/arena_evaluation/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/arena_evaluation/cmake.lock
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/arena_evaluation/create_plots
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/arena_evaluation/process_data
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/arena_evaluation/data_recorder_node
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/arena_evaluation/get_metrics

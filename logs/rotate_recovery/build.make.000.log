@@ -168,5 +168,5 @@
 [  0%] Built target actionlib_generate_messages_nodejs
 [35m[1mScanning dependencies of target rotate_recovery[0m
 [ 50%] [32mBuilding CXX object CMakeFiles/rotate_recovery.dir/src/rotate_recovery.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/rotate_recovery/lib/librotate_recovery.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/rotate_recovery/lib/librotate_recovery.so[0m
 [100%] Built target rotate_recovery

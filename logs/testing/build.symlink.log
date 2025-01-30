@@ -1,3 +1,3 @@
-Linked: (/home/az/arena_ws/devel/.private/testing/share/testing/cmake/testingConfig-version.cmake, /home/az/arena_ws/devel/share/testing/cmake/testingConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/testing/share/testing/cmake/testingConfig.cmake, /home/az/arena_ws/devel/share/testing/cmake/testingConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/testing/lib/pkgconfig/testing.pc, /home/az/arena_ws/devel/lib/pkgconfig/testing.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/testing/cmake/testingConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/testing/cmake/testingConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/testing.pc

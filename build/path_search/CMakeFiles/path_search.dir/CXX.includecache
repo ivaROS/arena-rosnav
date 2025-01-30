@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/mapping.h
 Eigen/Eigen
 -
 iostream
@@ -60,13 +60,13 @@ visualization_msgs/Marker.h
 mapping/raycast.h
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/mapping/include/mapping/raycast.h
 Eigen/Eigen
 -
 vector
 -
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/astar.h
 Eigen/Eigen
 -
 iostream
@@ -88,9 +88,9 @@ queue
 memory
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/dyn_astar.h
 iostream
 -
 ros/ros.h
@@ -102,9 +102,9 @@ Eigen/Eigen
 queue
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/kinodynamic_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/kinodynamic_astar.h
 ros/console.h
 -
 ros/ros.h
@@ -126,19 +126,19 @@ unordered_map
 utility
 -
 mapping/mapping.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include/path_search/mapping/mapping.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/astar.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/astar.cpp
 path_search/astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/astar.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/dyn_astar.cpp
 path_search/dyn_astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/dyn_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/dyn_astar.h
 
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/kinodynamic_astar.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/kinodynamic_astar.cpp
 path_search/kinodynamic_astar.h
-/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/kinodynamic_astar.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/src/path_search/kinodynamic_astar.h
 
 /opt/ros/noetic/include/geometry_msgs/Point.h
 string

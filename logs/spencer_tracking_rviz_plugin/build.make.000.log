@@ -61,20 +61,20 @@
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
 [  0%] Built target roscpp_generate_messages_py
 [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_py
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  0%] Built target geometry_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
 [  0%] Built target tf2_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
 [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
 [  0%] Built target tf_generate_messages_eus
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
 [  0%] Built target roscpp_generate_messages_cpp
@@ -87,84 +87,84 @@
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
 [  0%] Built target sensor_msgs_generate_messages_py
 [35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
 [  0%] Built target map_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
 [  0%] Built target roscpp_generate_messages_lisp
 [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
 [  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
 [  0%] Built target map_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target rviz_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
-[  0%] Built target rviz_generate_messages_nodejs
+[35m[1mScanning dependencies of target rviz_generate_messages_nodejs[0m
 [  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target rviz_generate_messages_nodejs
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  0%] Built target rosgraph_msgs_generate_messages_py
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  0%] Built target roscpp_generate_messages_nodejs
-[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
 [  0%] Built target tf_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target rviz_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rviz_generate_messages_cpp[0m
 [  0%] Built target rviz_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
 [  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
 [  0%] Built target nav_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
 [  0%] Built target visualization_msgs_generate_messages_eus
-[  0%] Built target nav_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
-[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_nodejs
 [  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target spencer_social_relation_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
 [  0%] Built target spencer_social_relation_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
 [  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
 [  0%] Built target actionlib_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
 [  0%] Built target visualization_msgs_generate_messages_cpp
-[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
-[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_nodejs
 [  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
 [  0%] Built target tf_generate_messages_py
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[  0%] Built target std_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target actionlib_msgs_generate_messages_nodejs
-[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
 [  0%] Built target tf2_msgs_generate_messages_lisp
-[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
 [  0%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
 [  0%] Built target visualization_msgs_generate_messages_py
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target rviz_generate_messages_eus[0m
@@ -185,9 +185,9 @@
 In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
                  from [01m[K/opt/ros/noetic/include/tf2_ros/transform_listener.h:37[m[K,
                  from [01m[K/opt/ros/noetic/include/rviz/visualization_manager.h:37[m[K,
-                 from [01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:33[m[K:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:[m[K In member function ‘[01m[Kvirtual void spencer_tracking_rviz_plugin::TrackedPersonsDisplay::processMessage(const ConstPtr&)[m[K’:
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:30:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kconst _track_id_type[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+                 from [01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:33[m[K:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:[m[K In member function ‘[01m[Kvirtual void spencer_tracking_rviz_plugin::TrackedPersonsDisplay::processMessage(const ConstPtr&)[m[K’:
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:30:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kconst _track_id_type[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
   425 |                     ROS_WARN([01;35m[K"Track %lu has suspicious velocity (%.1f m/s), not showing velocity vector!"[m[K, trackedPersonIt->track_id, velocityVector.length());
       |                              [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
 [01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
@@ -202,10 +202,10 @@ In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
 [01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
   162 | #define ROS_WARN(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
       |                       [01;36m[K^~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:21:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:21:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
   425 |                     [01;36m[KROS_WARN[m[K("Track %lu has suspicious velocity (%.1f m/s), not showing velocity vector!", trackedPersonIt->track_id, velocityVector.length());
       |                     [01;36m[K^~~~~~~~[m[K
-[01m[K/home/az/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:39:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[01m[K/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/pedsim_ros/pedsim_engine/2ndparty/spencer_tracking_rviz_plugin/src/tracked_persons_display.cpp:425:39:[m[K [01;36m[Knote: [m[Kformat string is defined here
   425 |                     ROS_WARN("Track [01;36m[K%lu[m[K has suspicious velocity (%.1f m/s), not showing velocity vector!", trackedPersonIt->track_id, velocityVector.length());
       |                                     [01;36m[K~~^[m[K
       |                                       [01;36m[K|[m[K
@@ -224,5 +224,5 @@ In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
 [ 88%] [32mBuilding CXX object CMakeFiles/spencer_tracking_rviz_plugin.dir/src/moc_human_attributes_display.cpp.o[0m
 [ 92%] [32mBuilding CXX object CMakeFiles/spencer_tracking_rviz_plugin.dir/src/moc_person_display_common.cpp.o[0m
 [ 96%] [32mBuilding CXX object CMakeFiles/spencer_tracking_rviz_plugin.dir/src/moc_additional_topic_subscriber.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/spencer_tracking_rviz_plugin/lib/libspencer_tracking_rviz_plugin.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spencer_tracking_rviz_plugin/lib/libspencer_tracking_rviz_plugin.so[0m
 [100%] Built target spencer_tracking_rviz_plugin

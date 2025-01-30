@@ -1,5 +1,5 @@
-Linked: (/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig.cmake, /home/az/arena_ws/devel/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig-version.cmake, /home/az/arena_ws/devel/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/lib/libhwi_switch_gazebo_ros_control.so, /home/az/arena_ws/devel/lib/libhwi_switch_gazebo_ros_control.so)
-Linked: (/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/lib/libhwi_switch_robot_hw_sim.so, /home/az/arena_ws/devel/lib/libhwi_switch_robot_hw_sim.so)
-Linked: (/home/az/arena_ws/devel/.private/cob_gazebo_ros_control/lib/pkgconfig/cob_gazebo_ros_control.pc, /home/az/arena_ws/devel/lib/pkgconfig/cob_gazebo_ros_control.pc)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/cob_gazebo_ros_control/cmake/cob_gazebo_ros_controlConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libhwi_switch_gazebo_ros_control.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libhwi_switch_robot_hw_sim.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/cob_gazebo_ros_control.pc

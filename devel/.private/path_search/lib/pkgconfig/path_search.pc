@@ -1,8 +1,8 @@
-prefix=/home/az/arena_ws/devel/.private/path_search
+prefix=/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/path_search
 
 Name: path_search
 Description: Description of path_search
 Version: 0.0.0
-Cflags: -I/home/az/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include
+Cflags: -I/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/arena-rosnav/utils/misc/path_search/include
 Libs: -L${prefix}/lib -lpath_search
 Requires: geometry_msgs nav_msgs roscpp rospy std_msgs mapping

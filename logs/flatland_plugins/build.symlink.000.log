@@ -1,4 +1,4 @@
-Symlinking /home/az/arena_ws/devel/share/flatland_plugins/cmake/flatland_pluginsConfig.cmake
-Symlinking /home/az/arena_ws/devel/share/flatland_plugins/cmake/flatland_pluginsConfig-version.cmake
-Symlinking /home/az/arena_ws/devel/lib/libflatland_plugins_lib.so
-Symlinking /home/az/arena_ws/devel/lib/pkgconfig/flatland_plugins.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/flatland_plugins/cmake/flatland_pluginsConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/flatland_plugins/cmake/flatland_pluginsConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libflatland_plugins_lib.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/flatland_plugins.pc

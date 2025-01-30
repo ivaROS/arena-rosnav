@@ -1,4 +1,4 @@
 [35m[1mScanning dependencies of target spacial_horizon_node[0m
 [ 50%] [32mBuilding CXX object CMakeFiles/spacial_horizon_node.dir/src/spacial_horizon_node.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/spacial_horizon/lib/spacial_horizon/spacial_horizon_node[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/spacial_horizon/lib/spacial_horizon/spacial_horizon_node[0m
 [100%] Built target spacial_horizon_node

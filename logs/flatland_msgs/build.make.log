@@ -1,29 +1,130 @@
-[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_DeleteModels[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_DeleteModels
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_Collision[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_Collision
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_MoveModel[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_MoveModel
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_Collisions[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_Collisions
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_DangerZone[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_DangerZone
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_DebugTopicList[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_DebugTopicList
-[  0%] Built target geometry_msgs_generate_messages_py
-[  0%] Built target _flatland_msgs_generate_messages_check_deps_Model
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_SpawnModel[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_SpawnModel
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_Model[0m
+[  0%] Built target _flatland_msgs_generate_messages_check_deps_Model
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_Vector2[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_Vector2
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_StepWorld[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_StepWorld
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_SpawnModels[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_SpawnModels
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_MoveModelMsg[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_MoveModelMsg
-[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _flatland_msgs_generate_messages_check_deps_DeleteModel[0m
 [  0%] Built target _flatland_msgs_generate_messages_check_deps_DeleteModel
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
 [  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_py[0m
+[  1%] [34m[1mGenerating Python from MSG flatland_msgs/DebugTopicList[0m
+[  2%] [34m[1mGenerating Python from MSG flatland_msgs/Collision[0m
+[  4%] [34m[1mGenerating Python from MSG flatland_msgs/Collisions[0m
+[  5%] [34m[1mGenerating Python from MSG flatland_msgs/Vector2[0m
+[  7%] [34m[1mGenerating Python from MSG flatland_msgs/Model[0m
+[  8%] [34m[1mGenerating Python from MSG flatland_msgs/DangerZone[0m
+[ 10%] [34m[1mGenerating Python from MSG flatland_msgs/StepWorld[0m
+[ 11%] [34m[1mGenerating Python from MSG flatland_msgs/MoveModelMsg[0m
+[ 13%] [34m[1mGenerating Python code from SRV flatland_msgs/SpawnModel[0m
+[ 14%] [34m[1mGenerating Python code from SRV flatland_msgs/SpawnModels[0m
+[ 16%] [34m[1mGenerating Python code from SRV flatland_msgs/DeleteModel[0m
+[ 17%] [34m[1mGenerating Python code from SRV flatland_msgs/DeleteModels[0m
+[ 19%] [34m[1mGenerating Python code from SRV flatland_msgs/MoveModel[0m
+[ 20%] [34m[1mGenerating Python msg __init__.py for flatland_msgs[0m
+[ 22%] [34m[1mGenerating Python srv __init__.py for flatland_msgs[0m
 [ 22%] Built target flatland_msgs_generate_messages_py
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_eus[0m
+[ 23%] [34m[1mGenerating EusLisp code from flatland_msgs/DebugTopicList.msg[0m
+[ 25%] [34m[1mGenerating EusLisp code from flatland_msgs/Collision.msg[0m
+[ 26%] [34m[1mGenerating EusLisp code from flatland_msgs/Collisions.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from flatland_msgs/Vector2.msg[0m
+[ 29%] [34m[1mGenerating EusLisp code from flatland_msgs/Model.msg[0m
+[ 30%] [34m[1mGenerating EusLisp code from flatland_msgs/DangerZone.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from flatland_msgs/StepWorld.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from flatland_msgs/MoveModelMsg.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from flatland_msgs/SpawnModel.srv[0m
+[ 36%] [34m[1mGenerating EusLisp code from flatland_msgs/SpawnModels.srv[0m
+[ 38%] [34m[1mGenerating EusLisp code from flatland_msgs/DeleteModel.srv[0m
+[ 39%] [34m[1mGenerating EusLisp code from flatland_msgs/DeleteModels.srv[0m
+[ 41%] [34m[1mGenerating EusLisp code from flatland_msgs/MoveModel.srv[0m
+[ 42%] [34m[1mGenerating EusLisp manifest code for flatland_msgs[0m
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "LfH" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
 [ 42%] Built target flatland_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_cpp[0m
+[ 44%] [34m[1mGenerating C++ code from flatland_msgs/DebugTopicList.msg[0m
+[ 45%] [34m[1mGenerating C++ code from flatland_msgs/Collision.msg[0m
+[ 47%] [34m[1mGenerating C++ code from flatland_msgs/Collisions.msg[0m
+[ 48%] [34m[1mGenerating C++ code from flatland_msgs/Vector2.msg[0m
+[ 50%] [34m[1mGenerating C++ code from flatland_msgs/Model.msg[0m
+[ 51%] [34m[1mGenerating C++ code from flatland_msgs/DangerZone.msg[0m
+[ 52%] [34m[1mGenerating C++ code from flatland_msgs/StepWorld.msg[0m
+[ 54%] [34m[1mGenerating C++ code from flatland_msgs/MoveModelMsg.msg[0m
+[ 55%] [34m[1mGenerating C++ code from flatland_msgs/SpawnModel.srv[0m
+[ 57%] [34m[1mGenerating C++ code from flatland_msgs/SpawnModels.srv[0m
+[ 58%] [34m[1mGenerating C++ code from flatland_msgs/DeleteModel.srv[0m
+[ 60%] [34m[1mGenerating C++ code from flatland_msgs/DeleteModels.srv[0m
+[ 61%] [34m[1mGenerating C++ code from flatland_msgs/MoveModel.srv[0m
 [ 61%] Built target flatland_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_nodejs[0m
+[ 63%] [34m[1mGenerating Javascript code from flatland_msgs/DebugTopicList.msg[0m
+[ 64%] [34m[1mGenerating Javascript code from flatland_msgs/Collision.msg[0m
+[ 66%] [34m[1mGenerating Javascript code from flatland_msgs/Collisions.msg[0m
+[ 67%] [34m[1mGenerating Javascript code from flatland_msgs/Vector2.msg[0m
+[ 69%] [34m[1mGenerating Javascript code from flatland_msgs/Model.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from flatland_msgs/DangerZone.msg[0m
+[ 72%] [34m[1mGenerating Javascript code from flatland_msgs/StepWorld.msg[0m
+[ 73%] [34m[1mGenerating Javascript code from flatland_msgs/MoveModelMsg.msg[0m
+[ 75%] [34m[1mGenerating Javascript code from flatland_msgs/SpawnModel.srv[0m
+[ 76%] [34m[1mGenerating Javascript code from flatland_msgs/SpawnModels.srv[0m
+[ 77%] [34m[1mGenerating Javascript code from flatland_msgs/DeleteModel.srv[0m
+[ 79%] [34m[1mGenerating Javascript code from flatland_msgs/DeleteModels.srv[0m
+[ 80%] [34m[1mGenerating Javascript code from flatland_msgs/MoveModel.srv[0m
 [ 80%] Built target flatland_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages_lisp[0m
+[ 82%] [34m[1mGenerating Lisp code from flatland_msgs/DebugTopicList.msg[0m
+[ 83%] [34m[1mGenerating Lisp code from flatland_msgs/Collision.msg[0m
+[ 85%] [34m[1mGenerating Lisp code from flatland_msgs/Collisions.msg[0m
+[ 86%] [34m[1mGenerating Lisp code from flatland_msgs/Vector2.msg[0m
+[ 88%] [34m[1mGenerating Lisp code from flatland_msgs/Model.msg[0m
+[ 89%] [34m[1mGenerating Lisp code from flatland_msgs/DangerZone.msg[0m
+[ 91%] [34m[1mGenerating Lisp code from flatland_msgs/StepWorld.msg[0m
+[ 92%] [34m[1mGenerating Lisp code from flatland_msgs/MoveModelMsg.msg[0m
+[ 94%] [34m[1mGenerating Lisp code from flatland_msgs/SpawnModel.srv[0m
+[ 95%] [34m[1mGenerating Lisp code from flatland_msgs/SpawnModels.srv[0m
+[ 97%] [34m[1mGenerating Lisp code from flatland_msgs/DeleteModel.srv[0m
+[ 98%] [34m[1mGenerating Lisp code from flatland_msgs/DeleteModels.srv[0m
+[100%] [34m[1mGenerating Lisp code from flatland_msgs/MoveModel.srv[0m
 [100%] Built target flatland_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target flatland_msgs_generate_messages[0m
 [100%] Built target flatland_msgs_generate_messages

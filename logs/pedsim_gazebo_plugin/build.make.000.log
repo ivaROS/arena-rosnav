@@ -156,5 +156,5 @@
 [  0%] Built target geometry_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target ActorPosesPlugin[0m
 [ 50%] [32mBuilding CXX object CMakeFiles/ActorPosesPlugin.dir/src/actor_poses_plugin.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/az/arena_ws/devel/.private/pedsim_gazebo_plugin/lib/libActorPosesPlugin.so[0m
+[100%] [32m[1mLinking CXX shared library /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_gazebo_plugin/lib/libActorPosesPlugin.so[0m
 [100%] Built target ActorPosesPlugin

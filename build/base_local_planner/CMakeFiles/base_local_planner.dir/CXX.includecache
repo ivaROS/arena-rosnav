@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/base_local_planner/include/base_local_planner/Position2DInt.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/base_local_planner/include/base_local_planner/Position2DInt.h
 string
 -
 vector
@@ -22,7 +22,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/Costmap2DConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -40,7 +40,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDump.h
 ros/service_traits.h
 -
 costmap_2d/GetDumpRequest.h
@@ -48,7 +48,7 @@ costmap_2d/GetDumpRequest.h
 costmap_2d/GetDumpResponse.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpRequest.h
 string
 -
 vector
@@ -64,7 +64,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/GetDumpResponse.h
 string
 -
 vector
@@ -88,7 +88,7 @@ costmap_2d/ObstacleDump.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstacleDump.h
 string
 -
 vector
@@ -106,7 +106,7 @@ ros/message_operations.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/ObstaclePluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -124,7 +124,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticDump.h
 string
 -
 vector
@@ -142,7 +142,7 @@ ros/message_operations.h
 pedsim_msgs/SemanticData.h
 -
 
-/home/az/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/costmap_2d/include/costmap_2d/SemanticPluginConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -160,7 +160,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticData.h
 string
 -
 vector
@@ -180,7 +180,7 @@ std_msgs/Header.h
 pedsim_msgs/SemanticDatum.h
 -
 
-/home/az/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/pedsim_msgs/include/pedsim_msgs/SemanticDatum.h
 string
 -
 vector
@@ -198,9 +198,9 @@ ros/message_operations.h
 geometry_msgs/Point.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/cost_values.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d.h
 vector
 -
 queue
@@ -210,7 +210,7 @@ geometry_msgs/Point.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_publisher.h
 ros/ros.h
 -
 costmap_2d/layered_costmap.h
@@ -222,11 +222,11 @@ map_msgs/OccupancyGridUpdate.h
 costmap_2d/GetDump.h
 -
 costmap_2d/obstacle_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/obstacle_layer.h
 costmap_2d/semantic_layer.h
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d/semantic_layer.h
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_2d_ros.h
 costmap_2d/layered_costmap.h
 -
 costmap_2d/layer.h
@@ -250,7 +250,7 @@ pluginlib/class_loader.hpp
 tf2/LinearMath/Transform.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/costmap_layer.h
 ros/ros.h
 -
 costmap_2d/layer.h
@@ -258,7 +258,7 @@ costmap_2d/layer.h
 costmap_2d/layered_costmap.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/footprint.h
 ros/ros.h
 -
 geometry_msgs/Polygon.h
@@ -270,7 +270,7 @@ geometry_msgs/Point.h
 geometry_msgs/Point32.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layer.h
 costmap_2d/costmap_2d.h
 -
 costmap_2d/layered_costmap.h
@@ -282,7 +282,7 @@ tf2_ros/buffer.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/layered_costmap.h
 costmap_2d/cost_values.h
 -
 costmap_2d/layer.h
@@ -294,13 +294,13 @@ vector
 string
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation.h
 geometry_msgs/Point.h
 -
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/observation_buffer.h
 vector
 -
 list
@@ -318,7 +318,7 @@ sensor_msgs/PointCloud2.h
 boost/thread.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/obstacle_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -352,7 +352,7 @@ costmap_2d/footprint.h
 costmap_2d/ObstacleDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/costmap_2d/include/costmap_2d/semantic_layer.h
 ros/ros.h
 -
 costmap_2d/costmap_layer.h
@@ -372,7 +372,7 @@ costmap_2d/SemanticPluginConfig.h
 costmap_2d/SemanticDump.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/core/nav_core/include/nav_core/base_local_planner.h
 geometry_msgs/PoseStamped.h
 -
 geometry_msgs/Twist.h
@@ -382,13 +382,13 @@ costmap_2d/costmap_2d_ros.h
 tf2_ros/buffer.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/costmap_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/costmap_model.h
 base_local_planner/world_model.h
 -
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/footprint_helper.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/footprint_helper.h
 vector
 -
 costmap_2d/costmap_2d.h
@@ -400,7 +400,7 @@ Eigen/Core
 base_local_planner/Position2DInt.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/goal_functions.h
 ros/ros.h
 -
 nav_msgs/Odometry.h
@@ -424,7 +424,7 @@ angles/angles.h
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/latched_stop_rotate_controller.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/latched_stop_rotate_controller.h
 string
 -
 Eigen/Core
@@ -434,15 +434,15 @@ base_local_planner/local_planner_util.h
 base_local_planner/odometry_helper_ros.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/line_iterator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/line_iterator.h
 stdlib.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/local_planner_limits.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/local_planner_limits.h
 Eigen/Core
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/local_planner_util.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/local_planner_util.h
 nav_core/base_local_planner.h
 -
 boost/thread.hpp
@@ -454,11 +454,11 @@ tf2_ros/buffer.h
 base_local_planner/local_planner_limits.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_cell.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_cell.h
 base_local_planner/trajectory_inc.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid.h
 vector
 -
 iostream
@@ -476,7 +476,7 @@ costmap_2d/costmap_2d.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid_cost_function.h
 base_local_planner/trajectory_cost_function.h
 -
 costmap_2d/costmap_2d.h
@@ -484,7 +484,7 @@ costmap_2d/costmap_2d.h
 base_local_planner/map_grid.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid_visualizer.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/map_grid_visualizer.h
 ros/ros.h
 -
 base_local_planner/map_grid.h
@@ -492,7 +492,7 @@ base_local_planner/map_grid.h
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/obstacle_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/obstacle_cost_function.h
 base_local_planner/trajectory_cost_function.h
 -
 base_local_planner/costmap_model.h
@@ -500,7 +500,7 @@ base_local_planner/costmap_model.h
 costmap_2d/costmap_2d.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/odometry_helper_ros.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/odometry_helper_ros.h
 nav_msgs/Odometry.h
 -
 ros/ros.h
@@ -510,19 +510,19 @@ boost/thread.hpp
 geometry_msgs/PoseStamped.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/oscillation_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/oscillation_cost_function.h
 base_local_planner/trajectory_cost_function.h
 -
 Eigen/Core
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/planar_laser_scan.h
 geometry_msgs/Point32.h
 -
 sensor_msgs/PointCloud.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/point_grid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/point_grid.h
 vector
 -
 list
@@ -538,11 +538,11 @@ base_local_planner/world_model.h
 sensor_msgs/PointCloud2.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/prefer_forward_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/prefer_forward_cost_function.h
 base_local_planner/trajectory_cost_function.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/simple_scored_sampling_planner.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/simple_scored_sampling_planner.h
 vector
 -
 base_local_planner/trajectory.h
@@ -554,7 +554,7 @@ base_local_planner/trajectory_sample_generator.h
 base_local_planner/trajectory_search.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/simple_trajectory_generator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/simple_trajectory_generator.h
 base_local_planner/trajectory_sample_generator.h
 -
 base_local_planner/local_planner_limits.h
@@ -562,31 +562,31 @@ base_local_planner/local_planner_limits.h
 Eigen/Core
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory.h
 vector
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_cost_function.h
 base_local_planner/trajectory.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_inc.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_inc.h
 limits
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_sample_generator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_sample_generator.h
 base_local_planner/trajectory.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_search.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/trajectory_search.h
 base_local_planner/trajectory.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/twirling_cost_function.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/twirling_cost_function.h
 base_local_planner/trajectory_cost_function.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/velocity_iterator.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/velocity_iterator.h
 algorithm
 -
 cmath
@@ -594,7 +594,7 @@ cmath
 vector
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/voxel_grid_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/voxel_grid_model.h
 vector
 -
 list
@@ -610,7 +610,7 @@ base_local_planner/world_model.h
 voxel_grid/voxel_grid.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/include/base_local_planner/world_model.h
 vector
 -
 costmap_2d/observation.h
@@ -622,7 +622,7 @@ geometry_msgs/Point.h
 base_local_planner/planar_laser_scan.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/costmap_model.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/costmap_model.cpp
 base_local_planner/line_iterator.h
 -
 base_local_planner/costmap_model.h
@@ -630,11 +630,11 @@ base_local_planner/costmap_model.h
 costmap_2d/cost_values.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/footprint_helper.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/footprint_helper.cpp
 base_local_planner/footprint_helper.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/goal_functions.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/goal_functions.cpp
 base_local_planner/goal_functions.h
 -
 tf2/LinearMath/Matrix3x3.h
@@ -644,7 +644,7 @@ tf2/utils.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/latched_stop_rotate_controller.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/latched_stop_rotate_controller.cpp
 base_local_planner/latched_stop_rotate_controller.h
 -
 cmath
@@ -662,27 +662,27 @@ base_local_planner/local_planner_limits.h
 tf2/utils.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/local_planner_util.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/local_planner_util.cpp
 base_local_planner/local_planner_util.h
 -
 base_local_planner/goal_functions.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_cell.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_cell.cpp
 base_local_planner/map_cell.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid.cpp
 base_local_planner/map_grid.h
 -
 costmap_2d/cost_values.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid_cost_function.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid_cost_function.cpp
 base_local_planner/map_grid_cost_function.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid_visualizer.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/map_grid_visualizer.cpp
 base_local_planner/map_grid_visualizer.h
 -
 base_local_planner/map_cell.h
@@ -694,7 +694,7 @@ sensor_msgs/PointCloud2.h
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/obstacle_cost_function.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/obstacle_cost_function.cpp
 base_local_planner/obstacle_cost_function.h
 -
 cmath
@@ -704,7 +704,7 @@ Eigen/Core
 ros/console.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/odometry_helper_ros.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/odometry_helper_ros.cpp
 base_local_planner/odometry_helper_ros.h
 -
 tf2/LinearMath/Quaternion.h
@@ -714,13 +714,13 @@ tf2_geometry_msgs/tf2_geometry_msgs.h
 tf2/convert.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/oscillation_cost_function.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/oscillation_cost_function.cpp
 base_local_planner/oscillation_cost_function.h
 -
 cmath
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/point_grid.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/point_grid.cpp
 base_local_planner/point_grid.h
 -
 ros/console.h
@@ -734,19 +734,19 @@ cstdio
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/prefer_forward_cost_function.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/prefer_forward_cost_function.cpp
 base_local_planner/prefer_forward_cost_function.h
 -
 math.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/simple_scored_sampling_planner.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/simple_scored_sampling_planner.cpp
 base_local_planner/simple_scored_sampling_planner.h
 -
 ros/console.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/simple_trajectory_generator.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/simple_trajectory_generator.cpp
 base_local_planner/simple_trajectory_generator.h
 -
 cmath
@@ -754,23 +754,23 @@ cmath
 base_local_planner/velocity_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/trajectory.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/trajectory.cpp
 base_local_planner/trajectory.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/twirling_cost_function.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/twirling_cost_function.cpp
 base_local_planner/twirling_cost_function.h
 -
 math.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/voxel_grid_model.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/planners/local/base_local_planner/src/voxel_grid_model.cpp
 base_local_planner/voxel_grid_model.h
 -
 sensor_msgs/point_cloud2_iterator.h
 -
 
-/home/az/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include/voxel_grid/voxel_grid.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/navigation/utils/voxel_grid/include/voxel_grid/voxel_grid.h
 stdio.h
 -
 string.h

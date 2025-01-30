@@ -1,11 +1,11 @@
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/share/sideways_inter/docs/sidewaysInterConfig-usage.dox, /home/az/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig-usage.dox)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/share/sideways_inter/docs/sidewaysInterConfig.dox, /home/az/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig.dox)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/share/sideways_inter/docs/sidewaysInterConfig.wikidoc, /home/az/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig.wikidoc)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/share/sideways_inter/cmake/sideways_interConfig.cmake, /home/az/arena_ws/devel/share/sideways_inter/cmake/sideways_interConfig.cmake)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/share/sideways_inter/cmake/sideways_interConfig-version.cmake, /home/az/arena_ws/devel/share/sideways_inter/cmake/sideways_interConfig-version.cmake)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/include/sideways_inter/sidewaysInterConfig.h, /home/az/arena_ws/devel/include/sideways_inter/sidewaysInterConfig.h)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/lib/libsideways_inter.so, /home/az/arena_ws/devel/lib/libsideways_inter.so)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/lib/pkgconfig/sideways_inter.pc, /home/az/arena_ws/devel/lib/pkgconfig/sideways_inter.pc)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/lib/python3/dist-packages/sideways_inter/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/sideways_inter/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/lib/python3/dist-packages/sideways_inter/cfg/__init__.py, /home/az/arena_ws/devel/lib/python3/dist-packages/sideways_inter/cfg/__init__.py)
-Linked: (/home/az/arena_ws/devel/.private/sideways_inter/lib/python3/dist-packages/sideways_inter/cfg/sidewaysInterConfig.py, /home/az/arena_ws/devel/lib/python3/dist-packages/sideways_inter/cfg/sidewaysInterConfig.py)
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig-usage.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig.dox
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/sideways_inter/docs/sidewaysInterConfig.wikidoc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/sideways_inter/cmake/sideways_interConfig.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/share/sideways_inter/cmake/sideways_interConfig-version.cmake
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/include/sideways_inter/sidewaysInterConfig.h
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/libsideways_inter.so
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/pkgconfig/sideways_inter.pc
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/sideways_inter/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/sideways_inter/cfg/__init__.py
+Symlinking /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/lib/python3/dist-packages/sideways_inter/cfg/sidewaysInterConfig.py

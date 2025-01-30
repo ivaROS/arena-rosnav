@@ -126,5 +126,5 @@
 [ 89%] [32mBuilding CXX object CMakeFiles/unitree_controller_go1.dir/src/interface/WirelessHandle.cpp.o[0m
 [ 92%] [32mBuilding CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/Array.cc.o[0m
 [ 96%] [32mBuilding CXX object CMakeFiles/unitree_controller_go1.dir/src/quadProgpp/QuadProg++.cc.o[0m
-[100%] [32m[1mLinking CXX executable /home/az/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1[0m
+[100%] [32m[1mLinking CXX executable /home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/unitree_controller_go1/lib/unitree_controller_go1/unitree_controller_go1[0m
 [100%] Built target unitree_controller_go1

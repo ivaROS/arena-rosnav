@@ -2,7 +2,7 @@
 
 message(STATUS "cob_control_msgs: 2 messages, 1 services")
 
-set(MSG_I_FLAGS "-Icob_control_msgs:/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg;-Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg;-Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg")
+set(MSG_I_FLAGS "-Icob_control_msgs:/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg;-Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg;-Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg")
 
 # Find all generators
 find_package(gencpp REQUIRED)
@@ -17,19 +17,19 @@ add_custom_target(cob_control_msgs_generate_messages ALL)
 
 
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_custom_target(_cob_control_msgs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" "geometry_msgs/Vector3:std_msgs/Header"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" "std_msgs/Header:geometry_msgs/Vector3"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_custom_target(_cob_control_msgs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" "geometry_msgs/Vector3:std_msgs/Header:cob_control_msgs/ObstacleDistance"
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" "std_msgs/Header:cob_control_msgs/ObstacleDistance:geometry_msgs/Vector3"
 )
 
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_custom_target(_cob_control_msgs_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" ""
+  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "cob_control_msgs" "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" ""
 )
 
 #
@@ -39,21 +39,21 @@ add_custom_target(_cob_control_msgs_generate_messages_check_deps_${_filename}
 ### Section generating for lang: gencpp
 ### Generating Messages
 _generate_msg_cpp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_control_msgs
 )
 _generate_msg_cpp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_control_msgs
 )
 
 ### Generating Services
 _generate_srv_cpp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/cob_control_msgs
@@ -71,11 +71,11 @@ add_custom_target(cob_control_msgs_generate_messages_cpp
 add_dependencies(cob_control_msgs_generate_messages cob_control_msgs_generate_messages_cpp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_cpp _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_cpp _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_cpp _cob_control_msgs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -88,21 +88,21 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_control_msgs_generate_messages_
 ### Section generating for lang: geneus
 ### Generating Messages
 _generate_msg_eus(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_control_msgs
 )
 _generate_msg_eus(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_control_msgs
 )
 
 ### Generating Services
 _generate_srv_eus(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${geneus_INSTALL_DIR}/cob_control_msgs
@@ -120,11 +120,11 @@ add_custom_target(cob_control_msgs_generate_messages_eus
 add_dependencies(cob_control_msgs_generate_messages cob_control_msgs_generate_messages_eus)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_eus _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_eus _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_eus _cob_control_msgs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -137,21 +137,21 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_control_msgs_generate_messages_
 ### Section generating for lang: genlisp
 ### Generating Messages
 _generate_msg_lisp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_control_msgs
 )
 _generate_msg_lisp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_control_msgs
 )
 
 ### Generating Services
 _generate_srv_lisp(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/cob_control_msgs
@@ -169,11 +169,11 @@ add_custom_target(cob_control_msgs_generate_messages_lisp
 add_dependencies(cob_control_msgs_generate_messages cob_control_msgs_generate_messages_lisp)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_lisp _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_lisp _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_lisp _cob_control_msgs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -186,21 +186,21 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_control_msgs_generate_messages_
 ### Section generating for lang: gennodejs
 ### Generating Messages
 _generate_msg_nodejs(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_control_msgs
 )
 _generate_msg_nodejs(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_control_msgs
 )
 
 ### Generating Services
 _generate_srv_nodejs(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gennodejs_INSTALL_DIR}/cob_control_msgs
@@ -218,11 +218,11 @@ add_custom_target(cob_control_msgs_generate_messages_nodejs
 add_dependencies(cob_control_msgs_generate_messages cob_control_msgs_generate_messages_nodejs)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_nodejs _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_nodejs _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_nodejs _cob_control_msgs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -235,21 +235,21 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS cob_control_msgs_generate_messages_
 ### Section generating for lang: genpy
 ### Generating Messages
 _generate_msg_py(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs
 )
 _generate_msg_py(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg"
   "${MSG_I_FLAGS}"
-  "/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg;/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg"
+  "/opt/ros/noetic/share/std_msgs/cmake/../msg/Header.msg;/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg;/opt/ros/noetic/share/geometry_msgs/cmake/../msg/Vector3.msg"
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs
 )
 
 ### Generating Services
 _generate_srv_py(cob_control_msgs
-  "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
+  "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv"
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs
@@ -267,11 +267,11 @@ add_custom_target(cob_control_msgs_generate_messages_py
 add_dependencies(cob_control_msgs_generate_messages cob_control_msgs_generate_messages_py)
 
 # add dependencies to all check dependencies targets
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistance.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_py _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/msg/ObstacleDistances.msg" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_py _cob_control_msgs_generate_messages_check_deps_${_filename})
-get_filename_component(_filename "/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
+get_filename_component(_filename "/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_control_msgs/srv/GetObstacleDistance.srv" NAME_WE)
 add_dependencies(cob_control_msgs_generate_messages_py _cob_control_msgs_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -340,7 +340,7 @@ if(TARGET std_msgs_generate_messages_nodejs)
 endif()
 
 if(genpy_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs)
-  install(CODE "execute_process(COMMAND \"/home/az/.cache/pypoetry/virtualenvs/arena-rosnav-fVe40LB9-py3.8/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs\")")
+  install(CODE "execute_process(COMMAND \"/usr/bin/python3\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs\")")
   # install generated code
   install(
     DIRECTORY ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/cob_control_msgs

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/az/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/devel/.private/cob_twist_controller/include/cob_twist_controller/TwistControllerConfig.h
 dynamic_reconfigure/config_tools.h
 -
 limits
@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/cob_twist_controller_data_types.h
 string
 -
 vector
@@ -44,25 +44,25 @@ kdl/chainjnttojacsolver.hpp
 cob_twist_controller/TwistControllerConfig.h
 -
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/damping_methods/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation.h
 cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/inverse_jacobian_calculation_base.h
 Eigen/Core
 -
 boost/shared_ptr.hpp
 -
 cob_twist_controller/damping_methods/damping_base.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/damping_methods/damping_base.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/damping_methods/damping_base.h
 cob_twist_controller/cob_twist_controller_data_types.h
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/cob_twist_controller_data_types.h
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/include/cob_twist_controller/inverse_jacobian_calculations/cob_twist_controller/cob_twist_controller_data_types.h
 
-/home/az/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/inverse_jacobian_calculations/inverse_jacobian_calculation.cpp
+/home/az/github_may_messed_it_up_20250124arena_try_get_rel_vel_work/arena_ws/src/arena/utils/3rd-party-robot-packages/cob4/cob_twist_controller/src/inverse_jacobian_calculations/inverse_jacobian_calculation.cpp
 ros/ros.h
 -
 Eigen/Core
