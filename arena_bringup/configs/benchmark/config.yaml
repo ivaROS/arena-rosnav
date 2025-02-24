@@ -1,6 +1,5 @@
 suite:
-  config: factory.yaml
-  # scale_episodes: 1
+  config: dynamic_test.yaml
 
 contest:
   config: dgap.yaml

@@ -105,5 +105,5 @@ repositories:
     version: c1ea4f5de453f99f1b4faea18f4493aab39cf066 ### branch: dev/arena-rosnav
   planners/dynamic_gap:
     type: git
-    url: https://github.com/max-assel/DynamicGap.git
+    url: https://github.com/ivaROS/DynamicGap.git
     version: a8f1bc3170ffb8578ec87a6ae8cceeea03f266ab ### branch: main
