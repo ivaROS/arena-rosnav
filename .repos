@@ -106,4 +106,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
-    version: 713fa69bda6c212cd65beb261a50c590219a9cff ### branch: main
+    version: e85fc16ea7400359b471a6f993bccc89856bb8e5 ### branch: main
