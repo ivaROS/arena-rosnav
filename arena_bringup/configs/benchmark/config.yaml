@@ -1,5 +1,5 @@
 suite:
-  config: dynamic_test.yaml
+  config: static_test.yaml
 
 contest:
   config: dgap.yaml

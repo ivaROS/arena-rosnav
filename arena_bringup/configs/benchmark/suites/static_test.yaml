@@ -2,7 +2,7 @@ stages:
   - name: static_test_0
     episodes: 1
     robot: rto
-    map: arena_hospital_large
+    map: evaluation_floor
     tm_robots: scenario
     tm_obstacles: scenario
     config:
