@@ -1,5 +1,5 @@
 suite:
-  config: static_test.yaml
+  config: CS6_interrupting.yaml
 
 contest:
   config: dgap.yaml

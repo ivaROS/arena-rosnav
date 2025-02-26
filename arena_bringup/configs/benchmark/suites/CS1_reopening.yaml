@@ -1,0 +1,10 @@
+stages:
+  - name: CS1_reopening
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: CS1_reopening.json

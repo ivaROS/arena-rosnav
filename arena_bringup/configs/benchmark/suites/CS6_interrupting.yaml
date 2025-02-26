@@ -1,0 +1,10 @@
+stages:
+  - name: CS6_interrupting
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: CS6_interrupting.json

@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 1408906597
+  seed: 1202624068
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: no_agents.json
+  file: CS6_interrupting.json
 STAGED:
   curriculum: default.yaml
   index: 0

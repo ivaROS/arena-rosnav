@@ -1,0 +1,10 @@
+stages:
+  - name: CS3_approaching
+    episodes: 1
+    robot: rto
+    map: arena_corridor
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: CS3_approaching.json
