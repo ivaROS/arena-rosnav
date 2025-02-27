@@ -11,7 +11,7 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 776523507
+  seed: 600048849
   static:
     max: 10
     min: 5
