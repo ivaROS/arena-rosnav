@@ -61,8 +61,8 @@ repositories:
     version: e76dbbccf85a70399a2e0a4f1c6a2b6fca61d16e
   planners/cadrl-ros:
     type: git
-    url: https://github.com/Arena-Rosnav/cadrl-ros.git
-    version: bdabb7a5dca8d750c5977decdbbbfa5d58b4b586
+    url: https://github.com/ivaROS/cadrl-ros.git
+    version: 464be50338522637ecc74c450a10bd83537b4cd2
   planners/cohan:
     type: git
     url: https://github.com/Arena-Rosnav/cohan_planner_multi
