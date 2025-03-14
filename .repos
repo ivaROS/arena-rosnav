@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: 099f61172ffb816f121b09a3bfd1d03234990cc9
+    version: d7ec397f1534afbe2dff032893b7ea7f4e3af4a5
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -77,8 +77,8 @@ repositories:
     version: c74a9e94863283dbc32766c07d3af4e761a10c31
   planners/lflh:
     type: git
-    url: https://github.com/Arena-Rosnav/lflh
-    version: 9971069d678ca3750b757890da57e99b3ac1318a
+    url: https://github.com/ivaROS/lflh.git
+    version: 62f375ce0a9e19af80633bfea14bdb4c00571e55
   planners/mpc:
     type: git
     url: https://github.com/rst-tu-dortmund/mpc_local_planner

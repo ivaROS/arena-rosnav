@@ -3,8 +3,7 @@
 
   <env name="ARENA_TYPE" value="deployment" />
 
-  <!-- <env name="ROSCONSOLE_CONFIG_FILE" value="$(find arena_bringup)/params/dgap_rosconsole.conf"/> -->
-  <env name="ROSCONSOLE_CONFIG_FILE" value="$(find all_in_one_local_planner_interface)/debug_rosconsole.conf"/>
+  <env name="ROSCONSOLE_CONFIG_FILE" value="$(find arena_bringup)/params/dgap_rosconsole.conf"/>
 
   <param name="debug_mode" value="true" />
   <arg name="desired_resets" default="10" />
