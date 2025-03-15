@@ -105,5 +105,5 @@ repositories:
     version: c1ea4f5de453f99f1b4faea18f4493aab39cf066 ### branch: dev/arena-rosnav
   planners/dynamic_gap:
     type: git
-    url: https://github.com/ivaROS/DynamicGap.git
-    version: a3ed7413d472d3fe6fc6dcd46ecf39996d6d6606 ### branch: dev/gap_prop
+    url: https://github.com/abdelzaro/dynamic_gap_social_consideration_added.git
+    version: 1cf3bed0a940b74e964c6146e5d85e8fa4fc0945 ### branch: social cost function
