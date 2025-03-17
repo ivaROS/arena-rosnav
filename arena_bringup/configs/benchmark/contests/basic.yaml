@@ -1,12 +1,15 @@
 contestants:
-  # - name: mpc
-  #   local_planner: mpc
+  - name: mpc
+    local_planner: mpc
 
-  # - name: teb
-  #   local_planner: teb
+  - name: teb
+    local_planner: teb
   
-  # - name: dwa
-  #   local_planner: dwa
+  - name: dwa
+    local_planner: dwa
+
+  # - name: cohan
+  #   local_planner: cohan
 
   # - name: rlca
   #   local_planner: rlca
@@ -14,12 +17,17 @@ contestants:
   # - name: trail
   #   local_planner: trail
 
-  # - name: pgap # what you want it to be called in logs
-  #   local_planner: pgap # needs to match file naming
+  # - name: cadrl
+  #   local_planner: cadrl
 
-  - name: dgap
-    local_planner: dgap
+  # - name: lflh
+  #   local_planner: lflh
 
-  # - name: rosnav
-    # local_planner: rosnav
+  - name: pgap # what you want it to be called in logs
+    local_planner: pgap # needs to match file naming
 
+  # - name: dgap_vanilla
+    # local_planner: dgap_vanilla
+
+  # - name: dgap
+    # local_planner: dgap
