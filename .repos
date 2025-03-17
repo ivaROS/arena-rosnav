@@ -65,8 +65,8 @@ repositories:
     version: 464be50338522637ecc74c450a10bd83537b4cd2
   planners/cohan:
     type: git
-    url: https://github.com/abdelzaro/cohan_planner_multi
-    version: 09ae3fa48957d7983a0cffa24ffdd810b9531a13
+    url: https://github.com/Arena-Rosnav/cohan_planner_multi
+    version: de6f9bda9a3dcba05e50998962a36444f063930d
   planners/crowdnav-ros:
     type: git
     url: https://github.com/Arena-Rosnav/crowdnav-ros.git
