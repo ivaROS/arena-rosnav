@@ -78,7 +78,7 @@ repositories:
   planners/lflh:
     type: git
     url: https://github.com/ivaROS/lflh.git
-    version: 62f375ce0a9e19af80633bfea14bdb4c00571e55
+    version: f86eda8cdf7f995c6abffe4df6dee2dc0c70045a
   planners/mpc:
     type: git
     url: https://github.com/rst-tu-dortmund/mpc_local_planner
@@ -86,7 +86,7 @@ repositories:
   planners/rlca-ros:
     type: git
     url: https://github.com/ivaROS/rlca-ros.git
-    version: 91a3638320b551b7eac8642fbb5bd409ff699e0f ### branch: patch
+    version: 84d206272ea32ec935e40c58c5d4595dfdcd8fac ### branch: patch
   planners/rosnav:
     type: git
     url: https://github.com/ivaROS/rosnav-rl.git
