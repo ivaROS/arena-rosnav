@@ -1,8 +1,8 @@
 suite:
-  config: comprehensive.yaml # CS6_interrupting.yaml
+  config: CS1_reopening.yaml # CS6_interrupting.yaml
 
 contest:
-  config: basic.yaml
+  config: dgap.yaml # basic.yaml
 
 general:
   simulator: flatland
