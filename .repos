@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: fec60f21a6530a4ba3b40e42eeaa84ae13cc5894
+    version: 7622d7a67005a23e8c8b9ed024caf094484a5162
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -62,7 +62,7 @@ repositories:
   planners/cadrl-ros:
     type: git
     url: https://github.com/ivaROS/cadrl-ros.git
-    version: 464be50338522637ecc74c450a10bd83537b4cd2
+    version: 44b66aee8d1d29b5a10974dd3c3aea0ee795f08d
   planners/cohan:
     type: git
     url: https://github.com/Arena-Rosnav/cohan_planner_multi
