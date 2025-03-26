@@ -2,7 +2,7 @@ stages:
   - name: CS2_overtaking
     episodes: 1
     robot: rto
-    map: arena_corridor
+    map: map_empty
     tm_robots: scenario
     tm_obstacles: scenario
     config:
