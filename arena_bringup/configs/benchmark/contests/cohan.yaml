@@ -1,0 +1,3 @@
+contestants:
+  - name: cohan
+    local_planner: cohan

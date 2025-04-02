@@ -2,7 +2,7 @@ suite:
   config: map_empty.yaml # CS6_interrupting.yaml
 
 contest:
-  config: dgap.yaml # basic.yaml
+  config: cohan.yaml # basic.yaml
 
 general:
   simulator: flatland
