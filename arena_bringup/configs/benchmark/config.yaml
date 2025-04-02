@@ -1,5 +1,5 @@
 suite:
-  config: CS1_reopening.yaml # CS6_interrupting.yaml
+  config: map_empty.yaml # CS6_interrupting.yaml
 
 contest:
   config: dgap.yaml # basic.yaml
