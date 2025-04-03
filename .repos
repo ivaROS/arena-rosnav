@@ -35,6 +35,10 @@ repositories:
     type: git
     url: https://github.com/voshch/unitree_ros
     version: 8be8a62854c7616aefa45b09b8ab467cefcccfc1
+  arena/utils/mod_rto_scan:
+    type: git
+    url: https://github.com/ivaROS/mod_rto_scan
+    version: a6188a6e129f3367a7d87345ca2d97f656a716bd    
   extern/ford_msgs:
     type: git
     url: https://bitbucket.org/acl-swarm/ford_msgs/master/

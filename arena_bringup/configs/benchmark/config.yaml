@@ -1,8 +1,8 @@
 suite:
-  config: map_empty.yaml # CS6_interrupting.yaml
+  config: factory.yaml # CS6_interrupting.yaml
 
 contest:
-  config: cohan.yaml # basic.yaml
+  config: rlca.yaml # basic.yaml
 
 general:
   simulator: flatland

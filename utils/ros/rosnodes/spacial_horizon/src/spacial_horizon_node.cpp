@@ -10,7 +10,8 @@ void SpacialHorizon::init(ros::NodeHandle &nh)
     has_goal = false;
 
     /*  fsm param  */
-    nh.param("disable_intermediate_planner", disable_intermediate_planner, true);
+    // nh.param("disable_intermediate_planner", disable_intermediate_planner, true);
+    disable_intermediate_planner = false;
     nh.param("fsm/goal_tolerance", goal_tolerance, 0.5);
     nh.param("fsm/subgoal_tolerance", subgoal_tolerance, 0.2);
     nh.param("fsm/subgoal_pub_period", subgoal_pub_period, 0.5);
@@ -66,7 +67,8 @@ void SpacialHorizon::goalCallback(const geometry_msgs::PoseStampedPtr &msg)
     getGlobalPath();
 
     // when disable_intermediate_planner is true, the goal is the subgoal
-    if (disable_intermediate_planner){
+    if (disable_intermediate_planner)
+    {
         geometry_msgs::PoseStamped pose_stamped;
         pose_stamped.header.stamp = ros::Time::now();
         pose_stamped.header.frame_id = "map";
@@ -122,11 +124,11 @@ void SpacialHorizon::updateSubgoalCallback(const ros::TimerEvent &e)
     }
     else
     {
-        std::cout << "GEN NEW SUBGOAL" << std::endl;
+        // std::cout << "GEN NEW SUBGOAL" << std::endl;
 
 
         if (!has_goal) {
-        std::cout << "NO GOAL" << std::endl;
+            // std::cout << "NO GOAL" << std::endl;
 
             return;
 
@@ -139,16 +141,16 @@ void SpacialHorizon::updateSubgoalCallback(const ros::TimerEvent &e)
         double dist_to_subgoal = (odom_pos - subgoal).norm();
         if (dist_to_subgoal > planning_horizon + 1.0)
         {
-            std::cout << "[Spacial Horizon]: Too far away from subgoal! Recomputing "
-                        "global path " << end_pos << " " << odom_pos
-                    << std::endl;
+            // std::cout << "[Spacial Horizon]: Too far away from subgoal! Recomputing "
+            //             "global path " << end_pos << " " << odom_pos
+            //         << std::endl;
             getGlobalPath();
             subgoal_success = getSubgoal(subgoal);
         }
 
         if (!subgoal_success)
         {
-        std::cout << "SUBGOAL SUCCESS" << std::endl;
+        // std::cout << "SUBGOAL SUCCESS" << std::endl;
             
             return;
         }
@@ -160,7 +162,7 @@ void SpacialHorizon::updateSubgoalCallback(const ros::TimerEvent &e)
         pose_stamped.pose.position.y = subgoal(1);
         pose_stamped.pose.position.z = 0.0;
 
-        std::cout << "PUBLISHING SUBGOAL" << std::endl;
+        // std::cout << "PUBLISHING SUBGOAL" << std::endl;
 
         pub_subgoal.publish(pose_stamped);
     }
