@@ -2,7 +2,7 @@ suite:
   config: arena_hospital_large.yaml # CS6_interrupting.yaml
 
 contest:
-  config: cadrl.yaml # basic.yaml
+  config: dgap.yaml # basic.yaml
 
 general:
   simulator: flatland
