@@ -1,15 +1,15 @@
 contestants:
-  # - name: mpc
-  #   local_planner: mpc
+  - name: mpc
+    local_planner: mpc
 
-  # - name: teb
-  #   local_planner: teb
+  - name: teb
+    local_planner: teb
   
-  # - name: dwa
-  #   local_planner: dwa
+  - name: dwa
+    local_planner: dwa
 
-  # - name: cohan
-  #   local_planner: cohan
+  - name: cohan
+    local_planner: cohan
 
   - name: rlca
     local_planner: rlca
@@ -20,8 +20,8 @@ contestants:
   # - name: cadrl
   #   local_planner: cadrl
 
-  - name: lflh
-    local_planner: lflh
+  # - name: lflh
+  #   local_planner: lflh
 
   # - name: pgap # what you want it to be called in logs
   #   local_planner: pgap # needs to match file naming

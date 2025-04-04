@@ -90,7 +90,7 @@ repositories:
   planners/rlca-ros:
     type: git
     url: https://github.com/ivaROS/rlca-ros.git
-    version: 5eae2b38d42d3168e39a9cf4a8786662779909ec ### branch: patch
+    version: 414905f553cdbe2c718408d2e490b79110c13159 ### branch: patch
   planners/rosnav:
     type: git
     url: https://github.com/ivaROS/rosnav-rl.git
@@ -110,4 +110,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
-    version: a10cbba4272c857238ed0cccac668d2135fd88c4 ### branch: dev/gap_prop
+    version: d6fc1030667146db98ff257bcd2356c7db37e9ae ### branch: dev/gap_prop
