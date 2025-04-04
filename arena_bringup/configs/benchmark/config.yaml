@@ -1,8 +1,8 @@
 suite:
-  config: factory.yaml # CS6_interrupting.yaml
+  config: arena_hospital_large.yaml # CS6_interrupting.yaml
 
 contest:
-  config: rlca.yaml # basic.yaml
+  config: cadrl.yaml # basic.yaml
 
 general:
   simulator: flatland

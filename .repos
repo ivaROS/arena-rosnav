@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: fcb71408bcafcbb64db08728cc3e211764c507c0
+    version: b0d0f64adfd6266588bbbd01eec83dad6d4154c2
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -38,7 +38,7 @@ repositories:
   arena/utils/mod_rto_scan:
     type: git
     url: https://github.com/ivaROS/mod_rto_scan
-    version: a6188a6e129f3367a7d87345ca2d97f656a716bd    
+    version: e45bd3f9732960b33f77967316a74f38578add0d    
   extern/ford_msgs:
     type: git
     url: https://bitbucket.org/acl-swarm/ford_msgs/master/
@@ -90,7 +90,7 @@ repositories:
   planners/rlca-ros:
     type: git
     url: https://github.com/ivaROS/rlca-ros.git
-    version: 84d206272ea32ec935e40c58c5d4595dfdcd8fac ### branch: patch
+    version: 5eae2b38d42d3168e39a9cf4a8786662779909ec ### branch: patch
   planners/rosnav:
     type: git
     url: https://github.com/ivaROS/rosnav-rl.git
@@ -102,7 +102,7 @@ repositories:
   planners/trail:
     type: git
     url: https://github.com/ivaROS/trail.git
-    version: 344546bd32f0bf835b1fcb96b5241db19d1df1f2 ### branch: mbf
+    version: 13cbea059e263376dfc43314ce1d5384238f43eb ### branch: mbf
   planners/potential_gap:
     type: git
     url: https://github.com/ivaROS/PotentialGap.git
@@ -110,4 +110,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
-    version: c288ca38168b295ba8a0e496d7b59637957dab7a ### branch: dev/gap_prop
+    version: a10cbba4272c857238ed0cccac668d2135fd88c4 ### branch: dev/gap_prop

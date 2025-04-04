@@ -1,0 +1,3 @@
+contestants:
+  - name: lflh
+    local_planner: lflh
