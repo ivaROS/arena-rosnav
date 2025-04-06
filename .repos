@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: b0d0f64adfd6266588bbbd01eec83dad6d4154c2
+    version: ba39f94055c45866f3cbabbb94936bfb70bbca93
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -90,7 +90,7 @@ repositories:
   planners/rlca-ros:
     type: git
     url: https://github.com/ivaROS/rlca-ros.git
-    version: 414905f553cdbe2c718408d2e490b79110c13159 ### branch: patch
+    version: 815cc50bd00f2fcbf9bba0abb69ba78e8368b040 ### branch: patch
   planners/rosnav:
     type: git
     url: https://github.com/ivaROS/rosnav-rl.git
