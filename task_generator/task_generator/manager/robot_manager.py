@@ -129,8 +129,11 @@ class RobotManager:
         )
 
         # rospy.wait_for_service(os.path.join(self.namespace, "move_base", "clear_costmaps"))
+
+        # print("clear costmaps namespace: ", self.namespace("move_base_flex", "clear_costmaps"))
+
         self._clear_costmaps_srv = rospy.ServiceProxy(
-            self.namespace("move_base", "clear_costmaps"), std_srvs.Empty
+            self.namespace("move_base_flex", "clear_costmaps"), std_srvs.Empty
         )
 
     @property
@@ -150,7 +153,7 @@ class RobotManager:
         if Utils.get_arena_type() == Constants.ArenaType.TRAINING:
             return Namespace(
                 f"{self._namespace}{self._namespace}_{self.model_name}"
-            )  # schizophrenia
+            ) 
 
         return self._namespace(self._robot.name)
 
@@ -186,8 +189,10 @@ class RobotManager:
                 rospy.set_param(self.namespace("goal"), [float(v) for v in self._goal_pos])
 
         try:
+            # print("resetting cost map...")
             self._clear_costmaps_srv()
         except:
+            # print("failing to reset cost map")
             pass
 
         return self._position, self._goal_pos
