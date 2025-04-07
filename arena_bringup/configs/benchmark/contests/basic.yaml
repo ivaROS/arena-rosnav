@@ -1,6 +1,6 @@
 contestants:
-  - name: teb
-    local_planner: teb
+  # - name: teb
+  #   local_planner: teb
 
   # - name: mpc
   #   local_planner: mpc
@@ -8,8 +8,8 @@ contestants:
   # - name: dwa
   #   local_planner: dwa
 
-  # - name: cohan
-  #   local_planner: cohan
+  - name: cohan
+    local_planner: cohan
 
   # - name: rlca
   #   local_planner: rlca
