@@ -249,6 +249,16 @@ stages:
   #     SCENARIO:
   #       file: 24.json            
 
+  # - name: empty_scenario_25
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 24.json    
+
   - name: factory_scenario_0
     episodes: 1
     robot: rto
@@ -499,6 +509,16 @@ stages:
       SCENARIO:
         file: 24.json            
 
+  - name: factory_scenario_25
+    episodes: 1
+    robot: rto
+    map: factory
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 24.json       
+
   - name: arena_hospital_large_scenario_0
     episodes: 1
     robot: rto
@@ -740,6 +760,16 @@ stages:
         file: 23.json
 
   - name: arena_hospital_large_scenario_24
+    episodes: 1
+    robot: rto
+    map: arena_hospital_large
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 24.json            
+
+  - name: arena_hospital_large_scenario_25
     episodes: 1
     robot: rto
     map: arena_hospital_large
