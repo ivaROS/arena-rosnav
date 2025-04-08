@@ -11,6 +11,10 @@ repositories:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
     version: 8b60c1169626568bf734a07c3b0f13b06d3e2871
+  arena/utils/actionlib:
+    type: git
+    url: https://github.com/ivaROS/actionlib.git ### branch: no_asserts
+    version: 6710219fbd38c90246543883b06d80e14e7ec7e4
   arena/utils/flatland:
     type: git
     url: https://github.com/ivaROS/flatland.git
