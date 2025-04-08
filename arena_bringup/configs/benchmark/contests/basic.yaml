@@ -8,8 +8,8 @@ contestants:
   # - name: dwa
   #   local_planner: dwa
 
-  - name: cohan
-    local_planner: cohan
+  # - name: cohan
+  #   local_planner: cohan
 
   # - name: rlca
   #   local_planner: rlca
@@ -17,8 +17,8 @@ contestants:
   # - name: trail
   #   local_planner: trail
 
-  # - name: cadrl
-  #   local_planner: cadrl
+  - name: cadrl
+    local_planner: cadrl
 
   # - name: lflh
   #   local_planner: lflh

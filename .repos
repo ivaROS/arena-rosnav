@@ -2,11 +2,11 @@ repositories:
   arena/evaluation:
     type: git
     url: https://github.com/ivaROS/arena-evaluation.git
-    version: a0bf196af6d3ca856aee59e3d0f6e2df1ea2d8ae ### branch: restructure
+    version: 2c84c1febe3d485be5a85f1ccd82911f23cda034 ### branch: restructure
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: ba39f94055c45866f3cbabbb94936bfb70bbca93
+    version: cad9c1e8d402cbdac808d8b1dd866fff3d378a56
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
