@@ -1,5 +1,5 @@
 suite:
-  config: comprehensive_static.yaml # CS6_interrupting.yaml
+  config: comprehensive.yaml # CS6_interrupting.yaml
 
 contest:
   config: basic.yaml # basic.yaml
