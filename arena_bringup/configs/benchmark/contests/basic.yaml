@@ -17,11 +17,11 @@ contestants:
   # - name: trail
   #   local_planner: trail
 
-  # - name: cadrl
-  #   local_planner: cadrl
+  - name: cadrl
+    local_planner: cadrl
 
-  - name: lflh
-    local_planner: lflh
+  # - name: lflh
+  #   local_planner: lflh
 
   # - name: pgap # what you want it to be called in logs
   #   local_planner: pgap # needs to match file naming
