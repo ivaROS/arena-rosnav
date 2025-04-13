@@ -1,263 +1,263 @@
 stages:
-  # - name: empty_scenario_0
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 0_static.json
+  - name: empty_scenario_0
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 0_static.json
 
-  # - name: empty_scenario_1
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 1_static.json
+  - name: empty_scenario_1
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 1_static.json
 
-  # - name: empty_scenario_2
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 2_static.json
+  - name: empty_scenario_2
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 2_static.json
 
-  # - name: empty_scenario_3
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 3_static.json
+  - name: empty_scenario_3
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 3_static.json
 
-  # - name: empty_scenario_4
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 4_static.json
+  - name: empty_scenario_4
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 4_static.json
 
-  # - name: empty_scenario_5
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 5_static.json         
+  - name: empty_scenario_5
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 5_static.json         
 
-  # - name: empty_scenario_6
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 6_static.json
+  - name: empty_scenario_6
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 6_static.json
 
-  # - name: empty_scenario_7
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 7_static.json
+  - name: empty_scenario_7
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 7_static.json
 
-  # - name: empty_scenario_8
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 8_static.json
+  - name: empty_scenario_8
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 8_static.json
 
-  # - name: empty_scenario_9
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 9_static.json
+  - name: empty_scenario_9
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 9_static.json
 
-  # - name: empty_scenario_10
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 10_static.json
+  - name: empty_scenario_10
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 10_static.json
 
-  # - name: empty_scenario_11
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 11_static.json            
+  - name: empty_scenario_11
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 11_static.json            
 
-  # - name: empty_scenario_12
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 12_static.json            
+  - name: empty_scenario_12
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 12_static.json            
 
-  # - name: empty_scenario_13
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 13_static.json
+  - name: empty_scenario_13
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 13_static.json
 
-  # - name: empty_scenario_14
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 14_static.json
+  - name: empty_scenario_14
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 14_static.json
 
-  # - name: empty_scenario_15
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 15_static.json
+  - name: empty_scenario_15
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 15_static.json
 
-  # - name: empty_scenario_16
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 16_static.json
+  - name: empty_scenario_16
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 16_static.json
 
-  # - name: empty_scenario_17
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 17_static.json
+  - name: empty_scenario_17
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 17_static.json
 
-  # - name: empty_scenario_18
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 18_static.json         
+  - name: empty_scenario_18
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 18_static.json         
 
-  # - name: empty_scenario_19
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 19_static.json
+  - name: empty_scenario_19
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 19_static.json
 
-  # - name: empty_scenario_20
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 20_static.json
+  - name: empty_scenario_20
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 20_static.json
 
-  # - name: empty_scenario_21
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 21_static.json
+  - name: empty_scenario_21
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 21_static.json
 
-  # - name: empty_scenario_22
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 22_static.json
+  - name: empty_scenario_22
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 22_static.json
 
-  # - name: empty_scenario_23
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 23_static.json
+  - name: empty_scenario_23
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 23_static.json
 
-  # - name: empty_scenario_24
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 24_static.json            
+  - name: empty_scenario_24
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 24_static.json            
 
-  # - name: empty_scenario_25
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 24_static.json     
+  - name: empty_scenario_25
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 24_static.json     
 
   - name: factory_scenario_0
     episodes: 1
