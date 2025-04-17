@@ -1,5 +1,5 @@
 stages:
-  - name: factory_scenario_0
+  - name: factory_scenario_4
     episodes: 1
     robot: rto
     map: factory
@@ -7,7 +7,17 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: vis.json
+        file: 4.json
+
+  # - name: factory_scenario_0
+  #   episodes: 1
+  #   robot: rto
+  #   map: factory
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: vis.json
 
   # - name: arena_hospital_large_scenario_0
   #   episodes: 1
