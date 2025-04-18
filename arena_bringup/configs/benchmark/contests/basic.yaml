@@ -23,8 +23,8 @@ contestants:
   # - name: cadrl
   #   local_planner: cadrl
 
-  - name: pgap # what you want it to be called in logs
-    local_planner: pgap # needs to match file naming
+  # - name: pgap # what you want it to be called in logs
+  #   local_planner: pgap # needs to match file naming
 
-  # - name: dgap
-  #   local_planner: dgap
+  - name: dgap
+    local_planner: dgap
