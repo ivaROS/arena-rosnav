@@ -2,7 +2,7 @@ repositories:
   arena/evaluation:
     type: git
     url: https://github.com/ivaROS/arena-evaluation.git
-    version: 2c84c1febe3d485be5a85f1ccd82911f23cda034 ### branch: restructure
+    version: 5ae8729630b8a136eafc7144c8943c4c60ebf845 ### branch: restructure
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
