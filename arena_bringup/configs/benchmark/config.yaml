@@ -1,5 +1,5 @@
 suite:
-  config: CS2_overtaking.yaml # CS6_interrupting.yaml
+  config: CS1_reopening.yaml # CS6_interrupting.yaml
 
 contest:
   config: basic.yaml # basic.yaml

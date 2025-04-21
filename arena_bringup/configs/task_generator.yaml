@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 688372641
+  seed: 1111256689
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: CS2_overtaking.json
+  file: CS1_reopening.json
 STAGED:
   curriculum: default.yaml
   index: 0
