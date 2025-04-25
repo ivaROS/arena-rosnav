@@ -18,7 +18,7 @@ repositories:
   arena/utils/flatland:
     type: git
     url: https://github.com/ivaROS/flatland.git
-    version: 88ef913b931c5492eb8e7bb5f87796760394a1a5 ### branch: dev/second_orderf
+    version: 88ef913b931c5492eb8e7bb5f87796760394a1a5 ### branch: dev/second_order
   arena/utils/move_base_flex:
     type: git
     url: https://github.com/Arena-Rosnav/move_base_flex.git
@@ -114,4 +114,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
-    version: 1eb4c6022cc174ba33b3cd56eb33a48f57e9bb0f ### branch: dev/gap_prop
+    version: 0f55bbd78f083a39ad8eed615a4d7872d121fb1a ### branch: dev/gap_prop
