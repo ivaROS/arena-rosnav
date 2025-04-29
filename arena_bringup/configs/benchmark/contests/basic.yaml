@@ -26,5 +26,5 @@ contestants:
   # - name: pgap # what you want it to be called in logs
   #   local_planner: pgap # needs to match file naming
 
-  - name: dgap+
+  - name: dgap
     local_planner: dgap
