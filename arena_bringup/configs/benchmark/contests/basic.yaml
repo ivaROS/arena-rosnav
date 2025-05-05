@@ -3,7 +3,7 @@ contestants:
   #   local_planner: teb
 
   # - name: cohan
-  #   local_planner: cohan
+    # local_planner: cohan
 
   # - name: mpc
   #   local_planner: mpc
