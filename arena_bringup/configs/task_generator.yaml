@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 2064517896
+  seed: 719848642
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: 0_static.json
+  file: gap_propagation_example.json
 STAGED:
   curriculum: default.yaml
   index: 0
