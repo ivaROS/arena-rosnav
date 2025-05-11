@@ -1,0 +1,10 @@
+stages:
+  - name: raw_simp_gaps_ex
+    episodes: 1
+    robot: rto
+    map: factory
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: raw_simp_gaps_ex.json

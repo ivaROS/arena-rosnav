@@ -1,0 +1,10 @@
+stages:
+  - name: gap_propagation_example2
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: gap_propagation_example2.json

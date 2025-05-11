@@ -6,7 +6,7 @@ repositories:
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: 2241891e33df9e989280ffaaec21bcea1722043a
+    version: 1a5d7d589023a9a6886fb24fcb9a3d3c37e5f247
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -114,4 +114,4 @@ repositories:
   planners/dynamic_gap:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
-    version: a7b7b94eecd13174aa8ad52a450d2bffb6674c31 ### branch: dev/gap_prop
+    version: 508f91b641409db7644e696d78922feb48855258 ### branch: dev/gap_prop
