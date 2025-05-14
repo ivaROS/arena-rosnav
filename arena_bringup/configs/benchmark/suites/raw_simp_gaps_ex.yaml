@@ -7,4 +7,4 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: raw_simp_gaps_ex.json
+        file: raw_simp_gaps_ex_dynamic.json
