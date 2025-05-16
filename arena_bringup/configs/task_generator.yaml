@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 1765889851
+  seed: 1318482981
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: 3_static.json
+  file: raw_simp_gaps_ex_dynamic.json
 STAGED:
   curriculum: default.yaml
   index: 0

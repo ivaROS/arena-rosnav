@@ -195,14 +195,16 @@ class TaskFactory:
                     None
                 """
                 try:
+                    print("reset_task")
                     self.__reset_start.publish()
-
+                    print("reset_task1")
                     if not self._train_mode:
                         if (
                             new_tm_robots := Constants.TaskMode.TM_Robots(
                                 rosparam_get(str, self.PARAM_TM_ROBOTS)
                             )
                         ) != self.__param_tm_robots:
+                            print("reset_task1 - robots")
                             self.set_tm_robots(new_tm_robots)
 
                         if (
@@ -210,22 +212,33 @@ class TaskFactory:
                                 rosparam_get(str, self.PARAM_TM_OBSTACLES)
                             )
                         ) != self.__param_tm_obstacles:
+                            print("reset_task1 - obstacles")
                             self.set_tm_obstacles(new_tm_obstacles)
 
+                    print("reset_task2")
                     for module in self.__modules:
                         module.before_reset()
 
+                    print("reset_task3")
                     self.__tm_robots.reset(**kwargs)
                     obstacles, dynamic_obstacles = self.__tm_obstacles.reset(**kwargs)
+
+                    print("reset_task4")
 
                     def respawn():
                         self.obstacle_manager.spawn_obstacles(obstacles)
                         self.obstacle_manager.spawn_dynamic_obstacles(dynamic_obstacles)
 
+                    print("reset_task5")
+
                     self.obstacle_manager.respawn(respawn)
+
+                    print("reset_task6")
 
                     for module in self.__modules:
                         module.after_reset()
+
+                    print("reset_task7")
 
                     self.last_reset_time = self.clock.clock.secs
 
@@ -253,18 +266,24 @@ class TaskFactory:
                     Exception: If an error occurs during the reset task.
 
                 """
+                print("_mutex_reset_task")
+
                 while self.__reset_mutex:
                     rospy.sleep(0.001)
                 self.__reset_mutex = True
 
+                print("_mutex_reset_task1")
+
                 try:
+                    print("_mutex_reset_task2")
                     rospy.set_param(self.PARAM_RESETTING, True)
                     self._reset_task()
-
                 except Exception as e:
                     raise e
 
+
                 finally:
+                    print("_mutex_reset_task3") 
                     rospy.set_param(self.PARAM_RESETTING, False)
                     self.__reset_mutex = False
 
@@ -275,6 +294,7 @@ class TaskFactory:
                 Args:
                     **kwargs: Arbitrary keyword arguments.
                 """
+                print("reset")
                 self._force_reset = False
                 if self._train_mode:
                     self._reset_task(**kwargs)

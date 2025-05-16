@@ -2,11 +2,11 @@ repositories:
   arena/evaluation:
     type: git
     url: https://github.com/ivaROS/arena-evaluation.git
-    version: e858efd9a96f2a6dac5af129e7eb02fd01318b6e ### branch: restructure
+    version: d0385f9ab203f48959943c1eee135d0b66f333e4 ### branch: restructure
   arena/simulation-setup:
     type: git
     url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: 71c857625bb3c8c3f271e1089965335206e6cea0
+    version: 7bdf9ea0e2b6d6ba52b4691946ade028af7d9061
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -26,7 +26,7 @@ repositories:
   arena/utils/navigation:
     type: git
     url: https://github.com/ivaROS/navigation.git
-    version: ef5ae0332a6565b38eda83c9907540fc976e6c5e ### branch: patch
+    version: cf6d1d2a7e5e4cf56e56610299e72d674b2896f9 ### branch: patch
   arena/utils/pedsim_ros:
     type: git
     url: https://github.com/ivaROS/pedsim_ros.git
@@ -86,7 +86,7 @@ repositories:
   planners/lflh:
     type: git
     url: https://github.com/ivaROS/lflh.git
-    version: f86eda8cdf7f995c6abffe4df6dee2dc0c70045a
+    version: 69016520930dcf2a23f64bfa7d5ac563d34a4dd5
   planners/mpc:
     type: git
     url: https://github.com/rst-tu-dortmund/mpc_local_planner

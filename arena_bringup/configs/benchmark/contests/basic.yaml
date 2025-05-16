@@ -17,8 +17,8 @@ contestants:
   # - name: trail
   #   local_planner: trail
 
-  - name: lflh
-    local_planner: lflh
+  # - name: lflh
+  #   local_planner: lflh
 
   # - name: cadrl
   #   local_planner: cadrl

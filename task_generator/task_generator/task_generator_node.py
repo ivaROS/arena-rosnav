@@ -305,22 +305,23 @@ class TaskGenerator:
     # RUNTIME
 
     def reset_task(self, **kwargs):
+        print("reset_task1")
         self._start_time = rospy.get_time()
-
+        print("reset_task2")
         self._env_wrapper.before_reset_task()
-
+        print("reset_task3")
         rospy.loginfo("resetting")
-
+        print("reset_task4")
         is_end = self._task.reset(callback=lambda: False, **kwargs)
-
+        print("reset_task5")
         self._env_wrapper.after_reset_task()
-
+        print("reset_task6")
         self._pub_scenario_reset.publish(self._number_of_resets)
         self._number_of_resets += 1
         self._send_end_message_on_end()
-
+        print("reset_task7")
         self._env_wrapper.after_reset_task()
-
+        print("reset_task8")
         rospy.loginfo("=============")
         rospy.loginfo("Task Reset!")
         rospy.loginfo("=============")
