@@ -118,7 +118,7 @@ repositories:
   planners/quad_gap:
     type: git
     url: https://github.com/ivaROS/quad_gap.git
-    version: 7442c59a7bacd35a9a4e5adeaec245a19187facf ### branch: main
+    version: 1abeeed7a5069c8d0b2023db2995a7a3526b47fa ### branch: main
   arena/utils/pips_trajectory_msgs:
     type: git
     url: https://github.com/ivaROS/pips_trajectory_msgs.git
