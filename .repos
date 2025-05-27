@@ -115,3 +115,71 @@ repositories:
     type: git
     url: https://github.com/ivaROS/DynamicGap.git
     version: 97473ac54df0187dd3e3858ed0934e8be570b23b ### branch: dev/gap_prop
+  planners/quad_gap:
+    type: git
+    url: https://github.com/ivaROS/quad_gap.git
+    version: 7442c59a7bacd35a9a4e5adeaec245a19187facf ### branch: main
+  arena/utils/pips_trajectory_msgs:
+    type: git
+    url: https://github.com/ivaROS/pips_trajectory_msgs.git
+    version: f76106daf23452dc37ecf7880eb7ef7b9c9dc2f8 ### branch: release
+  arena/utils/pips:
+    type: git
+    url: https://github.com/ivaROS/pips.git
+    version: acb3411a504c5b0c35ddb356322df045b9c5eafb ### branch: safer_gap
+  arena/utils/pips_trajectory_testing:
+    type: git
+    url: https://github.com/ivaROS/pips_trajectory_testing.git
+    version: a3fdbec3cd3b5ff38674374df9c27bdb76e08dd4 ### branch: safer_gap
+  arena/utils/trajectory_generator:
+    type: git
+    url: https://github.com/ivaROS/trajectory_generator.git
+    version: 31bfa8e910c006a52c3ca3488b7444f43f443154 ### branch: safer_gap
+  arena/utils/egocircle:
+    type: git
+    url: https://github.com/ivaROS/egocircle.git
+    version: 157f6f56fbdf932c1090e2dfc731bde39245e50f ### branch: safer_gap_ral24
+  arena/utils/egocircle_utils:
+    type: git
+    url: https://github.com/ivaROS/egocircle_utils.git
+    version: 2a8aed27c490b60f4a76f40ded09c4fd97b1d3ec ### branch: safer_gap
+  arena/utils/egocylindrical:
+    type: git
+    url: https://github.com/ivaROS/egocylindrical.git
+    version: f8b89f77e937378c27eaf17c9d8edf45393ce8c3 ### branch: safer_gap_ral24
+  arena/utils/pips_egocircle:
+    type: git
+    url: https://github.com/ivaROS/pips_egocircle.git
+    version: 223ecb5027f2d707e7627349131147e5d192b3fd ### branch: main
+  arena/utils/pips_egocylindrical:
+    type: git
+    url: https://github.com/ivaROS/pips_egocylindrical.git
+    version: 5d463f1b26949bb95cafa1b2eaebf8b6e7e878a9 ### branch: safer_gap_ral24
+  arena/utils/pips_msgs:
+    type: git
+    url: https://github.com/ivaROS/pips_msgs.git
+    version: f70058a1d97532ff3d7bc439672d5b2634d24d32 ### branch: release
+  arena/utils/turtlebot_trajectory_controller:
+    type: git
+    url: https://github.com/ivaROS/turtlebot_trajectory_controller.git
+    version: d8f1786fe6d7b0d526bed8e33df8e9d560b885fc ### branch: safer_gap
+  arena/utils/turtlebot_trajectory_functions:
+    type: git
+    url: https://github.com/ivaROS/turtlebot_trajectory_functions.git
+    version: e03d816c97ef454b327affa8e224edd4887d9b68 ### branch: release
+  arena/utils/turtlebot_trajectory_generator:
+    type: git
+    url: https://github.com/ivaROS/turtlebot_trajectory_generator.git
+    version: f0152fc2d552d40f82e13ced2a54f9f8d087a05c ### branch: release
+  arena/utils/turtlebot_trajectory_testing:
+    type: git
+    url: https://github.com/ivaROS/turtlebot_trajectory_testing.git
+    version: 815646040d4f42e0a02ad5f8eb2ef4ee098b6e90 ### branch: safer_gap
+  arena/utils/yocs_controllers:
+    type: git
+    url: https://github.com/ivaROS/yocs_controllers.git
+    version: ee402288addf1700b64d324eb6e3d29204ae9f30
+  arena/utils/tf2_pips:
+    type: git
+    url: https://github.com/ivaROS/tf2_pips.git
+    version: fc9544bf6baf53ed36b00f67214fa262c64763df ### branch: release
