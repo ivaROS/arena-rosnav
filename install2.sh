@@ -1,6 +1,6 @@
 #!/bin/bash -i
 
-branch=${1:-patch}
+branch=${1:-quad_gap}
 
 set -e
  
@@ -29,7 +29,7 @@ until vcs import src < src/arena/arena-rosnav/.repos ; do echo "failed to update
 
 #python env init
 cd src/arena/arena-rosnav
-# git checkout patch # puts us on specific branch that works
+
 export PYTHON_KEYRING_BACKEND=keyring.backends.fail.Keyring # resolve faster
 poetry run poetry install --no-root || (poetry run poetry lock --no-update && poetry run poetry install --no-root)
 poetry env use python3.8
