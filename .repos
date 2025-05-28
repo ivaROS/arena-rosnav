@@ -5,8 +5,8 @@ repositories:
     version: d0385f9ab203f48959943c1eee135d0b66f333e4 ### branch: restructure
   arena/simulation-setup:
     type: git
-    url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: patch
-    version: 7bdf9ea0e2b6d6ba52b4691946ade028af7d9061
+    url: https://github.com/ivaROS/arena-simulation-setup.git ### branch: quad_gap
+    version: 4a32fb798c9141177a9287a5af7805d59a5e58bf
   arena/utils/3rd-party-robot-packages:
     type: git
     url: https://github.com/Arena-Rosnav/3rd-party-robot-packages
@@ -118,7 +118,7 @@ repositories:
   planners/quad_gap:
     type: git
     url: https://github.com/ivaROS/quad_gap.git
-    version: 652e8b3351a6db4abf86a3d2df7d02dc9b8ac687 ### branch: main
+    version: f979df3868aa1712b445047f60d964165e200ba5 ### branch: main
   arena/utils/pips_trajectory_msgs:
     type: git
     url: https://github.com/ivaROS/pips_trajectory_msgs.git
