@@ -1,13 +1,13 @@
 stages:
-  - name: empty_scenario_0
-    episodes: 1
-    robot: rto
-    map: map_empty
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 0_static.json
+  # - name: empty_scenario_0
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 0_static.json
 
   # - name: empty_scenario_1
   #   episodes: 1
@@ -619,15 +619,15 @@ stages:
   #     SCENARIO:
   #       file: 9_static.json
 
-  # - name: arena_hospital_large_scenario_10
-  #   episodes: 1
-  #   robot: rto
-  #   map: arena_hospital_large
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 10_static.json
+  - name: arena_hospital_large_scenario_10
+    episodes: 1
+    robot: rto
+    map: arena_hospital_large
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 10_static.json
 
   # - name: arena_hospital_large_scenario_11
   #   episodes: 1
