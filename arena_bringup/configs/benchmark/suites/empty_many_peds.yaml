@@ -1,250 +1,272 @@
 stages:
-  - name: factory_scenario_0
-    episodes: 20
+  - name: empty_scenario_0
+    episodes: 10
     robot: rto
-    map: factory
+    map: map_empty
     tm_robots: scenario
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 0.json
+        file: 0_50ped.json
 
-  - name: factory_scenario_1
-    episodes: 20
-    robot: rto
-    map: factory
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 1.json
-
-  # - name: factory_scenario_2
+  # - name: empty_scenario_0
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 2.json
+  #       file: 0_50ped_middle_start.json
 
-  # - name: factory_scenario_3
+  # - name: empty_scenario_1
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 3.json
+  #       file: 0_50ped_middle_start_v2.json
 
-  # - name: factory_scenario_4
+  # - name: empty_scenario_2
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 4.json
+  #       file: 0_50ped_middle_start_v3.json
 
-  # - name: factory_scenario_5
+  # - name: empty_scenario_3
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 5.json         
+  #       file: 0_50ped_middle_start_v4.json
 
-  # - name: factory_scenario_6
+  # - name: empty_scenario_4
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 6.json
+  #       file: 0_50ped_middle_start_v5.json
 
-  # - name: factory_scenario_7
+  # - name: empty_scenario_5
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 7.json
+  #       file: 0_50ped_middle_start_v6.json        
 
-  # - name: factory_scenario_8
+  # - name: empty_scenario_6
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 8.json
+  #       file: 0_50ped_middle_start_v7.json
 
-  # - name: factory_scenario_9
+  # - name: empty_scenario_7
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 9.json
+  #       file: 0_50ped_middle_start_v8.json
 
-  # - name: factory_scenario_10
+  # - name: empty_scenario_8
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
-  #       file: 10.json
+  #       file: 0_50ped_middle_start_v9.json
 
-  # - name: factory_scenario_11
+  # - name: empty_scenario_9
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 0_50ped_middle_start_v10.json
+
+  # - name: empty_scenario_10
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 0_50ped_middle_start_v11.json
+
+  # - name: empty_scenario_11
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 11.json            
 
-  # - name: factory_scenario_12
+  # - name: empty_scenario_12
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 12.json            
 
-  # - name: factory_scenario_13
+  # - name: empty_scenario_13
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 13.json
 
-  # - name: factory_scenario_14
+  # - name: empty_scenario_14
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 14.json
 
-  # - name: factory_scenario_15
+  # - name: empty_scenario_15
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 15.json
 
-  # - name: factory_scenario_16
+  # - name: empty_scenario_16
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 16.json
 
-  # - name: factory_scenario_17
+  # - name: empty_scenario_17
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 17.json
 
-  # - name: factory_scenario_18
+  # - name: empty_scenario_18
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 18.json         
 
-  # - name: factory_scenario_19
+  # - name: empty_scenario_19
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 19.json
 
-  # - name: factory_scenario_20
+  # - name: empty_scenario_20
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 20.json
 
-  # - name: factory_scenario_21
+  # - name: empty_scenario_21
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 21.json
 
-  # - name: factory_scenario_22
+  # - name: empty_scenario_22
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 22.json
 
-  # - name: factory_scenario_23
+  # - name: empty_scenario_23
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 23.json
 
-  # - name: factory_scenario_24
+  # - name: empty_scenario_24
   #   episodes: 1
   #   robot: rto
-  #   map: factory
+  #   map: map_empty
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 24.json            
+
+  # - name: empty_scenario_25 # 0101 ignore this #1209 commented out, already commeted out on p53 like 10 days ago, tha'ts where I ran empty tests anway 
+  #   episodes: 1
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 24.json    
+
+ 

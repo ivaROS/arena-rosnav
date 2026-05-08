@@ -1,6 +1,6 @@
 stages:
   - name: CS3_approaching
-    episodes: 1
+    episodes: 1000
     robot: rto
     map: map_empty
     tm_robots: scenario

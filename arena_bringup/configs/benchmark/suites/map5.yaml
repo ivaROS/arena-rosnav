@@ -1,23 +1,23 @@
 stages:
   - name: empty_scenario_0
-    episodes: 20
+    episodes: 5
     robot: rto
-    map: map_empty
+    map: map5
     tm_robots: scenario
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 0.json
+        file: dense_v1.json
 
-  - name: empty_scenario_1
-    episodes: 20
-    robot: rto
-    map: map_empty
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 1.json
+  # - name: empty_scenario_1
+  #   episodes: 20
+  #   robot: rto
+  #   map: map_empty
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 1.json
 
   # - name: empty_scenario_2
   #   episodes: 1
