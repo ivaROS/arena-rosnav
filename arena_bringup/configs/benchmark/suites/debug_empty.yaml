@@ -1,0 +1,15 @@
+stages:
+  - name: debug
+    episodes: 1
+    robot: rto
+    map: debugging_map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: CS3_approaching.json #1agent_headon.json
+
+
+# 1agent_headon_1unitaway
+#2agent_headon_1unitup
+# 1agent_perpendicular

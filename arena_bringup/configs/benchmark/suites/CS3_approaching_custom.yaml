@@ -7,4 +7,4 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: CS3_approaching.json
+        file: CS3_approaching_custom.json
