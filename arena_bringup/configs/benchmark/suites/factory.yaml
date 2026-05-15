@@ -1,13 +1,13 @@
 stages:
-  - name: factory_scenario_0
-    episodes: 20
-    robot: rto
-    map: factory
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 0.json
+  # - name: factory_scenario_0
+  #   episodes: 20
+  #   robot: rto
+  #   map: factory
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 0.json
 
   - name: factory_scenario_1
     episodes: 20

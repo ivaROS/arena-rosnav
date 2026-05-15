@@ -1,5 +1,5 @@
 suite:
-  config: factory_comprehensive.yaml # CS6_interrupting.yaml 
+  config: empty_many_peds.yaml # CS6_interrupting.yaml 
 
 contest:
   config: dgap.yaml # basic.yaml

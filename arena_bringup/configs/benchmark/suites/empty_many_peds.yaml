@@ -1,6 +1,6 @@
 stages:
   - name: empty_scenario_0
-    episodes: 10
+    episodes: 30
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -9,15 +9,15 @@ stages:
       SCENARIO:
         file: 0_50ped.json
 
-  # - name: empty_scenario_0
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 0_50ped_middle_start.json
+  - name: empty_scenario_0
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start.json
 
   # - name: empty_scenario_1
   #   episodes: 1
