@@ -7,7 +7,8 @@ stages:
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: 0_50ped.json
+        #file: 0_50ped_middle_start.json
+        file: smartgap_scenario1.json
 
   - name: empty_scenario_0
     episodes: 1
@@ -19,15 +20,15 @@ stages:
       SCENARIO:
         file: 0_50ped_middle_start.json
 
-  # - name: empty_scenario_1
-  #   episodes: 1
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 0_50ped_middle_start_v2.json
+  - name: empty_scenario_1
+    episodes: 1
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v2.json
 
   # - name: empty_scenario_2
   #   episodes: 1
