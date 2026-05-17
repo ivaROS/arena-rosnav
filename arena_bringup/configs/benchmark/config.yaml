@@ -1,5 +1,5 @@
 suite:
-  config: comprehensive_factory.yaml # CS6_interrupting.yaml
+  config: gru_learn.yaml # CS6_interrupting.yaml
 
 contest:
   config: dgap.yaml # basic.yaml

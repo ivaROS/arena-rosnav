@@ -1,6 +1,6 @@
 stages:
   - name: empty_scenario_0
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -10,7 +10,7 @@ stages:
         file: 0.json
 
   - name: empty_scenario_1
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -20,7 +20,7 @@ stages:
         file: 1.json
 
   - name: empty_scenario_2
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -30,7 +30,7 @@ stages:
         file: 2.json
 
   - name: empty_scenario_3
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -40,7 +40,7 @@ stages:
         file: 3.json
 
   - name: empty_scenario_4
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -50,7 +50,7 @@ stages:
         file: 4.json
 
   - name: empty_scenario_5
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -60,7 +60,7 @@ stages:
         file: 5.json         
 
   - name: empty_scenario_6
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -70,7 +70,7 @@ stages:
         file: 6.json
 
   - name: empty_scenario_7
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -80,7 +80,7 @@ stages:
         file: 7.json
 
   - name: empty_scenario_8
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -90,7 +90,7 @@ stages:
         file: 8.json
 
   - name: empty_scenario_9
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -100,7 +100,7 @@ stages:
         file: 9.json
 
   - name: empty_scenario_10
-    episodes: 6
+    episodes: 1
     robot: rto
     map: map_empty
     tm_robots: scenario
@@ -110,7 +110,7 @@ stages:
         file: 10.json
 
   # - name: empty_scenario_11
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -120,7 +120,7 @@ stages:
   #       file: 11.json            
 
   # - name: empty_scenario_12
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -130,7 +130,7 @@ stages:
   #       file: 12.json            
 
   # - name: empty_scenario_13
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -140,7 +140,7 @@ stages:
   #       file: 13.json
 
   # - name: empty_scenario_14
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -150,7 +150,7 @@ stages:
   #       file: 14.json
 
   # - name: empty_scenario_15
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -160,7 +160,7 @@ stages:
   #       file: 15.json
 
   # - name: empty_scenario_16
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -170,7 +170,7 @@ stages:
   #       file: 16.json
 
   # - name: empty_scenario_17
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -180,7 +180,7 @@ stages:
   #       file: 17.json
 
   # - name: empty_scenario_18
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -190,7 +190,7 @@ stages:
   #       file: 18.json         
 
   # - name: empty_scenario_19
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -200,7 +200,7 @@ stages:
   #       file: 19.json
 
   # - name: empty_scenario_20
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -210,7 +210,7 @@ stages:
   #       file: 20.json
 
   # - name: empty_scenario_21
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -220,7 +220,7 @@ stages:
   #       file: 21.json
 
   # - name: empty_scenario_22
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -230,7 +230,7 @@ stages:
   #       file: 22.json
 
   # - name: empty_scenario_23
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -240,7 +240,7 @@ stages:
   #       file: 23.json
 
   # - name: empty_scenario_24
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario
@@ -250,7 +250,7 @@ stages:
   #       file: 24.json
   
   # - name: empty_scenario_24
-  #   episodes: 6
+  #   episodes: 1
   #   robot: rto
   #   map: map_empty
   #   tm_robots: scenario

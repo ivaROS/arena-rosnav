@@ -1,0 +1,262 @@
+stages:
+  # - name: gru_learn_scenario_0
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: .json
+
+  # - name: gru_learn_scenario_1
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario1.json
+
+  # - name: gru_learn_scenario_2
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario2.json
+
+  # - name: gru_learn_scenario_3
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario4.json
+
+  # - name: gru_learn_scenario_4
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario4.json
+
+  # - name: gru_learn_scenario_5
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario5.json        
+
+  - name: gru_learn_scenario_6
+    episodes: 10
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: smartgap_scenario6.json
+
+  # - name: gru_learn_scenario_7
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario7.json
+
+  # - name: gru_learn_scenario_8
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario8.json
+
+  # - name: gru_learn_scenario_9
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario9.json
+
+  # - name: gru_learn_scenario_10
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario10.json
+
+  # - name: gru_learn_scenario_11
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: smartgap_scenario11.json            
+
+  # - name: gru_learn_scenario_12
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 12.json            
+
+  # - name: gru_learn_scenario_13
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 13.json
+
+  # - name: gru_learn_scenario_14
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 14.json
+
+  # - name: gru_learn_scenario_15
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 15.json
+
+  # - name: gru_learn_scenario_16
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 16.json
+
+  # - name: gru_learn_scenario_17
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 17.json
+
+  # - name: gru_learn_scenario_18
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 18.json         
+
+  # - name: gru_learn_scenario_19
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 19.json
+
+  # - name: gru_learn_scenario_20
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 20.json
+
+  # - name: gru_learn_scenario_21
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 21.json
+
+  # - name: gru_learn_scenario_22
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 22.json
+
+  # - name: gru_learn_scenario_23
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 23.json
+
+  # - name: gru_learn_scenario_24
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 24.json            
+
+  # - name: gru_learn_scenario_25 # 0101 ignore this #1209 commented out, already commeted out on p53 like 10 days ago, tha'ts where I ran empty tests anway 
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 24.json    
+
+ 

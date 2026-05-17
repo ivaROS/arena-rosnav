@@ -2,12 +2,12 @@ stages:
   - name: debug
     episodes: 20
     robot: rto
-    map: debugging_map_empty
+    map: map5
     tm_robots: scenario
     tm_obstacles: scenario
     config:
       SCENARIO:
-        file: CS4_intersection_person_behind.json #1agent_headon.json
+        file: dense_v1.json #1agent_headon.json
 
 
 # 1agent_headon_1unitaway
