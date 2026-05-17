@@ -1,28 +1,28 @@
 stages:
   # - name: empty_scenario_0
-  #   episodes: 3000
+  #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
   #     SCENARIO:
   #       file: 0_50ped.json
 
-  # - name: empty_scenario_1
-  #   episodes: 3
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 0_50ped_middle_start_v2.json
+  - name: empty_scenario_1
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v2.json
 
   - name: empty_scenario_2
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -32,7 +32,7 @@ stages:
   - name: empty_scenario_3
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -42,7 +42,7 @@ stages:
   - name: empty_scenario_4
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -52,7 +52,7 @@ stages:
   - name: empty_scenario_5
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -62,7 +62,7 @@ stages:
   - name: empty_scenario_6
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -72,7 +72,7 @@ stages:
   - name: empty_scenario_7
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -82,7 +82,7 @@ stages:
   - name: empty_scenario_8
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
@@ -92,27 +92,27 @@ stages:
   - name: empty_scenario_9
     episodes: 3
     robot: rto
-    map: map_empty
+    map: gru_learn
     tm_robots: scenario
     tm_obstacles: scenario
     config:
       SCENARIO:
         file: 0_50ped_middle_start_v10.json
 
-  # - name: empty_scenario_10
-  #   episodes: 3
-  #   robot: rto
-  #   map: map_empty
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   config:
-  #     SCENARIO:
-  #       file: 0_50ped_middle_start_v11.json
+  - name: empty_scenario_10
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v11.json
 
   # - name: empty_scenario_11
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -122,7 +122,7 @@ stages:
   # - name: empty_scenario_12
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -132,7 +132,7 @@ stages:
   # - name: empty_scenario_13
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -142,7 +142,7 @@ stages:
   # - name: empty_scenario_14
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -152,7 +152,7 @@ stages:
   # - name: empty_scenario_15
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -162,7 +162,7 @@ stages:
   # - name: empty_scenario_16
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -172,7 +172,7 @@ stages:
   # - name: empty_scenario_17
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -182,7 +182,7 @@ stages:
   # - name: empty_scenario_18
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -192,7 +192,7 @@ stages:
   # - name: empty_scenario_19
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -202,7 +202,7 @@ stages:
   # - name: empty_scenario_20
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -212,7 +212,7 @@ stages:
   # - name: empty_scenario_21
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -222,7 +222,7 @@ stages:
   # - name: empty_scenario_22
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -232,7 +232,7 @@ stages:
   # - name: empty_scenario_23
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -242,7 +242,7 @@ stages:
   # - name: empty_scenario_24
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
@@ -252,7 +252,7 @@ stages:
   # - name: empty_scenario_25 # 0101 ignore this #1209 commented out, already commeted out on p53 like 10 days ago, tha'ts where I ran empty tests anway 
   #   episodes: 3
   #   robot: rto
-  #   map: map_empty
+  #   map: gru_learn
   #   tm_robots: scenario
   #   tm_obstacles: scenario
   #   config:
