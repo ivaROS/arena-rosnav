@@ -8,7 +8,7 @@ stages:
     config:
       SCENARIO:
         #file: 0_50ped_middle_start.json
-        file: smartgap_scenario1.json
+        file: smartgap_scenario13.json
 
   - name: empty_scenario_0
     episodes: 1
