@@ -11,14 +11,14 @@ RANDOM:
     min: 0
     models:
     - shelf
-  seed: 1612608679
+  seed: 446426445
   static:
     max: 10
     min: 5
     models:
     - shelf
 SCENARIO:
-  file: airport_49.json
+  file: airport_against_the_flow.json
 STAGED:
   curriculum: default.yaml
   index: 0

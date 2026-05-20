@@ -8,7 +8,7 @@ stages:
     config:
       SCENARIO:
         #file: 0_50ped_middle_start.json
-        file: airport_49.json
+        file: airport_against_the_flow.json
 
   - name: empty_scenario_0
     episodes: 1
