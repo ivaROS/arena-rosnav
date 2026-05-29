@@ -1,5 +1,5 @@
 suite:
-  config: 50ped_daniel.yaml # CS6_interrupting.yaml 
+  config: comprehensive_empty.yaml # CS6_interrupting.yaml 
 
 contest:
   config: dgap.yaml # basic.yaml
