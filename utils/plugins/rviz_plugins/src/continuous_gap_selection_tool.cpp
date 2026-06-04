@@ -24,16 +24,28 @@ void ContinuousGapSelectionTool::onInitialize()
   std_cursor_ = getDefaultCursor();
   pub_ = nh_.advertise<geometry_msgs::PointStamped>("/gap_selection_point", 1);
   isPublishing_ = false;
+  hasValidPos_ = false;
+  publishTimer_ = nh_.createTimer(ros::Duration(0.1), 
+                                    &ContinuousGapSelectionTool::timerCallback, this);
+  publishTimer_.stop();
+}
+
+void ContinuousGapSelectionTool::timerCallback(const ros::TimerEvent&)
+{
+    if (isPublishing_ && hasValidPos_)
+        pub_.publish(lastKnownPos_);
 }
 
 void ContinuousGapSelectionTool::activate()
 {
     isPublishing_ = true;
+    publishTimer_.start();
 }
 
 void ContinuousGapSelectionTool::deactivate()
 {
     isPublishing_ = false;
+    publishTimer_.stop();
 }
 
 int ContinuousGapSelectionTool::processMouseEvent(ViewportMouseEvent& event)
@@ -59,15 +71,14 @@ int ContinuousGapSelectionTool::processMouseEvent(ViewportMouseEvent& event)
       return Finished;
     }
 
-    if (isPublishing_ && event.type == QEvent::MouseMove)
+    if (success && event.type == QEvent::MouseMove)
     {
-      geometry_msgs::PointStamped ps;
-      ps.point.x = pos.x;
-      ps.point.y = pos.y;
-      ps.point.z = pos.z;
-      ps.header.frame_id = context_->getFixedFrame().toStdString();
-      ps.header.stamp = ros::Time::now();
-      pub_.publish(ps);
+        lastKnownPos_.point.x = pos.x;
+        lastKnownPos_.point.y = pos.y;
+        lastKnownPos_.point.z = pos.z;
+        lastKnownPos_.header.frame_id = context_->getFixedFrame().toStdString();
+        lastKnownPos_.header.stamp = ros::Time::now();
+        hasValidPos_ = true;
     }
   }
   else
