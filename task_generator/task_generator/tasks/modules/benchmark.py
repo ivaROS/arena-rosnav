@@ -244,7 +244,9 @@ class Mod_Benchmark(TM_Module):
     def __init__(self, **kwargs):
         
         self._config = self._load_config()
-        self._suite = self._load_suite(self._config.suite.config)
+        suite_passed = rosparam_get(str, "benchmark_suite", self._config.suite.config)
+        rospy.loginfo(f"LOADING SUITE: {suite_passed}")
+        self._suite = self._load_suite(suite_passed)
         self._contest = self._load_contest(self._config.contest.config)
 
         self._requires_restart = False
@@ -315,7 +317,10 @@ class Mod_Benchmark(TM_Module):
 
     def _log_episode(self):
         if self._episode < 0: return #pre-init
-        episode_limit = int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes)
+        episode_param = rosparam_get(int, "benchmark_episodes", -1)
+        episode_limit = episode_param
+        if (episode_param <= 0):
+            episode_limit = int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes)
         self._logger.info(f"\t\t\tE [{1+self._episode:0>{len(str(episode_limit))}}/{episode_limit}]")
 
     @property
@@ -373,6 +378,10 @@ class Mod_Benchmark(TM_Module):
     
     @_episode.setter
     def _episode(self, episode: int):
+        episode_param = rosparam_get(int, "benchmark_episodes", -1)
+        episode_limit = episode_param
+        if (episode_param <= 0):
+            episode_limit = int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes)
         if episode >= int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes):
             self._episode_index = 0
             self.suite_index += 1
@@ -402,6 +411,10 @@ class Mod_Benchmark(TM_Module):
 
         record_data_dir = f"{self._runid}/{contest_config.name}/{suite_config.name}"
 
+        launch_file = rosparam_get(str, "benchmark_launch_file", "start_arena.launch")
+
+        rospy.loginfo(f"REINCARNATING with tm_obstacles: {suite_config.tm_obstacles}")
+
         if self._requires_restart:
             self._logger.info(f"{_get_rosmaster_pid()}")
             subprocess.Popen(
@@ -413,7 +426,7 @@ class Mod_Benchmark(TM_Module):
                     ),
                     f"{_get_rosmaster_pid()}",
                     "arena_bringup",
-                    "start_arena.launch",
+                    launch_file,
                     "tm_modules:=benchmark",
                     "benchmark_resume:=true",
                     "record_data:=true",
@@ -431,7 +444,10 @@ class Mod_Benchmark(TM_Module):
                     f"model:={suite_config.robot}",
                     f"map_file:={suite_config.map}",
                     f"tm_robots:={suite_config.tm_robots}",
-                    f"tm_obstacles:={suite_config.tm_obstacles}"
+                    f"tm_obstacles:={suite_config.tm_obstacles}",
+                    f"benchmark_launch_file:={rosparam_get(str, 'benchmark_launch_file', 'start_arena.launch')}",
+                    f"benchmark_episodes:={rosparam_get(int, 'benchmark_episodes', -1)}",
+                    f"benchmark_suite:={rosparam_get(str, 'benchmark_suite', '')}",
                 ],
                 start_new_session=True
             )
