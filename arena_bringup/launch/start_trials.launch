@@ -24,7 +24,10 @@
   <param name="headless" value="$(arg headless)" /> 
   <arg name="benchmark_suite" default="" />
   <arg name="benchmark_episodes" default="" />
+  <arg name="rec_dir" default="" />
   <arg name="benchmark_launch_file" default="start_trials.launch" />
+  <arg name="man_gap" default="true" />
+  <arg name="force_factor" default="" />
 
   <arg name="entity_manager" default="pedsim" doc="[pedsim]" />
   <arg name="pedsim" value="$(eval entity_manager == 'pedsim')" />
@@ -88,6 +91,9 @@
   <param name="benchmark_suite" value="$(arg benchmark_suite)" if="$(eval arg('benchmark_suite') != '')" />
   <param name="benchmark_episodes" type="int" value="$(arg benchmark_episodes)" if="$(eval arg('benchmark_episodes') != '')" />
   <param name="benchmark_launch_file" value="$(arg benchmark_launch_file)" />
+  <param name="rec_dir" value="$(arg rec_dir)" if="$(eval arg('rec_dir') != '')" />
+  <param name="man_gap" value="$(arg man_gap)" />
+  <param name="force_factor" value="$(arg force_factor)" if="$(eval arg('force_factor') != '')"/>
 
   <rosparam command="load" file="$(find arena_bringup)/params/flatland.yaml" />
   <rosparam command="load" file="$(find arena_bringup)/params/map_generator.yaml" ns="map_generator" />

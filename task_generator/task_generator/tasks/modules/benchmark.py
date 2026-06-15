@@ -409,7 +409,8 @@ class Mod_Benchmark(TM_Module):
             suite_config.config
         )
 
-        record_data_dir = f"{self._runid}/{contest_config.name}/{suite_config.name}"
+        default_record_data_dir = f"{self._runid}/{contest_config.name}/{suite_config.name}"
+        record_data_dir = rosparam_get(str, "rec_dir", default_record_data_dir)
 
         launch_file = rosparam_get(str, "benchmark_launch_file", "start_arena.launch")
 
@@ -448,6 +449,9 @@ class Mod_Benchmark(TM_Module):
                     f"benchmark_launch_file:={rosparam_get(str, 'benchmark_launch_file', 'start_arena.launch')}",
                     f"benchmark_episodes:={rosparam_get(int, 'benchmark_episodes', -1)}",
                     f"benchmark_suite:={rosparam_get(str, 'benchmark_suite', '')}",
+                    f"rec_dir:={rosparam_get(str, 'rec_dir', '')}",
+                    f"man_gap:={rosparam_get(str, 'man_gap', False)}",
+                    f"force_factor:={rosparam_get(float, 'force_factor', 0.0)}"
                 ],
                 start_new_session=True
             )
