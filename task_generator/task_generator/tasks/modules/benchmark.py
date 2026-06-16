@@ -18,9 +18,16 @@ import arena_evaluation_msgs.srv as arena_evaluation_srvs
 
 import logging
 
+port = os.environ["ROS_MASTER_URI"].split(":")[-1].rstrip("/")
+
 def _get_rosmaster_pid() -> int:
     try:
-        return int(subprocess.check_output(["ps", "-C", "rosmaster", "-o", "pid", "h"]).decode())
+        port = os.environ.get("ROS_MASTER_URI", "http://localhost:11311").split(":")[-1].rstrip("/")
+        output = subprocess.check_output(["ps", "-C", "rosmaster", "-o", "pid,args", "h"]).decode()
+        for line in output.strip().split("\n"):
+            if f"-p {port}" in line:
+                return int(line.strip().split()[0])
+        raise RuntimeError("could not find rosmaster pid")
     except Exception as e:
         raise RuntimeError("could not determine rosmaster pid") from e
 
@@ -156,12 +163,12 @@ class Mod_Benchmark(TM_Module):
                 "benchmark"
             )
         )
-    LOCK_FILE = "resume.lock"
+    LOCK_FILE = f"resume_{port}.lock"
     LOG_DIR = DIR("logs")
     TASK_GENERATOR_CONFIG = os.path.join(
         rospkg.RosPack().get_path("arena_bringup"),
         "configs",
-        "task_generator.yaml"
+        f"task_generator_{port}.yaml"
     )
     TASK_GENERATOR_CONFIG_BKUP = TASK_GENERATOR_CONFIG + ".bkup"
 
@@ -456,7 +463,8 @@ class Mod_Benchmark(TM_Module):
                     f"man_gap:={rosparam_get(str, 'man_gap', False)}",
                     f"force_factor:={rosparam_get(float, 'force_factor', 0.0)}"
                 ],
-                start_new_session=True
+                start_new_session=True,
+                env=os.environ.copy()
             )
             self._suicide()
         

@@ -26,7 +26,7 @@
   <arg name="benchmark_episodes" default="" />
   <arg name="rec_dir" default="" />
   <arg name="benchmark_launch_file" default="start_trials.launch" />
-  <arg name="man_gap" default="true" />
+  <arg name="man_gap" default="false" />
   <arg name="force_factor" default="" />
 
   <arg name="entity_manager" default="pedsim" doc="[pedsim]" />
