@@ -410,7 +410,10 @@ class Mod_Benchmark(TM_Module):
         )
 
         default_record_data_dir = f"{self._runid}/{contest_config.name}/{suite_config.name}"
-        record_data_dir = rosparam_get(str, "rec_dir", default_record_data_dir)
+        top_file_location = rosparam_get(str, "rec_dir", '')
+        if (top_file_location != ''):
+            top_file_location = top_file_location + '/'
+        record_data_dir = top_file_location + default_record_data_dir
 
         launch_file = rosparam_get(str, "benchmark_launch_file", "start_arena.launch")
 
