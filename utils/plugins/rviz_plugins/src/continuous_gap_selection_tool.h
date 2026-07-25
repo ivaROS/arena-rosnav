@@ -24,6 +24,7 @@ private:
   void timerCallback(const ros::TimerEvent&);
   ros::NodeHandle nh_;
   ros::Publisher pub_;
+  ros::Publisher trajpub_;
   bool isPublishing_;
   QCursor std_cursor_;
   QCursor hit_cursor_;

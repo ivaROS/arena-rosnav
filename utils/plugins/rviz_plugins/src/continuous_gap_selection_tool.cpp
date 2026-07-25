@@ -23,6 +23,7 @@ void ContinuousGapSelectionTool::onInitialize()
   hit_cursor_ = cursor_;
   std_cursor_ = getDefaultCursor();
   pub_ = nh_.advertise<geometry_msgs::PointStamped>("/gap_selection_point", 1);
+  trajpub_ = nh_.advertise<geometry_msgs::PointStamped>("/traj_creation_point", 1);
   isPublishing_ = false;
   hasValidPos_ = false;
   publishTimer_ = nh_.createTimer(ros::Duration(0.1), 
@@ -64,11 +65,17 @@ int ContinuousGapSelectionTool::processMouseEvent(ViewportMouseEvent& event)
     s << " [" << pos.x << "," << pos.y << "," << pos.z << "]";
     setStatus(s.str().c_str());
 
-    if (event.leftDown())
-    {
-      isPublishing_ = false;
-      ROS_INFO_STREAM("ContinuousGapSelectionTool: publishing " << (isPublishing_ ? "ON" : "OFF"));
-      return Finished;
+    if (event.leftDown()) {
+      geometry_msgs::PointStamped trajPt;
+      trajPt.point.x = pos.x;
+      trajPt.point.y = pos.y;
+      trajPt.point.z = pos.z;
+      trajPt.header.frame_id = context_->getFixedFrame().toStdString();
+      trajPt.header.stamp = ros::Time::now();
+
+      trajpub_.publish(trajPt);
+      ROS_INFO_STREAM("ContinuousGapSelectionTool: published traj creation point ["
+                       << pos.x << ", " << pos.y << ", " << pos.z << "]");
     }
 
     if (success && event.type == QEvent::MouseMove)
