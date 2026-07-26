@@ -59,7 +59,8 @@ qt5_wrap_cpp(MOC_FILES
   src/task_tool.h
 #  src/probmap_display.h
 #  src/aerialmap_display.h    
-#  src/multi_probmap_display.h      
+#  src/multi_probmap_display.h  
+  src/continuous_gap_selection_tool.h
 )
 
 ## Here we specify the list of source files, including the output of
@@ -71,6 +72,7 @@ set(SOURCE_FILES
 #  src/probmap_display.cpp
 #  src/aerialmap_display.cpp   
 #  src/multi_probmap_display.cpp  
+  src/continuous_gap_selection_tool.cpp
   ${MOC_FILES}
 )
 

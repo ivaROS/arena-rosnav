@@ -34,4 +34,11 @@
       Generate Task
     </description>
   </class>  
+  <class name="rviz_plugins/ContinuousGapSelectionTool"
+        type="rviz::ContinuousGapSelectionTool"
+        base_class_type="rviz::Tool">
+    <description>
+    Continuously publishes cursor position to /gap_selection_point for gap trajectory selection
+    </description>
+  </class>
 </library>
