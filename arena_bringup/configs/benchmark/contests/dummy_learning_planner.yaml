@@ -1,0 +1,4 @@
+contestants:
+  - name: dummy_learning_planner
+    local_planner: dummy_learning_planner
+    inter_planner: bypass

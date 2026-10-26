@@ -1,0 +1,12 @@
+stages:
+  - name: dummy_motion
+    # Leave room for deliberate reset checks without ending the benchmark.
+    episodes: 3
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 300
+    config:
+      SCENARIO:
+        file: dummy_motion.json
