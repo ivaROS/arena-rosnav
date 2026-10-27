@@ -108,6 +108,10 @@ catkin_package(
 catkin_install_python(PROGRAMS
   scripts/dummy_learning_planner.py
   scripts/dummy_cmd_vel_relay.py
+  scripts/cfm_mppi_bridge.py
+  scripts/cfm_mppi_continuous.py
+  scripts/cfm_mppi_obstacles.py
+  scripts/cfm_cmd_vel_relay.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 

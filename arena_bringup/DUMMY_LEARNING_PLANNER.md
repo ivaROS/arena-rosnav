@@ -4,6 +4,10 @@ This implements a deliberately enabled, bounded motion test for RTO in Flatland.
 It does not navigate to a goal. No existing planner, robot model, or shared C++
 implementation was changed.
 
+The later, separate `cfm_mppi` integration is documented in
+[CFM_MPPI_BRIDGE.md](CFM_MPPI_BRIDGE.md). This document records the dummy baseline;
+check `configs/benchmark/config.yaml` for the currently selected contestant.
+
 ## Launch and enable
 
 Source the workspace in each terminal:

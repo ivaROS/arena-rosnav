@@ -1,0 +1,4 @@
+contestants:
+  - name: cfm_mppi
+    local_planner: cfm_mppi
+    inter_planner: bypass

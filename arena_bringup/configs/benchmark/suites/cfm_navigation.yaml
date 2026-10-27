@@ -1,0 +1,12 @@
+stages:
+  - name: cfm_navigation
+    episodes: 3
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 300
+    config:
+      goal_radius: 0.05
+      SCENARIO:
+        file: cfm_navigation.json

@@ -1,0 +1,13 @@
+stages:
+  - name: cfm_speed
+    episodes: 10
+    robot: rto
+    map: map_empty
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 600
+    config:
+      # Keep Arena from teleporting before the CFM stopping measurement.
+      goal_radius: 0.0
+      SCENARIO:
+        file: cfm_speed.json

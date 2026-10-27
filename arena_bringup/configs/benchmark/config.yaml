@@ -1,8 +1,8 @@
 suite:
-  config: dummy_motion.yaml # CS6_interrupting.yaml
+  config: comprehensive.yaml # CS6_interrupting.yaml
 
 contest:
-  config: dummy_learning_planner.yaml # basic.yaml
+  config: cfm_mppi_obstacles.yaml # basic.yaml
 
 general:
   simulator: flatland

@@ -55,6 +55,9 @@
   <exec_depend>nav_msgs</exec_depend>
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>std_srvs</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>pedsim_msgs</exec_depend>
 
   <depend>mbf_costmap_nav</depend>
   <depend>navigation</depend>
