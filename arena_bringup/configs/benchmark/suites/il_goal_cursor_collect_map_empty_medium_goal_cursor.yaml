@@ -1,0 +1,30 @@
+stages:
+- name: map_empty_medium_goal_cursor
+  episodes: 30
+  robot: rto
+  map: map_empty_medium
+  tm_robots: random
+  tm_obstacles: random
+  timeout: 90
+  config:
+    RANDOM:
+      static:
+        min: 5
+        max: 12
+        models:
+        - shelf
+        - long_shelf
+        - table
+        - pallet
+        - office_desk
+        - tree
+      interactive:
+        min: 0
+        max: 0
+        models:
+        - shelf
+      dynamic:
+        min: 0
+        max: 0
+        models:
+        - actor1
