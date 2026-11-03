@@ -3,7 +3,7 @@
 # A tick is a usable expert label when
 #   source == SOURCE_GAP_CURSOR && cursor_live && !in_reset_window
 
-uint16 SCHEMA_VERSION = 3   # 2: dg_pick_idx and per-candidate dg_* costs; 3: per-candidate model_score
+uint16 SCHEMA_VERSION = 4   # 2: dg_pick_idx and per-candidate dg_* costs; 3: per-candidate model_score; 4: edges, candidate scan indices
 
 uint8 SOURCE_NONE          = 0   # no selection this tick (learned mode: the scorer is not loaded)
 uint8 SOURCE_GAP_CURSOR    = 1   # a gap was selected from the cursor
@@ -32,6 +32,7 @@ geometry_msgs/Twist   robot_vel  # robot frame
 geometry_msgs/Point   goal_robot_frame
 geometry_msgs/Point   local_waypoint_robot_frame
 ManualGapCandidate[]  candidates
+ManualGapEdge[]       edges      # every edge of the scene (schema 4)
 bool    ungap_would_apply        # reserved (ungap generation is disabled); always false
 bool    idle_would_apply         # reserved (idling generation is disabled); always false
 

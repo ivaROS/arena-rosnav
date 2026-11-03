@@ -14,6 +14,8 @@ float32 left_theta
 float32 right_range
 float32 right_theta
 float32 bearing                # bearing of the gap centre
+int32   left_scan_idx          # scan ray of the left gap point before manipulation (matches an edge's scan_idx; schema 4)
+int32   right_scan_idx
 
 # gap point estimator states, robot frame, at the gap snapshot stamp
 geometry_msgs/Vector3 left_model_pos
