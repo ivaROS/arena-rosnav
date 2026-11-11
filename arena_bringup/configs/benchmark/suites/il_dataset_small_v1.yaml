@@ -9,97 +9,96 @@
 #
 # Held out (not in this suite): middle_start v3, v5, v7, v9, v10, v11 and smartgap 11
 # repeat the corners from other starts, so keep them for evaluation.
-# TEMPORARY (2026-10-27): only stages 9-14 (smartgap 6, 8; middle_start v2, v4, v6, v8; 16 episodes) are active. Recorded: CS1-CS4 in dgap_26-10-26_23-44-39_il_small_cs1_reopening, CS5, CS6, smartgap 1, 3 in dgap_26-10-26_23-49-19_il_small_cs5_redirecting.
 stages:
   # A: interaction primitives, few pedestrians, short (goal 11-27 m away)
-  # - name: il_small_cs1_reopening
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS1_reopening.json
+  - name: il_small_cs1_reopening
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS1_reopening.json
 
-  # - name: il_small_cs2_overtaking
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS2_overtaking.json
+  - name: il_small_cs2_overtaking
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS2_overtaking.json
 
-  # - name: il_small_cs3_approaching
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS3_approaching.json
+  - name: il_small_cs3_approaching
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS3_approaching.json
 
-  # - name: il_small_cs4_intersection
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS4_intersection.json
+  - name: il_small_cs4_intersection
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS4_intersection.json
 
-  # - name: il_small_cs5_redirecting
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS5_redirecting.json
+  - name: il_small_cs5_redirecting
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS5_redirecting.json
 
-  # - name: il_small_cs6_interrupting
-  #   episodes: 1
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 90
-  #   config:
-  #     SCENARIO:
-  #       file: CS6_interrupting.json
+  - name: il_small_cs6_interrupting
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS6_interrupting.json
 
   # B: 35 pedestrians, different starts and headings, 0 to 12 static obstacles
-  # - name: il_small_sg1_35ped
-  #   episodes: 2
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 120
-  #   config:
-  #     SCENARIO:
-  #       file: smartgap_scenario1.json
+  - name: il_small_sg1_35ped
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario1.json
 
-  # - name: il_small_sg3_35ped
-  #   episodes: 2
-  #   robot: rto
-  #   map: gru_learn
-  #   tm_robots: scenario
-  #   tm_obstacles: scenario
-  #   timeout: 120
-  #   config:
-  #     SCENARIO:
-  #       file: smartgap_scenario3.json
+  - name: il_small_sg3_35ped
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario3.json
 
   - name: il_small_sg6_35ped_static
     episodes: 2

@@ -12,6 +12,7 @@ float32 theta
 # estimator state (Estimator::getState): position, and velocity relative to the robot
 geometry_msgs/Vector3 model_pos
 geometry_msgs/Vector3 model_vel
+float32[16] model_cov          # estimator covariance (x, y, vx, vy), row-major, after the last update; NaN without a model (schema 5)
 
 int32   gap_neighbor           # position in edges[] of the other point of its gap
 int32   obstacle_neighbor      # position in edges[] of the other end of the obstacle it bounds; -1 if none

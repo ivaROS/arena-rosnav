@@ -595,7 +595,12 @@ class Mod_Benchmark(TM_Module):
             # the whole launch, as at the end of a run (the lock file stays: the run is not complete)
             self._suicide()
             return False
-        reseed(task_config.get("RANDOM", {}).get("seed", self._stage_seed()))
+        seed = task_config.get("RANDOM", {}).get("seed", self._stage_seed())
+        reseed(seed)
+        # which stage the next episodes belong to, for the IL recorder's episodes.csv
+        rospy.set_param("/benchmark_stage", self._suite.config(self._suite_index).name)
+        rospy.set_param("/benchmark_stage_index", int(self._suite_index))
+        rospy.set_param("/benchmark_stage_seed", int(seed))
         return True
 
     def _apply_task_config(self, task_config: typing.Dict) -> bool:
