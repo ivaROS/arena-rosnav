@@ -1,0 +1,49 @@
+# Part 3 of il_dataset_small_v1.yaml: stages 9-12 (il_small_sg6_35ped_static, il_small_sg8_35ped_static, il_small_v2_50ped_bottom_right, il_small_v4_50ped_top_right).
+# Stages copied unchanged from that suite, so each keeps its seed (a hash of the
+# stage entry): the four parts together record the same episodes as the full suite.
+# Run: IL_SUITE=il_dataset_small_v1_part3.yaml ~/run_il_dataset.sh <operator>
+stages:
+  - name: il_small_sg6_35ped_static
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario6.json
+
+  - name: il_small_sg8_35ped_static
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario8.json
+
+  # C: 50 pedestrians, start near the middle, one goal per corner
+  - name: il_small_v2_50ped_bottom_right
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v2.json
+
+  - name: il_small_v4_50ped_top_right
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v4.json

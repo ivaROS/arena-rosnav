@@ -1,0 +1,26 @@
+# Part 4 of il_dataset_small_v1.yaml: stages 13-14 (il_small_v6_50ped_bottom_left, il_small_v8_50ped_top_left).
+# Stages copied unchanged from that suite, so each keeps its seed (a hash of the
+# stage entry): the four parts together record the same episodes as the full suite.
+# Run: IL_SUITE=il_dataset_small_v1_part4.yaml ~/run_il_dataset.sh <operator>
+stages:
+  - name: il_small_v6_50ped_bottom_left
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v6.json
+
+  - name: il_small_v8_50ped_top_left
+    episodes: 3
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: 0_50ped_middle_start_v8.json
