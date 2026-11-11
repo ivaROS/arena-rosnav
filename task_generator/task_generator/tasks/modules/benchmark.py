@@ -340,7 +340,7 @@ class Mod_Benchmark(TM_Module):
                 f.write(f"run {self._runid}\n")
                 f.write(f"of contest {self._contest.name} with {len(self._contest.contestants)} contestants\n")
                 f.write(f"on suite {self._suite.name} with {len(self._suite.stages)} stages\n")
-                f.write(f"total of {len(self._contest.contestants) * sum([int(self._config.suite.scale_episodes * self._suite.config(Suite.Index(index)).episodes) for index in range(self._suite.min_index, self._suite.max_index+1)])} episodes\n")
+                f.write(f"total of {len(self._contest.contestants) * sum([self._episode_limit(Suite.Index(index)) for index in range(self._suite.min_index, self._suite.max_index+1)])} episodes\n")
                 f.write("\n")
                 f.write(f"Simulator: {self._config.general.simulator}\n")
                 f.write(f"Base Config: {json.dumps(base_config)}\n")
@@ -402,12 +402,17 @@ class Mod_Benchmark(TM_Module):
     def _log_suite(self):
         self._logger.info(f"\t\tS [{1+self.suite_index:0>{len(str(1+self._suite.max_index))}}/{1+self._suite.max_index}] {self._suite.config(self._suite_index).name}")
 
+    def _episode_limit(self, index) -> int:
+        """Episodes of stage index: the launch argument benchmark_episodes when it is set (> 0),
+        for every stage of the suite, else the stage's episodes (times suite.scale_episodes)."""
+        episode_param = rosparam_get(int, "benchmark_episodes", -1)
+        if episode_param > 0:
+            return episode_param
+        return int(self._suite.config(index).episodes * self._config.suite.scale_episodes)
+
     def _log_episode(self):
         if self._episode < 0: return #pre-init
-        episode_param = rosparam_get(int, "benchmark_episodes", -1)
-        episode_limit = episode_param
-        if (episode_param <= 0):
-            episode_limit = int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes)
+        episode_limit = self._episode_limit(self._suite_index)
         self._logger.info(f"\t\t\tE [{1+self._episode:0>{len(str(episode_limit))}}/{episode_limit}]")
 
     @property
@@ -470,11 +475,7 @@ class Mod_Benchmark(TM_Module):
     
     @_episode.setter
     def _episode(self, episode: int):
-        episode_param = rosparam_get(int, "benchmark_episodes", -1)
-        episode_limit = episode_param
-        if (episode_param <= 0):
-            episode_limit = int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes)
-        if episode >= int(self._suite.config(self._suite_index).episodes * self._config.suite.scale_episodes):
+        if episode >= self._episode_limit(self._suite_index):
             self._episode_index = 0
             self.suite_index += 1
         else:
