@@ -1,0 +1,49 @@
+# Part 1 of il_dataset_small_v1.yaml: stages 1-4 (il_small_cs1_reopening, il_small_cs2_overtaking, il_small_cs3_approaching, il_small_cs4_intersection).
+# Stages copied unchanged from that suite, so each keeps its seed (a hash of the
+# stage entry): the four parts together record the same episodes as the full suite.
+# Run: IL_SUITE=il_dataset_small_v1_part1.yaml ~/run_il_dataset.sh <operator>
+stages:
+  # A: interaction primitives, few pedestrians, short (goal 11-27 m away)
+  - name: il_small_cs1_reopening
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS1_reopening.json
+
+  - name: il_small_cs2_overtaking
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS2_overtaking.json
+
+  - name: il_small_cs3_approaching
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS3_approaching.json
+
+  - name: il_small_cs4_intersection
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS4_intersection.json

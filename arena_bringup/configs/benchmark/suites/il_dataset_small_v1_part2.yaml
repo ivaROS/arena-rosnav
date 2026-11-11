@@ -1,0 +1,49 @@
+# Part 2 of il_dataset_small_v1.yaml: stages 5-8 (il_small_cs5_redirecting, il_small_cs6_interrupting, il_small_sg1_35ped, il_small_sg3_35ped).
+# Stages copied unchanged from that suite, so each keeps its seed (a hash of the
+# stage entry): the four parts together record the same episodes as the full suite.
+# Run: IL_SUITE=il_dataset_small_v1_part2.yaml ~/run_il_dataset.sh <operator>
+stages:
+  - name: il_small_cs5_redirecting
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS5_redirecting.json
+
+  - name: il_small_cs6_interrupting
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 90
+    config:
+      SCENARIO:
+        file: CS6_interrupting.json
+
+  # B: 35 pedestrians, different starts and headings, 0 to 12 static obstacles
+  - name: il_small_sg1_35ped
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario1.json
+
+  - name: il_small_sg3_35ped
+    episodes: 2
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    timeout: 120
+    config:
+      SCENARIO:
+        file: smartgap_scenario3.json
