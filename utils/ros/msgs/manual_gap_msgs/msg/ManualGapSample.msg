@@ -3,7 +3,8 @@
 # A tick is a usable expert label when
 #   source == SOURCE_GAP_CURSOR && cursor_live && !in_reset_window
 
-uint16 SCHEMA_VERSION = 4   # 2: dg_pick_idx and per-candidate dg_* costs; 3: per-candidate model_score; 4: edges, candidate scan indices
+uint16 SCHEMA_VERSION = 5   # 2: dg_pick_idx and per-candidate dg_* costs; 3: per-candidate model_score; 4: edges, candidate scan indices;
+                            # 5: edge covariance, candidates' full path with timing, pose costs and gap tube (per-scan gaps on manual_gap_scan_gaps)
 
 uint8 SOURCE_NONE          = 0   # no selection this tick (learned mode: the scorer is not loaded)
 uint8 SOURCE_GAP_CURSOR    = 1   # a gap was selected from the cursor

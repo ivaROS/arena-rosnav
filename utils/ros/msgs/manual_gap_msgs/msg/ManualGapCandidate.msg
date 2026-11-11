@@ -27,6 +27,8 @@ geometry_msgs/Vector3 right_model_vel
 geometry_msgs/Point   goal_pos         # gap goal the trajectory aims at
 geometry_msgs/Pose    terminal_pose    # last pose of the trajectory; zero if not feasible
 geometry_msgs/Point[] path             # trajectory, downsampled
+geometry_msgs/Pose[]  path_full        # trajectory, every pose (schema 5); empty if not feasible
+float32[] path_time                    # time of each pose of path_full from the tick (s)
 float32 cursor_dist                    # cursor to terminal pose (m); NaN if no cursor or not feasible
 float32 cursor_bearing_diff            # bearing(cursor) - bearing(terminal pose), from the robot (rad); NaN if none
 
@@ -34,6 +36,11 @@ float32 cursor_bearing_diff            # bearing(cursor) - bearing(terminal pose
 float32 dg_cost                        # dg_terminal_cost + dg_clearance_cost; inf if the path has < 2 poses; NaN if not scored
 float32 dg_terminal_cost               # Q_f * distance(terminal pose, local waypoint)
 float32 dg_clearance_cost              # mean pose-wise cost against the propagated scans
+float32[] dg_pose_costs                # pose-wise costs, one per pose of path_full (schema 5)
+
+# the gap tube: the gap as propagated over the planning horizon, one segment per
+# gap in the tube (schema 5)
+ManualGapTubeSegment[] tube
 
 # learned gap scorer (/learned_gap_scorer): its score of this candidate (higher is chosen);
 # NaN if the scorer did not run this tick

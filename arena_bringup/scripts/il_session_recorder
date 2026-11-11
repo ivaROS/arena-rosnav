@@ -10,7 +10,10 @@ Creates <data_root>/il_gap_selection/<session>/ with
     view.rviz         the RViz config used
     notes.txt         operator, instruction given, anything odd (filled in by hand)
     episodes.csv      one row per /scenario_reset_begin and /scenario_reset (with the
-                      task generator's timeout at that time)
+                      task generator's timeout, benchmark stage, scenario file and RNG
+                      seed at that time; a reset row describes the episode it starts)
+    scenarios/        a copy of every scenario file an episode used (robot start and goal,
+                      pedestrians, and static obstacles, which are not in /map)
 and warns when free disk space runs low (rosbag stops quietly on a full disk).
 
 See dynamic_gap/docs/IL_DATA_COLLECTION_PLAN.md, section 1.6.
@@ -66,6 +69,7 @@ def il_topics(namespace):
         ns + "/traj_creation_point",
         ns + "/manual_traj_selection",
         ns + "/manual_gap_sample",
+        ns + "/manual_gap_scan_gaps",
         ns + "/curr_exec_dg_traj",
     ]
 
@@ -203,7 +207,8 @@ class SessionRecorder:
 
         self.episodes_file = os.path.join(self.session_dir, "episodes.csv")
         with open(self.episodes_file, "w", newline="") as f:
-            csv.writer(f).writerow(["event", "episode", "wall_time", "sim_time", "start", "goal", "timeout"])
+            csv.writer(f).writerow(["event", "episode", "wall_time", "sim_time", "start", "goal", "timeout",
+                                    "stage", "stage_index", "scenario_file", "seed"])
 
         topics = il_topics(self.namespace) + list(rospy.get_param("~extra_topics", []))
         # own process group (Ctrl-C in the terminal reaches the recorder, which
@@ -231,12 +236,37 @@ class SessionRecorder:
             except Exception:
                 return ""
 
+        scenario_file = param("/task_generator_server/SCENARIO_file")
+        if event == "reset":
+            self.copy_scenario(scenario_file, param("/map_path"), param("/tm_robots"))
+
         with open(self.episodes_file, "a", newline="") as f:
             csv.writer(f).writerow([
                 event, msg.data, "{:.3f}".format(datetime.datetime.now().timestamp()),
                 "{:.3f}".format(rospy.get_time()),
                 param(ns + "start"), param(ns + "goal"), param("/task_generator_server/timeout"),
+                # set by the benchmark before the reset that starts a stage; empty without one
+                param("/benchmark_stage"), param("/benchmark_stage_index"),
+                scenario_file,
+                # the seed the task generator was reseeded with (benchmark), else its config's
+                param("/benchmark_stage_seed") if param("/benchmark_stage") != "" else param("/task_generator_server/RANDOM_seed"),
             ])
+
+    def copy_scenario(self, scenario_file, map_path, tm_robots):
+        """Copy <world>/scenarios/<scenario_file> into the session once (worlds/<map>/map/map.yaml
+        -> worlds/<map>/scenarios/). Only scenario task modes read it; a missing file is skipped."""
+        if not scenario_file or not map_path or tm_robots != "scenario":
+            return
+        source = os.path.join(os.path.dirname(os.path.dirname(map_path)), "scenarios", scenario_file)
+        target_dir = os.path.join(self.session_dir, "scenarios")
+        target = os.path.join(target_dir, scenario_file)
+        if os.path.exists(target):
+            return
+        try:
+            os.makedirs(target_dir, exist_ok=True)
+            shutil.copy(source, target)
+        except OSError as e:
+            rospy.logwarn("il_session_recorder: scenario file not copied: {}".format(e))
 
     def check_disk(self, *args):
         free_gb = shutil.disk_usage(self.session_dir).free / 1e9

@@ -13,6 +13,8 @@ add_message_files(FILES
   ManualGapCandidate.msg
   ManualGapEdge.msg
   ManualGapSample.msg
+  ManualGapScanGaps.msg
+  ManualGapTubeSegment.msg
 )
 
 generate_messages(DEPENDENCIES
