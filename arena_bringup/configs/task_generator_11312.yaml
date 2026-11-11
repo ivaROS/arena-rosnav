@@ -1,0 +1,25 @@
+PARAMETRIZED:
+  file: default.xml
+RANDOM:
+  dynamic:
+    max: 15
+    min: 3
+    models:
+    - actor1
+  interactive:
+    max: 0
+    min: 0
+    models:
+    - shelf
+  seed: 106754000
+  static:
+    max: 10
+    min: 5
+    models:
+    - shelf
+SCENARIO:
+  file: CS2_overtaking.json
+STAGED:
+  curriculum: default.yaml
+  index: 0
+episodes: -1

@@ -1,0 +1,44 @@
+stages:
+  # - name: hard_headon_scenario_1
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: hard1_headon_gauntlet.json
+
+  # - name: converging_funnel_scenario_2
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: hard2_converging_funnel.json
+
+  # - name: scenario_0
+  #   episodes: 1
+  #   robot: rto
+  #   map: gru_learn
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: waypoint_test.json  
+
+  - name: hard_scenario_1
+    episodes: 1
+    robot: rto
+    map: gru_learn
+    tm_robots: scenario
+    tm_obstacles: scenario
+    config:
+      SCENARIO:
+        file: hard5_mixed.json
+
+
+
+  

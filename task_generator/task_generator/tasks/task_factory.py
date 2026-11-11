@@ -4,12 +4,13 @@ from typing import Dict, List, Type
 import rospy
 from rospkg import RosPack
 
+from task_generator import constants
 from task_generator.constants import Constants
 from task_generator.manager.obstacle_manager import ObstacleManager
 from task_generator.manager.robot_manager import RobotManager
 from task_generator.manager.world_manager import WorldManager
 from task_generator.shared import PositionOrientation, rosparam_get
-from task_generator.tasks import Task
+from task_generator.tasks import Reconfigurable, Task
 from task_generator.tasks.modules import TM_Module
 from task_generator.tasks.obstacles import TM_Obstacles
 from task_generator.tasks.robots import TM_Robots
@@ -150,6 +151,7 @@ class TaskFactory:
 
                 self.__param_tm_obstacles = None
                 self.__param_tm_robots = None
+                self.__synced_config = None
                 self.__modules = [
                     cls.registry_module[module](task=self) for module in modules
                 ]
@@ -170,6 +172,7 @@ class TaskFactory:
                 ), f"TaskMode '{tm_robots}' for robots is not registered!"
                 self.__tm_robots = cls.registry_robots[tm_robots](props=self)
                 self.__param_tm_robots = tm_robots
+                self.__synced_config = None
 
             def set_tm_obstacles(self, tm_obstacles: Constants.TaskMode.TM_Obstacles):
                 """
@@ -183,6 +186,30 @@ class TaskFactory:
                 ), f"TaskMode '{tm_obstacles}' for obstacles is not registered!"
                 self.__tm_obstacles = cls.registry_obstacles[tm_obstacles](props=self)
                 self.__param_tm_obstacles = tm_obstacles
+                self.__synced_config = None
+
+            def _sync_task_config(self):
+                """
+                Give Config (RNG seed, timeout, goal radius) and the task modes the task
+                generator server's current config before robots and obstacles are
+                placed. Their reconfigure callbacks run asynchronously, so a config a
+                module wrote in before_reset (benchmark stage change) may not have
+                reached them yet (IL fix 51).
+                """
+                config = rospy.get_param(Reconfigurable.NODE_CONFIGURATION, None)
+                if not isinstance(config, dict) or config == self.__synced_config:
+                    return
+                try:
+                    constants.reconfigure(config)
+                except Exception as e:
+                    rospy.logerr(f"task config not applied to Config: {e!r}")
+                for tm in (self.__tm_robots, self.__tm_obstacles):
+                    try:
+                        tm.reconfigure(config)
+                    except Exception as e:
+                        # as when the callback fails: the task mode keeps its config
+                        rospy.logerr(f"task config not applied to {type(tm).__name__}: {e!r}")
+                self.__synced_config = config
 
             def _reset_task(self, **kwargs):
                 """
@@ -218,6 +245,12 @@ class TaskFactory:
                     print("reset_task2")
                     for module in self.__modules:
                         module.before_reset()
+                        # the module ended or restarts the run (benchmark shuts the node
+                        # down): run no further modules and place nothing
+                        if rospy.is_shutdown():
+                            return
+
+                    self._sync_task_config()
 
                     print("reset_task3")
                     self.__tm_robots.reset(**kwargs)
@@ -248,7 +281,8 @@ class TaskFactory:
                     raise Exception("reset error!") from e
 
                 finally:
-                    self.__reset_end.publish()
+                    if not rospy.is_shutdown():
+                        self.__reset_end.publish()
 
             def _mutex_reset_task(self, **kwargs):
                 """
@@ -284,7 +318,9 @@ class TaskFactory:
 
                 finally:
                     print("_mutex_reset_task3") 
-                    rospy.set_param(self.PARAM_RESETTING, False)
+                    # a module that ended or restarted the run has stopped the master
+                    if not rospy.is_shutdown():
+                        rospy.set_param(self.PARAM_RESETTING, False)
                     self.__reset_mutex = False
 
             def reset(self, **kwargs):

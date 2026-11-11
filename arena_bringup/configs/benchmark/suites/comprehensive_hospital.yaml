@@ -139,75 +139,75 @@ stages:
   #     SCENARIO:
   #       file: 13.json
 
-  - name: arena_hospital_large_scenario_14
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 14.json
+  # - name: arena_hospital_large_scenario_14
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 14.json
 
-  - name: arena_hospital_large_scenario_15
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 15.json
+  # - name: arena_hospital_large_scenario_15
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 15.json
 
-  - name: arena_hospital_large_scenario_16
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 16.json
+  # - name: arena_hospital_large_scenario_16
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 16.json
 
-  - name: arena_hospital_large_scenario_17
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 17.json
+  # - name: arena_hospital_large_scenario_17
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 17.json
 
-  - name: arena_hospital_large_scenario_18
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 18.json         
+  # - name: arena_hospital_large_scenario_18
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 18.json         
 
-  - name: arena_hospital_large_scenario_19
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 19.json
+  # - name: arena_hospital_large_scenario_19
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 19.json
 
-  - name: arena_hospital_large_scenario_20
-    episodes: 1
-    robot: rto
-    map: arena_hospital_large
-    tm_robots: scenario
-    tm_obstacles: scenario
-    config:
-      SCENARIO:
-        file: 20.json
+  # - name: arena_hospital_large_scenario_20
+  #   episodes: 1
+  #   robot: rto
+  #   map: arena_hospital_large
+  #   tm_robots: scenario
+  #   tm_obstacles: scenario
+  #   config:
+  #     SCENARIO:
+  #       file: 20.json
 
   - name: arena_hospital_large_scenario_21
     episodes: 1
@@ -249,7 +249,7 @@ stages:
       SCENARIO:
         file: 24.json            
 
-  - name: arena_hospital_large_scenario_25
+  - name: arena_hospital_large_scenario_24_repeated
     episodes: 1
     robot: rto
     map: arena_hospital_large

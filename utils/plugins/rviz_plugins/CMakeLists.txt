@@ -8,6 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   rviz
   #multi_map_server
   roscpp
+  manual_gap_msgs
 )
 
 ###################################
@@ -59,7 +60,8 @@ qt5_wrap_cpp(MOC_FILES
   src/task_tool.h
 #  src/probmap_display.h
 #  src/aerialmap_display.h    
-#  src/multi_probmap_display.h      
+#  src/multi_probmap_display.h  
+  src/continuous_gap_selection_tool.h
 )
 
 ## Here we specify the list of source files, including the output of
@@ -71,6 +73,7 @@ set(SOURCE_FILES
 #  src/probmap_display.cpp
 #  src/aerialmap_display.cpp   
 #  src/multi_probmap_display.cpp  
+  src/continuous_gap_selection_tool.cpp
   ${MOC_FILES}
 )
 
@@ -84,7 +87,17 @@ include_directories(
 
 add_library(${PROJECT_NAME} ${SOURCE_FILES})
 
-target_link_libraries(${PROJECT_NAME} ${QT_LIBRARIES})
+target_link_libraries(${PROJECT_NAME} ${QT_LIBRARIES} ${catkin_LIBRARIES})
+add_dependencies(${PROJECT_NAME} ${catkin_EXPORTED_TARGETS})
+
+if(CATKIN_ENABLE_TESTING)
+  catkin_add_gtest(${PROJECT_NAME}_test test/test_cursor_state.cpp)
+  if(TARGET ${PROJECT_NAME}_test)
+    target_include_directories(${PROJECT_NAME}_test PRIVATE src)
+    target_link_libraries(${PROJECT_NAME}_test ${catkin_LIBRARIES})
+    add_dependencies(${PROJECT_NAME}_test ${catkin_EXPORTED_TARGETS})
+  endif()
+endif()
 
 install(TARGETS
   ${PROJECT_NAME}
